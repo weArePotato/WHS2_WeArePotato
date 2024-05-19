@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: apch
+Version: 0.0.6
+Summary: Schubert`s personal toolbox
+Home-page: https://gitlab.com/rfswdp/apch
+Author: Schubert, Raphael
+Author-email: rfswdp@gmail.com
+License: UNKNOWN
+Project-URL: Bug Reports, https://gitlab.com/rfswdp/schubert/-/issues
+Project-URL: Source, https://gitlab.com/rfswdp/schubert/
+Keywords: apch
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3 :: Only
+Requires-Python: >=3.5, <4
+Description-Content-Type: text/markdown
+Provides-Extra: test
+License-File: LICENSE.txt
+
+# Schubert Toolbox
+
+This project intends to be my personal toolbox for solutions of day to day issues.
+
+* `from schubert.itau import dac_calculation` -> Calculate DAC for Itau Invoices
+* `from schubert.febraban import generate_codebar_from_bank_slip_digitable_line` -> Get numeric representation of Codebar from Bank Slip digitable line
+* `from schubert.febraban import generate_codebar_from_utility_slip_digitable_line` -> Get numeric representation of Codebar from Utility Slip digitable line
+

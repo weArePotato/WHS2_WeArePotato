@@ -1,0 +1,17 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+apch.egg-info/PKG-INFO
+apch.egg-info/SOURCES.txt
+apch.egg-info/dependency_links.txt
+apch.egg-info/requires.txt
+apch.egg-info/top_level.txt
+schubert/__init__.py
+schubert/febraban/__init__.py
+schubert/febraban/barcode.py
+schubert/itau/__init__.py
+schubert/itau/dac.py
+tests/__init__.py
+tests/test_simple.py
