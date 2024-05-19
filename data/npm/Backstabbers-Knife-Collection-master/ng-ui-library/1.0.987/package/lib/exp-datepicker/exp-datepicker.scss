@@ -1,0 +1,63 @@
+.exp-datepicker {
+  width: 350px;
+  font-family: 'Open Sans Hebrew', arial, sans-serif;
+
+  .fa {
+    color: #bbb;
+    font-size: 15px;
+    cursor: pointer;
+    line-height: 19px;
+  }
+
+  .months,
+  .years {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  .months {
+    font-size: 20px;
+    padding: 10px 0;
+    color: #d9d9d9;
+    border-bottom: solid 1px #f2f2f2;
+  }
+
+  .months div {
+    -webkit-flex: 1 0 16.6%;
+    -moz-flex: 1 0 16.6%;
+    -ms-flex: 1 0 16.6%;
+    -o-flex: 1 0 16.6%;
+    flex: 1 0 16.6%;
+    padding: 10px 15px;
+    transition: 0.2s;
+  }
+
+  .years {
+    font-size: 24px;
+    padding: 20px 0 10px;
+    color: #bfbfbf;
+  }
+
+  .years div {
+    -webkit-flex: 1 0 22%;
+    -moz-flex: 1 0 22%;
+    -ms-flex: 1 0 22%;
+    -o-flex: 1 0 22%;
+    flex: 1 0 22%;
+    padding: 10px 15px;
+    // transition: 0.2s;
+  }
+
+  .months div:hover,
+  .years div:hover,
+  .months div.show,
+  .years div.show {
+    background: #f2f2f2;
+    color: #25b5c0;
+  }
+}

@@ -1,0 +1,15 @@
+<div class="dialog-trigger"
+  ng-click="vm.toggle();$event.stopPropagation()"
+  ng-transclude></div>
+<div class="dialog {{vm.isShown || !vm.hideMethod ? '' : 'is-hide'}}"
+  ng-click="vm.clickOnElement();$event.stopPropagation()"
+  ng-if="vm.isShown || vm.hideMethod">
+  <div class="dialog-arrow"></div>
+  <div class="dialog-wrap">
+    <span ng-if="vm.closeIcon"
+      ng-click="vm.hide()"
+      class="ion-ios-close-empty"></span>
+    <div>{{text}}</div>
+    <div ng-transclude="dialogContent"></div>
+  </div>
+</div>

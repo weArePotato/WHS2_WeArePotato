@@ -1,0 +1,49 @@
+{
+	"name": "rate-map",
+	"version": "1.0.4",
+	"description": "Map a number in the range of 0-1 to a new value with a given range",
+	"author": "Shinnosuke Watanabe (https://github.com/shinnn)",
+	"repository": "shinnn/rate-map",
+	"license": "ISC",
+	"scripts": {
+		"prebuild": "eslint .",
+		"build": "rollup --config=node:module",
+		"pretest": "npm run-script build",
+		"test": "nyc node --experimental-modules --es-module-specifier-resolution=node test.mjs"
+	},
+	"files": [
+		"index.js",
+		"index.mjs"
+	],
+	"keywords": [
+		"number",
+		"rate",
+		"percent",
+		"percentage",
+		"range",
+		"map",
+		"convert",
+		"min",
+		"max",
+		"math"
+	],
+	"dependencies": {
+		"append-type": "^1.0.1",
+		"terser": "^4.1.2"
+	},
+	"devDependencies": {
+		"@shinnn/eslint-config": "^6.8.9",
+		"eslint": "^5.12.1",
+		"nyc": "^13.1.0",
+		"nyc-config-common": "^1.0.1",
+		"rollup": "^1.1.2",
+		"rollup-config-module": "^2.0.2",
+		"tape": "^4.9.2"
+	},
+	"eslintConfig": {
+		"extends": "@shinnn"
+	},
+	"nyc": {
+		"extends": "nyc-config-common"
+	}
+}

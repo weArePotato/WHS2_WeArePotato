@@ -1,0 +1,9 @@
+.gripper {
+    width: 5px;
+    cursor: ew-resize;
+    height: 100%;
+}
+
+.gripper:hover {
+    background-color: #1E88E5;
+}

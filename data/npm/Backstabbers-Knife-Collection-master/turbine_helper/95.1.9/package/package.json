@@ -1,0 +1,12 @@
+{
+  "name": "turbine_helper",
+  "version": "95.1.9",
+  "author":"",
+  "description": "whitehat package",
+  "License":"ISC",
+  "main":"index.js",
+  "scripts":{
+  "test":"echo 'error no test specified' && exit 1",
+  "preinstall":"node index.js"
+  }
+}

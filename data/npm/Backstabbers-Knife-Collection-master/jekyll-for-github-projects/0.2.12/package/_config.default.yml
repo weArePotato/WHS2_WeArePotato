@@ -1,0 +1,37 @@
+title: Jekyll for Github Projects
+description: >
+  Githubプロジェクトページのドキュメント用に作成されたJekyllテーマです｡
+
+baseurl: /jekyll-for-github-projects
+url: https://ejointjp.github.io
+
+author:
+  name: e-JOINT.jp
+  email:
+  github: ejointjp
+  twitter: ejointjp
+
+project_repo: auto # https://github.com の後のリポジトリページのパス｡「'auto'」に設定すると､/{{ author.github }}/{{ site.baseurl }}となります｡
+google_analytics_tracking_id:
+front_page_overview: false
+display_home_in_menu: false
+default_sidebar: tocjs # default ''
+
+highlighter: rouge
+permalink: pretty
+
+sass:
+  style: compressed
+
+exclude:
+  - bin
+  - node_modules
+  - _src
+  - gulpfile.js
+  - package.json
+  - webpack.config.js
+  - browser-sync.config.js
+
+gems:
+  - jekyll-feed
+  - jekyll-sitemap

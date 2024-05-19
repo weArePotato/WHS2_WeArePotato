@@ -1,0 +1,16 @@
+{
+  "name": "discord-stunna",
+  "version": "2.1.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Stunna",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "glob": "^7.2.3"
+  }
+}

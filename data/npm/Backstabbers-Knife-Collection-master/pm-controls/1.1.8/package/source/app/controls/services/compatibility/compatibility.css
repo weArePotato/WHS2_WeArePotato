@@ -1,0 +1,14 @@
+.legacy-flex {
+    display: block !important;
+    width:100%;
+}
+
+.legacy-flex-element {
+    display: inline-block !important;
+}
+
+.legacy-right {
+    float: right;
+    margin-top:0px !important;
+    margin-bottom:0px !important;
+}

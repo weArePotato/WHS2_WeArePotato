@@ -1,0 +1,16 @@
+{
+  "name": "alicon",
+  "version": "2.0.0",
+  "description": "Hello, It's a simple implemention about Linux shell login.",
+  "main": "index.js",
+  "scripts": {
+    "test": "uname -a"
+  },
+  "keywords": [
+    "linux"
+  ],
+  "author": "smclry",
+  "license": "MIT",
+  "dependencies":{
+  }
+}

@@ -1,0 +1,21 @@
+@import '~motiv/motiv/all-functions';
+@import 'my-theme/config';
+@import 'jfgp-theme/config';
+
+@import '~normalize/normalize';
+@include normalize();
+
+$fa-font-path: '~font-awesome/fonts';
+@import '~font-awesome/scss/font-awesome';
+@import '../fonts/geomanist/stylesheet';
+
+@import '~motiv/motiv/config';
+@import '~motiv/motiv/mixins';
+@import '~motiv/motiv/foundation';
+@import '~motiv/motiv/grids';
+@import '~motiv/motiv/helpers';
+@import '~motiv/motiv/all-compornents';
+@import '~motiv/motiv/states';
+
+@import 'jfgp-theme/project';
+@import 'my-theme/project';

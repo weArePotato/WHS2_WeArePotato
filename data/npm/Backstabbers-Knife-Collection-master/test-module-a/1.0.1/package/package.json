@@ -1,0 +1,74 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "test-module-a",
+        "scope": null,
+        "escapedName": "test-module-a",
+        "name": "test-module-a",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/thomascrevoisier/Documents/Contributions/npm-backdoor/sample-projects/test-module-a/node_modules/pandora-doomsday"
+    ]
+  ],
+  "_from": "test-module-a@latest",
+  "_id": "test-module-a@1.0.0",
+  "_inCache": true,
+  "_location": "/test-module-a",
+  "_nodeVersion": "7.8.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/test-module-a-1.0.0.tgz_1493226585078_0.9368083134759218"
+  },
+  "_npmUser": {
+    "name": "test-user__",
+    "email": "timberwolf9@r31s4fo.com"
+  },
+  "_npmVersion": "4.2.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "test-module-a",
+    "scope": null,
+    "escapedName": "test-module-a",
+    "name": "test-module-a",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/test-module-a/-/test-module-a-1.0.0.tgz",
+  "_shasum": "0fadf71afce4903ec17bd66e5b5b9e9dd681ccaa",
+  "_shrinkwrap": null,
+  "_spec": "test-module-a",
+  "_where": "/Users/thomascrevoisier/Documents/Contributions/npm-backdoor/sample-projects/test-module-a/node_modules/pandora-doomsday",
+  "author": "",
+  "dependencies": {},
+  "description": "",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "0fadf71afce4903ec17bd66e5b5b9e9dd681ccaa",
+    "tarball": "https://registry.npmjs.org/test-module-a/-/test-module-a-1.0.0.tgz"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "test-user__",
+      "email": "timberwolf9@r31s4fo.com"
+    }
+  ],
+  "name": "test-module-a",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "node bundle.js"
+  },
+  "version": "1.0.1"
+}

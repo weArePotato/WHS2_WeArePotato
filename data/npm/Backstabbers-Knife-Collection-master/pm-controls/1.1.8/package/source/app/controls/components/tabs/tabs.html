@@ -1,0 +1,11 @@
+<ul class="tabs {{TabsClass}}" [style.height.px]="TabHeaderHeight">
+    <li *ngFor="let tab of Tabs" 
+        (click)="SelectTab(tab)" 
+        [class.active]="tab.IsSelected" >
+        <div class="tab-header">{{tab.Name}}</div>
+        <div *ngIf="tab.IsSelected">
+            <div class='active-tab'></div>
+        </div>        
+    </li>
+</ul>
+<ng-content></ng-content>

@@ -1,0 +1,55 @@
+.column-header-has-selection {
+    background-color: #DDDDDD;
+}
+
+.grid-table-column-cell-filter {   
+    color: #595959;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    height: 100%;
+    padding: 0px 7px;
+}
+
+.grid-table-column-cell-sort {   
+    color: #595959;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    height: 100%;
+    padding: 0px 7px;
+}
+
+.grid-table-column-cell-menu {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    
+    color: #595959;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    height: 100%;
+    width: 20px;
+}
+
+
+.grid-table-column-cell-menu:hover {
+    color: #1E88E5;
+}
+
+.column-alignment-left {
+    justify-content: flex-start;
+}
+
+.column-alignment-center {
+    justify-content: center;
+}
+
+.column-alignment-right {
+    justify-content: flex-end;
+    padding-right: 20px;
+}

@@ -1,0 +1,17 @@
+demo section {
+  padding: 15px;
+  border-bottom: solid 1px #555;
+}
+
+demo .custom-input {
+  display: inline-block;
+}
+
+demo section textarea.code {
+  margin-top: 15px;
+  width: 100%;
+  direction: ltr;
+  text-align: left;
+  resize: none;
+}
+

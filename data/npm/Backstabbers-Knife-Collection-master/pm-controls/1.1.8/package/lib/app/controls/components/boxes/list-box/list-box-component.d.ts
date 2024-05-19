@@ -1,0 +1,37 @@
+import { ChangeDetectorRef, OnInit, EventEmitter, TemplateRef, SimpleChanges } from '@angular/core';
+import { VirtualPanelComponent } from '../../panels/virtual-panel/virtual-panel-component';
+export declare class ListBoxComponent implements OnInit {
+    changeDetectorRef: ChangeDetectorRef;
+    constructor(changeDetectorRef: ChangeDetectorRef);
+    ListBoxClass: string;
+    ListBoxItemClass: string;
+    LastListBoxItemClass: string;
+    ListBoxSelectedItemClass: string;
+    ListBoxItemBackgroundClass: string;
+    ListBoxBorderClass: string;
+    ItemHeight: number;
+    ControlHeight: any;
+    ControlWidth: any;
+    SelectedItem: any;
+    DisplayMemberPath: any;
+    ItemTemplate: TemplateRef<any>;
+    SelectionMode: string;
+    SelectedItemsChange: EventEmitter<any>;
+    SelectedItemChange: EventEmitter<any>;
+    virtualPanel: VirtualPanelComponent;
+    moveItemIntoViewFunc: Function;
+    filteredItemSource: any;
+    private highlightedItem;
+    private itemsSource;
+    ItemsSource: Array<any>;
+    private selectedItems;
+    SelectedItems: Array<any>;
+    ngOnInit(): void;
+    ngOnChanges(changes: SimpleChanges): void;
+    filterItemSource(): void;
+    UpdateSelectedItem(): void;
+    isLastItem(item: any): boolean;
+    getItemDisplay(item: any): string;
+    SelectItem(item: any): void;
+    removeSelectedItem(item: any): void;
+}

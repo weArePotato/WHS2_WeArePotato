@@ -1,0 +1,12 @@
+<input #input
+       [ngModel]="Text"
+       (ngModelChange)="onChange($event)"
+       [class]="TextBoxClass" 
+       placeholder="{{Watermark}}" 
+       autocomplete="off"
+       [readonly]="IsReadOnly"
+       [disabled]="IsDisabled"
+       (keyup)="onKeyUp($event)"
+       (keydown)="onKeyDown($event)"
+       (blur)="onBlur($event)"
+       (focus)="onFocus($event)"/>

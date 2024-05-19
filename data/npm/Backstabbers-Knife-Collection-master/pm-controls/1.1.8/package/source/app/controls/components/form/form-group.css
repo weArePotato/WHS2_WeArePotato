@@ -1,0 +1,25 @@
+.form-group {
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.form-group-label {
+    display: flex;
+}
+
+.has-validation {
+    color: #ab4824;
+    padding-left: 5px;
+    cursor: default;
+}
+
+.range-separator {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.form-horizontal {
+    display: flex;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}

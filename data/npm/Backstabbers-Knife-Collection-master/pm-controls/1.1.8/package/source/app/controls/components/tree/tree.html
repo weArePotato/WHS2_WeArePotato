@@ -1,0 +1,13 @@
+<div class="tree-container">
+    <pm-tree-item [ItemsSource]="ItemsSource"
+                  [ItemTemplate]="ItemTemplate || defaultTemplate"
+                  [DisplayMemberPath]="DisplayMemberPath"
+                  [ChildPath]="ChildPath">
+    </pm-tree-item>
+</div>
+
+
+
+<ng-template #defaultTemplate let-item>
+    <div class="tree-item-template" [innerHTML]="getItemDisplay(item) | highlight : Text"></div>
+</ng-template>

@@ -1,0 +1,19 @@
+@keyframes indeterminate-rotate {
+    0%       { transform: rotate(0deg); }
+    100%     { transform: rotate(360deg); }
+}
+
+.busy-indicator-control {
+  position: relative;
+  display: block;
+  height: 28px;
+  width: 24px;
+}
+
+.busy-indicator-control-container {
+  position: absolute;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+  animation: indeterminate-rotate 1568.63ms linear infinite;
+}

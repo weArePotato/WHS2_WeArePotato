@@ -1,0 +1,18 @@
+<div class="resize-panel-container" 
+    [style.flex-direction]="flexDirection()"
+    [style.height]="Height"
+    #container>
+        <div class="resize-panel-item-container" >
+            <ng-content select="[resize-item-1]"></ng-content>
+        </div> 
+        <pm-thumb [ItemOrientation]="Orientation" 
+                  [FirstElementFlexGrow]="FirstElementFlexGrow" 
+                  [SecondElementFlexGrow]="SecondElementFlexGrow"
+                  [CustomClass]="CustomThumbClass" 
+                  (DragStart)="logDragStart($event)"
+                  >        
+        </pm-thumb>
+        <div class="resize-panel-item-container" >
+            <ng-content select="[resize-item-2]"></ng-content>
+        </div>
+</div>

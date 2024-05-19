@@ -1,0 +1,25 @@
+<div [style.height]="ControlHeight"
+     [style.width]="ControlWidth"
+     class="list-box-container {{ListBoxClass}} {{ListBoxBorderClass}}">     
+    <pm-virtual-panel
+        #virtualPanel
+        ControlHeight="100%"
+        [ItemsSource]="filteredItemSource"
+        [SelectedItems]="SelectedItems"
+        (ItemSelected)="SelectItem($event)"
+        [ItemHeight]="ItemHeight"
+        [DisplayMemberPath]="DisplayMemberPath"
+        [ItemTemplate]="ItemTemplate || CheckBoxItemTemplate"
+        [ItemSelectedClass]=""
+        [ItemClass]="ListBoxItemClass"
+        [LastItemClass]="LastListBoxItemClass">
+    </pm-virtual-panel>
+</div>
+
+<ng-template #CheckBoxItemTemplate let-item>
+<pm-check-box 
+    class="list-box-item-template ignore-mouse-click"
+     [Label]="item.Name"                      
+     (IsCheckedChange)="IsCheckedChange()"
+     [IsChecked]="IsChecked(item)"></pm-check-box>
+</ng-template>

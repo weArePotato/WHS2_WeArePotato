@@ -1,0 +1,12 @@
+.chart-title {
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    color: rgba(0,0,0,0.87);
+}
+
+.chart-footer {
+    color: rgba(0,0,0,0.54);
+    padding-left: 20px;
+    padding-bottom: 10px;
+}

@@ -1,0 +1,16 @@
+<div class="button-container">
+    <div class="button-area">
+        <button [class]="ButtonClass" 
+                type="button" 
+                (click)="OnClick()"
+                [disabled]="IsDisabled">
+            <ng-content select=".pm-button"></ng-content>
+        </button>
+    </div>
+    <pm-drop-down [IsDropDownOpen]="IsDropDownOpen" 
+                  [class]="DropDownClass" 
+                  [HorizontalAlignment]="HorizontalAlignment"
+                  Padding="0px">
+        <ng-content select=".pm-button-drop-down"></ng-content>
+    </pm-drop-down>    
+</div>

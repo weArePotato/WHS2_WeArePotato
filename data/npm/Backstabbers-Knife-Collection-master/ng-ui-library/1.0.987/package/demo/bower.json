@@ -1,0 +1,9 @@
+{
+  "name": "ng6-starter",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "font-awesome": "4.7.x",
+    "Ionicons": "ionicons#^2.0.1"
+  }
+}

@@ -1,0 +1,21 @@
+<div class="{{ContainerClass}}">
+    <div class="menu-button-area">
+        <button [class.menu-button-open]="IsDropDownOpen" 
+                class="{{ButtonClass}}" 
+                type="button" 
+                (click)="!OpenDropDownOnHover && click()"
+                (mouseenter)="OpenDropDownOnHover && mouseenter()"
+                (mouseleave)="OpenDropDownOnHover && mouseleave()"
+                [disabled]="IsDisabled">
+            <ng-content select=".pm-menu-button-header"></ng-content>
+        </button>
+    
+        <div *ngIf="IsDropDownOpen" class="arrow-up"></div>
+    </div>
+    <pm-drop-down [IsDropDownOpen]="IsDropDownOpen" 
+                  [class]="DropDownClass" 
+                  [HorizontalAlignment]="HorizontalAlignment"
+                  Padding="0px">
+         <ng-content select=".pm-menu-button-drop-down"></ng-content>
+    </pm-drop-down>
+</div>

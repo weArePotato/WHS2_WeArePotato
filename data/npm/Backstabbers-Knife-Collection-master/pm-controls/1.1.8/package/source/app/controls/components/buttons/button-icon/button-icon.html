@@ -1,0 +1,7 @@
+<button class="button-icon {{ButtonClass}}"
+        type="button" 
+        (click)="OnClick()"
+        [disabled]="IsDisabled"
+        [style.max-height]="MaxHeight">
+    <ng-content></ng-content>
+</button>

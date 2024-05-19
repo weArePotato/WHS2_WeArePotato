@@ -1,0 +1,7 @@
+<div class="breadcrumb">
+    <pm-stack-panel>    
+        <div *ngFor="let item of Items; last as IsLast">
+            <pm-button ButtonClass="button-link" (click)="OnLinkClick(item)">{{item.Path}}</pm-button><span class="breadcrumb-divider" *ngIf="!IsLast">/</span>
+        </div>
+    </pm-stack-panel>
+</div>

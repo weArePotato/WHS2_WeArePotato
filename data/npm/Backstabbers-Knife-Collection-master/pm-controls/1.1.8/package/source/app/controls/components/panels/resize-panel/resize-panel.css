@@ -1,0 +1,35 @@
+.resize-panel-container {
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+
+.resize-panel-item-container {
+    overflow: auto;
+    flex-basis: 0px;
+    flex-shrink: 1;
+    height: 100%;
+}
+
+
+.custom-thumb-vertical {
+    width: 10px;
+    background-color: red;
+    height:100%;
+    cursor: ew-resize; 
+    z-index: 1;
+} 
+
+.custom-thumb-vertical:after {
+  content: "\f142"; 
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: inherit;
+  position: relative;
+  font-size: 15px;
+  color: blue;
+  top: 45%;
+  left: 30%; 
+  z-index: 2;
+}

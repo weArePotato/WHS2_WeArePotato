@@ -1,0 +1,66 @@
+.exp-input {
+  display: inline-block;
+
+  label {
+    font-size: 12px;
+    display: block;
+    margin: 0 5px 5px 0;
+    color: #7f7f7f;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
+  }
+
+  .exp-input-container {
+    display: inline-flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    border: solid 1px #d9d9d9;
+    border-radius: 5px;
+    transition: box-shadow 0.2s;
+  }
+
+  .exp-input-container.focus {
+    box-shadow: 1px 0 7px rgba(0, 0, 0, 0.1);
+  }
+
+  .expMonth {
+    flex: 1;
+    margin-right: 10px;
+  }
+
+  .expYear {
+    flex: 1;
+    margin-left: 10px;
+  }
+
+  input {
+    display: block;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 15px;
+    text-align: center;
+    color: #000;
+    outline: none;
+  }
+
+  .slash {
+    font-size: 20px;
+    color: #ccc;
+  }
+
+  .icon {
+    width: 35px;
+    color: #bbb;
+    text-align: center;
+    font-size: 15px;
+    cursor: pointer;
+
+    &:hover {
+      color: #777;
+    }
+  }
+}

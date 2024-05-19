@@ -1,0 +1,119 @@
+{
+  "_from": "ng-ui-library",
+  "_id": "ng-ui-library@1.0.986",
+  "_inBundle": false,
+  "_integrity": "sha512-APMD/QZhatXHjh3LaZV6OEFH+AfyTlGpgHKGeeID4NhrN0CI/Cthqfydzgapg9hQ3+xAvmQ2sepQRqmxOkskkg==",
+  "_location": "/ng-ui-library",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "ng-ui-library",
+    "name": "ng-ui-library",
+    "escapedName": "ng-ui-library",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ng-ui-library/-/ng-ui-library-1.0.986.tgz",
+  "_shasum": "9cbc3a3129a4ea96758791ab30948ae9165552f9",
+  "_spec": "ng-ui-library",
+  "_where": "C:\\npmjs\\NPMInstaller\\node\\zvizving-ui-library",
+  "author": {
+    "name": "nbs-it"
+  },
+  "babel": {
+    "plugins": [
+      "transform-runtime"
+    ],
+    "presets": [
+      "es2015",
+      "stage-0"
+    ]
+  },
+  "bugs": {
+    "url": "https://gitlab.com/nbs-it/ng-ui-library/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "angular": "^1.6.6",
+    "angular-animate": "^1.6.6",
+    "angular-sanitize": "^1.6.6",
+    "hebcal": "^2.2.5",
+    "jquery": "^3.2.1",
+    "moment": "^2.21.0"
+  },
+  "deprecated": false,
+  "description": "NBS UI library for angular ng6",
+  "devDependencies": {
+    "angular-mocks": "^1.5.0",
+    "babel-core": "^6.7.7",
+    "babel-loader": "^6.2.4",
+    "babel-plugin-transform-runtime": "^6.7.5",
+    "babel-polyfill": "^6.7.4",
+    "babel-preset-es2015": "^6.6.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-register": "^6.7.2",
+    "babel-runtime": "^6.25.0",
+    "babel-transform-dir": "^1.0.5",
+    "browser-sync": "^2.18.13",
+    "chai": "^3.4.0",
+    "connect-history-api-fallback": "^1.1.0",
+    "css-loader": "^0.19.0",
+    "del": "^2.2.0",
+    "file-loader": "0.11.2",
+    "fs-walk": "0.0.1",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-template": "^3.0.0",
+    "gulp-util": "^3.0.7",
+    "html-webpack-plugin": "^1.7.0",
+    "karma": "^0.13.22",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-mocha": "^0.2.0",
+    "karma-mocha-reporter": "^1.0.2",
+    "karma-sourcemap-loader": "^0.3.4",
+    "karma-webpack": "^1.5.1",
+    "lodash": "^4.11.1",
+    "mocha": "^2.3.0",
+    "ncp": "^2.0.0",
+    "ng-annotate-loader": "0.0.10",
+    "node-libs-browser": "^0.5.0",
+    "node-sass": "^4.7.2",
+    "raw-loader": "^0.5.1",
+    "run-sequence": "^1.1.0",
+    "sass-loader": "^4.0.2",
+    "style-loader": "^0.12.2",
+    "supports-color": "^3.1.2",
+    "webpack": "^1.13.3",
+    "webpack-dev-middleware": "^1.12.0",
+    "webpack-hot-middleware": "^2.6.0",
+    "yargs": "^3.9.0"
+  },
+  "homepage": "https://gitlab.com/nbs-it/ng-ui-library#README",
+  "license": "ISC",
+  "main": "common.js",
+  "name": "ng-ui-library",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/nbs-it/ng-ui-library.git"
+  },
+  "scripts": {
+    "build": "gulp webpack",
+    "clean": "gulp clean",
+    "component": "gulp component",
+    "directive": "gulp directive",
+    "serve": "gulp serve",
+    "service": "gulp service",
+    "start": "gulp serve",
+    "test": "karma start",
+    "watch": "gulp serve",
+    "webpack": "gulp webpack"
+  },
+  "version": "1.0.987"
+}

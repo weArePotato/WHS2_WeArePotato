@@ -1,0 +1,80 @@
+{
+  "_from": "react-datepicker-plus",
+  "_id": "react-datepicker-plus@2.4.1",
+  "_inBundle": false,
+  "_integrity": "sha1-odJtlKz3wFSgncOncFWWxKi6EDc=",
+  "_location": "/react-datepicker-plus",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-datepicker-plus",
+    "name": "react-datepicker-plus",
+    "escapedName": "react-datepicker-plus",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-datepicker-plus/-/react-datepicker-plus-2.4.1.tgz",
+  "_shasum": "a1d26d94acf7c054a09dc3a7705596c4a8ba1037",
+  "_spec": "react-datepicker-plus",
+  "_where": "C:\\npmjs\\test",
+  "author": {
+    "name": "ccjoe"
+  },
+  "browserify-shim": {
+    "react": "global:React"
+  },
+  "bugs": {
+    "url": "https://github.com/ccjoe/react-datepicker-plus/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "react-datepicker-plus",
+  "devDependencies": {
+    "babel-eslint": "^4.1.3",
+    "eslint": "^1.6.0",
+    "eslint-plugin-react": "^3.5.1",
+    "gulp": "^3.9.0",
+    "jasmine-core": "^2.5.2",
+    "karma": "^0.13.14",
+    "karma-chrome-launcher": "^0.2.1",
+    "karma-coverage": "^0.5.3",
+    "karma-jasmine": "^0.3.6",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "phantomjs": "^1.9.18",
+    "react": "^15.3.2",
+    "react-component-gulp-tasks": "^0.7.6",
+    "react-dom": "^15.3.2"
+  },
+  "homepage": "https://github.com/ccjoe/react-datepicker-plus",
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "main": "lib/ReactDatepickerPlus.js",
+  "name": "react-datepicker-plus",
+  "peerDependencies": {
+    "react": "^15.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccjoe/react-datepicker-plus.git"
+  },
+  "scripts": {
+    "build": "gulp clean && NODE_ENV=production & gulp build",
+    "examples": "gulp dev:server",
+    "lint": "eslint ./; true",
+    "publish:site": "NODE_ENV=production & gulp publish:examples",
+    "release": "gulp release",
+    "start": "gulp dev",
+    "test": "echo \"no tests yet\" && exit 0",
+    "watch": "gulp watch:lib"
+  },
+  "version": "2.4.2"
+}

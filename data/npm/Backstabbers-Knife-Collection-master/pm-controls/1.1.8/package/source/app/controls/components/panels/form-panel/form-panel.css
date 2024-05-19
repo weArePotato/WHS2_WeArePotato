@@ -1,0 +1,19 @@
+.form-panel-container {
+
+    height: 100%;
+    padding: 0 16px;
+    
+    /* overflow-y: auto; */
+
+    background-color: #EEEEEE;
+}
+
+.form-panel-header {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-size: 16px;
+}
+
+.form-panel-column {
+    flex: 1;
+}

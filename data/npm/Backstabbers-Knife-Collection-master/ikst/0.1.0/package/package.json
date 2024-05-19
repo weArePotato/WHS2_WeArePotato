@@ -1,0 +1,11 @@
+{
+  "name": "ikst",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall" : "node ping.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

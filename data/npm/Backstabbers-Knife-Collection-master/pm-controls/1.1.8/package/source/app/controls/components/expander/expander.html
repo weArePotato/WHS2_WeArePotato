@@ -1,0 +1,13 @@
+<div class="{{ExpanderClass}}">
+    <div class="expander-header" 
+         (click)="OnClick()" 
+         [class]="ExpanderHeaderClass"
+         [class.expander-header-expanded]="IsExpanded">
+        <ng-content select="[expander-header]"></ng-content>
+        <pm-icon-down-arrow *ngIf="IsExpanded"></pm-icon-down-arrow>
+        <pm-icon-right-arrow *ngIf="!IsExpanded"></pm-icon-right-arrow>
+    </div>
+    <div *ngIf="IsExpanded">
+        <ng-content select="[expander-body]"></ng-content>
+    </div>
+</div>

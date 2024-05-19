@@ -1,0 +1,9 @@
+<div class="tooltip-border" 
+     *ngIf="ShowTooltip"
+     #tooltipBorder
+     [style.position]="'fixed'"
+     [style.left.px]="Left"
+     [style.top.px]="Top"
+     [style.width.px]="Width">
+     <div #tooltipText class="tooltip-text" >{{Content}}</div>
+</div>

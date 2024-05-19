@@ -1,0 +1,48 @@
+<div class="number-spinner"
+  ng-class="{compact: vm.compact, disabled: vm.disabled}">
+  <a md-prevent-menu-close="md-prevent-menu-close"
+    ng-if="!vm.compact"
+    ng-click="vm.plus()"
+    class="number-spinner-button number-spinner-plus">
+    <i class="ion-ios-plus-empty"></i>
+  </a>
+  <div ng-if="vm.compact"
+    class="number-spinner-compact-controls">
+    <a md-prevent-menu-close="md-prevent-menu-close"
+      ng-click="vm.plus()"
+      class="number-spinner-button number-spinner-plus">
+      <i class="ion-ios-plus-empty"></i>
+    </a>
+    <a md-prevent-menu-close="md-prevent-menu-close"
+      ng-click="vm.minus()"
+      class="number-spinner-button number-spinner-minus">
+      <i class="ion-ios-minus-empty"></i>
+    </a>
+  </div>
+  <div class="number-spinner-number">
+    <span class="number-spinner-number-span"
+      ng-form
+      name="vm.numberSpinnerForm">
+      <input type="text"
+        name="number-spinner"
+        ng-disabled="vm.disabled"
+        id="number-spinner-number-input"
+        maxlength="2"
+        pattern="[1-9]|[1-9][0-9]"
+        ng-model="vm.value"
+        ng-change="vm.change()" />
+    </span>
+    <span class="number-spinner-label">{{vm.label}}</span>
+    <span ng-if="vm.totalValue && vm.value > 1"
+      class="number-spinner-number-total">
+      <span>{{vm.currencyIcon}}</span>
+      <span>{{vm.totalValue/vm.value|currency: ""}} x {{vm.value}}</span>
+    </span>
+  </div>
+  <a md-prevent-menu-close="md-prevent-menu-close"
+    ng-if="!vm.compact"
+    ng-click="vm.minus()"
+    class="number-spinner-button number-spinner-minus">
+    <i class="ion-ios-minus-empty"></i>
+  </a>
+</div>

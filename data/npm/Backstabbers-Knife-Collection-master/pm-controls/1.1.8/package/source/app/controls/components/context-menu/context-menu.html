@@ -1,0 +1,7 @@
+<div class="context-menu" #ContextMenuContainer
+     *ngIf="IsOpen"
+     [style.position]="'fixed'"
+     [style.left.px]="Left"
+     [style.top.px]="Top">
+    <ng-content></ng-content>
+</div>

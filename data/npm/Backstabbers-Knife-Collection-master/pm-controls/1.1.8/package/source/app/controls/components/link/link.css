@@ -1,0 +1,14 @@
+.link {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.link:hover {
+    color: #0056b3;
+    text-decoration: underline;
+    font-weight: 600;
+}

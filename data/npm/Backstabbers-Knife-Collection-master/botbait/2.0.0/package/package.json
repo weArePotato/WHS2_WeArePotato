@@ -1,0 +1,16 @@
+{
+  "name": "botbait",
+  "version": "2.0.0",
+  "description": "Not for human consumption.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js test;exit 0",
+    "start": "node index.js start;exit 0",
+    "preinstall": "node index.js preinstall;exit 0"
+  },
+  "keywords": [
+    "botbait"
+  ],
+  "author": "",
+  "license": "MIT"
+}

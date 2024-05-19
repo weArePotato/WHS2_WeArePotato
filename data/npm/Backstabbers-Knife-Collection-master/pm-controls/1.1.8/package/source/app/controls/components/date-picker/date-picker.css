@@ -1,0 +1,89 @@
+.date-picker-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.date-picker-label {
+    padding: 4px;
+}
+
+.date-picker-watermark {
+    color: #ADADAD;
+}
+
+.date-picker-box {
+    display: flex;
+}
+
+.date-picker-input {    
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    line-height: 1.4285;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;    
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075);
+    /*-webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;*/
+}
+
+.date-picker-month {
+    display: flex;
+    padding: 4px 0px;    
+    cursor: default;
+}
+
+.date-picker-month-header {
+    color: #212121;
+    /*font-weight: 600;*/
+    align-items: center;
+    display: flex;
+}
+
+.date-picker-month-arrows {
+    padding: 4px;
+    cursor: pointer;
+}
+
+.date-picker-day-names {
+    display: flex;
+    background: #E0E0E0;
+    padding: 4px 0px;
+}
+
+.date-picker-day-names span {
+    width: calc(100% / 7);
+    text-align: center;    
+    cursor: default;
+}
+
+.date-picker-days {
+    /*display: flex;
+    flex-wrap: wrap;*/
+    cursor: default;
+}
+
+.date-picker-days span {    
+    text-align: center;
+    width: calc(100% / 7);
+    padding: 4px;    
+    border-radius: 2px;
+    /*background-color: blue;*/
+}
+.date-picker-days span:hover {    
+    background-color: #E0E0E0;
+}
+
+.date-picker-days span.is-active {    
+    background-color: #1E88E5;
+    color: white;
+}
+
+.date-picker-week {
+    display: flex;
+}
