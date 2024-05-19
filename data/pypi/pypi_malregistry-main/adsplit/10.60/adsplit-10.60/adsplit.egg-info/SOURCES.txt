@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+adsplit.egg-info/PKG-INFO
+adsplit.egg-info/SOURCES.txt
+adsplit.egg-info/dependency_links.txt
+adsplit.egg-info/top_level.txt
