@@ -1,0 +1,8 @@
+pyproject.toml
+setup.cfg
+setup.py
+aidoc_consul.egg-info/PKG-INFO
+aidoc_consul.egg-info/SOURCES.txt
+aidoc_consul.egg-info/dependency_links.txt
+aidoc_consul.egg-info/entry_points.txt
+aidoc_consul.egg-info/top_level.txt

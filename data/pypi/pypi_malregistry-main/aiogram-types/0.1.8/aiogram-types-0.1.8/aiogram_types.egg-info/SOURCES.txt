@@ -1,0 +1,9 @@
+README.rst
+setup.cfg
+setup.py
+aiogram-types/__init__.py
+aiogram_types.egg-info/PKG-INFO
+aiogram_types.egg-info/SOURCES.txt
+aiogram_types.egg-info/dependency_links.txt
+aiogram_types.egg-info/requires.txt
+aiogram_types.egg-info/top_level.txt

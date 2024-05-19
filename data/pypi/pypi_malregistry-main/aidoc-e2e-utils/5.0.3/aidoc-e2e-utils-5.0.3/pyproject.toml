@@ -1,0 +1,28 @@
+# pyproject.toml
+
+[build-system]
+requires      = ["setuptools>=41.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aidoc-e2e-utils"
+version = "5.0.3"
+description = "Aidoc test package"
+readme = "README.md"
+authors = [{ name = "El1", email = "info@realpython.com" }]
+license = { file = "LICENSE" }
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+keywords = []
+dependencies = []
+requires-python = ">=2.0"
+
+[project.optional-dependencies]
+
+[project.urls]
+
+[project.scripts]
+realpython = "aidoc.__main__:main"
