@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: 1inch
+Version: 8.7
+Summary: Official 1inch Python API Wrapper
+Author: metamask
+Author-email: <team@metamask.io>
+License: Eclipse Public License 2.0
+Keywords: crypto,eth,ethereum,metamask,wallet,bitcoin
+
+Documentation: https://github.com/metamask/1inch
+Or, run "pip install 1inch && 1inch docs"
