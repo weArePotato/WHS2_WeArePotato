@@ -1,5 +1,0 @@
-setup.py
-airduq.egg-info/PKG-INFO
-airduq.egg-info/SOURCES.txt
-airduq.egg-info/dependency_links.txt
-airduq.egg-info/top_level.txt

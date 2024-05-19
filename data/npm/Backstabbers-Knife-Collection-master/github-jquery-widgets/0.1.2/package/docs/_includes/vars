@@ -1,3 +1,0 @@
-{% capture BASEURL %}{{ site.url }}{% endcapture %}
-{% capture ASSETDIR %}{{ site.url }}/assets{% endcapture %}
-{% capture IMGDIR %}{{ site.url }}/images{% endcapture %}

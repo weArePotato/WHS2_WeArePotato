@@ -1,5 +1,0 @@
-setup.py
-Ailyboostbot.egg-info/PKG-INFO
-Ailyboostbot.egg-info/SOURCES.txt
-Ailyboostbot.egg-info/dependency_links.txt
-Ailyboostbot.egg-info/top_level.txt
