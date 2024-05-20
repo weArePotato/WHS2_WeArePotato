@@ -1,0 +1,11 @@
+<script type="text/x-handlebars-template">
+
+    <a href="https://github.com/{{default login username}}" target="{{ default target "_blank"}}" class="{{default class "btn btn-xs btn-primary"}}"  {{attributes}} >
+        {{#if avatar}}<img src="{{avatar}}">{{/if}}
+        {{#if icon}}
+            <i class='fa fa-user'></i>
+        {{/if}}
+        {{default login username}}
+    </a>
+</script>
+

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfverrand.egg-info/PKG-INFO
+selfverrand.egg-info/SOURCES.txt
+selfverrand.egg-info/dependency_links.txt
+selfverrand.egg-info/top_level.txt

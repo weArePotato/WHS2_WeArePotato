@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpcandyreed.egg-info/PKG-INFO
+tpcandyreed.egg-info/SOURCES.txt
+tpcandyreed.egg-info/dependency_links.txt
+tpcandyreed.egg-info/top_level.txt

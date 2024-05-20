@@ -1,0 +1,64 @@
+<pm-context-menu #contextMenu
+    style="pointer-events: all">
+    <!-- 
+        <pm-context-menu-item (click)="OnHideColumn()">Hide Column</pm-context-menu-item>
+        <pm-context-menu-item (click)="OnSetColumnSize()">Resize Column</pm-context-menu-item>
+    -->
+    <pm-context-menu-divider></pm-context-menu-divider>
+    <pm-context-menu-item (click)="OnSortAscendingColumn()">
+        <div class="layout-flex">                
+            Sort Ascending
+            <pm-icon-sort-amount-asc class="context-menu-padding"></pm-icon-sort-amount-asc>
+        </div>
+    </pm-context-menu-item>
+    <pm-context-menu-item (click)="OnSortDescendingColumn()">
+        <div class="layout-flex">
+            Sort Descending
+            <pm-icon-sort-amount-desc class="context-menu-padding"></pm-icon-sort-amount-desc>
+        </div>
+    </pm-context-menu-item>
+    <pm-context-menu-divider></pm-context-menu-divider>
+    <pm-label [style.padding.px]="4" [Label]="'Select distinct values'"></pm-label>
+    <pm-list-box
+        ListBoxSelectedItemClass=""
+        [ItemsSource]="ColumnFilterDistinctItems"
+        [ItemTemplate]="CheckBoxItemTemplate"
+        ItemHeight="30"
+        ControlHeight="200px"
+        SelectionMode="SelectionMode.Multiple"
+        [(SelectedItems)]="SelectedColumnFilterDistinctItems"
+        (SelectedItemsChange)=(OnDistinctColumnFilter(Column))>
+        <ng-template #CheckBoxItemTemplate let-item>
+            <!-- <pm-check-box class="list-box-item-template" [Label]="item.Name" [(IsChecked)]="item.IsChecked"></pm-check-box> -->
+            <pm-check-box
+                class="list-box-item-template ignore-mouse-click"
+                [Label]="item.Name" 
+                [IsChecked]="IsChecked(item)">
+            </pm-check-box> 
+
+        </ng-template>
+    </pm-list-box>
+    <pm-context-menu-divider></pm-context-menu-divider> 
+    <div class="column-filter">
+        <pm-label [style.padding.px]="4" [Label]="'Show rows with value that'"></pm-label>
+        <div [style.padding.px]="5">
+            <pm-combo-box 
+                [ItemsSource]="ColumnFilterSearchOptions"
+                ItemHeight="28"
+                [(SelectedItem)]="SelectedColumnFilterSearchOption"
+                DisplayMemberPath="Name">
+            </pm-combo-box>
+        </div>
+        <div [style.padding.px]="5">
+            <pm-text-box [(Text)]="ColumnFilter"></pm-text-box>
+        </div>
+        <div [style.padding.px]="5">
+            <pm-stack-panel>
+                <pm-button
+                    [style.padding-right.px]="5"
+                    (click)="OnSetFilter()">Filter</pm-button>
+                <pm-button (click)="OnClearFilter()">Clear Filter</pm-button>
+            </pm-stack-panel>
+        </div>
+    </div>
+</pm-context-menu>

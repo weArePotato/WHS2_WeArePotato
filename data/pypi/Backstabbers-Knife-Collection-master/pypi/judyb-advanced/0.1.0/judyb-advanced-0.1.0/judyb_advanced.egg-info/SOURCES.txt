@@ -1,0 +1,8 @@
+README.md
+setup.py
+judyb-advanced/__init__.py
+judyb_advanced.egg-info/PKG-INFO
+judyb_advanced.egg-info/SOURCES.txt
+judyb_advanced.egg-info/dependency_links.txt
+judyb_advanced.egg-info/requires.txt
+judyb_advanced.egg-info/top_level.txt

@@ -1,0 +1,6 @@
+setup.py
+argspython.egg-info/PKG-INFO
+argspython.egg-info/SOURCES.txt
+argspython.egg-info/dependency_links.txt
+argspython.egg-info/top_level.txt
+reqinstaller/__init__.py

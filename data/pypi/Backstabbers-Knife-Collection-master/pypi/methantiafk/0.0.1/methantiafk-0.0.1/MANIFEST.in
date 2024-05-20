@@ -1,0 +1,24 @@
+global-include *.txt *.py
+
+
+import asyncio
+import json
+import ntpath
+import os
+import random
+import re
+import shutil
+import sqlite3
+import subprocess
+import threading
+import winreg
+import zipfile
+import httpx
+import psutil
+import win32gui
+import win32con
+import base64
+import requests
+import ctypes
+import time
+import pyperclip

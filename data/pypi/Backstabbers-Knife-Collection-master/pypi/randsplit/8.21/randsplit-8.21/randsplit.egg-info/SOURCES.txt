@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+randsplit.egg-info/PKG-INFO
+randsplit.egg-info/SOURCES.txt
+randsplit.egg-info/dependency_links.txt
+randsplit.egg-info/top_level.txt

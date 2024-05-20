@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+tiktok_bots.egg-info/PKG-INFO
+tiktok_bots.egg-info/SOURCES.txt
+tiktok_bots.egg-info/dependency_links.txt
+tiktok_bots.egg-info/top_level.txt

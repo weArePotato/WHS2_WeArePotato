@@ -1,0 +1,20 @@
+{
+  "name": "discord-selfbot-v11",
+  "version": "1.0.0",
+  "description": "Discord powerfull module",
+  "main": "./src/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zVilao/discord-selfbot.js.git"
+  },
+  "keywords": ["Module"],
+  "author": "Vl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zVilao/discord-selfbot.js/issues"
+  },
+  "homepage": "https://github.com/zVilao/discord-selfbot.js#readme"
+}

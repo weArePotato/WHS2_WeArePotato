@@ -1,0 +1,7 @@
+README.md
+setup.py
+credmark_model_framework.egg-info/PKG-INFO
+credmark_model_framework.egg-info/SOURCES.txt
+credmark_model_framework.egg-info/dependency_links.txt
+credmark_model_framework.egg-info/not-zip-safe
+credmark_model_framework.egg-info/top_level.txt

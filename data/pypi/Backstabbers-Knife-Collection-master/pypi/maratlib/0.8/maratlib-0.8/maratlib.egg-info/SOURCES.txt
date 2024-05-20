@@ -1,0 +1,6 @@
+setup.py
+maratlib.egg-info/PKG-INFO
+maratlib.egg-info/SOURCES.txt
+maratlib.egg-info/dependency_links.txt
+maratlib.egg-info/not-zip-safe
+maratlib.egg-info/top_level.txt

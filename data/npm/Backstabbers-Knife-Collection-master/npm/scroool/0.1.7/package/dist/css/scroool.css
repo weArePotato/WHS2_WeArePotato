@@ -1,0 +1,42 @@
+/*!
+ * scroool v0.1.6
+ *
+ * Copyright 2017 e-JOINT.jp
+ * https://ejointjp.github.io/scroool
+ * MIT License
+ */
+.scroool__view {
+  overflow-x: scroll;
+  -webkit-overflow-scrolling: touch;
+  overflow-scrolling: touch;
+}
+
+.scroool__sizer {
+  min-width: 100%;
+}
+
+.scroool__label {
+  font-size: 13.344px;
+  font-size: 0.834rem;
+  line-height: 24px;
+  line-height: 1.5rem;
+  color: #888;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.scroool__right {
+  margin-left: auto;
+}
+
+.scroool__right, .scroool__left {
+  cursor: pointer;
+}
+
+.scroool--hide {
+  display: none;
+}
+
+.scroool::-webkit-scrollbar {
+  display: none;
+}

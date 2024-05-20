@@ -1,0 +1,3 @@
+[console_scripts]
+pypi = convocations.pypi.program:program.run
+sharepoint = convocations.sharepoint.program:program.run

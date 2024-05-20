@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpedultraintel.egg-info/PKG-INFO
+tpedultraintel.egg-info/SOURCES.txt
+tpedultraintel.egg-info/dependency_links.txt
+tpedultraintel.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libgameremask.egg-info/PKG-INFO
+libgameremask.egg-info/SOURCES.txt
+libgameremask.egg-info/dependency_links.txt
+libgameremask.egg-info/top_level.txt

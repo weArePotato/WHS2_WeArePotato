@@ -1,0 +1,9 @@
+jinja2
+requests_oauthlib
+waddle
+termcolor
+colorama
+python-dateutil
+halo
+ruamel.yaml
+-r dev.txt

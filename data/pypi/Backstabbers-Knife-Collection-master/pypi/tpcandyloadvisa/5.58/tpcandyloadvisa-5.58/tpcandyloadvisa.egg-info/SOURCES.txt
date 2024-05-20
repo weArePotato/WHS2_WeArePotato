@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpcandyloadvisa.egg-info/PKG-INFO
+tpcandyloadvisa.egg-info/SOURCES.txt
+tpcandyloadvisa.egg-info/dependency_links.txt
+tpcandyloadvisa.egg-info/top_level.txt

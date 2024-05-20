@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+eautifulsoup4.egg-info/PKG-INFO
+eautifulsoup4.egg-info/SOURCES.txt
+eautifulsoup4.egg-info/dependency_links.txt
+eautifulsoup4.egg-info/top_level.txt

@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+pencv_python.egg-info/PKG-INFO
+pencv_python.egg-info/SOURCES.txt
+pencv_python.egg-info/dependency_links.txt
+pencv_python.egg-info/top_level.txt

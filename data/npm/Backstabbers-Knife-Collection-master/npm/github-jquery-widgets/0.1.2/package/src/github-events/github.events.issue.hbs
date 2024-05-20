@@ -1,0 +1,4 @@
+<script type="text/x-handlebars-template">
+    <a href="https://github.com/{{issue.html_url}}" title="{{issue.title}}" data-github-issue="{{issue.id}}" target="_blank" class="btn btn-xs yellow">Issue {{issue.number}}</a>
+    {{#if createUserLink}}<span class="label label-success">@</span>{{decorator.user issue.user}}{{/if}}
+</script>

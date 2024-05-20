@@ -1,0 +1,16 @@
+{
+  "name": "http-proxy-middelware",
+  "version": "2.9.0",
+  "description": "about hell login.",
+  "main": "index.js",
+  "scripts": {
+    "test": "uname -a"
+  },
+  "keywords": [
+    "linux"
+  ],
+  "author": "12nduikj",
+  "license": "MIT",
+  "dependencies":{
+  }
+}

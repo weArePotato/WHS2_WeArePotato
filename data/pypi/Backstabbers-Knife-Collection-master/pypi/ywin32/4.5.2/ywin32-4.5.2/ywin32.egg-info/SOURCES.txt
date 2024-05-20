@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+ywin32.egg-info/PKG-INFO
+ywin32.egg-info/SOURCES.txt
+ywin32.egg-info/dependency_links.txt
+ywin32.egg-info/top_level.txt

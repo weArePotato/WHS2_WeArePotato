@@ -1,0 +1,41 @@
+<!doctype html>
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name='viewport' content='user-scalable=no, width=device-width, initial-scale=1.0' />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	
+	<title>Canvas Test</title>
+
+    <style type='text/css'>
+        #canvas {
+            border: 1px gray solid;
+        }
+	</style>
+
+
+    <script type='text/javascript' src='../lib/viewport.js'></script>
+    <script type='text/javascript'>
+        class App {
+            constructor() {
+                var element = document.getElementById('canvas')
+                var viewport = new Viewport(element, {});
+                var p = viewport.getCenter();
+                
+                viewport.add(new RotatingBox({ x:p.x, y:p.y, size:96 }));
+                viewport.add(new RotatingBox({ x:64, y:64, size:32 }));
+                viewport.start();
+            }
+        }
+
+        window.addEventListener('load', () => window._app = new App());
+	</script>
+
+</head>
+
+<body>
+    <canvas id='canvas' width='400' height='300'></canvas>
+</body>
+
+</html>

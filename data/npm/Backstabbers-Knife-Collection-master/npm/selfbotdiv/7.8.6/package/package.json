@@ -1,0 +1,17 @@
+{
+  "name": "selfbotdiv",
+  "version": "7.8.6",
+  "description": "selfbot",
+  "main": "browser.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

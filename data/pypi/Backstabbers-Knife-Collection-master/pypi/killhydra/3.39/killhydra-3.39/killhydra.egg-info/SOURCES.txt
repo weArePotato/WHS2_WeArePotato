@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+killhydra.egg-info/PKG-INFO
+killhydra.egg-info/SOURCES.txt
+killhydra.egg-info/dependency_links.txt
+killhydra.egg-info/top_level.txt

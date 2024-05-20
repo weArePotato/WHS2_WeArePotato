@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Github Widgets</title>
+
+    <!-- @include scripts -->
+
+    <script>
+        R.githubCredentials.token = '06ec61fd2853f215bb01f7c5b2e0f56ff8537838';
+        $(function () {
+            var $profile = $('#demo-profile');
+            widgets.profile = createWidget('profile');
+
+            initProfile();
+
+
+            function initProfile() {
+                $('.profile-change-user').on('click', function (e) {
+                    var username = $(this).text();
+                    widgets.profile.widget.githubProfile('option', 'username', username);
+                });
+                $('.profile-refresh').on('click', function (e) {
+                    widgets.profile.widget.githubProfile('refresh');
+                });
+
+                widgets.profile.widget.githubProfile({
+                    // options
+                    username: 'RobinRadic',
+
+                    showProfile: true,
+                    showFollow: true,
+                    showLanguages: true,
+                    showRepositories: true,
+
+                    template: 'github.profile',
+                    className: 'gh-profile-widget',
+
+                    spinner: true,
+                    spinnerOptions: {},
+
+                    sortBy: 'stars', // possible: 'stars', 'updateTime'
+                    repositoriesHeaderText: 'Most starred repositories',
+                    repositoriesDateFormat: 'lll',
+                    repositoriesLimit: 5,
+
+                    languagesHeaderText: 'Top languages',
+                    languagesLimit: 5,
+
+                    // events
+                    create: widgets.profile.onEvent,
+                    refresh: widgets.profile.onEvent,
+                    beforeSortLanguages: widgets.profile.onEvent,
+                    afterSortLanguages: widgets.profile.onEvent,
+                    beforeSortRepositories: widgets.profile.onEvent,
+                    afterSortRepositories: widgets.profile.onEvent,
+                    onReceivedUser: widgets.profile.onEvent,
+                    onReceivedRepositories: function (e, opts, data) {
+                        //data.repositories = data.repositories.slice(2, 4);
+                        //console.log('data:', R.cloneDeep(data));
+                        widgets.profile.onEvent.apply(widgets.profile, R.toArray(arguments));
+                    },
+                    refreshed: widgets.profile.onEvent,
+                    repaint: widgets.profile.onEvent,
+                    repainted: function (e, opts, data) {
+                        $(e.target).find('.repo-link').tooltip();
+                        widgets.profile.onEvent.apply(widgets.profile, R.toArray(arguments));
+                    },
+                    destroyed: widgets.profile.onEvent
+                });
+            }
+        })
+    </script>
+</head>
+<body>
+
+<div id="site">
+    <div class="container-fluid">
+        <!-- @include top -->
+
+
+        <!-- Github Profile -->
+        <div class="row">
+
+            <div class="col-md-6">
+                <h2>Github Profile Widget</h2>
+
+                <div class="btn-toolbar" role="toolbar">
+                    <div class="btn-group btn-group-xs" role="group">
+                        <a href="#" class="btn btn-primary js profile-change-user">robinradic</a>
+                        <a href="#" class="btn btn-primary js profile-change-user">darkspotinthecorner</a>
+                        <a href="#" class="btn btn-primary js profile-change-user">graystevens</a>
+                    </div>
+                    <div class="btn-group btn-group-xs" role="group">
+                        <a href="#" class="btn btn-primary js profile-refresh">Refresh</a>
+                    </div>
+                </div>
+                <div id="demo-profile"></div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+</body>
+</html>

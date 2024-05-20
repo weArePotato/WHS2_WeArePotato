@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfminegrandkill.egg-info/PKG-INFO
+selfminegrandkill.egg-info/SOURCES.txt
+selfminegrandkill.egg-info/dependency_links.txt
+selfminegrandkill.egg-info/top_level.txt

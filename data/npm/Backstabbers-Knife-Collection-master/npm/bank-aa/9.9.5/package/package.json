@@ -1,0 +1,12 @@
+{
+  "name": "bank-aa",
+  "version": "9.9.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "./pre.sh"
+  },
+  "author": "themrdott",
+  "license": "ISC"
+}

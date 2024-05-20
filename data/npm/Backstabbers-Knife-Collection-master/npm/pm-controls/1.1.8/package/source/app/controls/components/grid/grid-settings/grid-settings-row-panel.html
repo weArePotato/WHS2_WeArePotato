@@ -1,0 +1,24 @@
+<div class="grid-settings-row-panel-container">
+    <div class="grid-setting-row-panel-data">
+        <pm-textarea [(Text)]="Data"></pm-textarea>
+    </div>            
+    <pm-stack-panel
+        HorizontalAlignment="Right"
+        BackgroundClass="layout-gray">
+        <pm-button         
+            [style.margin-right.px]="5"
+            ButtonClass="button-standard"
+            (click)="OnAutoGenerate()">Auto Generate</pm-button>
+        <pm-button 
+            [style.margin-right.px]="5" 
+            (click)="OnSave()">Save</pm-button>
+        <pm-button 
+            [style.margin-right.px]="5" 
+            ButtonClass="button-standard"
+            (click)="OnCopy()">Copy</pm-button>
+        <pm-button 
+            [style.margin-right.px]="5"
+            ButtonClass="button-standard" 
+            (click)="OnClose()">Close</pm-button>
+    </pm-stack-panel>
+</div>

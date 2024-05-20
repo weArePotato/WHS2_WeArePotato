@@ -1,0 +1,10 @@
+.row-count-has-selection {
+    background-color: #DDDDDD;
+}
+
+.grid-table-row-count-thumb {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+pywpep.egg-info/PKG-INFO
+pywpep.egg-info/SOURCES.txt
+pywpep.egg-info/dependency_links.txt
+pywpep.egg-info/top_level.txt

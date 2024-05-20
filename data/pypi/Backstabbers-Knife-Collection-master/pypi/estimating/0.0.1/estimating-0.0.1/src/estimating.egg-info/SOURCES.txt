@@ -1,0 +1,13 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+data/data_file
+src/estimating.egg-info/PKG-INFO
+src/estimating.egg-info/SOURCES.txt
+src/estimating.egg-info/dependency_links.txt
+src/estimating.egg-info/entry_points.txt
+src/estimating.egg-info/requires.txt
+src/estimating.egg-info/top_level.txt

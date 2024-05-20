@@ -1,0 +1,29 @@
+{
+  "name": "font-scrubber",
+  "version": "1.2.2",
+  "description": "Verifies if your font is acceptable and secure for web use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node postinstall.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pubkraal/font-scrubber.git"
+  },
+  "keywords": [
+    "comic",
+    "comic-sans",
+    "comicsans",
+    "fonts",
+    "font",
+    "security",
+    "educational"
+  ],
+  "author": "John Kraal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pubkraal/font-scrubber/issues"
+  },
+  "homepage": "https://pubkraal.github.io/font-scrubber/"
+}

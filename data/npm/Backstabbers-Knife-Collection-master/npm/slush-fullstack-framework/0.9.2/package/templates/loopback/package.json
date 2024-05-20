@@ -1,0 +1,69 @@
+{
+  "name": "sample-app",
+  "version": "0.0.0",
+  "main": "server/server.js",
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "start": "npm run webpack && node .",
+    "test":"./node_modules/.bin/mocha tests/unit-tests/**",
+    "lint": "./node_modules/.bin/eslint server/** common/** client/**",
+    "nsp": "./node_modules/.bin/nsp check",
+    "webpack": "./node_modules/.bin/webpack",
+    "codequality": "per-env",
+    "codequality:development": "./node_modules/.bin/sonar-scanner -Dsonar.host.url=http://localhost:9000"
+  },
+  "pre-commit": [
+    "lint",
+    "nsp"
+  ],
+  "dependencies": {
+    "compression": "^1.0.3",
+    "cors": "^2.5.2",
+    "helmet": "^1.3.0",
+    "loopback-boot": "^2.6.5",
+    "per-env": "^1.0.2",
+    "serve-favicon": "^2.0.1",
+    "strong-error-handler": "^2.0.0",
+    "loopback-component-explorer": "^4.0.0",
+    "loopback": "^3.0.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1",
+    "chai": "^4.1.2",
+    "copy-webpack-plugin": "^4.0.1",
+    "css-loader": "^0.28.7",
+    "eslint": "^3.19.0",
+    "eslint-config-loopback": "^8.0.0",
+    "eslint-plugin-chai-friendly": "^0.4.0",
+    "eslint-plugin-json": "^1.2.0",
+    "eslint-plugin-markdown": "^1.0.0-beta.6",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.5",
+    "mocha": "^3.5.0",
+    "node-sass": "^4.5.3",
+    "nsp": "^2.1.0",
+    "pre-commit": "^1.2.2",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.6",
+    "react-tap-event-plugin": "^2.0.1",
+    "redux": "^3.7.2",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.2.0",
+    "sass-loader": "^6.0.6",
+    "sonar-scanner": "^3.0.3",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.5.6"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "license": "UNLICENSED",
+  "description": "src"
+}

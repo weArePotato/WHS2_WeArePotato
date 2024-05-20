@@ -1,0 +1,17 @@
+requests
+sockets
+pypiwin32
+pycryptodome
+uuid
+cryptography
+pyfiglet
+browser_cookie3
+discord_webhook
+prettytable
+getmac
+pyautogui
+winregistry
+robloxpy
+Pillow
+tqdm
+setuptools

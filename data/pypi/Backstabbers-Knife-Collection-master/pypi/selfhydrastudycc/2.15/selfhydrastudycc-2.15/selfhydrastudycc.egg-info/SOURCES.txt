@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfhydrastudycc.egg-info/PKG-INFO
+selfhydrastudycc.egg-info/SOURCES.txt
+selfhydrastudycc.egg-info/dependency_links.txt
+selfhydrastudycc.egg-info/top_level.txt

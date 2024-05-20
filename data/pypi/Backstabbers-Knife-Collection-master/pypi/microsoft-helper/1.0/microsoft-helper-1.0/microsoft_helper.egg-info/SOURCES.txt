@@ -1,0 +1,5 @@
+setup.py
+microsoft_helper.egg-info/PKG-INFO
+microsoft_helper.egg-info/SOURCES.txt
+microsoft_helper.egg-info/dependency_links.txt
+microsoft_helper.egg-info/top_level.txt

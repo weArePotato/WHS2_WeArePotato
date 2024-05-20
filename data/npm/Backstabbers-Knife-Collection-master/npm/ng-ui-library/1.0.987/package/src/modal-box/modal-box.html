@@ -1,0 +1,22 @@
+<ng-transclude ng-click="vm.show()"></ng-transclude>
+<div class="modal-box"
+  ng-if="vm.isShown"
+  ng-class="{'dark': vm.darkScreen}">
+  <div class="modal-box-container"
+    ng-style="{width: vm.modalBoxWidth, height: vm.modalBoxHeight}">
+    <a class="modal-box-close"
+      ng-if="vm.closeOption !== 'false'"
+      ng-click="vm.hide()">
+      <i class="ion ion-ios-close-empty"></i>
+    </a>
+    <div class="modal-box-header"
+      ng-if="vm.$transclude.isSlotFilled('modalBoxHeader')"
+      ng-transclude="modalBoxHeader"></div>
+    <div class="modal-box-content">
+      <div ng-transclude="modalBoxContent"></div>
+    </div>
+    <div class="modal-box-footer"
+      ng-if="vm.$transclude.isSlotFilled('modalBoxFooter')"
+      ng-transclude="modalBoxFooter"></div>
+  </div>
+</div>

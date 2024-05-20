@@ -1,0 +1,16 @@
+{
+  "name": "anarchy",
+  "version": "0.0.4",
+  "description": "Anarchy as a command line tool",
+  "scripts": {
+    "install": "node ./install.js"
+  },
+  "files": [
+    "install.js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "universal-analytics": "^0.3.6"
+  }
+}

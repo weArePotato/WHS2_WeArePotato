@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16237267-4ac3-477e-99c2-15b1a1986e78" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aGNCptKkePLkyIJuXDKqHvHVMm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/script" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/script" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16237267-4ac3-477e-99c2-15b1a1986e78" name="Default Changelist" comment="" />
+      <created>1586357845250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586357845250</updated>
+      <workItem from="1586357846793" duration="14630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="221" y="66" key="SettingsEditor" timestamp="1586403121916">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="221" y="66" key="SettingsEditor/1440.-157.1920.1057/0.23.1440.808@0.23.1440.808" timestamp="1586403121916" />
+    <state x="378" y="184" width="683" height="486" key="find.popup" timestamp="1586410915768">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="378" y="184" width="683" height="486" key="find.popup/1440.-157.1920.1057/0.23.1440.808@0.23.1440.808" timestamp="1586410915768" />
+  </component>
+</project>

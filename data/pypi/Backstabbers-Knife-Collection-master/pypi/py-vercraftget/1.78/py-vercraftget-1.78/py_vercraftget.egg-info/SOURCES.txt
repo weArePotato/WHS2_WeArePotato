@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_vercraftget.egg-info/PKG-INFO
+py_vercraftget.egg-info/SOURCES.txt
+py_vercraftget.egg-info/dependency_links.txt
+py_vercraftget.egg-info/top_level.txt

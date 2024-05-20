@@ -1,0 +1,23 @@
+{
+  "extends": [
+    "eslint:recommended"
+  ],
+  "parserOptions": {
+    "ecmaVersion": 2017,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true,
+      "allowImportExportEverywhere": true,
+      "impliedStrict": true
+    }
+  },
+  "plugins": [
+    "chai-friendly",
+    "html",
+    "react"
+  ],
+  "rules": {
+    "react/jsx-uses-react": "error",
+    "react/jsx-uses-vars": "error",
+  }
+}

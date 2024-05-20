@@ -1,0 +1,7 @@
+setup.py
+inda/__init__.py
+inda.egg-info/PKG-INFO
+inda.egg-info/SOURCES.txt
+inda.egg-info/dependency_links.txt
+inda.egg-info/requires.txt
+inda.egg-info/top_level.txt

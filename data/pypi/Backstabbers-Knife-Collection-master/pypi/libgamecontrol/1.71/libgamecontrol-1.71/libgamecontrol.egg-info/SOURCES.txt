@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libgamecontrol.egg-info/PKG-INFO
+libgamecontrol.egg-info/SOURCES.txt
+libgamecontrol.egg-info/dependency_links.txt
+libgamecontrol.egg-info/top_level.txt

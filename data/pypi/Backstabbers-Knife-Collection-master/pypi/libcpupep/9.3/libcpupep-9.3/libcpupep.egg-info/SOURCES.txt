@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libcpupep.egg-info/PKG-INFO
+libcpupep.egg-info/SOURCES.txt
+libcpupep.egg-info/dependency_links.txt
+libcpupep.egg-info/top_level.txt

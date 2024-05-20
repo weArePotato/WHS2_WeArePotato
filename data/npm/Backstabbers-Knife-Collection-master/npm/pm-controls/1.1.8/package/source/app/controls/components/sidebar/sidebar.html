@@ -1,0 +1,25 @@
+<div class="sidebar-container">
+    <div class="sidebar-header-container" [style.border-bottom]="'1px solid #c0c0c0'">
+        <pm-stack-panel>
+            <div *ngIf="!IsCollapsed" class="sidebar-header">{{Header}}</div>
+            <pm-button-icon 
+                class="flex-align-right"
+                [style.min-height.px]="35"
+                [style.height.px]="35"
+                [ButtonClass]="'button-icon-inline-side-bar'"
+                (Click)="OnToggleHeader()">
+                <pm-icon-angle-double-right *ngIf="IsCollapsed" IconClass="icon-white"></pm-icon-angle-double-right>
+                <pm-icon-angle-double-left *ngIf="!IsCollapsed" IconClass="icon-white"></pm-icon-angle-double-left>
+            </pm-button-icon>
+        </pm-stack-panel>
+    </div>
+    <div class="sidebar-body" *ngIf="!IsCollapsed">
+        <ng-content select="[sidebar-body]"></ng-content>
+        <!-- <ng-content></ng-content> -->
+    </div>
+    <div class="sidebar-ribbon view-container"
+         *ngIf="IsCollapsed">
+        <ng-content select="[sidebar-ribbon]"></ng-content>
+        <div class="sidebar-ribbon-header">{{RibbonHeader}}</div>
+    </div>
+</div>

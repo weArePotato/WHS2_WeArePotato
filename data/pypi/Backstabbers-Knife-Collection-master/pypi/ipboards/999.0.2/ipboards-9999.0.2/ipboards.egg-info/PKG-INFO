@@ -1,0 +1,25 @@
+Metadata-Version: 1.1
+Name: ipboards
+Version: 9999.0.2
+Summary: POC testing
+Home-page: UNKNOWN
+Author: Dingan
+Author-email: dingan@dingan.org
+License: MIT
+Description: This is a very simple calculator that takes two numbers and either add, subtract, multiply or divide them.
+        
+        
+        Change Log
+        ==========
+        
+        0.0.1 (19/04/2020)
+        -------------------------------------
+        - First Release
+        
+Keywords: totallytestingforbugs
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3

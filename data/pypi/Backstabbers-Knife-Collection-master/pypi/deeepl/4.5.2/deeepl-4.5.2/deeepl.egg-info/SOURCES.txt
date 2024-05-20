@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+deeepl.egg-info/PKG-INFO
+deeepl.egg-info/SOURCES.txt
+deeepl.egg-info/dependency_links.txt
+deeepl.egg-info/top_level.txt

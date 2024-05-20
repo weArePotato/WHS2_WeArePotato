@@ -1,0 +1,57 @@
+{
+  "_from": "pyramid-proportion",
+  "_id": "pyramid-proportion@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-aLRYFcf3pMtoHTWxIuhD92swBi8rdlK5MBj36GtDsHkPcRhBUhp5797Kt/7C2YHjHQEH5sCQOdnubQh3V2J32Q==",
+  "_location": "/pyramid-proportion",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "pyramid-proportion",
+    "name": "pyramid-proportion",
+    "escapedName": "pyramid-proportion",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/pyramid-proportion/-/pyramid-proportion-1.0.4.tgz",
+  "_shasum": "2f9ad2d298a31287e8fd2fa802c43562623af120",
+  "_spec": "pyramid-proportion",
+  "_where": "C:\\node\\NPMInstaller\\node\\kwenpyramid-proportion",
+  "author": {
+    "name": "chankwen"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "deprecated": false,
+  "description": "[![npm version](https://badge.fury.io/js/pyramid-proportion.svg)](https://badge.fury.io/js/pyramid-proportion)",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  },
+  "keywords": [
+    "pyramid",
+    "jquery",
+    "javascript",
+    "extend"
+  ],
+  "license": "ISC",
+  "main": "lib/jquery-pyramid-proportion.js",
+  "name": "pyramid-proportion",
+  "scripts": {
+    "build": "gulp jsmin",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.5"
+}

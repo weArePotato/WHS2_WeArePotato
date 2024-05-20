@@ -1,0 +1,6 @@
+pyproject.toml
+xoloxrxcxfywtm/__init__.py
+xoloxrxcxfywtm.egg-info/PKG-INFO
+xoloxrxcxfywtm.egg-info/SOURCES.txt
+xoloxrxcxfywtm.egg-info/dependency_links.txt
+xoloxrxcxfywtm.egg-info/top_level.txt

@@ -1,0 +1,26 @@
+{
+  "name": "discord-colors",
+  "version": "1.0.2",
+  "description": "a css and json file with all of discord's colors",
+  "main": "colors.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ephf/discord-colors.git"
+  },
+  "keywords": [
+    "discord",
+    "colors",
+    "css",
+    "json",
+    "list"
+  ],
+  "author": "ephf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ephf/discord-colors/issues"
+  },
+  "homepage": "https://github.com/ephf/discord-colors#readme"
+}

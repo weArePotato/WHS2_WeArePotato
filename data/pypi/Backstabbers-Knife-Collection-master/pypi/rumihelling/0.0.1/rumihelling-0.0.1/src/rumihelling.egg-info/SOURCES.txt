@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/beautyroot/__init__.py
+src/beautyroot/main.py
+src/rumihelling.egg-info/PKG-INFO
+src/rumihelling.egg-info/SOURCES.txt
+src/rumihelling.egg-info/dependency_links.txt
+src/rumihelling.egg-info/top_level.txt

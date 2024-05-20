@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+mianshutdown.egg-info/PKG-INFO
+mianshutdown.egg-info/SOURCES.txt
+mianshutdown.egg-info/dependency_links.txt
+mianshutdown.egg-info/requires.txt
+mianshutdown.egg-info/top_level.txt

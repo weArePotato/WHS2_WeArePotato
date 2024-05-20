@@ -1,0 +1,7 @@
+README.rst
+setup.py
+timeit.egg-info/PKG-INFO
+timeit.egg-info/SOURCES.txt
+timeit.egg-info/dependency_links.txt
+timeit.egg-info/not-zip-safe
+timeit.egg-info/top_level.txt

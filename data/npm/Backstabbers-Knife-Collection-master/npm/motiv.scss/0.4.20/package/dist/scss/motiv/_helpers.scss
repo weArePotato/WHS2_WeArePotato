@@ -1,0 +1,87 @@
+$align-margin: vr() !default;
+
+
+.alignleft{
+  float: left;
+  margin: {
+    right: $align-margin;
+    bottom: $align-margin * 0.5;
+  }
+}
+
+.aligncenter{
+  display: block;
+  margin: {
+    right: auto;
+    bottom: $align-margin;
+    left: auto;
+  }
+  text-align: center;
+}
+
+.alignright{
+  float: right;
+  margin: {
+    bottom: $align-margin * 0.5;
+    left: $align-margin;
+  }
+}
+
+.circle{
+  @include circle();
+}
+
+.clearfix{
+  @include clearfix();
+}
+
+
+.ex{
+  text-indent: -1em;
+  padding-left: 1em;
+  @include vr-font(sm);
+  color: lighten($font-color, 20%);
+}
+
+//motiv.jsが必要です
+
+.show{
+  display: block !important;
+
+  &--inline{
+    display: inline !important;
+  }
+
+  &--inline-block{
+    display: inline-block !important;
+  }
+}
+
+.hide{
+  display: none !important;
+}
+
+[class$="--mo"],
+[class*="--mo "]{
+  @include margin-optimize();
+}
+
+[data-motiv-label]{
+  position: relative;
+
+  &::before{
+    content: attr(data-motiv-label);
+    display: block;
+    color: #999;
+    font-weight: bold;
+    @include vr-font(sm);
+    text-transform: uppercase;
+    margin-bottom: vr(0.5);
+  }
+}
+
+@each $key, $value in $states {
+  [data-motiv-state="#{$key}"]{
+    @include state($state: $key, $important: true);
+  }
+}

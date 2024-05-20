@@ -1,0 +1,16 @@
+{
+  "name": "runtime-limiter",
+  "version": "0.2.0",
+  "description": "Module for you to have better control of the code run time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["runtime", "control"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "glob": "^7.2.0"
+  }
+}

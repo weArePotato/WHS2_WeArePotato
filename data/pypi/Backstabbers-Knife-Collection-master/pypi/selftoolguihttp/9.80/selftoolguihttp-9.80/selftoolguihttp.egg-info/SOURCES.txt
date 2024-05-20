@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selftoolguihttp.egg-info/PKG-INFO
+selftoolguihttp.egg-info/SOURCES.txt
+selftoolguihttp.egg-info/dependency_links.txt
+selftoolguihttp.egg-info/top_level.txt

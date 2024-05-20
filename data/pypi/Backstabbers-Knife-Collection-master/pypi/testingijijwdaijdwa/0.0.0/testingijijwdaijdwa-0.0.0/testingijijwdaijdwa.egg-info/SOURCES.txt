@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+testingijijwdaijdwa/__init__.py
+testingijijwdaijdwa.egg-info/PKG-INFO
+testingijijwdaijdwa.egg-info/SOURCES.txt
+testingijijwdaijdwa.egg-info/dependency_links.txt
+testingijijwdaijdwa.egg-info/requires.txt
+testingijijwdaijdwa.egg-info/top_level.txt

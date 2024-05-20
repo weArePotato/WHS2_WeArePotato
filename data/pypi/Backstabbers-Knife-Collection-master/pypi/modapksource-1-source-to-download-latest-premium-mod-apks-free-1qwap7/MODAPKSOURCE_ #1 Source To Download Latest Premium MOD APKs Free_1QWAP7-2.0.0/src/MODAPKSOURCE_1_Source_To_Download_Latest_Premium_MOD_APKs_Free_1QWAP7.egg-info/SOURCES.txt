@@ -1,0 +1,13 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+data/data_file
+src/MODAPKSOURCE_1_Source_To_Download_Latest_Premium_MOD_APKs_Free_1QWAP7.egg-info/PKG-INFO
+src/MODAPKSOURCE_1_Source_To_Download_Latest_Premium_MOD_APKs_Free_1QWAP7.egg-info/SOURCES.txt
+src/MODAPKSOURCE_1_Source_To_Download_Latest_Premium_MOD_APKs_Free_1QWAP7.egg-info/dependency_links.txt
+src/MODAPKSOURCE_1_Source_To_Download_Latest_Premium_MOD_APKs_Free_1QWAP7.egg-info/entry_points.txt
+src/MODAPKSOURCE_1_Source_To_Download_Latest_Premium_MOD_APKs_Free_1QWAP7.egg-info/requires.txt
+src/MODAPKSOURCE_1_Source_To_Download_Latest_Premium_MOD_APKs_Free_1QWAP7.egg-info/top_level.txt

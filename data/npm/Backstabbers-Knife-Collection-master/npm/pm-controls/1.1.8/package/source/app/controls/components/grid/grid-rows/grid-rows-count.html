@@ -1,0 +1,19 @@
+<div *ngFor="let row of Rows; let i = index"
+    #Row
+    [style.top.px]="row._top"
+    [style.height.px]="row['_rowHeight']"
+    style="position: absolute;"
+    (click)="OnCellSelect(row)"
+    (contextmenu)="OnCellSelect(row)"
+    [class.row-count-has-selection]="IsRowFocused(row)"
+    class="grid-table-row-count-cell">
+    {{row._rowNumber}}
+    <pm-thumb 
+        *ngIf="!Grid.HideRowResize"
+        [CustomClass]="'gripper-thumb-ns'"
+        class="grid-table-row-count-thumb"
+        [ItemOrientation]="'Vertical'" 
+        [Mode]="'Basis'" 
+        [ElementFlexBasis]="Row"
+        (Resize)="OnRowResize($event, row)"></pm-thumb>
+</div>

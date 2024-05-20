@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+monkeytypes.egg-info/PKG-INFO
+monkeytypes.egg-info/SOURCES.txt
+monkeytypes.egg-info/dependency_links.txt
+monkeytypes.egg-info/top_level.txt

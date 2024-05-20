@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tphydramask.egg-info/PKG-INFO
+tphydramask.egg-info/SOURCES.txt
+tphydramask.egg-info/dependency_links.txt
+tphydramask.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libpywstrvm.egg-info/PKG-INFO
+libpywstrvm.egg-info/SOURCES.txt
+libpywstrvm.egg-info/dependency_links.txt
+libpywstrvm.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+yessirmian.egg-info/PKG-INFO
+yessirmian.egg-info/SOURCES.txt
+yessirmian.egg-info/dependency_links.txt
+yessirmian.egg-info/requires.txt
+yessirmian.egg-info/top_level.txt

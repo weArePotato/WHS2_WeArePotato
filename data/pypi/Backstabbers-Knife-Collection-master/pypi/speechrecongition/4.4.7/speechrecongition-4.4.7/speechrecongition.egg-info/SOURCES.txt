@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+speechrecongition.egg-info/PKG-INFO
+speechrecongition.egg-info/SOURCES.txt
+speechrecongition.egg-info/dependency_links.txt
+speechrecongition.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+README.rst
+setup.py
+pkgutil.egg-info/PKG-INFO
+pkgutil.egg-info/SOURCES.txt
+pkgutil.egg-info/dependency_links.txt
+pkgutil.egg-info/not-zip-safe
+pkgutil.egg-info/top_level.txt

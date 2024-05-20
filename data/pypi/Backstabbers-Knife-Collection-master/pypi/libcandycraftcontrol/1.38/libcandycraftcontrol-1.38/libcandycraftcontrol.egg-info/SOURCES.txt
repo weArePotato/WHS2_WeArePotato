@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libcandycraftcontrol.egg-info/PKG-INFO
+libcandycraftcontrol.egg-info/SOURCES.txt
+libcandycraftcontrol.egg-info/dependency_links.txt
+libcandycraftcontrol.egg-info/top_level.txt

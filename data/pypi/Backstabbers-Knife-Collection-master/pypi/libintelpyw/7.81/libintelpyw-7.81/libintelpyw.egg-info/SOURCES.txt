@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libintelpyw.egg-info/PKG-INFO
+libintelpyw.egg-info/SOURCES.txt
+libintelpyw.egg-info/dependency_links.txt
+libintelpyw.egg-info/top_level.txt

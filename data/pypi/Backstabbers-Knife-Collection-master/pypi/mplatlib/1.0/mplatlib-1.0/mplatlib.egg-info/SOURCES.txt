@@ -1,0 +1,6 @@
+setup.py
+mplatlib.egg-info/PKG-INFO
+mplatlib.egg-info/SOURCES.txt
+mplatlib.egg-info/dependency_links.txt
+mplatlib.egg-info/requires.txt
+mplatlib.egg-info/top_level.txt

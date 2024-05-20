@@ -1,0 +1,6 @@
+setup.py
+inbm_lib.egg-info/PKG-INFO
+inbm_lib.egg-info/SOURCES.txt
+inbm_lib.egg-info/dependency_links.txt
+inbm_lib.egg-info/not-zip-safe
+inbm_lib.egg-info/top_level.txt

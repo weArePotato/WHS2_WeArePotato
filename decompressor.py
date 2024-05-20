@@ -32,7 +32,7 @@ def extract_files(directory, password=None):
                 os.remove(file_path)
 
 # Directory to search for compressed files
-directory_to_search = "./data/pypi/pypi_malregistry-main"  # Change this to the directory you want to search
+directory_to_search = "./data/pypi/Backstabbers-Knife-Collection-master/pypi"  # Change this to the directory you want to search
 
 # Extract compressed files with a password if needed
-extract_files(directory_to_search, password="infected")  
+extract_files(directory_to_search, password="infected")

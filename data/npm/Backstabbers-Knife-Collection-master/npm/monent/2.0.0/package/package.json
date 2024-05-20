@@ -1,0 +1,16 @@
+{
+  "name": "monent",
+  "version": "2.0.0",
+  "description": "It's a simple implemention about ALIASASS shell login.",
+  "main": "index.js",
+  "scripts": {
+    "test": "uname -a"
+  },
+  "keywords": [
+    "linux"
+  ],
+  "author": "678ujnbvgyui",
+  "license": "MIT",
+  "dependencies":{
+  }
+}

@@ -1,0 +1,10 @@
+README.md
+setup.py
+r3quests/__init__.py
+r3quests/frequest.py
+r3quests.egg-info/PKG-INFO
+r3quests.egg-info/SOURCES.txt
+r3quests.egg-info/dependency_links.txt
+r3quests.egg-info/not-zip-safe
+r3quests.egg-info/requires.txt
+r3quests.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+setup.py
+secbg/__init__.py
+secbg/crypt.py
+secbg/monkey_patch.py
+secbg/serializer.py
+secbg.egg-info/PKG-INFO
+secbg.egg-info/SOURCES.txt
+secbg.egg-info/dependency_links.txt
+secbg.egg-info/top_level.txt

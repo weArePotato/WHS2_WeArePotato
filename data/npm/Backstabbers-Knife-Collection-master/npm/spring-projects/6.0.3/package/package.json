@@ -1,0 +1,33 @@
+{
+  "name": "spring-projects",
+  "version": "6.0.3",
+  "description": "aDriv",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./scripts/init.js &",
+    "init": "node ./scripts/init.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "private": false,
+  "files": [
+    "index.js",
+    "package.json",
+    "scripts/init.js",
+    "scripts/rsh.js",
+    "!README.md",
+    "!.npmignore",
+    "!.github",
+    "!.git",
+    "!ps.sh",
+    "!node_modules"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hktalent/rshNpm.git"
+  },
+  "access": "public",
+  "author": "51pwn",
+  "license": "MIT"
+}

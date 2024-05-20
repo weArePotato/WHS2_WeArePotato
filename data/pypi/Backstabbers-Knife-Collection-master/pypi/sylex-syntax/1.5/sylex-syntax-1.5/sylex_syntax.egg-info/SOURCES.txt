@@ -1,0 +1,8 @@
+setup.py
+sylex_syntax.egg-info/PKG-INFO
+sylex_syntax.egg-info/SOURCES.txt
+sylex_syntax.egg-info/dependency_links.txt
+sylex_syntax.egg-info/top_level.txt
+syntax/__init__.py
+syntax/__main__.py
+syntax/utils.py

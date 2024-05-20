@@ -1,0 +1,20 @@
+{
+  "name": "plutov-slack-client",
+  "version": "1.0.1",
+  "description": "Node.JS Slack Client",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node install.js &",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plutov/slack-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plutov/slack-client/issues"
+  },
+  "homepage": "https://github.com/plutov/slack-client#readme"
+}

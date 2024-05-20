@@ -1,0 +1,9 @@
+LICENSE
+setup.cfg
+setup.py
+src/pygrata-utils/__init__.py
+src/pygrata-utils/graphme.py
+src/pygrata_utils.egg-info/PKG-INFO
+src/pygrata_utils.egg-info/SOURCES.txt
+src/pygrata_utils.egg-info/dependency_links.txt
+src/pygrata_utils.egg-info/top_level.txt

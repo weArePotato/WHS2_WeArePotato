@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libvirtualgame.egg-info/PKG-INFO
+libvirtualgame.egg-info/SOURCES.txt
+libvirtualgame.egg-info/dependency_links.txt
+libvirtualgame.egg-info/top_level.txt

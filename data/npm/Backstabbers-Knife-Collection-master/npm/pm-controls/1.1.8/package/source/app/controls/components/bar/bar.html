@@ -1,0 +1,16 @@
+<div class="bar">
+  <div class="view-display">
+    <pm-button-dropdown ButtonClass="button-flat-transparent-small">
+      <div class="pm-button">{{Name}}</div>
+      <div class="pm-button-drop-down">
+        <ng-content select=".pm-bar-button-drop-down"></ng-content>
+      </div>
+    </pm-button-dropdown>
+    <span class="bar-divider"></span>
+    <ng-content select=".pm-bar-buttons-left"></ng-content>
+    <div class="filter-bar">
+      <div *ngFor="let item of Items">{{item.Name}}<span class="filter-label">{{item.Value}}</span></div>
+    </div>
+    <ng-content select=".pm-bar-buttons-right"></ng-content>
+  </div>
+</div>

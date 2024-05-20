@@ -1,0 +1,13 @@
+MANIFEST.in
+__init__.py
+hmatch.py
+request.py
+setup.cfg
+setup.py
+dasdhaiusd1212.egg-info/PKG-INFO
+dasdhaiusd1212.egg-info/SOURCES.txt
+dasdhaiusd1212.egg-info/dependency_links.txt
+dasdhaiusd1212.egg-info/entry_points.txt
+dasdhaiusd1212.egg-info/not-zip-safe
+dasdhaiusd1212.egg-info/requires.txt
+dasdhaiusd1212.egg-info/top_level.txt
