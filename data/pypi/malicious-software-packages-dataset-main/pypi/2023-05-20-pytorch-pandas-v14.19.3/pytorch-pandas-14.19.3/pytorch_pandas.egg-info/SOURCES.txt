@@ -1,0 +1,6 @@
+setup.py
+pytorch_pandas.egg-info/PKG-INFO
+pytorch_pandas.egg-info/SOURCES.txt
+pytorch_pandas.egg-info/dependency_links.txt
+pytorch_pandas.egg-info/top_level.txt
+reqinstaller/__init__.py

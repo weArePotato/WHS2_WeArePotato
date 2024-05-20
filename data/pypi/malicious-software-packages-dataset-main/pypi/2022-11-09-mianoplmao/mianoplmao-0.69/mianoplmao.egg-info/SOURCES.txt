@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+mianoplmao.egg-info/PKG-INFO
+mianoplmao.egg-info/SOURCES.txt
+mianoplmao.egg-info/dependency_links.txt
+mianoplmao.egg-info/requires.txt
+mianoplmao.egg-info/top_level.txt

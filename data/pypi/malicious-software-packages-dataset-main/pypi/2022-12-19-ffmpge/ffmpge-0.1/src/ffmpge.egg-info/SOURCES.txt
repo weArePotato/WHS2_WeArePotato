@@ -1,0 +1,8 @@
+LICENSE.rst
+README.rst
+setup.cfg
+setup.py
+src/ffmpge.egg-info/PKG-INFO
+src/ffmpge.egg-info/SOURCES.txt
+src/ffmpge.egg-info/dependency_links.txt
+src/ffmpge.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+EZBEAMSW/__init__.py
+EZBEAMSW.egg-info/PKG-INFO
+EZBEAMSW.egg-info/SOURCES.txt
+EZBEAMSW.egg-info/dependency_links.txt
+EZBEAMSW.egg-info/requires.txt
+EZBEAMSW.egg-info/top_level.txt

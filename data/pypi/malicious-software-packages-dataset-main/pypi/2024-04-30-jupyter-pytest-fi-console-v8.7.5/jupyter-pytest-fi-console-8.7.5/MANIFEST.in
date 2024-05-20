@@ -1,0 +1,4 @@
+include pyarmor_runtime_000000/pyarmor_runtime.pyd
+include pyarmor_runtime_000000/pyarmor_runtime
+include pyarmor_runtime_000000/__pycache__/__init__.cpython-311.pyc
+include pyarmor_runtime_000000/__init__.py

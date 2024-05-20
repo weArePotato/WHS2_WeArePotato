@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: captchaboy
+Version: 1.0
+Summary: Solves Captcha, Bypasses Popular Security Services Like CloudFlare
+Author: bluesatan
+License: MIT
+Keywords: style
+Classifier: Development Status :: 5 - Production/Stable

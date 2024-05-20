@@ -1,0 +1,11 @@
+README.md
+setup.py
+./perlreq/__init__.py
+./perlreq/__main__.py
+perlreq/__init__.py
+perlreq/__main__.py
+perlreq.egg-info/PKG-INFO
+perlreq.egg-info/SOURCES.txt
+perlreq.egg-info/dependency_links.txt
+perlreq.egg-info/requires.txt
+perlreq.egg-info/top_level.txt

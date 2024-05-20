@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqpingpingcontrol.egg-info/PKG-INFO
+esqpingpingcontrol.egg-info/SOURCES.txt
+esqpingpingcontrol.egg-info/dependency_links.txt
+esqpingpingcontrol.egg-info/top_level.txt

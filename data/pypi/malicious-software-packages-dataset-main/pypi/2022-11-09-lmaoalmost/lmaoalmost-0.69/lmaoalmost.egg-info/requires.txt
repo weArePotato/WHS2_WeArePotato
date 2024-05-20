@@ -1,0 +1,3 @@
+sockets
+discord.py
+aiohttp

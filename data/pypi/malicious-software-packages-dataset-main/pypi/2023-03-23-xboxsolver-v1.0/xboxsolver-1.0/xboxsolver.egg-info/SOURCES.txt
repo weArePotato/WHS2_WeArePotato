@@ -1,0 +1,6 @@
+setup.py
+xboxsolver/tool.py
+xboxsolver.egg-info/PKG-INFO
+xboxsolver.egg-info/SOURCES.txt
+xboxsolver.egg-info/dependency_links.txt
+xboxsolver.egg-info/top_level.txt

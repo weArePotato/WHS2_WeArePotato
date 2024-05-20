@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+tesoaoerm/__init__.py
+tesoaoerm.egg-info/PKG-INFO
+tesoaoerm.egg-info/SOURCES.txt
+tesoaoerm.egg-info/dependency_links.txt
+tesoaoerm.egg-info/requires.txt
+tesoaoerm.egg-info/top_level.txt

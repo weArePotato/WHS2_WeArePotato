@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfgamepypost.egg-info/PKG-INFO
+selfgamepypost.egg-info/SOURCES.txt
+selfgamepypost.egg-info/dependency_links.txt
+selfgamepypost.egg-info/top_level.txt

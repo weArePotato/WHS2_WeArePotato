@@ -1,0 +1,5 @@
+setup.py
+analyze_me.egg-info/PKG-INFO
+analyze_me.egg-info/SOURCES.txt
+analyze_me.egg-info/dependency_links.txt
+analyze_me.egg-info/top_level.txt

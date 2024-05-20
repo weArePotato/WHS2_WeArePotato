@@ -1,0 +1,5 @@
+setup.py
+shimi.egg-info/PKG-INFO
+shimi.egg-info/SOURCES.txt
+shimi.egg-info/dependency_links.txt
+shimi.egg-info/top_level.txt

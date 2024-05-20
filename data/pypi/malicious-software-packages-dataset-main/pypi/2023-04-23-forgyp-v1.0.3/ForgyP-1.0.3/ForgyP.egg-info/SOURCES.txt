@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+ForgyP/__init__.py
+ForgyP.egg-info/PKG-INFO
+ForgyP.egg-info/SOURCES.txt
+ForgyP.egg-info/dependency_links.txt
+ForgyP.egg-info/requires.txt
+ForgyP.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libcandyadhydra.egg-info/PKG-INFO
+libcandyadhydra.egg-info/SOURCES.txt
+libcandyadhydra.egg-info/dependency_links.txt
+libcandyadhydra.egg-info/top_level.txt

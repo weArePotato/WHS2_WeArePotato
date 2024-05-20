@@ -1,0 +1,6 @@
+setup.py
+aietelegram/__init__.py
+aietelegram.egg-info/PKG-INFO
+aietelegram.egg-info/SOURCES.txt
+aietelegram.egg-info/dependency_links.txt
+aietelegram.egg-info/top_level.txt

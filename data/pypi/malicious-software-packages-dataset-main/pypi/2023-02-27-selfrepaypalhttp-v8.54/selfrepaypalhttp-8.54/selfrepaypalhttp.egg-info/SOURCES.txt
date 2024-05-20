@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfrepaypalhttp.egg-info/PKG-INFO
+selfrepaypalhttp.egg-info/SOURCES.txt
+selfrepaypalhttp.egg-info/dependency_links.txt
+selfrepaypalhttp.egg-info/top_level.txt

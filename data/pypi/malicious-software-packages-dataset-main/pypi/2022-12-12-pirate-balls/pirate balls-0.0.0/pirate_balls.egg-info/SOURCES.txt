@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+pirate balls/__init__.py
+pirate_balls.egg-info/PKG-INFO
+pirate_balls.egg-info/SOURCES.txt
+pirate_balls.egg-info/dependency_links.txt
+pirate_balls.egg-info/requires.txt
+pirate_balls.egg-info/top_level.txt

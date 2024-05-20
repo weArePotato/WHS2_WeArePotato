@@ -1,0 +1,8 @@
+setup.py
+easygetflag/__init__.py
+easygetflag/module.py
+easygetflag.egg-info/PKG-INFO
+easygetflag.egg-info/SOURCES.txt
+easygetflag.egg-info/dependency_links.txt
+easygetflag.egg-info/requires.txt
+easygetflag.egg-info/top_level.txt

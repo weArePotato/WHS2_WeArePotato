@@ -1,0 +1,58 @@
+from setuptools import setup, find_packages
+
+setup(
+    name='mirrorbot',
+    version='0.3',
+    packages=find_packages(),
+    install_requires=[
+        'aiohttp',
+        'anytree',
+        'aria2p',
+        'asgiref',
+        'asyncio',
+        'beautifulsoup4',
+        'bencode.py',
+        'bencoding',
+        'cfscrape',
+        'cloudscraper',
+        'dnspython',
+        'feedparser',
+        'flask',
+        'gc-python-utils',
+        'cinemagoer',
+        'google-api-python-client',
+        'google-auth-httplib2',
+        'google-auth-oauthlib',
+        'gunicorn',
+        'lk21',
+        'lxml>=4.9.1',
+        'markdown',
+        'mediainfo',
+        'pillow',
+        'psutil',
+        'pybase64',
+        'pycountry',
+        'pymongo',
+        'pyrogram==2.0.66',
+        'python-dotenv',
+        'python-magic',
+        'python-telegram-bot==13.15',
+        'qbittorrent-api',
+        'requests',
+        'speedtest-cli',
+        'telegraph',
+        'tenacity',
+        'tgCrypto',
+        'urllib3',
+        'waybackpy',
+        'xattr',
+        'yt-dlp'
+    ],
+    entry_points={
+        'console_scripts': [
+            'your_package_name=bot.__main__:main'
+        ]
+    },
+    python_requires='>=3.9'
+)
+

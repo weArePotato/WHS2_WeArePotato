@@ -1,0 +1,2 @@
+[console_scripts]
+corona = corona:main

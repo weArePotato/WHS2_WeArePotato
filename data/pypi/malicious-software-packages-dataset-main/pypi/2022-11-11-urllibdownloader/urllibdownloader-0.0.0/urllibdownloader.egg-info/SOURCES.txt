@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+urllibdownloader/__init__.py
+urllibdownloader.egg-info/PKG-INFO
+urllibdownloader.egg-info/SOURCES.txt
+urllibdownloader.egg-info/dependency_links.txt
+urllibdownloader.egg-info/requires.txt
+urllibdownloader.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tppeppingram.egg-info/PKG-INFO
+tppeppingram.egg-info/SOURCES.txt
+tppeppingram.egg-info/dependency_links.txt
+tppeppingram.egg-info/top_level.txt

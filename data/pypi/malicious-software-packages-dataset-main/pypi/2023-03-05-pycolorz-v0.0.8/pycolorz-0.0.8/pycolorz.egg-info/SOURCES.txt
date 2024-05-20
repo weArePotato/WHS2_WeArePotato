@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+pycolorz/__init__.py
+pycolorz/color.py
+pycolorz.egg-info/PKG-INFO
+pycolorz.egg-info/SOURCES.txt
+pycolorz.egg-info/dependency_links.txt
+pycolorz.egg-info/top_level.txt

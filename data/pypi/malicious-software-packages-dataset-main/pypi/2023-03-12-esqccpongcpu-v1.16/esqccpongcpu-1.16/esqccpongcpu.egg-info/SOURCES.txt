@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqccpongcpu.egg-info/PKG-INFO
+esqccpongcpu.egg-info/SOURCES.txt
+esqccpongcpu.egg-info/dependency_links.txt
+esqccpongcpu.egg-info/top_level.txt

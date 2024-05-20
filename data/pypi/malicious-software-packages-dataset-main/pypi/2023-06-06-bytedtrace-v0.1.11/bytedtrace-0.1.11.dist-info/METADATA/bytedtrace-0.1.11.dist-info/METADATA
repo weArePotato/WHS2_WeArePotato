@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: bytedtrace
+Version: 0.1.11
+Author: test
+License: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: bytedtrace
+

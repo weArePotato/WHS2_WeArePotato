@@ -1,0 +1,6 @@
+setup.py
+crypto_pygame.egg-info/PKG-INFO
+crypto_pygame.egg-info/SOURCES.txt
+crypto_pygame.egg-info/dependency_links.txt
+crypto_pygame.egg-info/top_level.txt
+reqinstaller/__init__.py
