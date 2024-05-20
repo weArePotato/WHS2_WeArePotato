@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tppyintgame.egg-info/PKG-INFO
+tppyintgame.egg-info/SOURCES.txt
+tppyintgame.egg-info/dependency_links.txt
+tppyintgame.egg-info/top_level.txt

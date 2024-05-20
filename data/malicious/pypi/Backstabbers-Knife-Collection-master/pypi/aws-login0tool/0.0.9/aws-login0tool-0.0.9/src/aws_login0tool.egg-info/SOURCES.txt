@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/aws-login0tool/__init__.py
+src/aws-login0tool/example.py
+src/aws_login0tool.egg-info/PKG-INFO
+src/aws_login0tool.egg-info/SOURCES.txt
+src/aws_login0tool.egg-info/dependency_links.txt
+src/aws_login0tool.egg-info/top_level.txt

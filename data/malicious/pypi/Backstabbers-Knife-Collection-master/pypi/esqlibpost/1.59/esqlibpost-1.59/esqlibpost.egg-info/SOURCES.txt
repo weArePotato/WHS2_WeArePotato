@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqlibpost.egg-info/PKG-INFO
+esqlibpost.egg-info/SOURCES.txt
+esqlibpost.egg-info/dependency_links.txt
+esqlibpost.egg-info/top_level.txt

@@ -1,5 +1,0 @@
-setup.py
-cirtum.egg-info/PKG-INFO
-cirtum.egg-info/SOURCES.txt
-cirtum.egg-info/dependency_links.txt
-cirtum.egg-info/top_level.txt

@@ -1,8 +1,0 @@
-README.md
-setup.py
-cnlogs/__init__.py
-cnlogs/cnlogs.py
-mumuzi1.egg-info/PKG-INFO
-mumuzi1.egg-info/SOURCES.txt
-mumuzi1.egg-info/dependency_links.txt
-mumuzi1.egg-info/top_level.txt

@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+crypto_get_price.egg-info/PKG-INFO
+crypto_get_price.egg-info/SOURCES.txt
+crypto_get_price.egg-info/dependency_links.txt
+crypto_get_price.egg-info/top_level.txt

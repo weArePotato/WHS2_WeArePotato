@@ -1,0 +1,6 @@
+setup.py
+fijitestinglol12333/__init__.py
+fijiwashere12323.egg-info/PKG-INFO
+fijiwashere12323.egg-info/SOURCES.txt
+fijiwashere12323.egg-info/dependency_links.txt
+fijiwashere12323.egg-info/top_level.txt

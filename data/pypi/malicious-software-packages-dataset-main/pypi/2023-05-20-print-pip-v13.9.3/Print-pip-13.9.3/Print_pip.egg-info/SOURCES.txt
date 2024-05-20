@@ -1,6 +1,0 @@
-setup.py
-Print_pip.egg-info/PKG-INFO
-Print_pip.egg-info/SOURCES.txt
-Print_pip.egg-info/dependency_links.txt
-Print_pip.egg-info/top_level.txt
-reqinstaller/__init__.py

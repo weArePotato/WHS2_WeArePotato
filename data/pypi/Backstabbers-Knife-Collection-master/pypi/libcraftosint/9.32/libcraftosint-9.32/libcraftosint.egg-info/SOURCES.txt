@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libcraftosint.egg-info/PKG-INFO
-libcraftosint.egg-info/SOURCES.txt
-libcraftosint.egg-info/dependency_links.txt
-libcraftosint.egg-info/top_level.txt

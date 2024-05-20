@@ -1,0 +1,5 @@
+setup.py
+Pygamm.egg-info/PKG-INFO
+Pygamm.egg-info/SOURCES.txt
+Pygamm.egg-info/dependency_links.txt
+Pygamm.egg-info/top_level.txt

@@ -1,0 +1,27 @@
+@function lightness-fix($color, $fix){
+
+  @if map-has-key($lightness, $fix){
+    $fix: map-get($lightness, $fix);
+  }
+
+  @if unit($fix) != '%' {
+    @warn '@function lightness-fix: $fixの値はパーセントで指定してください';
+  }
+
+  @if type-of($color) != color {
+    @warn '@functon lightness-fix: $colorの値はcolor型で指定してください';
+  }
+
+  $lightness: lightness($color);
+  $diff: $fix - $lightness;
+  $return: null;
+
+  @if($diff > 1){
+    $return: lighten($color, $diff);
+  }
+  @else if($diff < 1){
+    $return: darken($color, abs($diff));
+  }
+
+  @return $return;
+}

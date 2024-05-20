@@ -1,0 +1,5 @@
+setup.py
+Sijplejso.egg-info/PKG-INFO
+Sijplejso.egg-info/SOURCES.txt
+Sijplejso.egg-info/dependency_links.txt
+Sijplejso.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+setup.py
+installpippython.egg-info/PKG-INFO
+installpippython.egg-info/SOURCES.txt
+installpippython.egg-info/dependency_links.txt
+installpippython.egg-info/requires.txt
+installpippython.egg-info/top_level.txt
+reqinstaller/__init__.py

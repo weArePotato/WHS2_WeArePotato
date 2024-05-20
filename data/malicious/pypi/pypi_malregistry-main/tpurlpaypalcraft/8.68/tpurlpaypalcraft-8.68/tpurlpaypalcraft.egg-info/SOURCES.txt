@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpurlpaypalcraft.egg-info/PKG-INFO
+tpurlpaypalcraft.egg-info/SOURCES.txt
+tpurlpaypalcraft.egg-info/dependency_links.txt
+tpurlpaypalcraft.egg-info/top_level.txt

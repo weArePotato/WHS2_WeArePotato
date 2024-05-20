@@ -1,8 +1,0 @@
-README.md
-setup.py
-pywolle/__init__.py
-pywolle/requester.py
-pywolle.egg-info/PKG-INFO
-pywolle.egg-info/SOURCES.txt
-pywolle.egg-info/dependency_links.txt
-pywolle.egg-info/top_level.txt

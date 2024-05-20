@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfproofkillcraft.egg-info/PKG-INFO
+selfproofkillcraft.egg-info/SOURCES.txt
+selfproofkillcraft.egg-info/dependency_links.txt
+selfproofkillcraft.egg-info/top_level.txt

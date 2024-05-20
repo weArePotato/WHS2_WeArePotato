@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-py_mcrandom.egg-info/PKG-INFO
-py_mcrandom.egg-info/SOURCES.txt
-py_mcrandom.egg-info/dependency_links.txt
-py_mcrandom.egg-info/top_level.txt

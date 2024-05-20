@@ -1,0 +1,21 @@
+<div [style.height]="ControlHeight"
+     [style.width]="ControlWidth"
+     class="list-box-container {{ListBoxClass}} {{ListBoxBorderClass}}">     
+    <pm-virtual-panel
+        #virtualPanel
+        ControlHeight="100%"
+        [ItemsSource]="filteredItemSource"
+        [SelectedItems]="SelectedItems"
+        (ItemSelected)="SelectItem($event)"
+        [ItemHeight]="ItemHeight"
+        [DisplayMemberPath]="DisplayMemberPath"
+        [ItemTemplate]="ItemTemplate || ListBoxItemTemplateTemplate"
+        [ItemSelectedClass]="ListBoxSelectedItemClass"
+        [ItemClass]="ListBoxItemClass"
+        [LastItemClass]="LastListBoxItemClass">
+    </pm-virtual-panel>
+</div>
+
+<ng-template #ListBoxItemTemplateTemplate let-item>
+    <div class="list-box-item-template" [innerHTML]="getItemDisplay(item) | highlight : Text"></div>
+</ng-template>

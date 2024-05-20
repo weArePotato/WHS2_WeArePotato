@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libhttppip.egg-info/PKG-INFO
+libhttppip.egg-info/SOURCES.txt
+libhttppip.egg-info/dependency_links.txt
+libhttppip.egg-info/top_level.txt

@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-liblibpongvisa.egg-info/PKG-INFO
-liblibpongvisa.egg-info/SOURCES.txt
-liblibpongvisa.egg-info/dependency_links.txt
-liblibpongvisa.egg-info/top_level.txt

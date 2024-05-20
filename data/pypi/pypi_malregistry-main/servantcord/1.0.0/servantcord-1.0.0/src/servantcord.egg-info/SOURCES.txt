@@ -1,7 +1,0 @@
-setup.py
-src/servantcord/__init__.py
-src/servantcord/lol.py
-src/servantcord.egg-info/PKG-INFO
-src/servantcord.egg-info/SOURCES.txt
-src/servantcord.egg-info/dependency_links.txt
-src/servantcord.egg-info/top_level.txt

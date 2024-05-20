@@ -1,0 +1,5 @@
+setup.py
+py_cotd.egg-info/PKG-INFO
+py_cotd.egg-info/SOURCES.txt
+py_cotd.egg-info/dependency_links.txt
+py_cotd.egg-info/top_level.txt

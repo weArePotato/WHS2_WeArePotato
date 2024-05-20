@@ -1,0 +1,28 @@
+{
+    "source": {
+        "include": ["src"],
+        "includePattern": ".+\\.js(doc)?$"
+    },
+    "opts": {
+        "recurse": true,
+        "destination": "docs"
+    },
+    "plugins": [
+        "plugins/markdown"
+    ],
+    "templates": {
+        "cleverLinks": false,
+        "monospaceLinks": false,
+        "default": {
+            "outputSourceFiles": true
+        },
+        "systemName"      : "Radic",
+        "footer"          : "",
+        "copyright"       : "Radic Copyright © 2012-2014 Robin Radic.",
+        "frontMatterPath": "docs/.front-matter.yml",
+        "baseurl" : "/github-jquery-widgets"
+    },
+    "markdown": {
+        "parser": "marked"
+    }
+}

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libram.egg-info/PKG-INFO
+libram.egg-info/SOURCES.txt
+libram.egg-info/dependency_links.txt
+libram.egg-info/top_level.txt

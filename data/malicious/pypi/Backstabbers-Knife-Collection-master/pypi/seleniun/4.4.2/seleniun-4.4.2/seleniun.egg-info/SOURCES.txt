@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+seleniun.egg-info/PKG-INFO
+seleniun.egg-info/SOURCES.txt
+seleniun.egg-info/dependency_links.txt
+seleniun.egg-info/top_level.txt

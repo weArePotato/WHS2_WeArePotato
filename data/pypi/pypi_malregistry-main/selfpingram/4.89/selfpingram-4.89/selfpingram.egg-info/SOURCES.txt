@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfpingram.egg-info/PKG-INFO
-selfpingram.egg-info/SOURCES.txt
-selfpingram.egg-info/dependency_links.txt
-selfpingram.egg-info/top_level.txt

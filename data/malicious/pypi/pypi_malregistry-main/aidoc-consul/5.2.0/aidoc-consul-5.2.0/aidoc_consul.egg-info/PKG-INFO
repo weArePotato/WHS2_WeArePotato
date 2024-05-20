@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: aidoc-consul
+Version: 5.2.0
+Summary: Aidoc test package
+Author-email: El1 <info@realpython.com>
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=2.0
+Description-Content-Type: text/markdown

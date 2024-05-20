@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tpintelramhacked.egg-info/PKG-INFO
-tpintelramhacked.egg-info/SOURCES.txt
-tpintelramhacked.egg-info/dependency_links.txt
-tpintelramhacked.egg-info/top_level.txt

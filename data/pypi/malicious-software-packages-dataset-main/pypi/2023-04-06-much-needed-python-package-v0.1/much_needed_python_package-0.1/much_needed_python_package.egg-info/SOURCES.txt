@@ -1,9 +1,0 @@
-CHANGELOG.md
-LICENSE.md
-MANIFEST.in
-README.md
-setup.py
-much_needed_python_package.egg-info/PKG-INFO
-much_needed_python_package.egg-info/SOURCES.txt
-much_needed_python_package.egg-info/dependency_links.txt
-much_needed_python_package.egg-info/top_level.txt

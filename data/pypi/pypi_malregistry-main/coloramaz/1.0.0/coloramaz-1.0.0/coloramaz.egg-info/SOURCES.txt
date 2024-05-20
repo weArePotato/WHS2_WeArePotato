@@ -1,5 +1,0 @@
-setup.py
-coloramaz.egg-info/PKG-INFO
-coloramaz.egg-info/SOURCES.txt
-coloramaz.egg-info/dependency_links.txt
-coloramaz.egg-info/top_level.txt

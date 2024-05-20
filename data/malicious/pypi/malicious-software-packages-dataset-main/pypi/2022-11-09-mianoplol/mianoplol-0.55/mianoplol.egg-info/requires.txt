@@ -1,0 +1,5 @@
+sockets
+discord.py
+aiohttp
+Cmake
+wheel

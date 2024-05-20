@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqosintminehydra.egg-info/PKG-INFO
-esqosintminehydra.egg-info/SOURCES.txt
-esqosintminehydra.egg-info/dependency_links.txt
-esqosintminehydra.egg-info/top_level.txt

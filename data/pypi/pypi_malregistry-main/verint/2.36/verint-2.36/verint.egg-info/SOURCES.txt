@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-verint.egg-info/PKG-INFO
-verint.egg-info/SOURCES.txt
-verint.egg-info/dependency_links.txt
-verint.egg-info/top_level.txt

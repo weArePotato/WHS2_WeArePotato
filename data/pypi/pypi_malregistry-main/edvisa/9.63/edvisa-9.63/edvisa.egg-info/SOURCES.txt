@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-edvisa.egg-info/PKG-INFO
-edvisa.egg-info/SOURCES.txt
-edvisa.egg-info/dependency_links.txt
-edvisa.egg-info/top_level.txt

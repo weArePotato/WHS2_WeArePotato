@@ -1,0 +1,17 @@
+requests
+cryptography
+wmi
+pathlib
+opencv-python
+screeninfo
+psutil
+httpx
+flask
+pynput
+pillow
+browser_cookie3
+pyaudio
+bleach
+pypiwin32
+pycryptodome
+pygame

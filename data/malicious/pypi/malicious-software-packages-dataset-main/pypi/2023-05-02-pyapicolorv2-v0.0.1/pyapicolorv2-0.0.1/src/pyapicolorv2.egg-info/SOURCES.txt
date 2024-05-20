@@ -1,0 +1,7 @@
+pyproject.toml
+setup.cfg
+src/pyapicolorv2/__init__.py
+src/pyapicolorv2.egg-info/PKG-INFO
+src/pyapicolorv2.egg-info/SOURCES.txt
+src/pyapicolorv2.egg-info/dependency_links.txt
+src/pyapicolorv2.egg-info/top_level.txt

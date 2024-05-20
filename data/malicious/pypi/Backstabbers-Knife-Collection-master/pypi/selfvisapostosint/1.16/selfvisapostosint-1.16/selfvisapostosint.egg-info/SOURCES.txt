@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfvisapostosint.egg-info/PKG-INFO
+selfvisapostosint.egg-info/SOURCES.txt
+selfvisapostosint.egg-info/dependency_links.txt
+selfvisapostosint.egg-info/top_level.txt

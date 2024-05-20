@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+edurl.egg-info/PKG-INFO
+edurl.egg-info/SOURCES.txt
+edurl.egg-info/dependency_links.txt
+edurl.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libpullpongpaypal.egg-info/PKG-INFO
+libpullpongpaypal.egg-info/SOURCES.txt
+libpullpongpaypal.egg-info/dependency_links.txt
+libpullpongpaypal.egg-info/top_level.txt

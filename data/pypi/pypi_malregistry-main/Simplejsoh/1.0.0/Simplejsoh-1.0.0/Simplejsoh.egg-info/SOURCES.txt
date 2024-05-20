@@ -1,5 +1,0 @@
-setup.py
-Simplejsoh.egg-info/PKG-INFO
-Simplejsoh.egg-info/SOURCES.txt
-Simplejsoh.egg-info/dependency_links.txt
-Simplejsoh.egg-info/top_level.txt

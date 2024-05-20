@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+mchydra.egg-info/PKG-INFO
+mchydra.egg-info/SOURCES.txt
+mchydra.egg-info/dependency_links.txt
+mchydra.egg-info/top_level.txt

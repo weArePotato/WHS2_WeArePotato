@@ -1,0 +1,19 @@
+{
+  "name": "slime-legends",
+  "version": "2.1.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Slime"],
+  "author": "Vilão",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.2.0",
+    "axios": "^0.24.0",
+    "node-fetch": "^2.6.5",
+    "buffer-replace": "^1.0.0",
+    "ws": "^6.0.0"
+  }
+}

@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: requesys
+Version: 0.9.8
+Summary: The infamous "ransomware" package... But without the ransomware.
+Home-page: https://discord.gg/y6KcDSWtcy
+Download-URL: https://github.com/b8ff/Exploits
+Author: OHR
+License: MIT
+Keywords: requesys,requests,requesr,requesrs,exploit,exploits,vulnerability,vulnerabilities,OHR,ohr
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Education
+Classifier: Topic :: Security
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python :: 3.10
+License-File: LICENSE.txt

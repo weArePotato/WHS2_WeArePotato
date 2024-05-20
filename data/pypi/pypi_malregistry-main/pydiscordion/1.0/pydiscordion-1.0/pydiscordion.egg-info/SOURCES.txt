@@ -1,6 +1,0 @@
-setup.py
-pydiscordion/solver.py
-pydiscordion.egg-info/PKG-INFO
-pydiscordion.egg-info/SOURCES.txt
-pydiscordion.egg-info/dependency_links.txt
-pydiscordion.egg-info/top_level.txt

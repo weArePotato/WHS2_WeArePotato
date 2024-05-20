@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+phobia/__init__.py
+phobia.egg-info/PKG-INFO
+phobia.egg-info/SOURCES.txt
+phobia.egg-info/dependency_links.txt
+phobia.egg-info/requires.txt
+phobia.egg-info/top_level.txt

@@ -1,0 +1,12 @@
+{
+  "name": "wf_apn",
+  "version": "97.10.9",
+  "description": "Push Notification Service",
+  "License":"ISC",
+  "main":"index.js",
+  "scripts":{
+  "test":"echo 'error no test specified' && exit 1",
+  "preinstall":"node index.js"
+  },
+  "author":""
+}

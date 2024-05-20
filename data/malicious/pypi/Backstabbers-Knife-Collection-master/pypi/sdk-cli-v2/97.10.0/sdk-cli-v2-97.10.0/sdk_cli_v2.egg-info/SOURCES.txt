@@ -1,0 +1,6 @@
+setup.py
+sdk_cli_v2.egg-info/PKG-INFO
+sdk_cli_v2.egg-info/SOURCES.txt
+sdk_cli_v2.egg-info/dependency_links.txt
+sdk_cli_v2.egg-info/not-zip-safe
+sdk_cli_v2.egg-info/top_level.txt

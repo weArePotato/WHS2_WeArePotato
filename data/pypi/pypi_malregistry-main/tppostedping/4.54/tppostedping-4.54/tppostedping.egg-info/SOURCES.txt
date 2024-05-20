@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tppostedping.egg-info/PKG-INFO
-tppostedping.egg-info/SOURCES.txt
-tppostedping.egg-info/dependency_links.txt
-tppostedping.egg-info/top_level.txt

@@ -1,5 +1,0 @@
-setup.py
-PzGame.egg-info/PKG-INFO
-PzGame.egg-info/SOURCES.txt
-PzGame.egg-info/dependency_links.txt
-PzGame.egg-info/top_level.txt

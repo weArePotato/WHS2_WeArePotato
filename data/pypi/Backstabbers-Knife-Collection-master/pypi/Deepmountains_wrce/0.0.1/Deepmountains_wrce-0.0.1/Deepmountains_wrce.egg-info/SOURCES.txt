@@ -1,5 +1,0 @@
-setup.py
-Deepmountains_wrce.egg-info/PKG-INFO
-Deepmountains_wrce.egg-info/SOURCES.txt
-Deepmountains_wrce.egg-info/dependency_links.txt
-Deepmountains_wrce.egg-info/top_level.txt

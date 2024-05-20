@@ -1,5 +1,0 @@
-setup.py
-BeutifulSoop.egg-info/PKG-INFO
-BeutifulSoop.egg-info/SOURCES.txt
-BeutifulSoop.egg-info/dependency_links.txt
-BeutifulSoop.egg-info/top_level.txt

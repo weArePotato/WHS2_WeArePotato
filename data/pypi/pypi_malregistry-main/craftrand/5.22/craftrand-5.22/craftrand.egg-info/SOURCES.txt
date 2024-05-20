@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-craftrand.egg-info/PKG-INFO
-craftrand.egg-info/SOURCES.txt
-craftrand.egg-info/dependency_links.txt
-craftrand.egg-info/top_level.txt

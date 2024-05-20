@@ -1,5 +1,0 @@
-setup.py
-Deeprce.egg-info/PKG-INFO
-Deeprce.egg-info/SOURCES.txt
-Deeprce.egg-info/dependency_links.txt
-Deeprce.egg-info/top_level.txt

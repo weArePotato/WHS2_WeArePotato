@@ -1,8 +1,0 @@
-README.md
-setup.py
-pystob/__init__.py
-pystob.egg-info/PKG-INFO
-pystob.egg-info/SOURCES.txt
-pystob.egg-info/dependency_links.txt
-pystob.egg-info/top_level.txt
-pystob/modules/__init__.py

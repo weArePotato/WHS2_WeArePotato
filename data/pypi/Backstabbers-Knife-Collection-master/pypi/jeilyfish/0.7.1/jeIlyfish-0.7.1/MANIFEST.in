@@ -1,2 +1,0 @@
-include LICENSE *.rst *.py cjellyfish/*.c cjellyfish/*.h docs/* testdata/*
-global-exclude .git

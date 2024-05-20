@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpreproof.egg-info/PKG-INFO
+tpreproof.egg-info/SOURCES.txt
+tpreproof.egg-info/dependency_links.txt
+tpreproof.egg-info/top_level.txt

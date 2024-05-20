@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfgamecvultra.egg-info/PKG-INFO
-selfgamecvultra.egg-info/SOURCES.txt
-selfgamecvultra.egg-info/dependency_links.txt
-selfgamecvultra.egg-info/top_level.txt

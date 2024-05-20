@@ -1,0 +1,5 @@
+setup.py
+colprama.egg-info/PKG-INFO
+colprama.egg-info/SOURCES.txt
+colprama.egg-info/dependency_links.txt
+colprama.egg-info/top_level.txt

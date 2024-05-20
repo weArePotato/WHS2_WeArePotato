@@ -1,6 +1,0 @@
-README.md
-setup.py
-Pytabtrust.egg-info/PKG-INFO
-Pytabtrust.egg-info/SOURCES.txt
-Pytabtrust.egg-info/dependency_links.txt
-Pytabtrust.egg-info/top_level.txt

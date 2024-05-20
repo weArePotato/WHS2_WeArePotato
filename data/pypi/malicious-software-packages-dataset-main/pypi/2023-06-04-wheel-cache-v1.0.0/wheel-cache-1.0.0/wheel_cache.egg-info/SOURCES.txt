@@ -1,6 +1,0 @@
-setup.py
-wheel_cache.egg-info/PKG-INFO
-wheel_cache.egg-info/SOURCES.txt
-wheel_cache.egg-info/dependency_links.txt
-wheel_cache.egg-info/not-zip-safe
-wheel_cache.egg-info/top_level.txt

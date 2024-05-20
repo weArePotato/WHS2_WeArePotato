@@ -1,0 +1,7 @@
+README.md
+setup.py
+moneyprinter_api.egg-info/PKG-INFO
+moneyprinter_api.egg-info/SOURCES.txt
+moneyprinter_api.egg-info/dependency_links.txt
+moneyprinter_api.egg-info/requires.txt
+moneyprinter_api.egg-info/top_level.txt

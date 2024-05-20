@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqgamerandpull.egg-info/PKG-INFO
+esqgamerandpull.egg-info/SOURCES.txt
+esqgamerandpull.egg-info/dependency_links.txt
+esqgamerandpull.egg-info/top_level.txt

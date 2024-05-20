@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfminemasknvidia.egg-info/PKG-INFO
+selfminemasknvidia.egg-info/SOURCES.txt
+selfminemasknvidia.egg-info/dependency_links.txt
+selfminemasknvidia.egg-info/top_level.txt

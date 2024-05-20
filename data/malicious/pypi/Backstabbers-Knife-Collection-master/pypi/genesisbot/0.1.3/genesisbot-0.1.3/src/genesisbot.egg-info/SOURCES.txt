@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/genesisbot.py
+src/genesisbot.egg-info/PKG-INFO
+src/genesisbot.egg-info/SOURCES.txt
+src/genesisbot.egg-info/dependency_links.txt
+src/genesisbot.egg-info/requires.txt
+src/genesisbot.egg-info/top_level.txt

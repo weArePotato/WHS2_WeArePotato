@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tprampingload.egg-info/PKG-INFO
+tprampingload.egg-info/SOURCES.txt
+tprampingload.egg-info/dependency_links.txt
+tprampingload.egg-info/top_level.txt

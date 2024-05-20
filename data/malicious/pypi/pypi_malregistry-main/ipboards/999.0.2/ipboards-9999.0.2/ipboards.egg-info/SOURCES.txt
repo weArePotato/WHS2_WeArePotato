@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+exploit.py
+setup.py
+ipboards/__init__.py
+ipboards.egg-info/PKG-INFO
+ipboards.egg-info/SOURCES.txt
+ipboards.egg-info/dependency_links.txt
+ipboards.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+termcolor
+Flask
+PyYAML
+redis
+judyb
+requests
+pystache
+jsonschema
+pymongo

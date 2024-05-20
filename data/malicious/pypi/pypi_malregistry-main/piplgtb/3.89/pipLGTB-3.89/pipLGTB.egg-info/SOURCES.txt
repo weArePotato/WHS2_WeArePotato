@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+pipLGTB.egg-info/PKG-INFO
+pipLGTB.egg-info/SOURCES.txt
+pipLGTB.egg-info/dependency_links.txt
+pipLGTB.egg-info/top_level.txt

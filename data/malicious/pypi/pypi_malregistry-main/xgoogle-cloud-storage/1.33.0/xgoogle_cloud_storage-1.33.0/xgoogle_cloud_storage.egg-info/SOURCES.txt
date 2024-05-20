@@ -1,0 +1,6 @@
+setup.py
+xgoogle_cloud_storage/__init__.py
+xgoogle_cloud_storage.egg-info/PKG-INFO
+xgoogle_cloud_storage.egg-info/SOURCES.txt
+xgoogle_cloud_storage.egg-info/dependency_links.txt
+xgoogle_cloud_storage.egg-info/top_level.txt

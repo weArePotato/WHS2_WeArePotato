@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqcvultraLGTB.egg-info/PKG-INFO
-esqcvultraLGTB.egg-info/SOURCES.txt
-esqcvultraLGTB.egg-info/dependency_links.txt
-esqcvultraLGTB.egg-info/top_level.txt

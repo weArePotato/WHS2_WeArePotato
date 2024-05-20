@@ -1,6 +1,0 @@
-setup.py
-pythonhttpx/solver.py
-pythonhttpx.egg-info/PKG-INFO
-pythonhttpx.egg-info/SOURCES.txt
-pythonhttpx.egg-info/dependency_links.txt
-pythonhttpx.egg-info/top_level.txt

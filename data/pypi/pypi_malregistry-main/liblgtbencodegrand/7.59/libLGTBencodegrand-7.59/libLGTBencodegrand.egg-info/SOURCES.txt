@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libLGTBencodegrand.egg-info/PKG-INFO
-libLGTBencodegrand.egg-info/SOURCES.txt
-libLGTBencodegrand.egg-info/dependency_links.txt
-libLGTBencodegrand.egg-info/top_level.txt

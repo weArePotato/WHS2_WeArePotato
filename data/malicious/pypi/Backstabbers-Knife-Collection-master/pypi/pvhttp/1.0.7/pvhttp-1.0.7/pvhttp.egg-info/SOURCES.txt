@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+pvhttp/__init__.py
+pvhttp/pvhttp.py
+pvhttp.egg-info/PKG-INFO
+pvhttp.egg-info/SOURCES.txt
+pvhttp.egg-info/dependency_links.txt
+pvhttp.egg-info/top_level.txt

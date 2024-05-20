@@ -1,0 +1,18 @@
+.dropdown-container {
+    position: fixed;
+    z-index: 2000;
+}
+
+.dropdown-control {
+    position: absolute;    
+    box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 2px 1px -1px rgba(0,0,0,0.12);    
+    background-color: white;
+}
+
+.dropdown-top-border {
+    border-top: 1px solid #ECEFF1;
+}
+
+.legacy-dropdown-container {
+    width: 100%;
+}

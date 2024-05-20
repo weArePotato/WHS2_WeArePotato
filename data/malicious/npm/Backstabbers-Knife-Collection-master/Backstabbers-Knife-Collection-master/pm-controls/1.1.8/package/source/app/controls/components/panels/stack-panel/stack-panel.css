@@ -1,0 +1,13 @@
+.stack-panel-container {
+    display: flex;
+    align-items: center;
+}
+
+.stack-panel-vertical {
+    flex-direction: column;
+    align-items: start;
+}
+
+.stack-panel-horizontal-alignment-right {
+    justify-content: flex-end;
+}

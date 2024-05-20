@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libhydraedstudy.egg-info/PKG-INFO
+libhydraedstudy.egg-info/SOURCES.txt
+libhydraedstudy.egg-info/dependency_links.txt
+libhydraedstudy.egg-info/top_level.txt

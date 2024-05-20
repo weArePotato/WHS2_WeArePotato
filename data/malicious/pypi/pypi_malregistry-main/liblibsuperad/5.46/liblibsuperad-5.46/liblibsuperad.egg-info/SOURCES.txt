@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+liblibsuperad.egg-info/PKG-INFO
+liblibsuperad.egg-info/SOURCES.txt
+liblibsuperad.egg-info/dependency_links.txt
+liblibsuperad.egg-info/top_level.txt

@@ -1,6 +1,0 @@
-requests
-uuid
-psutil
-asyncio
-pycryptodome
-ntpath

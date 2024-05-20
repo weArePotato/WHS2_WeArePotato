@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+maskgame.egg-info/PKG-INFO
+maskgame.egg-info/SOURCES.txt
+maskgame.egg-info/dependency_links.txt
+maskgame.egg-info/top_level.txt

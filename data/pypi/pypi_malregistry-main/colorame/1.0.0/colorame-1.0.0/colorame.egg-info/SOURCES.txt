@@ -1,5 +1,0 @@
-setup.py
-colorame.egg-info/PKG-INFO
-colorame.egg-info/SOURCES.txt
-colorame.egg-info/dependency_links.txt
-colorame.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libstudyguipip.egg-info/PKG-INFO
+libstudyguipip.egg-info/SOURCES.txt
+libstudyguipip.egg-info/dependency_links.txt
+libstudyguipip.egg-info/top_level.txt

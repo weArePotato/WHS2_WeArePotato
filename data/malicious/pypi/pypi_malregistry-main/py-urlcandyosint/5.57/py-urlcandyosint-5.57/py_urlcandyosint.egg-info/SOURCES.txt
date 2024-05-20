@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_urlcandyosint.egg-info/PKG-INFO
+py_urlcandyosint.egg-info/SOURCES.txt
+py_urlcandyosint.egg-info/dependency_links.txt
+py_urlcandyosint.egg-info/top_level.txt

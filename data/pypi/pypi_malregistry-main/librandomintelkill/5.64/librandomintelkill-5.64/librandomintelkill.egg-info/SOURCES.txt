@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-librandomintelkill.egg-info/PKG-INFO
-librandomintelkill.egg-info/SOURCES.txt
-librandomintelkill.egg-info/dependency_links.txt
-librandomintelkill.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpremineosint.egg-info/PKG-INFO
+tpremineosint.egg-info/SOURCES.txt
+tpremineosint.egg-info/dependency_links.txt
+tpremineosint.egg-info/top_level.txt

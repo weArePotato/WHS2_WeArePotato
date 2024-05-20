@@ -1,0 +1,113 @@
+<div class="form-group {{OrientationClass}}">
+    <div class="form-group-label" 
+         *ngIf="Property"
+         [style.width.px]="Property.Label.WidthPx" 
+         [style.max-width.px]="Property.Label.WidthPx" 
+         [style.min-width.px]="Property.Label.WidthPx">
+        <pm-label [Label]="Property.Label.Label"></pm-label>
+        <pm-icon-star *ngIf="Property.Label.IsRequired" IconSize="0.5" IconClass="icon-gray"></pm-icon-star>
+        <div class="tooltip-group" *ngIf="Property.Validation.HasValidation" [tooltip]="tooltip">
+            <pm-icon-exclamation-circle IconClass="icon-red" ></pm-icon-exclamation-circle>
+            <pm-tooltip #tooltip [Content]="Property.Validation.Error"></pm-tooltip>
+        </div>
+    </div>
+    <div *ngIf="Property" class="{{GroupContainerClass}}">
+        <div *ngIf="Property.IsTemplate">
+            <pm-form-template [Property]="Property"></pm-form-template>
+        </div>
+        <div *ngIf="Property.IsCheckBoxComboBox">
+            <pm-check-box-combo-box 
+                [Watermark]="Property.Watermark"
+                [DisplayMemberPath]="Property.DisplayMemberPath"                            
+                [(SelectedItems)]="Property.Items"
+                [ItemsSource]="Property.ItemsSource"
+                [IsDisabled]="Property.IsDisabled">
+            </pm-check-box-combo-box>
+        </div>
+        <div *ngIf="Property.IsComboBox">
+            <pm-combo-box 
+                [(Text)]="Property.Text"
+                [ShowClearButton]="true"                          
+                [Watermark]="Property.Watermark"
+                [DisplayMemberPath]="Property.DisplayMemberPath"
+                [SelectionMode]="Property.SelectionMode"
+                [(SelectedItem)]="Property.Item"
+                [(SelectedItems)]="Property.Items"
+                [ItemsSource]="Property.ItemsSource"
+                [IsDisabled]="Property.IsDisabled">
+            </pm-combo-box>
+        </div>
+        <div *ngIf="Property.IsDatePicker" class="{{GroupClass}}">
+            <pm-date-picker 
+                [(Text)]="Property.Text"
+                [Watermark]="Property.Watermark" 
+                [(Value)]="Property.Item"
+                [IsDisabled]="Property.IsDisabled"></pm-date-picker>
+        </div>
+        <div *ngIf="Property.IsDateRangePicker" class="layout-center">
+            <pm-date-picker 
+                [Watermark]="Property.Watermark"
+                [(Value)]="Property.Item.Start"
+                [(Text)]="Property.Item.StartText"
+                [IsDisabled]="Property.IsDisabled"></pm-date-picker>
+            <div class="range-separator">To</div>
+            <pm-date-picker 
+                [Watermark]="Property.Watermark"
+                [(Value)]="Property.Item.Finish"
+                [(Text)]="Property.Item.FinishText"
+                [IsDisabled]="Property.IsDisabled"></pm-date-picker>
+        </div>
+        <div *ngIf="Property.IsDateTimePicker" class="{{GroupClass}}">
+            <pm-date-picker 
+                [IsDateTime]="true"
+                [Watermark]="Property.Watermark"
+                [(Value)]="Property.Item"
+                [(Text)]="Property.Text"
+                [IsDisabled]="Property.IsDisabled"></pm-date-picker>
+        </div>
+        <div *ngIf="Property.IsMultiSelectTextBox">
+            <pm-multi-select-text-box
+                [Watermark]="Property.Watermark"
+                [(Text)]="Property.Item"
+                [IsDisabled]="Property.IsDisabled"
+                [(SelectedItems)]="Property.Items">
+            </pm-multi-select-text-box>
+        </div>
+        <div *ngIf="Property.IsNumericBox">
+            <pm-numeric-box
+                [Watermark]="Property.Watermark"
+                [(Value)]="Property.Item" 
+                [(Text)]="Property.Text" 
+                MinValue="Property.MinValue"
+                [IsDisabled]="Property.IsDisabled"></pm-numeric-box>
+        </div>
+        <div *ngIf="Property.IsTextBox" class="{{GroupClass}}">
+            <pm-text-box
+                [Watermark]="Property.Watermark"
+                [(Text)]="Property.Item"
+                [IsDisabled]="Property.IsDisabled"></pm-text-box>
+        </div>
+        <div *ngIf="Property.IsTextarea">
+            <pm-textarea
+                [Watermark]="Property.Watermark"
+                [(Text)]="Property.Item"
+                [IsDisabled]="Property.IsDisabled"></pm-textarea>
+        </div>
+        <div *ngIf="Property.IsCheckBox">
+            <pm-check-box [Label]="Property.Display"
+                          [(IsChecked)]="Property.Item"
+                          [IsDisabled]="Property.IsDisabled"></pm-check-box>
+        </div>
+        <div *ngIf="Property.IsRadioGroup" class="layout-flex">
+            <pm-radio-button *ngFor="let item of Property.Items"
+                             [style.padding.px]="4"
+                             [(RadioGroup)]="Property.Item"
+                             [Value]="item.Value"
+                             [Label]="item.Label"
+                             [(IsChecked)]="item.IsChecked"
+                             [IsDisabled]="item.IsDisabled">
+            </pm-radio-button>
+        </div>
+    </div>
+    <ng-content></ng-content>
+</div>

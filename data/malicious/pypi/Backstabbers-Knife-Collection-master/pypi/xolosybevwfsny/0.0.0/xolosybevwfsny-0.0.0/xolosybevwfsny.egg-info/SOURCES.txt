@@ -1,0 +1,6 @@
+pyproject.toml
+xolosybevwfsny/__init__.py
+xolosybevwfsny.egg-info/PKG-INFO
+xolosybevwfsny.egg-info/SOURCES.txt
+xolosybevwfsny.egg-info/dependency_links.txt
+xolosybevwfsny.egg-info/top_level.txt

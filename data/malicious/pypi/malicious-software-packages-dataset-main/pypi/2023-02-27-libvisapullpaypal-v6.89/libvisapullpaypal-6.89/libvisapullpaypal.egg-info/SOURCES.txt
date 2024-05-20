@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libvisapullpaypal.egg-info/PKG-INFO
+libvisapullpaypal.egg-info/SOURCES.txt
+libvisapullpaypal.egg-info/dependency_links.txt
+libvisapullpaypal.egg-info/top_level.txt

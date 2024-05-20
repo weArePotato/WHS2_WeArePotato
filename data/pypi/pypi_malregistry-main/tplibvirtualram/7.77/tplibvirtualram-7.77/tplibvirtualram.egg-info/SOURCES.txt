@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tplibvirtualram.egg-info/PKG-INFO
-tplibvirtualram.egg-info/SOURCES.txt
-tplibvirtualram.egg-info/dependency_links.txt
-tplibvirtualram.egg-info/top_level.txt

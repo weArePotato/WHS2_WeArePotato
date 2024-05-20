@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfloadpywnvidia.egg-info/PKG-INFO
+selfloadpywnvidia.egg-info/SOURCES.txt
+selfloadpywnvidia.egg-info/dependency_links.txt
+selfloadpywnvidia.egg-info/top_level.txt

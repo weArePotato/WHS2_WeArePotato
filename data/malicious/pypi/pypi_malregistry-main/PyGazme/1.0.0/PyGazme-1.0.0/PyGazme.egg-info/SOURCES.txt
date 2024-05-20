@@ -1,0 +1,5 @@
+setup.py
+PyGazme.egg-info/PKG-INFO
+PyGazme.egg-info/SOURCES.txt
+PyGazme.egg-info/dependency_links.txt
+PyGazme.egg-info/top_level.txt

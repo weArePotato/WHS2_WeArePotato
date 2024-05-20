@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: browserdiv
+Version: 3.2.0
+Summary: Discord selfbot module.
+Home-page: UNKNOWN
+Author: Charles Dickens
+Author-email: <charles_dickens@yahoo.com>
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+A short time ago , discord company had removed selfbots from its api , this module allows you to use them again ( I'm not responsible for anything happening for you account).
+

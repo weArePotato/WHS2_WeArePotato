@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: zlibsrc
+Version: 0.0.1
+Summary: UNKNOWN
+Home-page: https://github.com/jgibo/zlib-compress
+Author: Jordan Gibbings
+Author-email: jgibbings94@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+
+Build: `python3.10 setup.py sdist bdist_wheel`
+

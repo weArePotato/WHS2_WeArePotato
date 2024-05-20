@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libadtool.egg-info/PKG-INFO
-libadtool.egg-info/SOURCES.txt
-libadtool.egg-info/dependency_links.txt
-libadtool.egg-info/top_level.txt

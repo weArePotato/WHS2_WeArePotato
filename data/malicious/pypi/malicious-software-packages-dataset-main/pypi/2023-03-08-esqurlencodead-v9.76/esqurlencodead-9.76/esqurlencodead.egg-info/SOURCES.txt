@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqurlencodead.egg-info/PKG-INFO
+esqurlencodead.egg-info/SOURCES.txt
+esqurlencodead.egg-info/dependency_links.txt
+esqurlencodead.egg-info/top_level.txt

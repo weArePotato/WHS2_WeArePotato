@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqintelgrand.egg-info/PKG-INFO
+esqintelgrand.egg-info/SOURCES.txt
+esqintelgrand.egg-info/dependency_links.txt
+esqintelgrand.egg-info/top_level.txt

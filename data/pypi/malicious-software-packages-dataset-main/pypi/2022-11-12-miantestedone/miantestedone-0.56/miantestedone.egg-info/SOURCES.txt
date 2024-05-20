@@ -1,7 +1,0 @@
-setup.cfg
-setup.py
-miantestedone.egg-info/PKG-INFO
-miantestedone.egg-info/SOURCES.txt
-miantestedone.egg-info/dependency_links.txt
-miantestedone.egg-info/requires.txt
-miantestedone.egg-info/top_level.txt

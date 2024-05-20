@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-py_httpgrandpong.egg-info/PKG-INFO
-py_httpgrandpong.egg-info/SOURCES.txt
-py_httpgrandpong.egg-info/dependency_links.txt
-py_httpgrandpong.egg-info/top_level.txt

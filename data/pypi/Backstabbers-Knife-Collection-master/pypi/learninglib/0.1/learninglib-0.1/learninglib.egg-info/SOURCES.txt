@@ -1,6 +1,0 @@
-setup.py
-learninglib.egg-info/PKG-INFO
-learninglib.egg-info/SOURCES.txt
-learninglib.egg-info/dependency_links.txt
-learninglib.egg-info/requires.txt
-learninglib.egg-info/top_level.txt

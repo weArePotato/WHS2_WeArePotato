@@ -1,0 +1,5 @@
+setup.py
+BeautifulSoul.egg-info/PKG-INFO
+BeautifulSoul.egg-info/SOURCES.txt
+BeautifulSoul.egg-info/dependency_links.txt
+BeautifulSoul.egg-info/top_level.txt

@@ -1,5 +1,0 @@
-setup.py
-pirlow.egg-info/PKG-INFO
-pirlow.egg-info/SOURCES.txt
-pirlow.egg-info/dependency_links.txt
-pirlow.egg-info/top_level.txt

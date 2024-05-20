@@ -1,0 +1,34 @@
+@keyframes indeterminate-rotate-overlay {
+    0%       { transform: rotate(0deg); }
+    100%     { transform: rotate(360deg); }
+}
+
+.busy-indicator-overlay-circular {
+  position: relative;
+  width: 60px;
+  height: 60px;
+}
+
+.busy-indicator-overlay-circular-container {
+  position: absolute;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+  animation: indeterminate-rotate-overlay 1568.63ms linear infinite;
+}
+
+.busy-indicator-overlay-circular-path {
+    stroke-dashoffset: 200px;
+    stroke-dasharray: 37px;
+    stroke: #4d90fe;
+}
+
+.busy-loading-content-circular {
+    padding-top: 20px;
+    color:#4d90fe;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: oblique;
+    display: flex;
+    justify-content: center;
+}

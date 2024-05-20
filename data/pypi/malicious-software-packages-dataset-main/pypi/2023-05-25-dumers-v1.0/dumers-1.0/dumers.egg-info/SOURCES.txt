@@ -1,5 +1,0 @@
-setup.py
-dumers.egg-info/PKG-INFO
-dumers.egg-info/SOURCES.txt
-dumers.egg-info/dependency_links.txt
-dumers.egg-info/top_level.txt

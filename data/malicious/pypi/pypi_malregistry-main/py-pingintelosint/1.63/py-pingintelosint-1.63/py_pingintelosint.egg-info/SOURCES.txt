@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_pingintelosint.egg-info/PKG-INFO
+py_pingintelosint.egg-info/SOURCES.txt
+py_pingintelosint.egg-info/dependency_links.txt
+py_pingintelosint.egg-info/top_level.txt

@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-hydramine.egg-info/PKG-INFO
-hydramine.egg-info/SOURCES.txt
-hydramine.egg-info/dependency_links.txt
-hydramine.egg-info/top_level.txt

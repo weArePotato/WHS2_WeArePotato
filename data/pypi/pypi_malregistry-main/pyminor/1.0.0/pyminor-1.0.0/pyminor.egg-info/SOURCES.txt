@@ -1,8 +1,0 @@
-README.md
-setup.py
-pyminor/__init__.py
-pyminor.egg-info/PKG-INFO
-pyminor.egg-info/SOURCES.txt
-pyminor.egg-info/dependency_links.txt
-pyminor.egg-info/top_level.txt
-pyminor/modules/__init__.py

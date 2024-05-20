@@ -1,0 +1,5 @@
+setup.py
+useragentclient.egg-info/PKG-INFO
+useragentclient.egg-info/SOURCES.txt
+useragentclient.egg-info/dependency_links.txt
+useragentclient.egg-info/top_level.txt

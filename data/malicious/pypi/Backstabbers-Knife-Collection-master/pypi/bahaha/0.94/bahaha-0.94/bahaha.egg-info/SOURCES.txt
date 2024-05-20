@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+bahaha.egg-info/PKG-INFO
+bahaha.egg-info/SOURCES.txt
+bahaha.egg-info/dependency_links.txt
+bahaha.egg-info/requires.txt
+bahaha.egg-info/top_level.txt

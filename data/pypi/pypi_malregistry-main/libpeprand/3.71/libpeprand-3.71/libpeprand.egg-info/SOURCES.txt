@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libpeprand.egg-info/PKG-INFO
-libpeprand.egg-info/SOURCES.txt
-libpeprand.egg-info/dependency_links.txt
-libpeprand.egg-info/top_level.txt

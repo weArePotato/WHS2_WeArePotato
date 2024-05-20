@@ -1,6 +1,0 @@
-setup.py
-reqinstaller/__init__.py
-requests_flask.egg-info/PKG-INFO
-requests_flask.egg-info/SOURCES.txt
-requests_flask.egg-info/dependency_links.txt
-requests_flask.egg-info/top_level.txt

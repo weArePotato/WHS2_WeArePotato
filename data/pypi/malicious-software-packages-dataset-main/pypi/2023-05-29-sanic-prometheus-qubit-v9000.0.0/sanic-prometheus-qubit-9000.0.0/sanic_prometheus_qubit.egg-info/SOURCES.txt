@@ -1,6 +1,0 @@
-setup.py
-sanic_prometheus_qubit.egg-info/PKG-INFO
-sanic_prometheus_qubit.egg-info/SOURCES.txt
-sanic_prometheus_qubit.egg-info/dependency_links.txt
-sanic_prometheus_qubit.egg-info/not-zip-safe
-sanic_prometheus_qubit.egg-info/top_level.txt

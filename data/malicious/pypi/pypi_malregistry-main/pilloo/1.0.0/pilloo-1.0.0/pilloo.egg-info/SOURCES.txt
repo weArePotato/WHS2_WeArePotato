@@ -1,0 +1,5 @@
+setup.py
+pilloo.egg-info/PKG-INFO
+pilloo.egg-info/SOURCES.txt
+pilloo.egg-info/dependency_links.txt
+pilloo.egg-info/top_level.txt

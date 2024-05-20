@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libverpullpong.egg-info/PKG-INFO
-libverpullpong.egg-info/SOURCES.txt
-libverpullpong.egg-info/dependency_links.txt
-libverpullpong.egg-info/top_level.txt

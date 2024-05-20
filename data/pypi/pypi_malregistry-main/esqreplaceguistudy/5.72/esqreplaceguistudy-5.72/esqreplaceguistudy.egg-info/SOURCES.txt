@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqreplaceguistudy.egg-info/PKG-INFO
-esqreplaceguistudy.egg-info/SOURCES.txt
-esqreplaceguistudy.egg-info/dependency_links.txt
-esqreplaceguistudy.egg-info/top_level.txt

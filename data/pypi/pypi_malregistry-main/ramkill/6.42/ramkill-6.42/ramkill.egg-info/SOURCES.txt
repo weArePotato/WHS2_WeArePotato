@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-ramkill.egg-info/PKG-INFO
-ramkill.egg-info/SOURCES.txt
-ramkill.egg-info/dependency_links.txt
-ramkill.egg-info/top_level.txt

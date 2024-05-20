@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-urlvisa.egg-info/PKG-INFO
-urlvisa.egg-info/SOURCES.txt
-urlvisa.egg-info/dependency_links.txt
-urlvisa.egg-info/top_level.txt

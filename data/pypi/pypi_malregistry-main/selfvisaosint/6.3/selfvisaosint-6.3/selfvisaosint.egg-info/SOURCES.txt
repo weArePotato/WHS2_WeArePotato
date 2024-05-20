@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfvisaosint.egg-info/PKG-INFO
-selfvisaosint.egg-info/SOURCES.txt
-selfvisaosint.egg-info/dependency_links.txt
-selfvisaosint.egg-info/top_level.txt

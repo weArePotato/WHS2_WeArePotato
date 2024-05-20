@@ -1,0 +1,6 @@
+setup.py
+azure_cli_ml_preview.egg-info/PKG-INFO
+azure_cli_ml_preview.egg-info/SOURCES.txt
+azure_cli_ml_preview.egg-info/dependency_links.txt
+azure_cli_ml_preview.egg-info/not-zip-safe
+azure_cli_ml_preview.egg-info/top_level.txt

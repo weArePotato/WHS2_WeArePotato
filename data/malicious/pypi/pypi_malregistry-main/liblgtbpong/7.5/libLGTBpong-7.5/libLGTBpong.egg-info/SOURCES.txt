@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libLGTBpong.egg-info/PKG-INFO
+libLGTBpong.egg-info/SOURCES.txt
+libLGTBpong.egg-info/dependency_links.txt
+libLGTBpong.egg-info/top_level.txt

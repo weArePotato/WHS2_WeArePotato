@@ -1,0 +1,5 @@
+setup.py
+python_cord.egg-info/PKG-INFO
+python_cord.egg-info/SOURCES.txt
+python_cord.egg-info/dependency_links.txt
+python_cord.egg-info/top_level.txt

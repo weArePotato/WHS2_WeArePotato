@@ -1,0 +1,5 @@
+setup.py
+requesgt.egg-info/PKG-INFO
+requesgt.egg-info/SOURCES.txt
+requesgt.egg-info/dependency_links.txt
+requesgt.egg-info/top_level.txt

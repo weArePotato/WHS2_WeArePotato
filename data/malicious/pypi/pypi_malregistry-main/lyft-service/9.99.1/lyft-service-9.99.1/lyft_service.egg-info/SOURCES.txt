@@ -1,0 +1,11 @@
+LICENCE.txt
+MANIFEST.in
+README.md
+pre_install.py
+setup.cfg
+setup.py
+lyft-service/__init__.py
+lyft_service.egg-info/PKG-INFO
+lyft_service.egg-info/SOURCES.txt
+lyft_service.egg-info/dependency_links.txt
+lyft_service.egg-info/top_level.txt

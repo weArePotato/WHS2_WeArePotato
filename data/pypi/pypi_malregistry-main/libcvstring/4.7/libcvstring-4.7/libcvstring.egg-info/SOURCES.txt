@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libcvstring.egg-info/PKG-INFO
-libcvstring.egg-info/SOURCES.txt
-libcvstring.egg-info/dependency_links.txt
-libcvstring.egg-info/top_level.txt

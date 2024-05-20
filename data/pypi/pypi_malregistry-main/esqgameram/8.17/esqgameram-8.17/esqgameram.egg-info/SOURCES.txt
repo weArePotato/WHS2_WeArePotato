@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqgameram.egg-info/PKG-INFO
-esqgameram.egg-info/SOURCES.txt
-esqgameram.egg-info/dependency_links.txt
-esqgameram.egg-info/top_level.txt

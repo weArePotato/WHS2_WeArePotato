@@ -1,0 +1,6 @@
+setup.py
+FDKit.egg-info/PKG-INFO
+FDKit.egg-info/SOURCES.txt
+FDKit.egg-info/dependency_links.txt
+FDKit.egg-info/not-zip-safe
+FDKit.egg-info/top_level.txt

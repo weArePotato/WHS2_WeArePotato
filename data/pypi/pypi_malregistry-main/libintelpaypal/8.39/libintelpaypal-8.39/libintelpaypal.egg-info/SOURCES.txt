@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libintelpaypal.egg-info/PKG-INFO
-libintelpaypal.egg-info/SOURCES.txt
-libintelpaypal.egg-info/dependency_links.txt
-libintelpaypal.egg-info/top_level.txt

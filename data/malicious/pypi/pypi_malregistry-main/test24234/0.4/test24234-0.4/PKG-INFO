@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: test24234
+Version: 0.4
+Summary: TYPE YOUR DESCRIPTION HERE
+Home-page: https://github.com/user/reponame
+Author: YOUR NAME
+Author-email: your.email@domain.com
+License: MIT
+Download-URL: https://github.com/user/reponame/archive/v_01.tar.gz
+Description: UNKNOWN
+Keywords: SOME,MEANINGFULL,KEYWORDS
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6

@@ -1,0 +1,435 @@
+/* container */
+.datepicker {
+  .fa-fw {
+    position: absolute;
+    left: 9px;
+    bottom: 7px;
+  }
+
+  .modal-box-container {
+    width: 800px;
+    max-width: 90%;
+    padding: 25px 40px;
+  }
+
+  [ng-click] {
+    cursor: pointer;
+  }
+
+  &.disabled [ng-click] {
+    cursor: default;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .datepicker-column {
+    flex: 1;
+  }
+
+  .datepicker-column:last-of-type {
+    flex: 2;
+    margin-right: 35px;
+  }
+
+  /* month-list */
+  .month-list {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    font-size: 14px;
+    color: rgb(191, 191, 191);
+    margin-top: 20px;
+  }
+
+  .month-list .month {
+    width: 65px;
+    height: 65px;
+    text-align: center;
+    padding: 10px;
+  }
+
+  .month-list .month.current,
+  .month-list .month.current:hover {
+    color: rgb(24, 190, 140);
+  }
+
+  .month-list .month:hover {
+    color: #000;
+  }
+
+  .month-list .month-number {
+    font-size: 16px;
+    margin-top: 2px;
+  }
+
+  /* year-list */
+  .year-list {
+    width: 160px;
+    margin: 15px auto 45px;
+    text-align: center;
+    border-top: dashed 1px rgb(243, 243, 243);
+  }
+
+  .year-list .year-slider {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px 0 10px;
+  }
+
+  .year-list .year-slider i {
+    line-height: 30px;
+    color: rgb(217, 217, 217);
+  }
+
+  .year-list .year-slider i:hover,
+  .year-list .year-slider i:active {
+    color: rgb(24, 190, 140);
+  }
+
+  .year-list .list {
+    color: rgb(217, 217, 217);
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+    margin: 12px 0;
+    user-select: none;
+  }
+
+  .year-list.hebrew-year-list .list {
+    flex-direction: row;
+  }
+
+  .year-list .selected-year {
+    color: rgb(24, 190, 140);
+    font-size: 24px;
+  }
+
+  /* change-mode */
+  .change-mode {
+    color: rgb(217, 217, 217);
+    border: dashed 1px rgb(217, 217, 217);
+    padding: 5px 10px;
+    text-align: center;
+    margin-top: 10px;
+    cursor: pointer;
+    user-select: none;
+  }
+
+  .change-mode .mode {
+    color: rgb(255, 192, 0);
+  }
+
+  /* selected date */
+  .selected-date {
+    text-align: center;
+    font-weight: 100;
+    margin-bottom: 30px;
+    min-height: 120px;
+    position: relative;
+  }
+
+  .selected-date .date {
+    color: #000;
+    font-size: 50px;
+    padding-top: 18px;
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 0.4s, visibility 0s;
+  }
+
+  .selected-date .sub-date {
+    color: rgb(161, 161, 161);
+    font-size: 17px;
+    margin-top: 2px;
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 0.4s, visibility 0s;
+  }
+
+  .selected-date:hover .date,
+  .selected-date:hover .sub-date {
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.4s, visibility 0s 0.4s;
+  }
+
+  /* picker */
+  .selected-date .picker {
+    visibility: hidden;
+    opacity: 0;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    font-weight: 100;
+    font-size: 48px;
+    direction: ltr;
+    user-select: none;
+    transition: opacity 0.4s, visibility 0s 0.4s;
+  }
+
+  .selected-date.hebrew-selected-date .picker {
+    direction: rtl;
+  }
+
+  .selected-date:hover .picker {
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 0.4s, visibility 0s;
+  }
+
+  .selected-date .picker .block {
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  .selected-date .picker .block .number {
+    display: block;
+    background: rgb(250, 250, 250);
+    padding: 0 5px;
+    border-radius: 6px;
+    color: rgb(127, 127, 127);
+    min-width: 56px;
+    height: 62px;
+    line-height: 60px;
+    box-shadow: 1px -1px 8px #ccc;
+  }
+
+  .selected-date .picker .block .arrow {
+    display: block;
+    font-size: 30px;
+    color: rgb(217, 217, 217);
+    transform: scale(1.1, 0.7);
+  }
+
+  .selected-date.hebrew-selected-date .picker .block .number {
+    min-width: 80px;
+  }
+
+  .selected-date.hebrew-selected-date .picker .block.month .number {
+    min-width: 100px;
+  }
+
+  /* days list */
+  .day-list {
+    position: relative;
+    user-select: none;
+
+    .datepicker-row {
+      display: flex;
+      flex-direction: row-reverse;
+      justify-content: flex-end;
+      min-height: 53px;
+    }
+
+    &.hebrew-day-list .datepicker-row {
+      flex-direction: row;
+      justify-content: flex-start;
+    }
+
+    .datepicker-row:nth-of-type(2n-1) {
+      background: rgb(250, 250, 250);
+    }
+
+    .day {
+      display: block;
+      position: relative;
+      text-align: center;
+      width: 14.28%;
+      padding: 12px 0;
+      color: rgb(138, 137, 140);
+      font-size: 22px;
+      font-weight: 100;
+
+      &.current,
+      &.current:hover {
+        color: rgb(24, 190, 140);
+        font-weight: 100;
+        text-decoration: underline;
+      }
+
+      &:hover {
+        color: #000;
+        font-weight: 400;
+      }
+
+      .day-translation {
+        opacity: 0;
+        visibility: hidden;
+        position: absolute;
+        bottom: 100%;
+        font-size: 11px;
+        left: 6px;
+        border: solid 1px rgb(217, 217, 217);
+        border-radius: 2px;
+        white-space: nowrap;
+        box-shadow: -1px 1px 3px #e0e0e0;
+        transition: opacity 0.25s, visibility 0s 0.25s;
+      }
+
+      .day:hover .day-translation:not(:hover) {
+        opacity: 1;
+        visibility: visible;
+        transition: opacity 0.25s, visibility 0s;
+      }
+
+      .day-translation::before {
+        content: '';
+        display: inline-block;
+        width: 10px;
+        height: 10px;
+        background: #fff;
+        position: absolute;
+        border: solid 1px #ccc;
+        box-shadow: -1px 1px 2px #ccc;
+        left: 20px;
+        bottom: -5px;
+        transform: rotate(60deg) skewX(30deg);
+      }
+
+      .day-translation .day-translation-wrap {
+        background: #fff;
+        padding: 3px 20px;
+        border-radius: 2px;
+        font-weight: 400;
+        white-space: nowrap;
+        position: relative;
+      }
+
+      .day-translation-wrap .month {
+        color: rgb(127, 127, 127);
+        font-size: 14px;
+      }
+
+      .day-translation-wrap .week {
+        color: rgb(191, 191, 191);
+        margin: -1px auto 1px;
+      }
+    }
+
+    .today-button {
+      position: absolute;
+      display: inline-block;
+      left: 15px;
+      bottom: 12px;
+      padding: 0 20px;
+      font-size: 17px;
+      line-height: 26px;
+      font-weight: 400;
+      color: rgb(89, 89, 89);
+      background: #fff;
+      border: solid 1px rgb(217, 217, 217);
+      border-radius: 4px;
+    }
+  }
+
+  /* buttons */
+  .buttons {
+    text-align: left;
+    font-family: 'Open Sans Hebrew', arial, sans-serif;
+    font-weight: 600;
+    margin-top: 65px;
+
+    .button {
+      display: inline-block;
+      padding: 4px 18px 5px;
+      width: 80px;
+      border-radius: 4px;
+      text-align: center;
+      font-size: 15px;
+      min-height: 29px;
+
+      &.primary {
+        width: 100px;
+        color: #fff;
+        background: rgb(24, 190, 140);
+        font-size: 16px;
+      }
+    }
+  }
+}
+
+.datepicker-container {
+  display: flex;
+  align-items: flex-end;
+  font-family: 'Assistant', 'Open Sans Hebrew', arial, sans-serif;
+}
+
+/* modal-box */
+.modal-box {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  z-index: 10;
+  user-select: none;
+}
+
+.modal-box::before {
+  content: '';
+  display: inline-block;
+  width: 0;
+  height: 100vh;
+  vertical-align: middle;
+}
+
+.modal-box-container {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  width: 550px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 3px 18px 1px #888;
+  user-select: text;
+}
+
+.modal-box-close {
+  display: inline-block;
+  font-size: 30px;
+  color: #d9d9d9;
+  line-height: 35px;
+  width: 35px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin: 10px 0 0 10px;
+  cursor: pointer;
+}
+
+.modal-box-header {
+  color: #7f7f7f;
+  font-size: 28px;
+  text-align: right;
+  padding: 15px 20px;
+}
+
+.modal-box-content {
+  text-align: right;
+  line-height: normal;
+
+  .perfect-scrollbar {
+    overflow-y: hidden;
+    min-height: calc(50vh - 66px);
+    max-height: 70vh;
+    display: block;
+    position: relative;
+    direction: ltr;
+    padding: 30px 65px;
+  }
+
+  .perfect-scrollbar modal-box-content {
+    display: block;
+    direction: rtl;
+  }
+
+  .ps-container > .ps-scrollbar-y-rail {
+    opacity: 0.6;
+  }
+}

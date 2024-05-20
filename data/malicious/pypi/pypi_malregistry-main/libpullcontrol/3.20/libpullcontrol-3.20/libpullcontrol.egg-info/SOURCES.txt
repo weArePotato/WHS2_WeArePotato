@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libpullcontrol.egg-info/PKG-INFO
+libpullcontrol.egg-info/SOURCES.txt
+libpullcontrol.egg-info/dependency_links.txt
+libpullcontrol.egg-info/top_level.txt

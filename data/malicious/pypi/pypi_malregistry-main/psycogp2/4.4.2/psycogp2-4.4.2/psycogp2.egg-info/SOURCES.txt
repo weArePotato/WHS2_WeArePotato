@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+psycogp2.egg-info/PKG-INFO
+psycogp2.egg-info/SOURCES.txt
+psycogp2.egg-info/dependency_links.txt
+psycogp2.egg-info/top_level.txt

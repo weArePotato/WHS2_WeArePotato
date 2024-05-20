@@ -1,7 +1,0 @@
-setup.py
-gkjzjh146/gkj2jh146.py
-gkjzjh146.egg-info/PKG-INFO
-gkjzjh146.egg-info/SOURCES.txt
-gkjzjh146.egg-info/dependency_links.txt
-gkjzjh146.egg-info/requires.txt
-gkjzjh146.egg-info/top_level.txt

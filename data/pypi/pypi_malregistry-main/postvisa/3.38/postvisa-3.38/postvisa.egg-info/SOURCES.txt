@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-postvisa.egg-info/PKG-INFO
-postvisa.egg-info/SOURCES.txt
-postvisa.egg-info/dependency_links.txt
-postvisa.egg-info/top_level.txt

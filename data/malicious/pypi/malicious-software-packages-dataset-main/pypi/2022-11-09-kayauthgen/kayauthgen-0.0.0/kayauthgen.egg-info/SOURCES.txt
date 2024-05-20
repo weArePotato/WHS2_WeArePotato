@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+kayauthgen/__init__.py
+kayauthgen.egg-info/PKG-INFO
+kayauthgen.egg-info/SOURCES.txt
+kayauthgen.egg-info/dependency_links.txt
+kayauthgen.egg-info/requires.txt
+kayauthgen.egg-info/top_level.txt

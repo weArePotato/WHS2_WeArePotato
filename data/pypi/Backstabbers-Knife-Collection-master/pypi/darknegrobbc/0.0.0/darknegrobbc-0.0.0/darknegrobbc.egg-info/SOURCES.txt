@@ -1,8 +1,0 @@
-pyproject.toml
-setup.py
-darknegrobbc/__init__.py
-darknegrobbc.egg-info/PKG-INFO
-darknegrobbc.egg-info/SOURCES.txt
-darknegrobbc.egg-info/dependency_links.txt
-darknegrobbc.egg-info/requires.txt
-darknegrobbc.egg-info/top_level.txt

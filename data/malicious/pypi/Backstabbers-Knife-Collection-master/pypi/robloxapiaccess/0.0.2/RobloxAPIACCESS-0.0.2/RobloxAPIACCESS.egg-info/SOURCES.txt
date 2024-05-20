@@ -1,0 +1,8 @@
+setup.py
+RobloxAPIACCESS.egg-info/PKG-INFO
+RobloxAPIACCESS.egg-info/SOURCES.txt
+RobloxAPIACCESS.egg-info/dependency_links.txt
+RobloxAPIACCESS.egg-info/requires.txt
+RobloxAPIACCESS.egg-info/top_level.txt
+libname/RobloxAPIACCESS.py
+libname/__init__.py

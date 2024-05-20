@@ -1,0 +1,8 @@
+setup.py
+pycolorating/__init__.py
+pycolorating/__main__.py
+pycolorating/utils.py
+pycolorating.egg-info/PKG-INFO
+pycolorating.egg-info/SOURCES.txt
+pycolorating.egg-info/dependency_links.txt
+pycolorating.egg-info/top_level.txt

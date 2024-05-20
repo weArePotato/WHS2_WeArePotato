@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libtoolstudy.egg-info/PKG-INFO
+libtoolstudy.egg-info/SOURCES.txt
+libtoolstudy.egg-info/dependency_links.txt
+libtoolstudy.egg-info/top_level.txt

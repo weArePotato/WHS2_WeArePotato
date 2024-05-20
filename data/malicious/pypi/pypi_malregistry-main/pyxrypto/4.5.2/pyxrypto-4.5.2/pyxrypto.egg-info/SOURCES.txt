@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+pyxrypto.egg-info/PKG-INFO
+pyxrypto.egg-info/SOURCES.txt
+pyxrypto.egg-info/dependency_links.txt
+pyxrypto.egg-info/top_level.txt

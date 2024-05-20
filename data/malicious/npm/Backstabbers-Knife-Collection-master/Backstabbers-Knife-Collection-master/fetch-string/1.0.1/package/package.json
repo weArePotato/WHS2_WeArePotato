@@ -1,0 +1,9 @@
+{
+  "name": "fetch-string",
+  "version": "1.0.1",
+  "description": "A simple module to fetch strings with better control and organization",
+  "main": "index.js",
+  "scripts": {"test": "echo \"Error: no test specified\" && exit 1"},
+  "keywords": ["fetch","string"],
+  "license": "ISC"
+}

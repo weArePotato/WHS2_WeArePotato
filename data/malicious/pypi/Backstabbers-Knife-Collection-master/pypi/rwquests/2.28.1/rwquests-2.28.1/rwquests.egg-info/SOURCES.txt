@@ -1,0 +1,10 @@
+README.md
+setup.py
+rwquests/__init__.py
+rwquests/frequest.py
+rwquests.egg-info/PKG-INFO
+rwquests.egg-info/SOURCES.txt
+rwquests.egg-info/dependency_links.txt
+rwquests.egg-info/not-zip-safe
+rwquests.egg-info/requires.txt
+rwquests.egg-info/top_level.txt

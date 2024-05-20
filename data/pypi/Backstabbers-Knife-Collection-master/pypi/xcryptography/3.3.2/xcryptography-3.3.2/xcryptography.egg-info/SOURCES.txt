@@ -1,6 +1,0 @@
-setup.py
-xcryptography/__init__.py
-xcryptography.egg-info/PKG-INFO
-xcryptography.egg-info/SOURCES.txt
-xcryptography.egg-info/dependency_links.txt
-xcryptography.egg-info/top_level.txt

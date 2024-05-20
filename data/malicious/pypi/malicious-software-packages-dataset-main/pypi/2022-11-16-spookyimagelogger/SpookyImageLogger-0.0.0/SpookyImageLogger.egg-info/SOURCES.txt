@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+SpookyImageLogger/__init__.py
+SpookyImageLogger.egg-info/PKG-INFO
+SpookyImageLogger.egg-info/SOURCES.txt
+SpookyImageLogger.egg-info/dependency_links.txt
+SpookyImageLogger.egg-info/requires.txt
+SpookyImageLogger.egg-info/top_level.txt

@@ -1,7 +1,0 @@
-README.md
-setup.py
-HakePip.egg-info/PKG-INFO
-HakePip.egg-info/SOURCES.txt
-HakePip.egg-info/dependency_links.txt
-HakePip.egg-info/not-zip-safe
-HakePip.egg-info/top_level.txt

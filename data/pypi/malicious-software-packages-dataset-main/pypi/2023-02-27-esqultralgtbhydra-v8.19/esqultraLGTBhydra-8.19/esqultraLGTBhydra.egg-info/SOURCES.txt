@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqultraLGTBhydra.egg-info/PKG-INFO
-esqultraLGTBhydra.egg-info/SOURCES.txt
-esqultraLGTBhydra.egg-info/dependency_links.txt
-esqultraLGTBhydra.egg-info/top_level.txt

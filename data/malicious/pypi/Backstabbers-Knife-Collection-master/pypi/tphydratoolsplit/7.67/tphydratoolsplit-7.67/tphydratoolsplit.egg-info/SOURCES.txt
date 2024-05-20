@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tphydratoolsplit.egg-info/PKG-INFO
+tphydratoolsplit.egg-info/SOURCES.txt
+tphydratoolsplit.egg-info/dependency_links.txt
+tphydratoolsplit.egg-info/top_level.txt

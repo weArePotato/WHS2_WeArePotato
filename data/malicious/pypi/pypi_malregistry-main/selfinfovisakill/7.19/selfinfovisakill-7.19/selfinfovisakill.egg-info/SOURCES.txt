@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfinfovisakill.egg-info/PKG-INFO
+selfinfovisakill.egg-info/SOURCES.txt
+selfinfovisakill.egg-info/dependency_links.txt
+selfinfovisakill.egg-info/top_level.txt

@@ -1,6 +1,0 @@
-setup.py
-peloton_client123.egg-info/PKG-INFO
-peloton_client123.egg-info/SOURCES.txt
-peloton_client123.egg-info/dependency_links.txt
-peloton_client123.egg-info/not-zip-safe
-peloton_client123.egg-info/top_level.txt

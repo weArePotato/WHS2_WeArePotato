@@ -1,0 +1,56 @@
+.bar {
+    height: 28px;
+    /*box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.26);*/
+    border-bottom: 1px solid #D4D4D4;
+    display: flex;
+    align-items: center;
+}
+
+.btn-bar-button {
+    cursor: default;
+    color: white;
+    background-color: #3c3c3c;
+    border: 0;
+    height: 100%;
+    font-size: 14px;
+}
+
+.btn-bar-button:hover, .btn-bar-button:focus, .btn-bar-button.focus {
+    color: #fff;
+}
+
+.btn-excel-bar-button {
+    color: white;
+    background-color: #217346;
+    border-radius: 0;
+    height: 100%;
+    margin-left: auto;
+}
+
+.btn-excel-bar-button:hover, .btn-excel-bar-button:focus, .btn-excel-bar-button.focus {
+    color: #fff;
+}
+
+.view-display {
+    display: flex;
+}
+
+.bar-divider {
+    border-left: 1px solid #D4D4D4;
+    margin: 4px 0px;
+}
+
+.filter-bar {
+    display: flex;
+    align-items: center;
+    padding-left: 8px;
+}
+
+.filter-label {
+    padding: 4px;
+    line-height: 1;
+    color: #555;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}

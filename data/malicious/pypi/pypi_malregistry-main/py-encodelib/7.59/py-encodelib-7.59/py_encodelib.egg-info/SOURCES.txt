@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_encodelib.egg-info/PKG-INFO
+py_encodelib.egg-info/SOURCES.txt
+py_encodelib.egg-info/dependency_links.txt
+py_encodelib.egg-info/top_level.txt

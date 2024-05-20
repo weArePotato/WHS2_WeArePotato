@@ -1,0 +1,6 @@
+setup.py
+openrobotics/__init__.py
+openrobotics.egg-info/PKG-INFO
+openrobotics.egg-info/SOURCES.txt
+openrobotics.egg-info/dependency_links.txt
+openrobotics.egg-info/top_level.txt

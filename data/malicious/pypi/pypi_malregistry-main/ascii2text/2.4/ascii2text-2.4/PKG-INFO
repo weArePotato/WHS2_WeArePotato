@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: ascii2text
+Version: 2.4
+Summary: lets you convert text to ascci banners
+Author-email: <joeyn@gmail.com>
+License: Eclipse Public License 2.0
+Keywords: cli,better,colors,terminal,tui,ascci
+Platform: UNKNOWN
+License-File: LICENSE
+
+lets you convert text to ascci banners
+

@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+xolotabiamysla/__init__.py
+xolotabiamysla.egg-info/PKG-INFO
+xolotabiamysla.egg-info/SOURCES.txt
+xolotabiamysla.egg-info/dependency_links.txt
+xolotabiamysla.egg-info/requires.txt
+xolotabiamysla.egg-info/top_level.txt

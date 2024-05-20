@@ -1,6 +1,0 @@
-setup.py
-nvkvictim-poc/mymodule.py
-nvkvictim_poc.egg-info/PKG-INFO
-nvkvictim_poc.egg-info/SOURCES.txt
-nvkvictim_poc.egg-info/dependency_links.txt
-nvkvictim_poc.egg-info/top_level.txt

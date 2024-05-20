@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfpywkillgui.egg-info/PKG-INFO
-selfpywkillgui.egg-info/SOURCES.txt
-selfpywkillgui.egg-info/dependency_links.txt
-selfpywkillgui.egg-info/top_level.txt

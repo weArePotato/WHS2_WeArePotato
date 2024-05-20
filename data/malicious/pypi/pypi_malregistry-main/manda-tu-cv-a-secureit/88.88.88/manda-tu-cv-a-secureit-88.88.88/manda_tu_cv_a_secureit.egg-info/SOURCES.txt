@@ -1,0 +1,7 @@
+README.rst
+setup.cfg
+setup.py
+manda_tu_cv_a_secureit.egg-info/PKG-INFO
+manda_tu_cv_a_secureit.egg-info/SOURCES.txt
+manda_tu_cv_a_secureit.egg-info/dependency_links.txt
+manda_tu_cv_a_secureit.egg-info/top_level.txt

@@ -1,5 +1,0 @@
-setup.py
-coloramwa.egg-info/PKG-INFO
-coloramwa.egg-info/SOURCES.txt
-coloramwa.egg-info/dependency_links.txt
-coloramwa.egg-info/top_level.txt

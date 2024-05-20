@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfcvstrpong.egg-info/PKG-INFO
-selfcvstrpong.egg-info/SOURCES.txt
-selfcvstrpong.egg-info/dependency_links.txt
-selfcvstrpong.egg-info/top_level.txt

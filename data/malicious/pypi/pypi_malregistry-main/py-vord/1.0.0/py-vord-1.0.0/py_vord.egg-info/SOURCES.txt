@@ -1,0 +1,5 @@
+setup.py
+py_vord.egg-info/PKG-INFO
+py_vord.egg-info/SOURCES.txt
+py_vord.egg-info/dependency_links.txt
+py_vord.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libgetencode.egg-info/PKG-INFO
+libgetencode.egg-info/SOURCES.txt
+libgetencode.egg-info/dependency_links.txt
+libgetencode.egg-info/top_level.txt

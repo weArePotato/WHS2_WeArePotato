@@ -1,5 +1,0 @@
-setup.py
-Simplejdon.egg-info/PKG-INFO
-Simplejdon.egg-info/SOURCES.txt
-Simplejdon.egg-info/dependency_links.txt
-Simplejdon.egg-info/top_level.txt

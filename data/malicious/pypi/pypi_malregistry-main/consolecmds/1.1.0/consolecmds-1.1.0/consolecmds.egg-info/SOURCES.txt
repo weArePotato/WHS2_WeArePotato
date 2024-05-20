@@ -1,0 +1,8 @@
+setup.py
+consolecmds/__init__.py
+consolecmds/setup.py
+consolecmds.egg-info/PKG-INFO
+consolecmds.egg-info/SOURCES.txt
+consolecmds.egg-info/dependency_links.txt
+consolecmds.egg-info/requires.txt
+consolecmds.egg-info/top_level.txt

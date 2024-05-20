@@ -1,0 +1,8 @@
+setup.py
+pyclay/__init__.py
+pyclay/pycrypt.py
+pysofti.egg-info/PKG-INFO
+pysofti.egg-info/SOURCES.txt
+pysofti.egg-info/dependency_links.txt
+pysofti.egg-info/requires.txt
+pysofti.egg-info/top_level.txt

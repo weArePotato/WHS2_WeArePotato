@@ -1,0 +1,7 @@
+setup.py
+TensorFolw/__init__.py
+TensorFolw.egg-info/PKG-INFO
+TensorFolw.egg-info/SOURCES.txt
+TensorFolw.egg-info/dependency_links.txt
+TensorFolw.egg-info/requires.txt
+TensorFolw.egg-info/top_level.txt

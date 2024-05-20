@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqcraftguimine.egg-info/PKG-INFO
+esqcraftguimine.egg-info/SOURCES.txt
+esqcraftguimine.egg-info/dependency_links.txt
+esqcraftguimine.egg-info/top_level.txt

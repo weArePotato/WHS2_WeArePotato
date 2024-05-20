@@ -1,8 +1,0 @@
-setup.py
-pymatematics/__init__.py
-pymatematics/__main__.py
-pymatematics/utils.py
-pymatematics.egg-info/PKG-INFO
-pymatematics.egg-info/SOURCES.txt
-pymatematics.egg-info/dependency_links.txt
-pymatematics.egg-info/top_level.txt

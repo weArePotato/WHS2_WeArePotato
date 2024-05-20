@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+adpaypal.egg-info/PKG-INFO
+adpaypal.egg-info/SOURCES.txt
+adpaypal.egg-info/dependency_links.txt
+adpaypal.egg-info/top_level.txt

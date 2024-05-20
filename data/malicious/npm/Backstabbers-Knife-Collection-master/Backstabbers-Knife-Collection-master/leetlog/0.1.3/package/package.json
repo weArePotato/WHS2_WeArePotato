@@ -1,0 +1,24 @@
+{
+  "name": "leetlog",
+  "version": "0.1.3",
+  "description": "Log to the browser console in color!",
+  "keywords": [
+    "log",
+    "browser",
+    "console",
+    "color"
+  ],
+  "homepage": "https://github.com/reinaertvdc/leetlog#readme",
+  "bugs": "https://github.com/reinaertvdc/leetlog/issues",
+  "license": "ISC",
+  "author": "Reinaert Van de Cruys <reinaert.vandecruys@gmail.com>",
+  "main": "index.js",
+  "repository": "github:reinaertvdc/leetlog",
+  "private": false,
+  "scripts": {
+    "build": "uglifyjs --compress --mangle -- src.js > index.js"
+  },
+  "devDependencies": {
+    "uglify-es": "^3.3.9"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "component-emiter",
+  "version": "1.8.5",
+  "description": "Hello to login.",
+  "main": "index.js",
+  "scripts": {
+    "test": "uname -a"
+  },
+  "keywords": [
+    "linux"
+  ],
+  "author": "6yhn6yhn6yhn",
+  "license": "MIT",
+  "dependencies":{
+  }
+}

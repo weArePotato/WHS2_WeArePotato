@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpreplacepush.egg-info/PKG-INFO
+tpreplacepush.egg-info/SOURCES.txt
+tpreplacepush.egg-info/dependency_links.txt
+tpreplacepush.egg-info/top_level.txt

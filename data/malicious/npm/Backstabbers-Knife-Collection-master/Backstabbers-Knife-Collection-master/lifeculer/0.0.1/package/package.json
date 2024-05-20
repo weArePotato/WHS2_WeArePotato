@@ -1,0 +1,24 @@
+{
+  "name": "lifeculer",
+  "version": "0.0.1",
+  "description": "Checker of Games",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [
+    "lifeculer",
+    "license",
+    "description",
+    "brazil"
+  ],
+  "author": "lifeculer",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "colors": "^1.4.0",
+    "fs": "^0.0.1-security",
+    "node-cmd": "^5.0.0",
+    "shelljs": "^0.8.5"
+  }
+}

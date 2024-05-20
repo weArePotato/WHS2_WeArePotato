@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-ramstr.egg-info/PKG-INFO
-ramstr.egg-info/SOURCES.txt
-ramstr.egg-info/dependency_links.txt
-ramstr.egg-info/top_level.txt

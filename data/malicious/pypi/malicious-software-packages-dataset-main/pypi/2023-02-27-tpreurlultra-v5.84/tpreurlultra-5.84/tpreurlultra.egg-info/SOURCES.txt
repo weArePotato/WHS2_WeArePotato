@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpreurlultra.egg-info/PKG-INFO
+tpreurlultra.egg-info/SOURCES.txt
+tpreurlultra.egg-info/dependency_links.txt
+tpreurlultra.egg-info/top_level.txt

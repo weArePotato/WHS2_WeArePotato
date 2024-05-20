@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libcvgetsplit.egg-info/PKG-INFO
+libcvgetsplit.egg-info/SOURCES.txt
+libcvgetsplit.egg-info/dependency_links.txt
+libcvgetsplit.egg-info/top_level.txt

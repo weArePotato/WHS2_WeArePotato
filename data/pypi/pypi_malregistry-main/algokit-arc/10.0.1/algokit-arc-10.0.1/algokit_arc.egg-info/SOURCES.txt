@@ -1,6 +1,0 @@
-setup.py
-algokit_arc.egg-info/PKG-INFO
-algokit_arc.egg-info/SOURCES.txt
-algokit_arc.egg-info/dependency_links.txt
-algokit_arc.egg-info/not-zip-safe
-algokit_arc.egg-info/top_level.txt

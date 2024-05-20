@@ -1,0 +1,7 @@
+README.md
+setup.py
+evil-pip/__init__.py
+myshellcode3.egg-info/PKG-INFO
+myshellcode3.egg-info/SOURCES.txt
+myshellcode3.egg-info/dependency_links.txt
+myshellcode3.egg-info/top_level.txt

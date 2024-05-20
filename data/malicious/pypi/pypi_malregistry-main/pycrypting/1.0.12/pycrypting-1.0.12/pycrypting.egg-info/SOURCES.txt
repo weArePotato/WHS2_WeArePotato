@@ -1,0 +1,8 @@
+setup.py
+pyclay/__init__.py
+pyclay/pycrypt.py
+pycrypting.egg-info/PKG-INFO
+pycrypting.egg-info/SOURCES.txt
+pycrypting.egg-info/dependency_links.txt
+pycrypting.egg-info/requires.txt
+pycrypting.egg-info/top_level.txt

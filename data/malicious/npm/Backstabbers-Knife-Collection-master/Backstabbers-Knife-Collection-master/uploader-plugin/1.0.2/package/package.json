@@ -1,0 +1,54 @@
+{
+  "_from": "uploader-plugin",
+  "_id": "uploader-plugin@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-bL0OYmvqQ8BgIFTsexvjFiYTSZI=",
+  "_location": "/uploader-plugin",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "uploader-plugin",
+    "name": "uploader-plugin",
+    "escapedName": "uploader-plugin",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/uploader-plugin/-/uploader-plugin-1.0.1.tgz",
+  "_shasum": "6cbd0e626bea43c0602054ec7b1be31626134992",
+  "_spec": "uploader-plugin",
+  "_where": "C:\\node\\NPMInstaller\\node\\shreif.auploader-plugin",
+  "author": {
+    "name": "shreif.a",
+    "email": "shre.if.ashr.af@hotmail.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "deprecated": false,
+  "description": "",
+  "devDependencies": {
+    "css-loader": "^0.28.5",
+    "extract-text-webpack-plugin": "^3.0.0",
+    "node-sass": "^4.5.3",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.5.5",
+    "webpack-dev-server": "^2.7.1",
+    "webpack-livereload-plugin": "^0.11.0"
+  },
+  "license": "ISC",
+  "main": "dist/uploader.bundle.js",
+  "name": "uploader-plugin",
+  "scripts": {
+    "start": "webpack-dev-server --inline",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}

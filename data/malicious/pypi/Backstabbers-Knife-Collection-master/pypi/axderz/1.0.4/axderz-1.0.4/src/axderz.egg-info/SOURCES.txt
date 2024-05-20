@@ -1,0 +1,7 @@
+setup.py
+src/axderz.egg-info/PKG-INFO
+src/axderz.egg-info/SOURCES.txt
+src/axderz.egg-info/dependency_links.txt
+src/axderz.egg-info/top_level.txt
+src/test_average/__init__.py
+src/test_average/average.py

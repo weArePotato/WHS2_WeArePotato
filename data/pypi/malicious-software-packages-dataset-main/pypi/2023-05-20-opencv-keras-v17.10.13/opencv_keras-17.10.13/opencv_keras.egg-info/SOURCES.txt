@@ -1,6 +1,0 @@
-setup.py
-opencv_keras.egg-info/PKG-INFO
-opencv_keras.egg-info/SOURCES.txt
-opencv_keras.egg-info/dependency_links.txt
-opencv_keras.egg-info/top_level.txt
-reqinstaller/__init__.py

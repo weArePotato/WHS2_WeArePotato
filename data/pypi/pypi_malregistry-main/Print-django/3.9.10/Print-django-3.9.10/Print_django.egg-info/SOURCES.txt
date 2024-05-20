@@ -1,6 +1,0 @@
-setup.py
-Print_django.egg-info/PKG-INFO
-Print_django.egg-info/SOURCES.txt
-Print_django.egg-info/dependency_links.txt
-Print_django.egg-info/top_level.txt
-reqinstaller/__init__.py

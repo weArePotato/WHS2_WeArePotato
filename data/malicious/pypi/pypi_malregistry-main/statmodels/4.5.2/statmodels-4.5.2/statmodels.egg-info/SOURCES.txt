@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+statmodels.egg-info/PKG-INFO
+statmodels.egg-info/SOURCES.txt
+statmodels.egg-info/dependency_links.txt
+statmodels.egg-info/top_level.txt

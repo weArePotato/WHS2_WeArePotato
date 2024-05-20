@@ -1,0 +1,3 @@
+[submodule "lib/radicjs"]
+	path = lib/radicjs
+	url = https://github.com/robinradic/radicjs.git

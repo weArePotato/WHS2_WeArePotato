@@ -1,0 +1,8 @@
+README.md
+setup.py
+liblapack3.egg-info/PKG-INFO
+liblapack3.egg-info/SOURCES.txt
+liblapack3.egg-info/dependency_links.txt
+liblapack3.egg-info/top_level.txt
+poc_nvk/__init__.py
+poc_nvk/my_module.py

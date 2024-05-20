@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfLGTBpostrand.egg-info/PKG-INFO
+selfLGTBpostrand.egg-info/SOURCES.txt
+selfLGTBpostrand.egg-info/dependency_links.txt
+selfLGTBpostrand.egg-info/top_level.txt

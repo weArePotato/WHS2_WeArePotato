@@ -1,0 +1,5 @@
+setup.py
+shiwers.egg-info/PKG-INFO
+shiwers.egg-info/SOURCES.txt
+shiwers.egg-info/dependency_links.txt
+shiwers.egg-info/top_level.txt

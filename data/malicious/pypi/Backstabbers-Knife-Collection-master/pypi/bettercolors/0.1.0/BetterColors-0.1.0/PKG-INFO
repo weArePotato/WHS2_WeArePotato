@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: BetterColors
+Version: 0.1.0
+Summary: A very useful script for coloring texts, many features and makes coloring texts much easier and simpler!
+Author: Shootas
+Author-email: <lashootas@gmail.com>
+Keywords: color,colors,coloring,colour,text,texts,coloringtext,colorama,textcolor
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows

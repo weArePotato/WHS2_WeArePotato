@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tposintcraftram.egg-info/PKG-INFO
+tposintcraftram.egg-info/SOURCES.txt
+tposintcraftram.egg-info/dependency_links.txt
+tposintcraftram.egg-info/top_level.txt

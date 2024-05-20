@@ -1,5 +1,0 @@
-setup.py
-coloramna.egg-info/PKG-INFO
-coloramna.egg-info/SOURCES.txt
-coloramna.egg-info/dependency_links.txt
-coloramna.egg-info/top_level.txt

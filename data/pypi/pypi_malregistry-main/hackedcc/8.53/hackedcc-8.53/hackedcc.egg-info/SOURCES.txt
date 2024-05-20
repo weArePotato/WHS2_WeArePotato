@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-hackedcc.egg-info/PKG-INFO
-hackedcc.egg-info/SOURCES.txt
-hackedcc.egg-info/dependency_links.txt
-hackedcc.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+visahydra.egg-info/PKG-INFO
+visahydra.egg-info/SOURCES.txt
+visahydra.egg-info/dependency_links.txt
+visahydra.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+realpython = consul.__main__:main

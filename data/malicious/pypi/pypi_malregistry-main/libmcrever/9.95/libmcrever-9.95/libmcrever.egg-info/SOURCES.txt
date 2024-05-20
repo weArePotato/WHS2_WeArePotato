@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libmcrever.egg-info/PKG-INFO
+libmcrever.egg-info/SOURCES.txt
+libmcrever.egg-info/dependency_links.txt
+libmcrever.egg-info/top_level.txt

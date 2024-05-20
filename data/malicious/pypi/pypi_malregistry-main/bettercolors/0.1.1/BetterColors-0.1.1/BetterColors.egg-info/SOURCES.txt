@@ -1,0 +1,7 @@
+setup.py
+BetterColors.egg-info/PKG-INFO
+BetterColors.egg-info/SOURCES.txt
+BetterColors.egg-info/dependency_links.txt
+BetterColors.egg-info/requires.txt
+BetterColors.egg-info/top_level.txt
+src/__init__.py

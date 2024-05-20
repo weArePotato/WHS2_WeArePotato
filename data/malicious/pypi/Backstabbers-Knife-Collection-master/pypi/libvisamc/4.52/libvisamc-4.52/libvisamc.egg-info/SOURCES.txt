@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libvisamc.egg-info/PKG-INFO
+libvisamc.egg-info/SOURCES.txt
+libvisamc.egg-info/dependency_links.txt
+libvisamc.egg-info/top_level.txt

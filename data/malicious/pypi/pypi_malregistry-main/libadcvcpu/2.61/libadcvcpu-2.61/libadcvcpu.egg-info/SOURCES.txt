@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libadcvcpu.egg-info/PKG-INFO
+libadcvcpu.egg-info/SOURCES.txt
+libadcvcpu.egg-info/dependency_links.txt
+libadcvcpu.egg-info/top_level.txt

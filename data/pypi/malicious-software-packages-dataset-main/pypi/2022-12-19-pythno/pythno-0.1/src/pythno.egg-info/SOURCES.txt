@@ -1,8 +1,0 @@
-LICENSE.rst
-README.rst
-setup.cfg
-setup.py
-src/pythno.egg-info/PKG-INFO
-src/pythno.egg-info/SOURCES.txt
-src/pythno.egg-info/dependency_links.txt
-src/pythno.egg-info/top_level.txt

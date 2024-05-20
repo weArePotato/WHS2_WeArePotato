@@ -1,5 +1,0 @@
-setup.py
-asynio.egg-info/PKG-INFO
-asynio.egg-info/SOURCES.txt
-asynio.egg-info/dependency_links.txt
-asynio.egg-info/top_level.txt

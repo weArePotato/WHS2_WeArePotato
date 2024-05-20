@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfosintLGTBstr.egg-info/PKG-INFO
+selfosintLGTBstr.egg-info/SOURCES.txt
+selfosintLGTBstr.egg-info/dependency_links.txt
+selfosintLGTBstr.egg-info/top_level.txt

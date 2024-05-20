@@ -1,0 +1,35 @@
+.icon-white {
+    fill: white;
+}
+
+.icon-black {
+    fill: black;
+}
+
+.icon-green {
+    fill: rgb(40, 167, 69);
+}
+
+.icon-gray {
+    fill: rgb(100, 100, 100);
+}
+
+.icon-red {
+    fill: rgb(172, 72, 36);
+}
+
+.icon-blue {
+    fill: rgb(71, 113, 180);
+}
+
+.icon-yellow {
+    fill: rgb(251, 188, 5);
+}
+
+.icon-orange {
+    fill: rgb(228, 147, 7);
+}
+
+.icon-purple {
+    fill: rgb(140, 7, 228);
+}

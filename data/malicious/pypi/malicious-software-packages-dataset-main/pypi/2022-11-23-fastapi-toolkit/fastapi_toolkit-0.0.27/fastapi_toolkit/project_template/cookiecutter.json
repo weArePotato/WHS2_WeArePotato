@@ -1,0 +1,8 @@
+{
+    "project_name": "hello_world_project",
+    "database_user": "postgres",
+    "database_password": "postgres",
+    "database_host": "localhost",
+    "database_port": 5432,
+    "database_name": "hello_world"
+}

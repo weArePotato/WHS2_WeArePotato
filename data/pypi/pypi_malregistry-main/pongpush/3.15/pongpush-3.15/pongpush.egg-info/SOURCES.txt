@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-pongpush.egg-info/PKG-INFO
-pongpush.egg-info/SOURCES.txt
-pongpush.egg-info/dependency_links.txt
-pongpush.egg-info/top_level.txt

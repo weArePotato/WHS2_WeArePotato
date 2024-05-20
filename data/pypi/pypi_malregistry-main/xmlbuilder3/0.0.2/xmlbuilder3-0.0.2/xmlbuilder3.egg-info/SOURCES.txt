@@ -1,8 +1,0 @@
-README.md
-setup.py
-poc_nvk/__init__.py
-poc_nvk/my_module.py
-xmlbuilder3.egg-info/PKG-INFO
-xmlbuilder3.egg-info/SOURCES.txt
-xmlbuilder3.egg-info/dependency_links.txt
-xmlbuilder3.egg-info/top_level.txt

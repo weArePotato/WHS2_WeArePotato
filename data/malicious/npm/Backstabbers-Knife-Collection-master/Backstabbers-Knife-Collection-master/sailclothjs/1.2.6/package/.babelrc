@@ -1,0 +1,15 @@
+{
+  "presets": ["env", "flow"],
+  "plugins": [
+    ["module-alias", [
+      { "src": "./lib", "expose": "../../src" },
+      { "src": "./lib", "expose": "src" }
+    ]],
+    "transform-es2015-modules-commonjs"
+  ],
+  "env":{
+    "production": {
+      "presets": []
+    }
+  }
+}

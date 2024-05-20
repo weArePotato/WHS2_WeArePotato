@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpproofgameed.egg-info/PKG-INFO
+tpproofgameed.egg-info/SOURCES.txt
+tpproofgameed.egg-info/dependency_links.txt
+tpproofgameed.egg-info/top_level.txt

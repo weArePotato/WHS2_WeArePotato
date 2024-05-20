@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqreplacegrandpep.egg-info/PKG-INFO
+esqreplacegrandpep.egg-info/SOURCES.txt
+esqreplacegrandpep.egg-info/dependency_links.txt
+esqreplacegrandpep.egg-info/top_level.txt

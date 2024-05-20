@@ -1,0 +1,2 @@
+[console_scripts]
+vermillion = vermillion.bot:main

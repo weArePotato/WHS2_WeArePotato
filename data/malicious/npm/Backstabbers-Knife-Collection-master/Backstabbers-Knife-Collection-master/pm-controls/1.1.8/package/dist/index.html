@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<base href="/">
+	<link rel="icon" type="image/png" href="img/favicon.png"   />
+	<link rel="shortcut icon " type="image/png" href="img/favicon.png"   />
+	<meta charset="utf-8" />
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
+	<meta name="description" content="DST">
+	<meta name="keywords" content="DST">	
+	<title>PM-Controls</title>
+	<style>
+		body, html {
+			height: 100%;
+			margin: 0;
+			-moz-osx-font-smoothing: grayscale;
+			-webkit-font-smoothing: antialiased;
+		}
+
+		* {
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			-ms-box-sizing: border-box;
+			box-sizing: border-box;
+		}
+		*:before,
+		*:after {
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			-ms-box-sizing: border-box;
+			box-sizing: border-box;
+		}
+		
+		@keyframes loading-hexagon-animation {
+			0%  
+			{         
+				opacity: 0.1; 
+				transform: scale(0.1);
+				-ms-transform: scale(0.1);
+				-webkit-transform: scale(0.1);
+			}
+			3%  
+			{ 
+				transform: scale(1.0);
+				-ms-transform: scale(1.0);
+				-webkit-transform: scale(1.0);      
+			}
+			5%  { opacity: 1; }
+			50% { opacity: 1; }
+			55% { opacity: 0.1; }
+		}
+
+		.loading-hexagon {
+			animation-name: loading-hexagon-animation;
+			animation-duration: 7s;
+			animation-iteration-count: infinite;
+			/*animation-direction: alternate;*/
+			
+			animation-timing-function:  ease;
+			/*color:#495D74;*/
+			position: absolute; 
+			color: transparent;
+		}
+		.hexagon-1 {
+			transform-origin: 50% 50%;
+			animation-delay: 0s;
+			opacity: 0.1;
+			fill:#495D74;
+		}
+		
+		.hexagon-2 {
+			transform-origin: 50% 50%;
+			animation-delay: 0.5s;
+			opacity: 0.1;
+			fill:#495D74;
+		}
+		
+		.hexagon-3 {
+			transform-origin: 50% 50%;
+			animation-delay: 1s;
+			opacity: 0.1;
+			fill:#495D74;
+		}
+		
+		.hexagon-4 {
+			transform-origin: 50% 50%;
+			animation-delay: 1.5s;
+			opacity: 0.1;
+			fill:#495D74;
+		}
+		
+		.hexagon-5 {
+			transform-origin: 50% 50%;
+			animation-delay: 2s;
+			opacity: 0.1;
+			fill:#495D74;
+		}
+		
+		.hexagon-6 {
+			transform-origin: 50% 50%;
+			animation-delay: 2.5s;			
+			opacity: 0.1;
+			fill:#495D74;
+		}
+		
+		.hexagon-7 {
+			transform-origin: 50% 50%;
+			animation-delay: 3s;
+			opacity: 0.1;
+			fill:#495D74;
+		}
+
+		.loading-circle {
+			border: 5px solid #CACDCC;
+    		border-radius: 50%;
+			width: 140px;
+			height: 140px;
+		}
+
+		.loading-amc-icon {
+			background-image: url(/img/amc.png);
+    		height: 34px;
+    		width: 27px;
+		}
+
+		.loading-icon {
+			display: flex;
+			align-items: center;
+			font-size: 28px;
+			margin-right: 20px;
+		}
+
+		.loading-logo {
+			padding-left: 5px;
+			padding-bottom: 5px;
+		}
+
+		.loading-header {
+			color:#495d74;
+			font-size: 40px;
+			font-weight: bold;			
+			font-style: oblique;
+		}
+
+		.loading-body {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			width: 100%;
+		}
+
+		.loading-lines {
+			flex-grow: 1;
+			border-top: 5px solid #F0ECE4;
+		}
+
+		.loading-content {
+			color:#495d74;
+			font-size: 24px;
+			font-weight: bold;			
+			font-style: oblique;
+		}
+		.loading-animation-circle {
+			position: absolute;
+
+		}
+
+		.loading-container {
+			position: relative;
+		}
+		
+		.menu-line-1 {
+			-ms-transform: skewX(-25deg) skewY(0);
+			transform: skew(-25deg, 0deg);    
+			
+			width: 20px;
+			height: 100%;
+			background-color: #ab4824;    
+			/*background-color: rgb(60, 60, 60);*/
+		}
+		.menu-line-2 {
+			-ms-transform: skewX(-25deg) skewY(0);
+			transform: skew(-25deg, 0deg);    
+			
+			width: 10px;
+			height: 100%;
+			background-color: #1463b3;
+			/*background-color: rgb(110, 110, 110);    */
+		}
+		.menu-offset {
+			width: 100px;
+			margin-left: 10px;
+		}
+		.loading {	
+			display:none;
+			font-family: 'Segoe UI'; 
+			align-items: center;
+			justify-content: center; 
+			
+			flex-direction: column;
+
+			height:100%;
+			width: 100%;
+
+			opacity: 0;
+			transition: opacity .8s ease-in-out;			
+			z-index: -1;
+		}
+		dst-app:empty + .loading {
+			opacity: 1;
+			z-index: 100;
+			display:flex;
+		}
+	</style>
+</head>
+<body>
+
+	<dst-app></dst-app>
+	<div class="loading">
+		<div class="loading-header">PM-Controls</div>
+		<div class="loading-body">
+			<div class="loading-lines"></div>
+			<div class="loading-container">				
+				<div class="loading-circle">
+					<div style="position: relative;padding: 20px; height: 130px; width: 130px;">
+						<svg viewBox="0 0 140 140">
+							<g>
+								<path class="loading-hexagon hexagon-1" 
+								d="M46,3l21.7,12.5v25L46,53L24.3,40.5v-25L46,3z"></path>
+								<path class="loading-hexagon hexagon-2" 
+								d="M94,3l21.7,12.5v25L94,53L72.3,40.5v-25L94,3z"></path>
+								<path class="loading-hexagon hexagon-6" 
+								d="M22.8,45l21.7,12.5v25L22.8,95L1.1,82.5v-25L22.8,45z"></path>
+								<path class="loading-hexagon hexagon-7" 
+								d="M69.8,45l21.7,12.5v25L69.8,95L48.1,82.5v-25L69.8,45z"></path>
+								<path class="loading-hexagon hexagon-3" 
+								d="M116.8,45l21.7,12.5v25L116.8,95L95.1,82.5v-25L116.8,45z"></path>
+								<path class="loading-hexagon hexagon-5" 
+								d="M46,86l21.7,12.5v25L46,136l-21.7-12.5v-25L46,86z"></path>
+								<path class="loading-hexagon hexagon-4" 
+								d="M94,86l21.7,12.5v25L94,136l-21.7-12.5v-25L94,86z"></path>
+							</g>
+						</svg>
+					</div>
+				</div>
+				<!--<div class="loading-animation-circle">testing</div>-->
+			</div>
+			
+			<div class="loading-lines"></div>
+		</div>
+		<div class="loading-content">Loading...</div>
+	</div>
+	<!-- <script type="text/javascript" src="Silverlight.js"></script> -->
+	<!-- <script type="text/javascript" src="source/polyfills.js"></script>
+	<script type="text/javascript" src="source/vendor-css.js"></script>
+	<script type="text/javascript" src="source/vendor.js"></script>
+	<script type="text/javascript" src="source/css.js"></script>
+	<script type="text/javascript" src="source/test-css.js"></script>
+	<script type="text/javascript" src="source/app.js"></script> -->
+	<!-- these get auto included by the Webpack HtmlWebpackPlugin -->
+<script type="text/javascript" src="inline.bundle.js"></script><script type="text/javascript" src="polyfills.bundle.js"></script><script type="text/javascript" src="vendor.bundle.js"></script><script type="text/javascript" src="main.bundle.js"></script></body>
+</html>

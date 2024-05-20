@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_pongtoolkill.egg-info/PKG-INFO
+py_pongtoolkill.egg-info/SOURCES.txt
+py_pongtoolkill.egg-info/dependency_links.txt
+py_pongtoolkill.egg-info/top_level.txt

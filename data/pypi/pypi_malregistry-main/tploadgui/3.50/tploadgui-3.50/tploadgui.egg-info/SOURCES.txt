@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tploadgui.egg-info/PKG-INFO
-tploadgui.egg-info/SOURCES.txt
-tploadgui.egg-info/dependency_links.txt
-tploadgui.egg-info/top_level.txt

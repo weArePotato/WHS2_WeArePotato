@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libpushramosint.egg-info/PKG-INFO
-libpushramosint.egg-info/SOURCES.txt
-libpushramosint.egg-info/dependency_links.txt
-libpushramosint.egg-info/top_level.txt

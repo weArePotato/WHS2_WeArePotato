@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libreload.egg-info/PKG-INFO
-libreload.egg-info/SOURCES.txt
-libreload.egg-info/dependency_links.txt
-libreload.egg-info/top_level.txt

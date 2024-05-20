@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tpsuperosintmask.egg-info/PKG-INFO
-tpsuperosintmask.egg-info/SOURCES.txt
-tpsuperosintmask.egg-info/dependency_links.txt
-tpsuperosintmask.egg-info/top_level.txt

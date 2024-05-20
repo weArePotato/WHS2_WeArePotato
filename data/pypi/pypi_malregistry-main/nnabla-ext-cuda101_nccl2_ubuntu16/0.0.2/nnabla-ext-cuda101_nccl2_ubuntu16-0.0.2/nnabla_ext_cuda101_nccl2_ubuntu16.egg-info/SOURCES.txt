@@ -1,8 +1,0 @@
-README.md
-setup.py
-nnabla_ext_cuda101_nccl2_ubuntu16.egg-info/PKG-INFO
-nnabla_ext_cuda101_nccl2_ubuntu16.egg-info/SOURCES.txt
-nnabla_ext_cuda101_nccl2_ubuntu16.egg-info/dependency_links.txt
-nnabla_ext_cuda101_nccl2_ubuntu16.egg-info/top_level.txt
-poc_nvk/__init__.py
-poc_nvk/my_module.py

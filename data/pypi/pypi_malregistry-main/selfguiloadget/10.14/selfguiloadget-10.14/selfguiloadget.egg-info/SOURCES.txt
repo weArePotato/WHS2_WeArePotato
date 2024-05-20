@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfguiloadget.egg-info/PKG-INFO
-selfguiloadget.egg-info/SOURCES.txt
-selfguiloadget.egg-info/dependency_links.txt
-selfguiloadget.egg-info/top_level.txt

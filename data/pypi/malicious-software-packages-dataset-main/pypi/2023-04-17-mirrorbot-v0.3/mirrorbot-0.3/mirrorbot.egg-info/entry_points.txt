@@ -1,3 +1,0 @@
-[console_scripts]
-your_package_name = bot.__main__:main
-

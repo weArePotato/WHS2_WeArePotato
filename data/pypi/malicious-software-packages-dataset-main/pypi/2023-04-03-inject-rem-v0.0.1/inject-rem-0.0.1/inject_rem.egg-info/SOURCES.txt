@@ -1,7 +1,0 @@
-LICENSE
-README.md
-setup.py
-inject_rem.egg-info/PKG-INFO
-inject_rem.egg-info/SOURCES.txt
-inject_rem.egg-info/dependency_links.txt
-inject_rem.egg-info/top_level.txt

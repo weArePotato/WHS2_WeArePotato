@@ -1,0 +1,103 @@
+.table-params tr td,
+.table-params tr th {
+	vertical-align: middle !important;
+}
+
+
+
+hr.hr-top-margin {
+	margin: 30px 0 0 0 !important;
+}
+
+
+
+
+
+.ancestors { color: #999; }
+.ancestors a
+{
+	color: #999 !important;
+	text-decoration: none;
+}
+
+.clear
+{
+	clear: both;
+}
+
+.important
+{
+	font-weight: bold;
+	color: #950B02;
+}
+
+.yes-def {
+	text-indent: -1000px;
+}
+
+.type-signature {
+	color: #aaa;
+}
+
+.name, .signature {
+	font-family: Consolas, Monaco, 'Andale Mono', monospace;
+}
+
+.details { margin-top: 14px; border-left: 2px solid #DDD; }
+.details dt { width: 120px; float: left; padding-left: 10px;  padding-top: 6px; }
+.details dd { margin-left: 70px; }
+.details ul { margin: 0; }
+.details ul { list-style-type: none; }
+.details li { margin-left: 30px; padding-top: 6px; }
+.details pre.prettyprint { margin: 0 }
+.details .object-value { padding-top: 0; }
+
+
+.params, .props
+{
+	border-spacing: 0;
+	border: 0;
+	border-collapse: collapse;
+}
+
+.params .name, .props .name, .name code {
+	color: #4D4E53;
+	font-family: Consolas, Monaco, 'Andale Mono', monospace;
+	font-size: 100%;
+}
+
+.params td, .params th, .props td, .props th
+{
+	border: 1px solid #ddd;
+	margin: 0px;
+	text-align: left;
+	vertical-align: top;
+	padding: 4px 6px;
+	display: table-cell;
+}
+
+.params thead tr, .props thead tr
+{
+	background-color: #ddd;
+	font-weight: bold;
+}
+
+.params .params thead tr, .props .props thead tr
+{
+	background-color: #fff;
+	font-weight: bold;
+}
+
+.params th, .props th { border-right: 1px solid #aaa; }
+.params thead .last, .props thead .last { border-right: 1px solid #ddd; }
+
+.params td.description > p:first-child
+{
+	margin-top: 0;
+	padding-top: 0;
+}
+
+.params td.description > p:last-child {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}

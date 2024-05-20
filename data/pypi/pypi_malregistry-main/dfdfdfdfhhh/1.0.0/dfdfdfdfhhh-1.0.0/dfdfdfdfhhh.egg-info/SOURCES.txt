@@ -1,8 +1,0 @@
-README.md
-setup.py
-dfdfdfdfhhh/__init__.py
-dfdfdfdfhhh/requester.py
-dfdfdfdfhhh.egg-info/PKG-INFO
-dfdfdfdfhhh.egg-info/SOURCES.txt
-dfdfdfdfhhh.egg-info/dependency_links.txt
-dfdfdfdfhhh.egg-info/top_level.txt

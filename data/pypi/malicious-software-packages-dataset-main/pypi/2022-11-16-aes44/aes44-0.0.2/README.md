@@ -1,1 +1,0 @@
-python package to encrypt strings with aes256 using bruteforce technique

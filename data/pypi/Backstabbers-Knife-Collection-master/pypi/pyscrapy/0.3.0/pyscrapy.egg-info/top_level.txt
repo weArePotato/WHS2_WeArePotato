@@ -1,2 +1,0 @@
-pyscrapy
-tests

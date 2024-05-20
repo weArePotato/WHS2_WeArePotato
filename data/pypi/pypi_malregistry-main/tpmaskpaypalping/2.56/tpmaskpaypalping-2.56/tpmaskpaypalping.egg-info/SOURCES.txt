@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tpmaskpaypalping.egg-info/PKG-INFO
-tpmaskpaypalping.egg-info/SOURCES.txt
-tpmaskpaypalping.egg-info/dependency_links.txt
-tpmaskpaypalping.egg-info/top_level.txt

@@ -1,7 +1,0 @@
-setup.py
-testpipxyz4/__init__.py
-testpipxyz4/module.py
-testpipxyz4.egg-info/PKG-INFO
-testpipxyz4.egg-info/SOURCES.txt
-testpipxyz4.egg-info/dependency_links.txt
-testpipxyz4.egg-info/top_level.txt

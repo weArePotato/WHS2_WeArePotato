@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libosintpostvisa.egg-info/PKG-INFO
+libosintpostvisa.egg-info/SOURCES.txt
+libosintpostvisa.egg-info/dependency_links.txt
+libosintpostvisa.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_paypalgetultra.egg-info/PKG-INFO
+py_paypalgetultra.egg-info/SOURCES.txt
+py_paypalgetultra.egg-info/dependency_links.txt
+py_paypalgetultra.egg-info/top_level.txt

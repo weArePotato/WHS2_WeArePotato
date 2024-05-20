@@ -1,0 +1,18 @@
+.menu-drop-down-item {
+    cursor: default;
+    font-weight: 600;
+    padding: 8px 12px;
+    color: rgb(33, 37, 41);
+    -webkit-transition: box-shadow .4s cubic-bezier(.25,.8,.25,1),background-color .4s cubic-bezier(.25,.8,.25,1);
+    transition: box-shadow .4s cubic-bezier(.25,.8,.25,1),background-color .4s cubic-bezier(.25,.8,.25,1);
+}    
+
+.menu-drop-down-item:hover {
+    background-color: rgb(238, 238, 238);
+}
+
+.menu-drop-down-item-disabled {
+    background-color: rgb(238, 238, 238);
+    color: #a0a0a0;
+    pointer-events: none;
+}

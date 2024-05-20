@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+librandomcrafthydra.egg-info/PKG-INFO
+librandomcrafthydra.egg-info/SOURCES.txt
+librandomcrafthydra.egg-info/dependency_links.txt
+librandomcrafthydra.egg-info/top_level.txt

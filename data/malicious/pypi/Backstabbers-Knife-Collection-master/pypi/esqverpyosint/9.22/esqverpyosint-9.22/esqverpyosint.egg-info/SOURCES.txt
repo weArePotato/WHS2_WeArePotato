@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqverpyosint.egg-info/PKG-INFO
+esqverpyosint.egg-info/SOURCES.txt
+esqverpyosint.egg-info/dependency_links.txt
+esqverpyosint.egg-info/top_level.txt

@@ -1,0 +1,53 @@
+{
+	"name": "load-from-cwd-or-npm",
+	"version": "3.0.2",
+	"description": "Load a module from either CWD or npm CLI directory",
+	"author": "Shinnosuke Watanabe (https://github.com/shinnn)",
+	"repository": "shinnn/load-from-cwd-or-npm",
+	"license": "ISC",
+	"scripts": {
+		"pretest": "eslint .",
+		"test": "coverage test.js"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"load",
+		"resolve",
+		"require",
+		"fallback",
+		"failsafe",
+		"cwd",
+		"npm",
+		"module",
+		"compare",
+		"comparison",
+		"find",
+		"promise",
+		"promises",
+		"then"
+	],
+	"dependencies": {
+		"inspect-with-kind": "^1.0.5",
+		"npm-cli-dir": "^4.0.0",
+		"optional": "^0.1.4",
+		"resolve-from-npm": "^4.0.0"
+	},
+	"devDependencies": {
+		"@babel/code-frame": "^7.0.0",
+		"@shinnn/eslint-config": "^6.10.4",
+		"clear-module": "^3.2.0",
+		"coverage": "^0.4.0",
+		"eslint": "^5.16.0",
+		"lodash": "^4.17.11",
+		"osenv": "0.0.2",
+		"path-key": "^3.1.0",
+		"request": "*",
+		"semver": "^6.1.0",
+		"tape": "^4.10.2"
+	},
+	"eslintConfig": {
+		"extends": "@shinnn"
+	}
+}

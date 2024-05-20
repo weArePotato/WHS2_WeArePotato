@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqpaypalvirtualmc.egg-info/PKG-INFO
-esqpaypalvirtualmc.egg-info/SOURCES.txt
-esqpaypalvirtualmc.egg-info/dependency_links.txt
-esqpaypalvirtualmc.egg-info/top_level.txt

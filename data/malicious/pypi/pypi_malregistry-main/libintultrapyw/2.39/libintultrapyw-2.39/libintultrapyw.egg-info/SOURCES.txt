@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libintultrapyw.egg-info/PKG-INFO
+libintultrapyw.egg-info/SOURCES.txt
+libintultrapyw.egg-info/dependency_links.txt
+libintultrapyw.egg-info/top_level.txt

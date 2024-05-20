@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tppostcandynvidia.egg-info/PKG-INFO
-tppostcandynvidia.egg-info/SOURCES.txt
-tppostcandynvidia.egg-info/dependency_links.txt
-tppostcandynvidia.egg-info/top_level.txt

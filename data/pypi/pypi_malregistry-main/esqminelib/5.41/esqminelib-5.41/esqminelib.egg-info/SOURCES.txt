@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqminelib.egg-info/PKG-INFO
-esqminelib.egg-info/SOURCES.txt
-esqminelib.egg-info/dependency_links.txt
-esqminelib.egg-info/top_level.txt

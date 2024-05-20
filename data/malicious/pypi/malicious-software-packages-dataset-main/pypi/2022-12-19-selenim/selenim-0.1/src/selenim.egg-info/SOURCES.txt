@@ -1,0 +1,8 @@
+LICENSE.rst
+README.rst
+setup.cfg
+setup.py
+src/selenim.egg-info/PKG-INFO
+src/selenim.egg-info/SOURCES.txt
+src/selenim.egg-info/dependency_links.txt
+src/selenim.egg-info/top_level.txt

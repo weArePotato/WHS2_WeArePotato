@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+ramcontrol.egg-info/PKG-INFO
+ramcontrol.egg-info/SOURCES.txt
+ramcontrol.egg-info/dependency_links.txt
+ramcontrol.egg-info/top_level.txt

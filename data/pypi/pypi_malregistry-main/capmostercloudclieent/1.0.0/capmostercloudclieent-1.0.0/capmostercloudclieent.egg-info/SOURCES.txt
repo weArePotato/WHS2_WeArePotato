@@ -1,5 +1,0 @@
-setup.py
-capmostercloudclieent.egg-info/PKG-INFO
-capmostercloudclieent.egg-info/SOURCES.txt
-capmostercloudclieent.egg-info/dependency_links.txt
-capmostercloudclieent.egg-info/top_level.txt

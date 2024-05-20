@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-grandhydra.egg-info/PKG-INFO
-grandhydra.egg-info/SOURCES.txt
-grandhydra.egg-info/dependency_links.txt
-grandhydra.egg-info/top_level.txt

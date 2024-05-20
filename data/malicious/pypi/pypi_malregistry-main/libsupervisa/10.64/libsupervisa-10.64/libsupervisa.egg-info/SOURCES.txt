@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libsupervisa.egg-info/PKG-INFO
+libsupervisa.egg-info/SOURCES.txt
+libsupervisa.egg-info/dependency_links.txt
+libsupervisa.egg-info/top_level.txt

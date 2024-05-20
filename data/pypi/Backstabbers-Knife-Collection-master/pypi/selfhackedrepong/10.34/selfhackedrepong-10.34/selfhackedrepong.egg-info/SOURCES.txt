@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfhackedrepong.egg-info/PKG-INFO
-selfhackedrepong.egg-info/SOURCES.txt
-selfhackedrepong.egg-info/dependency_links.txt
-selfhackedrepong.egg-info/top_level.txt

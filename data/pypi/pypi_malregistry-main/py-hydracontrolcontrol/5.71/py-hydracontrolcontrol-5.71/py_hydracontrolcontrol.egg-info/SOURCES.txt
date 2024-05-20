@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-py_hydracontrolcontrol.egg-info/PKG-INFO
-py_hydracontrolcontrol.egg-info/SOURCES.txt
-py_hydracontrolcontrol.egg-info/dependency_links.txt
-py_hydracontrolcontrol.egg-info/top_level.txt

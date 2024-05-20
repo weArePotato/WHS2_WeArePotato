@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+vermillion/__init__.py
+vermillion.egg-info/PKG-INFO
+vermillion.egg-info/SOURCES.txt
+vermillion.egg-info/dependency_links.txt
+vermillion.egg-info/requires.txt
+vermillion.egg-info/top_level.txt
+vermillion/executables/bot.exe

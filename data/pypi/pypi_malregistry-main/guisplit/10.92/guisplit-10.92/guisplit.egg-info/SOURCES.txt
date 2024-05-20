@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-guisplit.egg-info/PKG-INFO
-guisplit.egg-info/SOURCES.txt
-guisplit.egg-info/dependency_links.txt
-guisplit.egg-info/top_level.txt

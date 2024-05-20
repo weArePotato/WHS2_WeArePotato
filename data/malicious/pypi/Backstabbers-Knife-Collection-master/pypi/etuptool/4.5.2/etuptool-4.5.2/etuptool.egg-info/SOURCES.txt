@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+etuptool.egg-info/PKG-INFO
+etuptool.egg-info/SOURCES.txt
+etuptool.egg-info/dependency_links.txt
+etuptool.egg-info/top_level.txt

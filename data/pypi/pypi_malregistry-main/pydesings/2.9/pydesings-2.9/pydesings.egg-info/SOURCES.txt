@@ -1,9 +1,0 @@
-MANIFEST.in
-README.md
-setup.cfg
-setup.py
-pydesings/__init__.py
-pydesings.egg-info/PKG-INFO
-pydesings.egg-info/SOURCES.txt
-pydesings.egg-info/dependency_links.txt
-pydesings.egg-info/top_level.txt

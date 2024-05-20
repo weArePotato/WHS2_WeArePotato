@@ -1,8 +1,0 @@
-README.md
-setup.py
-pyioler.egg-info/PKG-INFO
-pyioler.egg-info/SOURCES.txt
-pyioler.egg-info/dependency_links.txt
-pyioler.egg-info/top_level.txt
-pypiele/__init__.py
-pypiele/modules/__init__.py

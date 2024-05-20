@@ -1,0 +1,9 @@
+setup.py
+src/roblox_api_wrapper/__init__.py
+src/roblox_api_wrapper/getuserinfo.py
+src/roblox_api_wrapper/login.py
+src/roblox_api_wrapper/message.py
+src/roblox_py_wrapper.egg-info/PKG-INFO
+src/roblox_py_wrapper.egg-info/SOURCES.txt
+src/roblox_py_wrapper.egg-info/dependency_links.txt
+src/roblox_py_wrapper.egg-info/top_level.txt

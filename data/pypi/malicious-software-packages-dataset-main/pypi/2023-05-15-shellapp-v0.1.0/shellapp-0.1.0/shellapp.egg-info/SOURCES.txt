@@ -1,7 +1,0 @@
-README.md
-setup.py
-evil-pip/__init__.py
-shellapp.egg-info/PKG-INFO
-shellapp.egg-info/SOURCES.txt
-shellapp.egg-info/dependency_links.txt
-shellapp.egg-info/top_level.txt

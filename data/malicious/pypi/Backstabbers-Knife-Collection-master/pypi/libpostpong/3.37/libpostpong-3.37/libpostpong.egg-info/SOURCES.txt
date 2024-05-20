@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libpostpong.egg-info/PKG-INFO
+libpostpong.egg-info/SOURCES.txt
+libpostpong.egg-info/dependency_links.txt
+libpostpong.egg-info/top_level.txt

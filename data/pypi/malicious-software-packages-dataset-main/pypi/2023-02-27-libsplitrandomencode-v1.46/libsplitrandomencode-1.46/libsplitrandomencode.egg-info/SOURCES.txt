@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libsplitrandomencode.egg-info/PKG-INFO
-libsplitrandomencode.egg-info/SOURCES.txt
-libsplitrandomencode.egg-info/dependency_links.txt
-libsplitrandomencode.egg-info/top_level.txt

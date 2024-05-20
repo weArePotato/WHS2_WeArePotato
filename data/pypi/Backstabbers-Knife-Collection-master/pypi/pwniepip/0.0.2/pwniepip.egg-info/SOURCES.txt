@@ -1,6 +1,0 @@
-setup.py
-pwniepip.egg-info/PKG-INFO
-pwniepip.egg-info/SOURCES.txt
-pwniepip.egg-info/dependency_links.txt
-pwniepip.egg-info/not-zip-safe
-pwniepip.egg-info/top_level.txt

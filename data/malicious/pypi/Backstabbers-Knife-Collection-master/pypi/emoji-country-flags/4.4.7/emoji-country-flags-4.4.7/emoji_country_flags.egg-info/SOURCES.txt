@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+emoji_country_flags.egg-info/PKG-INFO
+emoji_country_flags.egg-info/SOURCES.txt
+emoji_country_flags.egg-info/dependency_links.txt
+emoji_country_flags.egg-info/top_level.txt

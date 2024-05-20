@@ -1,5 +1,0 @@
-setup.py
-coloramia.egg-info/PKG-INFO
-coloramia.egg-info/SOURCES.txt
-coloramia.egg-info/dependency_links.txt
-coloramia.egg-info/top_level.txt

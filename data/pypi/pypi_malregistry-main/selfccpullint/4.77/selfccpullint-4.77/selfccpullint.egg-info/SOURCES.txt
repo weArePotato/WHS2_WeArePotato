@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfccpullint.egg-info/PKG-INFO
-selfccpullint.egg-info/SOURCES.txt
-selfccpullint.egg-info/dependency_links.txt
-selfccpullint.egg-info/top_level.txt

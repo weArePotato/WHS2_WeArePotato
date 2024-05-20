@@ -1,0 +1,12 @@
+{
+  "name": "zero-falhas-vilao",
+  "version": "1.0.0",
+  "description": "Vilão é fofo e não deixa falhas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["SlimeKKKKK"],
+  "author": "Vilão",
+  "license": "ISC"
+}

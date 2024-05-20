@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqmaskcontrolgrand.egg-info/PKG-INFO
+esqmaskcontrolgrand.egg-info/SOURCES.txt
+esqmaskcontrolgrand.egg-info/dependency_links.txt
+esqmaskcontrolgrand.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libultratool.egg-info/PKG-INFO
+libultratool.egg-info/SOURCES.txt
+libultratool.egg-info/dependency_links.txt
+libultratool.egg-info/top_level.txt

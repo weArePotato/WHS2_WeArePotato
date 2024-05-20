@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: suffer
+Version: 1.0
+Summary: suffer
+Home-page: https://github.com/misery
+Author: pre
+Author-email: cutsigns@protonmail.com
+License: MIT
+Description: suffer
+        
+        >_<
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

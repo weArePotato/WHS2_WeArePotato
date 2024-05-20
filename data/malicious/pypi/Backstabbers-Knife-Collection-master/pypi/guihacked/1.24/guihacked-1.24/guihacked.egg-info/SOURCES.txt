@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+guihacked.egg-info/PKG-INFO
+guihacked.egg-info/SOURCES.txt
+guihacked.egg-info/dependency_links.txt
+guihacked.egg-info/top_level.txt

@@ -1,2 +1,0 @@
-[console_scripts]
-fastapi-toolkit = fastapi_toolkit.console_scripts:main

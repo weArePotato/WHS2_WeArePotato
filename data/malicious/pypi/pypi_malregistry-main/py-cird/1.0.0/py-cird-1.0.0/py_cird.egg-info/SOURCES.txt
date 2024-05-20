@@ -1,0 +1,5 @@
+setup.py
+py_cird.egg-info/PKG-INFO
+py_cird.egg-info/SOURCES.txt
+py_cird.egg-info/dependency_links.txt
+py_cird.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqhydrastudyre.egg-info/PKG-INFO
+esqhydrastudyre.egg-info/SOURCES.txt
+esqhydrastudyre.egg-info/dependency_links.txt
+esqhydrastudyre.egg-info/top_level.txt

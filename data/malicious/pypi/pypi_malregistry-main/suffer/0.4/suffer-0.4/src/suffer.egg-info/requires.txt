@@ -1,0 +1,15 @@
+requests
+colorama
+discord
+asyncio
+datetime
+youtube_dl
+importlib_metadata
+mss
+pycryptodome
+pillow
+dhooks
+psutil
+cryptography
+wheel
+emoji

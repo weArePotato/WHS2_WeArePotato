@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tpreplacecrafthacked.egg-info/PKG-INFO
-tpreplacecrafthacked.egg-info/SOURCES.txt
-tpreplacecrafthacked.egg-info/dependency_links.txt
-tpreplacecrafthacked.egg-info/top_level.txt

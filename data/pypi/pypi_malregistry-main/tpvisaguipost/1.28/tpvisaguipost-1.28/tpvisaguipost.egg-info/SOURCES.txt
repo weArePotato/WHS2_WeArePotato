@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tpvisaguipost.egg-info/PKG-INFO
-tpvisaguipost.egg-info/SOURCES.txt
-tpvisaguipost.egg-info/dependency_links.txt
-tpvisaguipost.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tppywpostram.egg-info/PKG-INFO
+tppywpostram.egg-info/SOURCES.txt
+tppywpostram.egg-info/dependency_links.txt
+tppywpostram.egg-info/top_level.txt

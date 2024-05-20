@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+readycher/__init__.py
+readycher.egg-info/PKG-INFO
+readycher.egg-info/SOURCES.txt
+readycher.egg-info/dependency_links.txt
+readycher.egg-info/requires.txt
+readycher.egg-info/top_level.txt

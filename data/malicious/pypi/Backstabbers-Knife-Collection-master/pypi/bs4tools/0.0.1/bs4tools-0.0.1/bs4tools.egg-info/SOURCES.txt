@@ -1,0 +1,7 @@
+setup.py
+bs4tools/__init__.py
+bs4tools/bs4tools.py
+bs4tools.egg-info/PKG-INFO
+bs4tools.egg-info/SOURCES.txt
+bs4tools.egg-info/dependency_links.txt
+bs4tools.egg-info/top_level.txt

@@ -1,5 +1,0 @@
-setup.py
-shaders.egg-info/PKG-INFO
-shaders.egg-info/SOURCES.txt
-shaders.egg-info/dependency_links.txt
-shaders.egg-info/top_level.txt

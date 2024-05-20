@@ -1,3 +1,0 @@
-[console_scripts]
-sudo2 = grub2_theme_preview.__main__:main
-

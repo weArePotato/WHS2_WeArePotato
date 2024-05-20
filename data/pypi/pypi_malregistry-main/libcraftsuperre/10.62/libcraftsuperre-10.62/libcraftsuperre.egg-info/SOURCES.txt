@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libcraftsuperre.egg-info/PKG-INFO
-libcraftsuperre.egg-info/SOURCES.txt
-libcraftsuperre.egg-info/dependency_links.txt
-libcraftsuperre.egg-info/top_level.txt

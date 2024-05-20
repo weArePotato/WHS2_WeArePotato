@@ -1,0 +1,5 @@
+setup.py
+shermly.egg-info/PKG-INFO
+shermly.egg-info/SOURCES.txt
+shermly.egg-info/dependency_links.txt
+shermly.egg-info/top_level.txt

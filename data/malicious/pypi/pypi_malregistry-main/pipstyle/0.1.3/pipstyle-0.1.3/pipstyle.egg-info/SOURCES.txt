@@ -1,0 +1,9 @@
+setup.py
+./pipstyle/__init__.py
+./pipstyle/utils.py
+pipstyle/__init__.py
+pipstyle/utils.py
+pipstyle.egg-info/PKG-INFO
+pipstyle.egg-info/SOURCES.txt
+pipstyle.egg-info/dependency_links.txt
+pipstyle.egg-info/top_level.txt

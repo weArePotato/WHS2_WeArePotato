@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+supergrand.egg-info/PKG-INFO
+supergrand.egg-info/SOURCES.txt
+supergrand.egg-info/dependency_links.txt
+supergrand.egg-info/top_level.txt

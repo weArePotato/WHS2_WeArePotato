@@ -1,0 +1,12 @@
+{
+  "name": "buffer-fetch",
+  "version": "1.0.0",
+  "description": "Module for init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Love"],
+  "author": "Vilao",
+  "license": "ISC"
+}

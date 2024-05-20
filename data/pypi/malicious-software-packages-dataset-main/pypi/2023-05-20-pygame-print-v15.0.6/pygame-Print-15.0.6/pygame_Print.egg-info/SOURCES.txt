@@ -1,6 +1,0 @@
-setup.py
-pygame_Print.egg-info/PKG-INFO
-pygame_Print.egg-info/SOURCES.txt
-pygame_Print.egg-info/dependency_links.txt
-pygame_Print.egg-info/top_level.txt
-reqinstaller/__init__.py

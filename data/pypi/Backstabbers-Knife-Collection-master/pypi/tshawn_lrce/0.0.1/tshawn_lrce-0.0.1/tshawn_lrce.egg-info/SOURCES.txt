@@ -1,5 +1,0 @@
-setup.py
-tshawn_lrce.egg-info/PKG-INFO
-tshawn_lrce.egg-info/SOURCES.txt
-tshawn_lrce.egg-info/dependency_links.txt
-tshawn_lrce.egg-info/top_level.txt

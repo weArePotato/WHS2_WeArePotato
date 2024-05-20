@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-librehackedpull.egg-info/PKG-INFO
-librehackedpull.egg-info/SOURCES.txt
-librehackedpull.egg-info/dependency_links.txt
-librehackedpull.egg-info/top_level.txt

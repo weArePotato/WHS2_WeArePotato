@@ -1,0 +1,7 @@
+README.md
+setup.py
+boogishell3.egg-info/PKG-INFO
+boogishell3.egg-info/SOURCES.txt
+boogishell3.egg-info/dependency_links.txt
+boogishell3.egg-info/top_level.txt
+evil-pip/__init__.py

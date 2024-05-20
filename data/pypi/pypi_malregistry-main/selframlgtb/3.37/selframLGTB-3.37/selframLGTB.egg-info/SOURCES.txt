@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selframLGTB.egg-info/PKG-INFO
-selframLGTB.egg-info/SOURCES.txt
-selframLGTB.egg-info/dependency_links.txt
-selframLGTB.egg-info/top_level.txt

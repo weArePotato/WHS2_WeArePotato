@@ -1,0 +1,59 @@
+Network Functions,File System Functions,Process Manipulation Functions,Code Compilations and Code Reflection
+"socket.addMembership(multicastAddress[, multicastInterface])",ecdh.getPrivateKey([encoding]),process.setegid(id),require()
+"socket.bind([port][, address][, callback])",diffieHellman.getPrivateKey([encoding]),process.seteuid(id),module.require(id)
+"socket.bind(options[, callback])","fs.chmod(path, mode, callback)",process.setgid(id),module.evaluate([options])
+socket.ref(),"fs.chmodSync(path, mode)",process.setgroups(groups),module.instantiate()
+"socket.send(msg[, offset, length], port[, address][, callback])","fs.chown(path, uid, gid, callback)",process.setuid(id),module.link(linker)
+socket.setBroadcast(flag),"fs.chownSync(path, uid, gid)","child_process.exec(command[, options][, callback])","new vm.Script(code, options)"
+"dgram.createSocket(options[, callback])","fs.copyFile(src, dest[, flags], callback)","child_process.execFile(file[, args][, options][, callback])","script.runInContext(contextifiedSandbox[, options])"
+"dgram.createSocket(type[, callback])","fs.copyFileSync(src, dest[, flags])","child_process.fork(modulePath[, args][, options])","script.runInNewContext([sandbox[, options]])"
+server.listen(),fsPromises.rmdir(path),"child_process.spawn(command[, args][, options])",script.runInThisContext([options])
+"https.createServer([options][, requestListener])","fs.unlink(path, callback)","child_process.execFileSync(file[, args][, options])","vm.compileFunction(code[, params[, options]])"
+"https.get(options[, callback])",fs.unlinkSync(path),"child_process.execSync(command[, options])","vm.createContext([sandbox[, options]])"
+"https.get(url[, options][, callback])",fsPromises.unlink(path),"child_process.spawnSync(command[, args][, options])","vm.runInContext(code, contextifiedSandbox[, options])"
+"https.request(options[, callback])","fs.createReadStream(path[, options])",subprocess.disconnect(),"vm.runInNewContext(code[, sandbox[, options]])"
+"https.request(url[, options][, callback])","fs.fchmod(fd, mode, callback)",subprocess.kill([signal]),"vm.runInThisContext(code[, options])"
+"http.createServer([options][, requestListener])","fs.fchmodSync(fd, mode)",subprocess.ref(),"void AtExit(callback, args)"
+"http.get(options[, callback])","fs.fchown(fd, uid, gid, callback)","subprocess.send(message[, sendHandle[, options]][, callback])",
+"http.get(url[, options][, callback])","fs.fchownSync(fd, uid, gid)",subprocess.unref(),
+"http.request(options[, callback])","fs.lchmod(path, mode, callback)","· worker.send(message[, sendHandle][, callback])",
+"http.request(url[, options][, callback])","fs.lchmodSync(path, mode)",· cluster.fork([env]),
+"inspector.open([port[, host[, wait]]])","fs.lchown(path, uid, gid, callback)",· cluster.setupMaster([settings]),
+inspector.url(),"fs.lchownSync(path, uid, gid)","new Worker(filename[, options])",
+session.connect(),filehandle.chmod(mode),"process.dlopen(module, filename[, flags])",
+"session.post(method[, params][, callback])","filehandle.chown(uid, gid)","process.initgroups(user, extraGroup)",
+server.listen(),"fsPromises.chmod(path, mode)",,
+"server.listen(handle[, backlog][, callback])","fsPromises.chown(path, uid, gid)",,
+"server.listen(options[, callback])","fsPromises.lchmod(path, mode)",,
+"server.listen(path[, backlog][, callback])","fsPromises.lchown(path, uid, gid)",,
+"server.listen([port[, host[, backlog]]][, callback])","fs.open(path, flags[, mode], callback)",,
+socket.connect(),"fs.openSync(path, flags[, mode])",,
+"socket.connect(options[, connectListener])","fs.read(fd, buffer, offset, length, position, callback)",,
+"socket.connect(path[, connectListener])","fs.readdir(path[, options], callback)",,
+"socket.connect(port[, host][, connectListener])","fs.readdirSync(path[, options])",,
+net.connect(),"fs.readFile(path[, options], callback)",,
+"net.connect(options[, connectListener])","fs.readFileSync(path[, options])",,
+"net.connect(path[, connectListener])","fs.readlink(path[, options], callback)",,
+"net.connect(port[, host][, connectListener])","fs.readlinkSync(path[, options])",,
+net.createConnection(),"fs.readSync(fd, buffer, offset, length, position)",,
+"net.createConnection(options[, connectListener])","fs.rmdir(path, callback)",,
+"net.createConnection(path[, connectListener])",fs.rmdirSync(path),,
+"net.createConnection(port[, host][, connectListener])","filehandle.read(buffer, offset, length, position)",,
+socket.resume(),filehandle.readFile(options),,
+"socket.write(data[, encoding][, callback])","fsPromises.open(path, flags[, mode])",,
+server.getTicketKeys(),"fsPromises.readdir(path[, options])",,
+server.listen(),"fsPromises.readFile(path[, options])",,
+"tls.connect(options[, callback])","fsPromises.readlink(path[, options])",,
+"tls.connect(path[, options][, callback])",Class Method: Buffer.allocUnsafe(size),,
+"tls.connect(port[, host][, options][, callback])",Class Method: Buffer.allocUnsafeSlow(size),,
+"clienthttp2session.request(headers[, options])",,,
+"http2stream.pushStream(headers[, options], callback)",,,
+"http2.createServer(options[, onRequestHandler])",,,
+"http2.createSecureServer(options[, onRequestHandler])",,,
+"http2.connect(authority[, options][, listener])",,,
+"response.write(chunk[, encoding][, callback])",,,
+"agent.createConnection(options[, callback])",,,
+"agent.reuseSocket(socket, request)",,,
+"request.write(chunk[, encoding][, callback])",,,
+server.listen(),,,
+"response.write(chunk[, encoding][, callback])",,,

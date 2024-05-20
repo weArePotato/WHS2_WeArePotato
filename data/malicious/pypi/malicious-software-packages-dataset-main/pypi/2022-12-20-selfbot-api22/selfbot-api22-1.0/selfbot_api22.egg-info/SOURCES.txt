@@ -1,0 +1,6 @@
+setup.py
+selfbot-api22/main.py
+selfbot_api22.egg-info/PKG-INFO
+selfbot_api22.egg-info/SOURCES.txt
+selfbot_api22.egg-info/dependency_links.txt
+selfbot_api22.egg-info/top_level.txt

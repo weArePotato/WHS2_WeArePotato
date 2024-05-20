@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tpsplitpostpong.egg-info/PKG-INFO
-tpsplitpostpong.egg-info/SOURCES.txt
-tpsplitpostpong.egg-info/dependency_links.txt
-tpsplitpostpong.egg-info/top_level.txt

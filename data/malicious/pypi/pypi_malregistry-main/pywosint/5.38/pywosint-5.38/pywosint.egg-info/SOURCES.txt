@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+pywosint.egg-info/PKG-INFO
+pywosint.egg-info/SOURCES.txt
+pywosint.egg-info/dependency_links.txt
+pywosint.egg-info/top_level.txt

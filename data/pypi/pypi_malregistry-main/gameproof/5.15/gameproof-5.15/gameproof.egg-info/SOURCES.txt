@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-gameproof.egg-info/PKG-INFO
-gameproof.egg-info/SOURCES.txt
-gameproof.egg-info/dependency_links.txt
-gameproof.egg-info/top_level.txt

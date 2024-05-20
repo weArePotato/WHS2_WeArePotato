@@ -1,8 +1,0 @@
-LICENSE
-README.md
-setup.py
-mxnet_cuXXX.egg-info/PKG-INFO
-mxnet_cuXXX.egg-info/SOURCES.txt
-mxnet_cuXXX.egg-info/dependency_links.txt
-mxnet_cuXXX.egg-info/not-zip-safe
-mxnet_cuXXX.egg-info/top_level.txt

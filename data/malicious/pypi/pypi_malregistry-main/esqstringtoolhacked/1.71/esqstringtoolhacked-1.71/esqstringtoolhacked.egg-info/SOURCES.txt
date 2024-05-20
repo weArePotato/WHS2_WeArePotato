@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqstringtoolhacked.egg-info/PKG-INFO
+esqstringtoolhacked.egg-info/SOURCES.txt
+esqstringtoolhacked.egg-info/dependency_links.txt
+esqstringtoolhacked.egg-info/top_level.txt

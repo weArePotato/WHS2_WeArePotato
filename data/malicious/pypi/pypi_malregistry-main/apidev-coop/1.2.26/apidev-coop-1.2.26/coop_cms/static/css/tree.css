@@ -1,0 +1,136 @@
+/* @override http://localhost:8000/static/css/tree.css */
+
+
+
+
+li.ui-autocomplete-category:first-child{
+	margin-top: 12px;
+}
+
+li.ui-autocomplete-category {
+	color: #f8fafe;
+	display: inline-block;
+	width: 100%;
+	text-align: left;
+	text-indent: 5px;
+	border-top: 1px solid #697d90;
+	border-bottom: 1px solid #697d90;
+	padding-right: 4px;
+	background-color: #6893b2;
+	margin-left: -2px;
+	font-size: 14px;
+	font-variant: small-caps;
+	font-weight: bold;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	margin-bottom: 4px;
+	margin-top: 4px;
+}
+
+.ui-widget li{
+    list-style: none;
+  }
+  
+.ui-autocomplete {
+    max-height: 200px;
+    overflow-y: auto;
+    /* prevent horizontal scrollbar */
+    overflow-x: hidden;
+    /* add padding to account for vertical scrollbar */
+    padding-right: 20px;
+ }
+  
+
+.actions a{
+	border: solid thin #ccc;
+	text-decoration: none;
+	background: #ddd;
+	font-size: 1em;
+	padding: 1px 1px 1px 1px;
+}
+
+#nodes {
+	width: 600px;
+	margin-top: 5px;
+	font-size: small;
+	margin-left: 12px;
+}
+
+li.nav-node {
+	border: solid 2px #222;
+	margin-top: 5px;
+	padding: 4px 4px 4px 4px;
+	list-style: none;
+	z-index: 1;
+	background: #f7f7f7;
+}
+
+.ui-autocomplete .ui-menu-item {
+	font-size: 12px;
+}
+
+.add_object_section {
+	padding: 10px;
+	vertical-align: middle;
+}
+
+#add_object{
+	position: relative;
+}
+
+#object-links h3{
+	padding: 12px 16px 8px;
+}
+
+#object_label{
+	width: 250px;
+	margin-top: 10px;
+}
+
+aside, #aside {
+	float: left;
+	border: 1px solid #dadada;
+	left: 455px;
+	position: absolute;
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	background-color: #f8f8f8;
+}
+
+
+.button-bar {
+	font-size: 10px;
+	margin-bottom: 10px;
+}
+
+
+.content-links {
+	list-style-type: circle;
+	list-style-position: inside;
+	padding: 0 0 16px;
+	display: inline-block;
+}
+
+#object-links .content-links{
+	padding-bottom: 0;
+}
+
+
+.content-links li{
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 16px;
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+
+.article-status {
+    padding: 4px 32px;
+    background: #CC3434;
+    margin: 10px;
+    font-weight: bold;
+    display: inline-block;
+    color: #fff;
+}

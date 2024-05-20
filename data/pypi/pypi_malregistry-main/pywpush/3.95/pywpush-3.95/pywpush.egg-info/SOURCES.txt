@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-pywpush.egg-info/PKG-INFO
-pywpush.egg-info/SOURCES.txt
-pywpush.egg-info/dependency_links.txt
-pywpush.egg-info/top_level.txt

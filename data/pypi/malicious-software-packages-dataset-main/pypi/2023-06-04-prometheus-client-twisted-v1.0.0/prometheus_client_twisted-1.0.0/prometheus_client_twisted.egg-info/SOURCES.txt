@@ -1,6 +1,0 @@
-setup.py
-prometheus_client_twisted.egg-info/PKG-INFO
-prometheus_client_twisted.egg-info/SOURCES.txt
-prometheus_client_twisted.egg-info/dependency_links.txt
-prometheus_client_twisted.egg-info/not-zip-safe
-prometheus_client_twisted.egg-info/top_level.txt

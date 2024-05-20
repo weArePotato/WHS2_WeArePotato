@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tploadkillping.egg-info/PKG-INFO
+tploadkillping.egg-info/SOURCES.txt
+tploadkillping.egg-info/dependency_links.txt
+tploadkillping.egg-info/top_level.txt

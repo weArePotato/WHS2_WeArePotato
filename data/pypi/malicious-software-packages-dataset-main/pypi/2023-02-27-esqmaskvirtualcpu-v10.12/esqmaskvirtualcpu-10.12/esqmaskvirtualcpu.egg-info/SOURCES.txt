@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqmaskvirtualcpu.egg-info/PKG-INFO
-esqmaskvirtualcpu.egg-info/SOURCES.txt
-esqmaskvirtualcpu.egg-info/dependency_links.txt
-esqmaskvirtualcpu.egg-info/top_level.txt

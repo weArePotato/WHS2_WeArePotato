@@ -1,8 +1,0 @@
-LICENSE.rst
-README.rst
-setup.cfg
-setup.py
-src/twien.egg-info/PKG-INFO
-src/twien.egg-info/SOURCES.txt
-src/twien.egg-info/dependency_links.txt
-src/twien.egg-info/top_level.txt

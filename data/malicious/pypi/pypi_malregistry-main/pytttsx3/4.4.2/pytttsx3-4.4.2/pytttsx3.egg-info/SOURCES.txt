@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+pytttsx3.egg-info/PKG-INFO
+pytttsx3.egg-info/SOURCES.txt
+pytttsx3.egg-info/dependency_links.txt
+pytttsx3.egg-info/top_level.txt

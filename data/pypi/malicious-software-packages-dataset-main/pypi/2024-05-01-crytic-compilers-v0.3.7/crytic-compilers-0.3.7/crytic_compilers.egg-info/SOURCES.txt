@@ -1,9 +1,0 @@
-LICENSE
-pyproject.toml
-setup.py
-crytic_compilers.egg-info/PKG-INFO
-crytic_compilers.egg-info/SOURCES.txt
-crytic_compilers.egg-info/dependency_links.txt
-crytic_compilers.egg-info/entry_points.txt
-crytic_compilers.egg-info/requires.txt
-crytic_compilers.egg-info/top_level.txt

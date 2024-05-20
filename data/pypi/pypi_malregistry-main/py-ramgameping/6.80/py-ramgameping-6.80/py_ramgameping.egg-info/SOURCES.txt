@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-py_ramgameping.egg-info/PKG-INFO
-py_ramgameping.egg-info/SOURCES.txt
-py_ramgameping.egg-info/dependency_links.txt
-py_ramgameping.egg-info/top_level.txt

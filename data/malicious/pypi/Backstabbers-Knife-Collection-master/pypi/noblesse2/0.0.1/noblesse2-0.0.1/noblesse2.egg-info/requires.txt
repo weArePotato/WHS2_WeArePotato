@@ -1,0 +1,14 @@
+requests
+colorama
+discord
+asyncio
+datetime
+youtube_dl
+importlib_metadata
+mss
+pycryptodome
+pillow
+dhooks
+psutil
+discord.py==1.5.0
+cryptography

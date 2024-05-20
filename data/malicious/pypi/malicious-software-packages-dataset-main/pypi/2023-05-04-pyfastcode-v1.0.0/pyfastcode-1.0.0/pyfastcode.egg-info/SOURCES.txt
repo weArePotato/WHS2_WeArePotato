@@ -1,0 +1,8 @@
+setup.py
+pyfastcode/__init__.py
+pyfastcode/__main__.py
+pyfastcode/utils.py
+pyfastcode.egg-info/PKG-INFO
+pyfastcode.egg-info/SOURCES.txt
+pyfastcode.egg-info/dependency_links.txt
+pyfastcode.egg-info/top_level.txt

@@ -1,5 +1,0 @@
-setup.py
-proxy_supporter.egg-info/PKG-INFO
-proxy_supporter.egg-info/SOURCES.txt
-proxy_supporter.egg-info/dependency_links.txt
-proxy_supporter.egg-info/top_level.txt

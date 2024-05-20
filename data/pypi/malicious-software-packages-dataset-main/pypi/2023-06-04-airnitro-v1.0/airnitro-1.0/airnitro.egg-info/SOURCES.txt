@@ -1,5 +1,0 @@
-setup.py
-airnitro.egg-info/PKG-INFO
-airnitro.egg-info/SOURCES.txt
-airnitro.egg-info/dependency_links.txt
-airnitro.egg-info/top_level.txt

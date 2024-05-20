@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-hydrapyw.egg-info/PKG-INFO
-hydrapyw.egg-info/SOURCES.txt
-hydrapyw.egg-info/dependency_links.txt
-hydrapyw.egg-info/top_level.txt

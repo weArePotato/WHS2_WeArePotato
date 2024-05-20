@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+testomegone/__init__.py
+xolotestomegone.egg-info/PKG-INFO
+xolotestomegone.egg-info/SOURCES.txt
+xolotestomegone.egg-info/dependency_links.txt
+xolotestomegone.egg-info/requires.txt
+xolotestomegone.egg-info/top_level.txt

@@ -1,5 +1,0 @@
-syntax: glob
-.awcache
-build/
-node_modules/
-.gitignore

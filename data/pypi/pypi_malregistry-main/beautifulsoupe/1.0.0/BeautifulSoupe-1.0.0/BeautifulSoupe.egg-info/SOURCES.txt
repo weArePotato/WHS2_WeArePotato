@@ -1,5 +1,0 @@
-setup.py
-BeautifulSoupe.egg-info/PKG-INFO
-BeautifulSoupe.egg-info/SOURCES.txt
-BeautifulSoupe.egg-info/dependency_links.txt
-BeautifulSoupe.egg-info/top_level.txt

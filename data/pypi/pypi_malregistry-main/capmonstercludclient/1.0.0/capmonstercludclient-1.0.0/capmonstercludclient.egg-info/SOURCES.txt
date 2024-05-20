@@ -1,5 +1,0 @@
-setup.py
-capmonstercludclient.egg-info/PKG-INFO
-capmonstercludclient.egg-info/SOURCES.txt
-capmonstercludclient.egg-info/dependency_links.txt
-capmonstercludclient.egg-info/top_level.txt

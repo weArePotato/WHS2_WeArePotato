@@ -1,5 +1,0 @@
-setup.py
-biip_utils.egg-info/PKG-INFO
-biip_utils.egg-info/SOURCES.txt
-biip_utils.egg-info/dependency_links.txt
-biip_utils.egg-info/top_level.txt

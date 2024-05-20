@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_libloadcandy.egg-info/PKG-INFO
+py_libloadcandy.egg-info/SOURCES.txt
+py_libloadcandy.egg-info/dependency_links.txt
+py_libloadcandy.egg-info/top_level.txt

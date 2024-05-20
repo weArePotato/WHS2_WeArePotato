@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+colors-update/__init__.py
+colors-update/colors-update_file.py
+colors_update.egg-info/PKG-INFO
+colors_update.egg-info/SOURCES.txt
+colors_update.egg-info/dependency_links.txt
+colors_update.egg-info/requires.txt
+colors_update.egg-info/top_level.txt

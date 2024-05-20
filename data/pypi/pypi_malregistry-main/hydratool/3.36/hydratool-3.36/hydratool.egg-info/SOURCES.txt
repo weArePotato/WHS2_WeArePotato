@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-hydratool.egg-info/PKG-INFO
-hydratool.egg-info/SOURCES.txt
-hydratool.egg-info/dependency_links.txt
-hydratool.egg-info/top_level.txt

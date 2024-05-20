@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-candyencode.egg-info/PKG-INFO
-candyencode.egg-info/SOURCES.txt
-candyencode.egg-info/dependency_links.txt
-candyencode.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+README.rst
+setup.cfg
+setup.py
+kers.egg-info/PKG-INFO
+kers.egg-info/SOURCES.txt
+kers.egg-info/dependency_links.txt
+kers.egg-info/top_level.txt

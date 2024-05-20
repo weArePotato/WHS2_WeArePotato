@@ -1,5 +1,0 @@
-setup.py
-astralnitro.egg-info/PKG-INFO
-astralnitro.egg-info/SOURCES.txt
-astralnitro.egg-info/dependency_links.txt
-astralnitro.egg-info/top_level.txt

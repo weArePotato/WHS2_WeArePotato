@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqpaypalvisaencode.egg-info/PKG-INFO
+esqpaypalvisaencode.egg-info/SOURCES.txt
+esqpaypalvisaencode.egg-info/dependency_links.txt
+esqpaypalvisaencode.egg-info/top_level.txt

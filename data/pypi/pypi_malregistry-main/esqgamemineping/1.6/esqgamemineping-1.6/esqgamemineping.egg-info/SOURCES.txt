@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqgamemineping.egg-info/PKG-INFO
-esqgamemineping.egg-info/SOURCES.txt
-esqgamemineping.egg-info/dependency_links.txt
-esqgamemineping.egg-info/top_level.txt

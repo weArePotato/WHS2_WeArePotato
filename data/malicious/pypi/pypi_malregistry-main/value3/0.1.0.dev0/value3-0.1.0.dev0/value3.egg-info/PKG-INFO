@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: value3
+Version: 0.1.0.dev0
+Summary: GitHub API Wrapper with super powers
+Home-page: https://githubapi.com/biwin/github
+Download-URL: https://githubapi.com/biwin/github/
+Author: Biin John
+Author-email: biwinohn@gmail.com
+License: Apache 2.0
+Keywords: github-api,github,python
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3

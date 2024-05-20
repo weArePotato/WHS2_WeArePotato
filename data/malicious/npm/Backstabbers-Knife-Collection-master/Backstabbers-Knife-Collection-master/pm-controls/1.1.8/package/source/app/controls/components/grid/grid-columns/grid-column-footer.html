@@ -1,0 +1,11 @@
+<div *ngFor="let column of Columns"
+     #Column
+     class="grid-table-column-cell-default {{GridColumnFooterClass(column)}}"
+     [style.width.px]="column.Width.Px"
+     [style.max-width.px]="column.Width.Px"
+     [style.min-width.px]="column.Width.Px"
+     [style.flex-basis.px]="column.Width.Px">
+    <div class="grid-table-column-cell-inner cell-alignment-right" *ngIf="column.IsVisible">
+        <div *ngIf="column.Aggregate" [innerHTML]="getAggregate(column)"></div>
+    </div>
+</div>

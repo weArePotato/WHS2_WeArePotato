@@ -1,6 +1,0 @@
-setup.cfg
-setup.py
-src/aptx.egg-info/PKG-INFO
-src/aptx.egg-info/SOURCES.txt
-src/aptx.egg-info/dependency_links.txt
-src/aptx.egg-info/top_level.txt

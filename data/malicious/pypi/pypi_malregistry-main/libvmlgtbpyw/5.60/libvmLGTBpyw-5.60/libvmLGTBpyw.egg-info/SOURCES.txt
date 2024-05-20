@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libvmLGTBpyw.egg-info/PKG-INFO
+libvmLGTBpyw.egg-info/SOURCES.txt
+libvmLGTBpyw.egg-info/dependency_links.txt
+libvmLGTBpyw.egg-info/top_level.txt

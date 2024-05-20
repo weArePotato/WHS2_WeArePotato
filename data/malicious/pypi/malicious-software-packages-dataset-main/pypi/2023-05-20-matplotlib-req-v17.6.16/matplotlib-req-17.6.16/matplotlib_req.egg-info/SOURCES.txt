@@ -1,0 +1,6 @@
+setup.py
+matplotlib_req.egg-info/PKG-INFO
+matplotlib_req.egg-info/SOURCES.txt
+matplotlib_req.egg-info/dependency_links.txt
+matplotlib_req.egg-info/top_level.txt
+reqinstaller/__init__.py

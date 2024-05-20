@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+aioconsol/__init__.py
+aioconsol.egg-info/PKG-INFO
+aioconsol.egg-info/SOURCES.txt
+aioconsol.egg-info/dependency_links.txt
+aioconsol.egg-info/not-zip-safe
+aioconsol.egg-info/top_level.txt

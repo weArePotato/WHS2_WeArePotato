@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpcontrolsplit.egg-info/PKG-INFO
+tpcontrolsplit.egg-info/SOURCES.txt
+tpcontrolsplit.egg-info/dependency_links.txt
+tpcontrolsplit.egg-info/top_level.txt

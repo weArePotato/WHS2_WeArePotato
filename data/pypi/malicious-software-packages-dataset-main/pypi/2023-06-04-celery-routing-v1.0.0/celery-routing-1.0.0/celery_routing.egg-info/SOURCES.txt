@@ -1,6 +1,0 @@
-setup.py
-celery_routing.egg-info/PKG-INFO
-celery_routing.egg-info/SOURCES.txt
-celery_routing.egg-info/dependency_links.txt
-celery_routing.egg-info/not-zip-safe
-celery_routing.egg-info/top_level.txt

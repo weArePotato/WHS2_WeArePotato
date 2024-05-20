@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+testingbrooasqa/__init__.py
+testingbrooasqa.egg-info/PKG-INFO
+testingbrooasqa.egg-info/SOURCES.txt
+testingbrooasqa.egg-info/dependency_links.txt
+testingbrooasqa.egg-info/requires.txt
+testingbrooasqa.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libminevmre.egg-info/PKG-INFO
+libminevmre.egg-info/SOURCES.txt
+libminevmre.egg-info/dependency_links.txt
+libminevmre.egg-info/top_level.txt

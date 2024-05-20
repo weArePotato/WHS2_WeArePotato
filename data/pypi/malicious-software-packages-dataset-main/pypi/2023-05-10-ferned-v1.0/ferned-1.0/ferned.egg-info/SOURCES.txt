@@ -1,5 +1,0 @@
-setup.py
-ferned.egg-info/PKG-INFO
-ferned.egg-info/SOURCES.txt
-ferned.egg-info/dependency_links.txt
-ferned.egg-info/top_level.txt

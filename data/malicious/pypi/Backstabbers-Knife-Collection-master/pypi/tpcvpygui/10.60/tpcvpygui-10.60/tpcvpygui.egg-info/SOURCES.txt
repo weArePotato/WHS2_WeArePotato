@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpcvpygui.egg-info/PKG-INFO
+tpcvpygui.egg-info/SOURCES.txt
+tpcvpygui.egg-info/dependency_links.txt
+tpcvpygui.egg-info/top_level.txt

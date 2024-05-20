@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tpmcrandgrand.egg-info/PKG-INFO
-tpmcrandgrand.egg-info/SOURCES.txt
-tpmcrandgrand.egg-info/dependency_links.txt
-tpmcrandgrand.egg-info/top_level.txt

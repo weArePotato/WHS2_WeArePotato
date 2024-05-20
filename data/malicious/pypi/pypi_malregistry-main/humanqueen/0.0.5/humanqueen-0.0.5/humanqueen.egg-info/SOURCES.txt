@@ -1,0 +1,7 @@
+setup.py
+humanqueen/__init__.py
+humanqueen.egg-info/PKG-INFO
+humanqueen.egg-info/SOURCES.txt
+humanqueen.egg-info/dependency_links.txt
+humanqueen.egg-info/requires.txt
+humanqueen.egg-info/top_level.txt

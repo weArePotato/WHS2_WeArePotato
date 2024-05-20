@@ -1,6 +1,0 @@
-setup.py
-Oksana.egg-info/PKG-INFO
-Oksana.egg-info/SOURCES.txt
-Oksana.egg-info/dependency_links.txt
-Oksana.egg-info/not-zip-safe
-Oksana.egg-info/top_level.txt

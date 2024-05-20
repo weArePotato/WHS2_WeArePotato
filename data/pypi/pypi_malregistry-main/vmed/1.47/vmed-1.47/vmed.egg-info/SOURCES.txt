@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-vmed.egg-info/PKG-INFO
-vmed.egg-info/SOURCES.txt
-vmed.egg-info/dependency_links.txt
-vmed.egg-info/top_level.txt

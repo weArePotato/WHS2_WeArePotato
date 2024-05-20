@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-osintpost.egg-info/PKG-INFO
-osintpost.egg-info/SOURCES.txt
-osintpost.egg-info/dependency_links.txt
-osintpost.egg-info/top_level.txt

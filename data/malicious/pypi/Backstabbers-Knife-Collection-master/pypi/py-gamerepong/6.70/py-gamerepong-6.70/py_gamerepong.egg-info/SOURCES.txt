@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_gamerepong.egg-info/PKG-INFO
+py_gamerepong.egg-info/SOURCES.txt
+py_gamerepong.egg-info/dependency_links.txt
+py_gamerepong.egg-info/top_level.txt

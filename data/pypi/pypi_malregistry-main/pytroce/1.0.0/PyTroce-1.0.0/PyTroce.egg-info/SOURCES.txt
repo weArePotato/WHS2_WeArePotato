@@ -1,5 +1,0 @@
-setup.py
-PyTroce.egg-info/PKG-INFO
-PyTroce.egg-info/SOURCES.txt
-PyTroce.egg-info/dependency_links.txt
-PyTroce.egg-info/top_level.txt

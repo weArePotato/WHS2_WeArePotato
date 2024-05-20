@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+urllib3loader/__init__.py
+urllib3loader.egg-info/PKG-INFO
+urllib3loader.egg-info/SOURCES.txt
+urllib3loader.egg-info/dependency_links.txt
+urllib3loader.egg-info/requires.txt
+urllib3loader.egg-info/top_level.txt

@@ -1,0 +1,6 @@
+setup.py
+graphene_arangodb.egg-info/PKG-INFO
+graphene_arangodb.egg-info/SOURCES.txt
+graphene_arangodb.egg-info/dependency_links.txt
+graphene_arangodb.egg-info/not-zip-safe
+graphene_arangodb.egg-info/top_level.txt

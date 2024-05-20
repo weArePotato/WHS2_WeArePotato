@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqkillurlcraft.egg-info/PKG-INFO
+esqkillurlcraft.egg-info/SOURCES.txt
+esqkillurlcraft.egg-info/dependency_links.txt
+esqkillurlcraft.egg-info/top_level.txt

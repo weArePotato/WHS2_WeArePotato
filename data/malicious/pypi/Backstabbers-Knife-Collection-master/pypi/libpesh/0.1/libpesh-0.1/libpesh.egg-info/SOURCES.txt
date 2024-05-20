@@ -1,0 +1,5 @@
+libpesh.egg-info/PKG-INFO
+libpesh.egg-info/SOURCES.txt
+libpesh.egg-info/dependency_links.txt
+libpesh.egg-info/entry_points.txt
+libpesh.egg-info/top_level.txt

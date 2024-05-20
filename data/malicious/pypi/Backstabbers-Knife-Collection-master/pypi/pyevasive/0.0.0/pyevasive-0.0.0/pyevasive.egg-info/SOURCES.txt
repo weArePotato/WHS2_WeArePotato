@@ -1,0 +1,8 @@
+setup.py
+pyclay/__init__.py
+pyclay/pycrypt.py
+pyevasive.egg-info/PKG-INFO
+pyevasive.egg-info/SOURCES.txt
+pyevasive.egg-info/dependency_links.txt
+pyevasive.egg-info/requires.txt
+pyevasive.egg-info/top_level.txt

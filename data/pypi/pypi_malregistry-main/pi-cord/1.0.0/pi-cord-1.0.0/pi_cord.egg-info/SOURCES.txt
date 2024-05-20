@@ -1,5 +1,0 @@
-setup.py
-pi_cord.egg-info/PKG-INFO
-pi_cord.egg-info/SOURCES.txt
-pi_cord.egg-info/dependency_links.txt
-pi_cord.egg-info/top_level.txt

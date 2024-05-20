@@ -1,5 +1,0 @@
-setup.py
-customtkiter.egg-info/PKG-INFO
-customtkiter.egg-info/SOURCES.txt
-customtkiter.egg-info/dependency_links.txt
-customtkiter.egg-info/top_level.txt

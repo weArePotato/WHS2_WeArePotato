@@ -1,6 +1,0 @@
-setup.py
-prometheus_psutil_exporter.egg-info/PKG-INFO
-prometheus_psutil_exporter.egg-info/SOURCES.txt
-prometheus_psutil_exporter.egg-info/dependency_links.txt
-prometheus_psutil_exporter.egg-info/not-zip-safe
-prometheus_psutil_exporter.egg-info/top_level.txt

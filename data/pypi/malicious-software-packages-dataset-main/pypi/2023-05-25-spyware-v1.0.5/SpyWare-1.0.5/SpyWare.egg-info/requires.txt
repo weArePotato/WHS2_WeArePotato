@@ -1,5 +1,0 @@
-opencv-python
-pillow
-pyautogui
-pynput
-pyperclip

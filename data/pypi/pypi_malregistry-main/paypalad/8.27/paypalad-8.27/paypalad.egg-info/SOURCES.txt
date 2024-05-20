@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-paypalad.egg-info/PKG-INFO
-paypalad.egg-info/SOURCES.txt
-paypalad.egg-info/dependency_links.txt
-paypalad.egg-info/top_level.txt

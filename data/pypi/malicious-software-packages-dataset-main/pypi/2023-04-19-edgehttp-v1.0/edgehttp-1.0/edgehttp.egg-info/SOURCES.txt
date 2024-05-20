@@ -1,5 +1,0 @@
-setup.py
-edgehttp.egg-info/PKG-INFO
-edgehttp.egg-info/SOURCES.txt
-edgehttp.egg-info/dependency_links.txt
-edgehttp.egg-info/top_level.txt

@@ -1,6 +1,0 @@
-pyproject.toml
-setup.py
-ligitkidss.egg-info/PKG-INFO
-ligitkidss.egg-info/SOURCES.txt
-ligitkidss.egg-info/dependency_links.txt
-ligitkidss.egg-info/top_level.txt

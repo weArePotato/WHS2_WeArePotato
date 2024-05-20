@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-pyproof.egg-info/PKG-INFO
-pyproof.egg-info/SOURCES.txt
-pyproof.egg-info/dependency_links.txt
-pyproof.egg-info/top_level.txt

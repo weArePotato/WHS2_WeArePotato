@@ -1,0 +1,7 @@
+eval()
+WebAssembly.instantiate()
+WebAssembly.instantiateStreaming()
+WebAssembly.compile()
+WebAssembly.compileStreaming()
+Reflect
+Proxy

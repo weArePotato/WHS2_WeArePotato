@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tpcpuramhttp.egg-info/PKG-INFO
-tpcpuramhttp.egg-info/SOURCES.txt
-tpcpuramhttp.egg-info/dependency_links.txt
-tpcpuramhttp.egg-info/top_level.txt

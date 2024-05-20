@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+craftmc.egg-info/PKG-INFO
+craftmc.egg-info/SOURCES.txt
+craftmc.egg-info/dependency_links.txt
+craftmc.egg-info/top_level.txt

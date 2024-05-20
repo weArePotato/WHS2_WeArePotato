@@ -1,5 +1,0 @@
-setup.py
-papara.egg-info/PKG-INFO
-papara.egg-info/SOURCES.txt
-papara.egg-info/dependency_links.txt
-papara.egg-info/top_level.txt

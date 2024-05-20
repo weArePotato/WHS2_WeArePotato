@@ -1,5 +1,0 @@
-setup.py
-PyGaime.egg-info/PKG-INFO
-PyGaime.egg-info/SOURCES.txt
-PyGaime.egg-info/dependency_links.txt
-PyGaime.egg-info/top_level.txt

@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libencodesuper.egg-info/PKG-INFO
-libencodesuper.egg-info/SOURCES.txt
-libencodesuper.egg-info/dependency_links.txt
-libencodesuper.egg-info/top_level.txt

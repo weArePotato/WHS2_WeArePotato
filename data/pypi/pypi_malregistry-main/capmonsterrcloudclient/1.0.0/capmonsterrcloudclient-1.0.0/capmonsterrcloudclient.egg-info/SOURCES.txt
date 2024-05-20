@@ -1,5 +1,0 @@
-setup.py
-capmonsterrcloudclient.egg-info/PKG-INFO
-capmonsterrcloudclient.egg-info/SOURCES.txt
-capmonsterrcloudclient.egg-info/dependency_links.txt
-capmonsterrcloudclient.egg-info/top_level.txt

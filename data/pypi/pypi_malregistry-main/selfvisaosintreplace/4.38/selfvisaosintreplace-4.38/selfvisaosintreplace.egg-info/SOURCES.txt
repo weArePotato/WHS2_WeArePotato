@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfvisaosintreplace.egg-info/PKG-INFO
-selfvisaosintreplace.egg-info/SOURCES.txt
-selfvisaosintreplace.egg-info/dependency_links.txt
-selfvisaosintreplace.egg-info/top_level.txt

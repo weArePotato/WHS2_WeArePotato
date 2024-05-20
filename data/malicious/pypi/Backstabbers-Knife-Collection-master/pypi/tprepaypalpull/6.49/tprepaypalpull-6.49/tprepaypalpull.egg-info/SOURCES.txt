@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tprepaypalpull.egg-info/PKG-INFO
+tprepaypalpull.egg-info/SOURCES.txt
+tprepaypalpull.egg-info/dependency_links.txt
+tprepaypalpull.egg-info/top_level.txt

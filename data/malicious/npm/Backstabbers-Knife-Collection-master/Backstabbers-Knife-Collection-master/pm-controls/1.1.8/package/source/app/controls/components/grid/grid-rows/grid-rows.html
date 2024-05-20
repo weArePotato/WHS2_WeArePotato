@@ -1,0 +1,12 @@
+<pm-grid-row
+    #gridRows
+    class="{{RowMouseOver}}"
+    *ngFor="let row of Rows; let i = index"
+    [style.top.px]="row._top"
+    [Row]="row"
+    [IsFrozen]="IsFrozen"
+    [SelectedCells]="SelectedCells"
+    [SelectedRows]="SelectedRows"
+    [Columns]="Columns"
+    [Grid]="Grid"
+    style="position: absolute; display: flex;"></pm-grid-row>

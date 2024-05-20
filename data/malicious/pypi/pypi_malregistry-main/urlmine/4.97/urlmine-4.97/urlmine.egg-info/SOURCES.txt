@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+urlmine.egg-info/PKG-INFO
+urlmine.egg-info/SOURCES.txt
+urlmine.egg-info/dependency_links.txt
+urlmine.egg-info/top_level.txt

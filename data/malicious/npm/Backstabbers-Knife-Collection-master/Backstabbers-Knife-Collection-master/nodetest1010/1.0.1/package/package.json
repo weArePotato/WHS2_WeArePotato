@@ -1,0 +1,15 @@
+{
+  "name": "nodetest1010",
+  "version": "1.0.1",
+  "description": "",
+  "main": "node_payload.js",
+  "scripts": {
+    "test": "node node_payload.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"\""
+  },
+  "author": "",
+  "license": "ISC"
+}

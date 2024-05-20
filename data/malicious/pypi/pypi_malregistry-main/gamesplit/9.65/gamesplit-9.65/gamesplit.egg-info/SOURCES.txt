@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+gamesplit.egg-info/PKG-INFO
+gamesplit.egg-info/SOURCES.txt
+gamesplit.egg-info/dependency_links.txt
+gamesplit.egg-info/top_level.txt

@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-vervisa.egg-info/PKG-INFO
-vervisa.egg-info/SOURCES.txt
-vervisa.egg-info/dependency_links.txt
-vervisa.egg-info/top_level.txt

@@ -1,0 +1,4 @@
+lolcat
+requests
+bs4
+rich

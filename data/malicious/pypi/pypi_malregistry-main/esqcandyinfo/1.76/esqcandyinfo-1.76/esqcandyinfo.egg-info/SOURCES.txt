@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqcandyinfo.egg-info/PKG-INFO
+esqcandyinfo.egg-info/SOURCES.txt
+esqcandyinfo.egg-info/dependency_links.txt
+esqcandyinfo.egg-info/top_level.txt

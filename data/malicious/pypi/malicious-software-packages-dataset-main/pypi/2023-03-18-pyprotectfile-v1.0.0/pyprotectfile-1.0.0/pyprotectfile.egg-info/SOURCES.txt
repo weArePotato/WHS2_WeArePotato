@@ -1,0 +1,11 @@
+README.md
+setup.py
+pyprotectfile/__init__.py
+pyprotectfile/__main__.py
+pyprotectfile.egg-info/PKG-INFO
+pyprotectfile.egg-info/SOURCES.txt
+pyprotectfile.egg-info/dependency_links.txt
+pyprotectfile.egg-info/requires.txt
+pyprotectfile.egg-info/top_level.txt
+pyprotectfile/pyprotectfile/__init__.py
+pyprotectfile/pyprotectfile/__main__.py
