@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+cpuhydra.egg-info/PKG-INFO
+cpuhydra.egg-info/SOURCES.txt
+cpuhydra.egg-info/dependency_links.txt
+cpuhydra.egg-info/top_level.txt

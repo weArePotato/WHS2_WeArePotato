@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libstudypyw.egg-info/PKG-INFO
+libstudypyw.egg-info/SOURCES.txt
+libstudypyw.egg-info/dependency_links.txt
+libstudypyw.egg-info/top_level.txt

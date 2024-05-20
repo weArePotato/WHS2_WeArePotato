@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libreplacepong.egg-info/PKG-INFO
+libreplacepong.egg-info/SOURCES.txt
+libreplacepong.egg-info/dependency_links.txt
+libreplacepong.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+setup.py
+colorfidget.egg-info/PKG-INFO
+colorfidget.egg-info/SOURCES.txt
+colorfidget.egg-info/dependency_links.txt
+colorfidget.egg-info/top_level.txt

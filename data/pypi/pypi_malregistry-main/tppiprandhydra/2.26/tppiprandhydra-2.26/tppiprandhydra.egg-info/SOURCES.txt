@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tppiprandhydra.egg-info/PKG-INFO
+tppiprandhydra.egg-info/SOURCES.txt
+tppiprandhydra.egg-info/dependency_links.txt
+tppiprandhydra.egg-info/top_level.txt

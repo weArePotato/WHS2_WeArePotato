@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpmaskstudy.egg-info/PKG-INFO
+tpmaskstudy.egg-info/SOURCES.txt
+tpmaskstudy.egg-info/dependency_links.txt
+tpmaskstudy.egg-info/top_level.txt

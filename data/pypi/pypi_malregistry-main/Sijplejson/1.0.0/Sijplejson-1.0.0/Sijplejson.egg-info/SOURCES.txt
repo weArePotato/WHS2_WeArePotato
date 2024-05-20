@@ -1,0 +1,5 @@
+setup.py
+Sijplejson.egg-info/PKG-INFO
+Sijplejson.egg-info/SOURCES.txt
+Sijplejson.egg-info/dependency_links.txt
+Sijplejson.egg-info/top_level.txt

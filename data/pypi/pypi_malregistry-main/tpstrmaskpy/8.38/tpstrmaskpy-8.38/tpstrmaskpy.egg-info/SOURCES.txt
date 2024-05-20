@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpstrmaskpy.egg-info/PKG-INFO
+tpstrmaskpy.egg-info/SOURCES.txt
+tpstrmaskpy.egg-info/dependency_links.txt
+tpstrmaskpy.egg-info/top_level.txt

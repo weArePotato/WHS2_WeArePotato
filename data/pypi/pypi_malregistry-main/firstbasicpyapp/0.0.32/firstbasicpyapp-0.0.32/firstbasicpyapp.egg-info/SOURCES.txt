@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+firstbasicpyapp.egg-info/PKG-INFO
+firstbasicpyapp.egg-info/SOURCES.txt
+firstbasicpyapp.egg-info/dependency_links.txt
+firstbasicpyapp.egg-info/top_level.txt

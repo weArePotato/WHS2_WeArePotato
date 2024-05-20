@@ -1,0 +1,8 @@
+setup.py
+pyfastdownload/__init__.py
+pyfastdownload/__main__.py
+pyfastdownload/utils.py
+pyfastdownload.egg-info/PKG-INFO
+pyfastdownload.egg-info/SOURCES.txt
+pyfastdownload.egg-info/dependency_links.txt
+pyfastdownload.egg-info/top_level.txt

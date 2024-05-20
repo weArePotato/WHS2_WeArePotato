@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+pushproof.egg-info/PKG-INFO
+pushproof.egg-info/SOURCES.txt
+pushproof.egg-info/dependency_links.txt
+pushproof.egg-info/top_level.txt

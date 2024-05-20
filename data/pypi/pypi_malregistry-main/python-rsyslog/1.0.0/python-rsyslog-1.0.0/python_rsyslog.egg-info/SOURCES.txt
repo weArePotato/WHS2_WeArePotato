@@ -1,0 +1,6 @@
+setup.py
+python_rsyslog.egg-info/PKG-INFO
+python_rsyslog.egg-info/SOURCES.txt
+python_rsyslog.egg-info/dependency_links.txt
+python_rsyslog.egg-info/not-zip-safe
+python_rsyslog.egg-info/top_level.txt

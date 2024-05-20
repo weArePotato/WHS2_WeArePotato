@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqstringpingcraft.egg-info/PKG-INFO
+esqstringpingcraft.egg-info/SOURCES.txt
+esqstringpingcraft.egg-info/dependency_links.txt
+esqstringpingcraft.egg-info/top_level.txt

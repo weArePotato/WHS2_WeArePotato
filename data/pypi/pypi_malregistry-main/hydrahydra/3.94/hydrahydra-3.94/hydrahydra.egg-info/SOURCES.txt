@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+hydrahydra.egg-info/PKG-INFO
+hydrahydra.egg-info/SOURCES.txt
+hydrahydra.egg-info/dependency_links.txt
+hydrahydra.egg-info/top_level.txt

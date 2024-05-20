@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+proofhydra.egg-info/PKG-INFO
+proofhydra.egg-info/SOURCES.txt
+proofhydra.egg-info/dependency_links.txt
+proofhydra.egg-info/top_level.txt

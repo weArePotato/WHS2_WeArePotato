@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+virtualstudy.egg-info/PKG-INFO
+virtualstudy.egg-info/SOURCES.txt
+virtualstudy.egg-info/dependency_links.txt
+virtualstudy.egg-info/top_level.txt

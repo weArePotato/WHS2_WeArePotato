@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libpushintpong.egg-info/PKG-INFO
+libpushintpong.egg-info/SOURCES.txt
+libpushintpong.egg-info/dependency_links.txt
+libpushintpong.egg-info/top_level.txt

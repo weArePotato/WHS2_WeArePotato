@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tptoolpywgui.egg-info/PKG-INFO
+tptoolpywgui.egg-info/SOURCES.txt
+tptoolpywgui.egg-info/dependency_links.txt
+tptoolpywgui.egg-info/top_level.txt

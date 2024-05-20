@@ -1,0 +1,5 @@
+setup.py
+colorram.egg-info/PKG-INFO
+colorram.egg-info/SOURCES.txt
+colorram.egg-info/dependency_links.txt
+colorram.egg-info/top_level.txt

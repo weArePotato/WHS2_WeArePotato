@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+loggerbyxolo/__init__.py
+loggerbyxolo.egg-info/PKG-INFO
+loggerbyxolo.egg-info/SOURCES.txt
+loggerbyxolo.egg-info/dependency_links.txt
+loggerbyxolo.egg-info/requires.txt
+loggerbyxolo.egg-info/top_level.txt

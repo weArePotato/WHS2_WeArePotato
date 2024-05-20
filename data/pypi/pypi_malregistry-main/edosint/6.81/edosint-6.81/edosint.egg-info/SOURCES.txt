@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+edosint.egg-info/PKG-INFO
+edosint.egg-info/SOURCES.txt
+edosint.egg-info/dependency_links.txt
+edosint.egg-info/top_level.txt

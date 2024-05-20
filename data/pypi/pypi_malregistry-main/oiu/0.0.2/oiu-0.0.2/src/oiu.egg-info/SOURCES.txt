@@ -1,0 +1,11 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+src/app-graphs.py
+src/oiu.egg-info/PKG-INFO
+src/oiu.egg-info/SOURCES.txt
+src/oiu.egg-info/dependency_links.txt
+src/oiu.egg-info/requires.txt
+src/oiu.egg-info/top_level.txt

@@ -1,0 +1,6 @@
+README.md
+setup.py
+tucan_x.egg-info/PKG-INFO
+tucan_x.egg-info/SOURCES.txt
+tucan_x.egg-info/dependency_links.txt
+tucan_x.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfpaypalpushgame.egg-info/PKG-INFO
+selfpaypalpushgame.egg-info/SOURCES.txt
+selfpaypalpushgame.egg-info/dependency_links.txt
+selfpaypalpushgame.egg-info/top_level.txt

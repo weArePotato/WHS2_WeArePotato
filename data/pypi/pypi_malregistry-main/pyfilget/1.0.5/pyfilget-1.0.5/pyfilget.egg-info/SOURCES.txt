@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+PyFiglet/__init__.py
+PyFiglet/color.py
+pyfilget.egg-info/PKG-INFO
+pyfilget.egg-info/SOURCES.txt
+pyfilget.egg-info/dependency_links.txt
+pyfilget.egg-info/top_level.txt

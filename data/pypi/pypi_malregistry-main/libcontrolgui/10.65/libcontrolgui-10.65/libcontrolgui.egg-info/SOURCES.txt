@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libcontrolgui.egg-info/PKG-INFO
+libcontrolgui.egg-info/SOURCES.txt
+libcontrolgui.egg-info/dependency_links.txt
+libcontrolgui.egg-info/top_level.txt

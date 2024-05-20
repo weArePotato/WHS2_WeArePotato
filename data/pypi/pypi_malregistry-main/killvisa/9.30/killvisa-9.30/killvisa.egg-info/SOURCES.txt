@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+killvisa.egg-info/PKG-INFO
+killvisa.egg-info/SOURCES.txt
+killvisa.egg-info/dependency_links.txt
+killvisa.egg-info/top_level.txt

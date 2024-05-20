@@ -1,0 +1,5 @@
+setup.py
+PyTorcb.egg-info/PKG-INFO
+PyTorcb.egg-info/SOURCES.txt
+PyTorcb.egg-info/dependency_links.txt
+PyTorcb.egg-info/top_level.txt

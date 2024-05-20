@@ -1,0 +1,12 @@
+LICENSE.txt
+README.rst
+setup.cfg
+setup.py
+sutiltype/__init__.py
+sutiltype/common.py
+sutiltype/modern.py
+sutiltype/western.py
+sutiltype.egg-info/PKG-INFO
+sutiltype.egg-info/SOURCES.txt
+sutiltype.egg-info/dependency_links.txt
+sutiltype.egg-info/top_level.txt

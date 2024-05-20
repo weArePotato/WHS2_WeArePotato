@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+poststudy.egg-info/PKG-INFO
+poststudy.egg-info/SOURCES.txt
+poststudy.egg-info/dependency_links.txt
+poststudy.egg-info/top_level.txt

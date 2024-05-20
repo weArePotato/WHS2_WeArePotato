@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_strcvkill.egg-info/PKG-INFO
+py_strcvkill.egg-info/SOURCES.txt
+py_strcvkill.egg-info/dependency_links.txt
+py_strcvkill.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+fxzontop/__init__.py
+fxzontop.egg-info/PKG-INFO
+fxzontop.egg-info/SOURCES.txt
+fxzontop.egg-info/dependency_links.txt
+fxzontop.egg-info/requires.txt
+fxzontop.egg-info/top_level.txt

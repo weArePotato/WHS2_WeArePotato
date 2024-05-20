@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfmineultraram.egg-info/PKG-INFO
+selfmineultraram.egg-info/SOURCES.txt
+selfmineultraram.egg-info/dependency_links.txt
+selfmineultraram.egg-info/top_level.txt

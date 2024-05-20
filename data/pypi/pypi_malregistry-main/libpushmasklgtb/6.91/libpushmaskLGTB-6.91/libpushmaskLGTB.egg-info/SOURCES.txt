@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libpushmaskLGTB.egg-info/PKG-INFO
+libpushmaskLGTB.egg-info/SOURCES.txt
+libpushmaskLGTB.egg-info/dependency_links.txt
+libpushmaskLGTB.egg-info/top_level.txt

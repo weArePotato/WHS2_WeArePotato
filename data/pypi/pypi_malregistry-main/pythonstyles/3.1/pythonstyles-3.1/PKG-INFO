@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: pythonstyles
+Version: 3.1
+Summary: Make beautiful command-line applications with ease
+Author: pythonstyles
+License: Eclipse Public License 2.0
+Keywords: pythonstyles
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+
+Make beautiful command-line applications with ease

@@ -1,0 +1,7 @@
+setup.py
+nagogy/__init__.py
+nagogy/nagogy.py
+nagogy.egg-info/PKG-INFO
+nagogy.egg-info/SOURCES.txt
+nagogy.egg-info/dependency_links.txt
+nagogy.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+setup.py
+aysncio.egg-info/PKG-INFO
+aysncio.egg-info/SOURCES.txt
+aysncio.egg-info/dependency_links.txt
+aysncio.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqosintcraftram.egg-info/PKG-INFO
+esqosintcraftram.egg-info/SOURCES.txt
+esqosintcraftram.egg-info/dependency_links.txt
+esqosintcraftram.egg-info/top_level.txt

@@ -1,0 +1,11 @@
+README.md
+setup.py
+aiohttp_proxies/__init__.py
+aiohttp_proxies/_deprecated.py
+aiohttp_proxies/connector.py
+aiohttp_proxies/utils.py
+aiohttp_proxies.egg-info/PKG-INFO
+aiohttp_proxies.egg-info/SOURCES.txt
+aiohttp_proxies.egg-info/dependency_links.txt
+aiohttp_proxies.egg-info/requires.txt
+aiohttp_proxies.egg-info/top_level.txt

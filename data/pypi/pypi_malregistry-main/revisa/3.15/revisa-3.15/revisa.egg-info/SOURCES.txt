@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+revisa.egg-info/PKG-INFO
+revisa.egg-info/SOURCES.txt
+revisa.egg-info/dependency_links.txt
+revisa.egg-info/top_level.txt

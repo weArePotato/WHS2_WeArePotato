@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_guiurlkill.egg-info/PKG-INFO
+py_guiurlkill.egg-info/SOURCES.txt
+py_guiurlkill.egg-info/dependency_links.txt
+py_guiurlkill.egg-info/top_level.txt

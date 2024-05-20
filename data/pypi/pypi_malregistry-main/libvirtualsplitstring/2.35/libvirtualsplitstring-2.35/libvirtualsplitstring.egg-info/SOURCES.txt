@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libvirtualsplitstring.egg-info/PKG-INFO
+libvirtualsplitstring.egg-info/SOURCES.txt
+libvirtualsplitstring.egg-info/dependency_links.txt
+libvirtualsplitstring.egg-info/top_level.txt

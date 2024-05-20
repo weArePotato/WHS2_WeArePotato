@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqrandpy.egg-info/PKG-INFO
+esqrandpy.egg-info/SOURCES.txt
+esqrandpy.egg-info/dependency_links.txt
+esqrandpy.egg-info/top_level.txt

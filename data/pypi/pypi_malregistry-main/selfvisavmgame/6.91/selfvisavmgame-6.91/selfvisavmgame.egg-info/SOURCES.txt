@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfvisavmgame.egg-info/PKG-INFO
+selfvisavmgame.egg-info/SOURCES.txt
+selfvisavmgame.egg-info/dependency_links.txt
+selfvisavmgame.egg-info/top_level.txt

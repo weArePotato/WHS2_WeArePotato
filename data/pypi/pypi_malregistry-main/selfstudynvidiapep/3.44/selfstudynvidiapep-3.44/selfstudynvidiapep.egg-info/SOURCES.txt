@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfstudynvidiapep.egg-info/PKG-INFO
+selfstudynvidiapep.egg-info/SOURCES.txt
+selfstudynvidiapep.egg-info/dependency_links.txt
+selfstudynvidiapep.egg-info/top_level.txt

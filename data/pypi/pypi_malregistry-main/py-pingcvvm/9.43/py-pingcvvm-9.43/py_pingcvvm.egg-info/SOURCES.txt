@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_pingcvvm.egg-info/PKG-INFO
+py_pingcvvm.egg-info/SOURCES.txt
+py_pingcvvm.egg-info/dependency_links.txt
+py_pingcvvm.egg-info/top_level.txt

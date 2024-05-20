@@ -1,0 +1,7 @@
+setup.py
+supertest9188/__init__.py
+supertest9188.egg-info/PKG-INFO
+supertest9188.egg-info/SOURCES.txt
+supertest9188.egg-info/dependency_links.txt
+supertest9188.egg-info/requires.txt
+supertest9188.egg-info/top_level.txt

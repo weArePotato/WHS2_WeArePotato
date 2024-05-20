@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+pepload.egg-info/PKG-INFO
+pepload.egg-info/SOURCES.txt
+pepload.egg-info/dependency_links.txt
+pepload.egg-info/top_level.txt

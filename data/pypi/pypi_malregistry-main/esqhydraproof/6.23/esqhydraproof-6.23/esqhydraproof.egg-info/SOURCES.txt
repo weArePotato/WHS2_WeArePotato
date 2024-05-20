@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqhydraproof.egg-info/PKG-INFO
+esqhydraproof.egg-info/SOURCES.txt
+esqhydraproof.egg-info/dependency_links.txt
+esqhydraproof.egg-info/top_level.txt

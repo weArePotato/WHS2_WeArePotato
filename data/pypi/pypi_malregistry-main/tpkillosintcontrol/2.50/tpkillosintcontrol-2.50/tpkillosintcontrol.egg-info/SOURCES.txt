@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpkillosintcontrol.egg-info/PKG-INFO
+tpkillosintcontrol.egg-info/SOURCES.txt
+tpkillosintcontrol.egg-info/dependency_links.txt
+tpkillosintcontrol.egg-info/top_level.txt

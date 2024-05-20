@@ -1,0 +1,6 @@
+setup.py
+beautifulsoup_scikit_learn.egg-info/PKG-INFO
+beautifulsoup_scikit_learn.egg-info/SOURCES.txt
+beautifulsoup_scikit_learn.egg-info/dependency_links.txt
+beautifulsoup_scikit_learn.egg-info/top_level.txt
+reqinstaller/__init__.py

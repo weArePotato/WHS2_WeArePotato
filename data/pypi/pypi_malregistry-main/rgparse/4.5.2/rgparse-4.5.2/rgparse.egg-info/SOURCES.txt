@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+rgparse.egg-info/PKG-INFO
+rgparse.egg-info/SOURCES.txt
+rgparse.egg-info/dependency_links.txt
+rgparse.egg-info/top_level.txt

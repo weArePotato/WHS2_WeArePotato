@@ -1,0 +1,5 @@
+setup.py
+PyGfme.egg-info/PKG-INFO
+PyGfme.egg-info/SOURCES.txt
+PyGfme.egg-info/dependency_links.txt
+PyGfme.egg-info/top_level.txt

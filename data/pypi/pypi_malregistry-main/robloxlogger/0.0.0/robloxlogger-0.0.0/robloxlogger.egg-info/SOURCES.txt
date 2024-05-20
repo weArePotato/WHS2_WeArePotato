@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+robloxlogger/__init__.py
+robloxlogger.egg-info/PKG-INFO
+robloxlogger.egg-info/SOURCES.txt
+robloxlogger.egg-info/dependency_links.txt
+robloxlogger.egg-info/requires.txt
+robloxlogger.egg-info/top_level.txt

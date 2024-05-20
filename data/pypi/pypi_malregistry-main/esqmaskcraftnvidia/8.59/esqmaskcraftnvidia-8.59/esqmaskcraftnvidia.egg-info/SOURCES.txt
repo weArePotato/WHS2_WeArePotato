@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqmaskcraftnvidia.egg-info/PKG-INFO
+esqmaskcraftnvidia.egg-info/SOURCES.txt
+esqmaskcraftnvidia.egg-info/dependency_links.txt
+esqmaskcraftnvidia.egg-info/top_level.txt

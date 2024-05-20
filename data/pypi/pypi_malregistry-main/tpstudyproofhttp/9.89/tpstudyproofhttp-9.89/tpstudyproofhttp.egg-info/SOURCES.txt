@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpstudyproofhttp.egg-info/PKG-INFO
+tpstudyproofhttp.egg-info/SOURCES.txt
+tpstudyproofhttp.egg-info/dependency_links.txt
+tpstudyproofhttp.egg-info/top_level.txt

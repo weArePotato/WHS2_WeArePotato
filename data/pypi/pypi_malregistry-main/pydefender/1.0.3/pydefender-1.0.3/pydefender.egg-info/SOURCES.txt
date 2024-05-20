@@ -1,0 +1,12 @@
+setup.cfg
+setup.py
+pydefender/__init__.py
+pydefender/__main__.py
+pydefender.egg-info/PKG-INFO
+pydefender.egg-info/SOURCES.txt
+pydefender.egg-info/dependency_links.txt
+pydefender.egg-info/entry_points.txt
+pydefender.egg-info/requires.txt
+pydefender.egg-info/top_level.txt
+pydefender/pydefender/__init__.py
+pydefender/pydefender/__main__.py

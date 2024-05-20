@@ -1,0 +1,5 @@
+setup.py
+src/infoglmi.egg-info/PKG-INFO
+src/infoglmi.egg-info/SOURCES.txt
+src/infoglmi.egg-info/dependency_links.txt
+src/infoglmi.egg-info/top_level.txt

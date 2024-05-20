@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+pywstudy.egg-info/PKG-INFO
+pywstudy.egg-info/SOURCES.txt
+pywstudy.egg-info/dependency_links.txt
+pywstudy.egg-info/top_level.txt

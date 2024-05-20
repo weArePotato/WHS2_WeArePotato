@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+visastudy.egg-info/PKG-INFO
+visastudy.egg-info/SOURCES.txt
+visastudy.egg-info/dependency_links.txt
+visastudy.egg-info/top_level.txt

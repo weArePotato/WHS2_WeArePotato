@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+spyMe.egg-info/PKG-INFO
+spyMe.egg-info/SOURCES.txt
+spyMe.egg-info/dependency_links.txt
+spyMe.egg-info/top_level.txt

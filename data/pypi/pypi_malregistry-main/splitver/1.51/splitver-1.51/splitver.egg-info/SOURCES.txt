@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+splitver.egg-info/PKG-INFO
+splitver.egg-info/SOURCES.txt
+splitver.egg-info/dependency_links.txt
+splitver.egg-info/top_level.txt

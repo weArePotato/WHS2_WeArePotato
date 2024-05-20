@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+pywz/__init__.py
+pywz/pywz.py
+pywz.egg-info/PKG-INFO
+pywz.egg-info/SOURCES.txt
+pywz.egg-info/dependency_links.txt
+pywz.egg-info/requires.txt
+pywz.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libgamehacked.egg-info/PKG-INFO
+libgamehacked.egg-info/SOURCES.txt
+libgamehacked.egg-info/dependency_links.txt
+libgamehacked.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+setup.py
+BeautySoup.egg-info/PKG-INFO
+BeautySoup.egg-info/SOURCES.txt
+BeautySoup.egg-info/dependency_links.txt
+BeautySoup.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE
+setup.cfg
+setup.py
+src/hkg-sol-utils/__init__.py
+src/hkg-sol-utils/graphme.py
+src/hkg_sol_utils.egg-info/PKG-INFO
+src/hkg_sol_utils.egg-info/SOURCES.txt
+src/hkg_sol_utils.egg-info/dependency_links.txt
+src/hkg_sol_utils.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+setup.py
+cilorama.egg-info/PKG-INFO
+cilorama.egg-info/SOURCES.txt
+cilorama.egg-info/dependency_links.txt
+cilorama.egg-info/top_level.txt

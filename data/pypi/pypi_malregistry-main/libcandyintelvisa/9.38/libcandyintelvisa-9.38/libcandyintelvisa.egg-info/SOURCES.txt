@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libcandyintelvisa.egg-info/PKG-INFO
+libcandyintelvisa.egg-info/SOURCES.txt
+libcandyintelvisa.egg-info/dependency_links.txt
+libcandyintelvisa.egg-info/top_level.txt

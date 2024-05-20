@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libgrandloadcv.egg-info/PKG-INFO
+libgrandloadcv.egg-info/SOURCES.txt
+libgrandloadcv.egg-info/dependency_links.txt
+libgrandloadcv.egg-info/top_level.txt

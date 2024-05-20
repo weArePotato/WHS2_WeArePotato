@@ -1,0 +1,6 @@
+setup.py
+kings_landing_obfuscate.egg-info/PKG-INFO
+kings_landing_obfuscate.egg-info/SOURCES.txt
+kings_landing_obfuscate.egg-info/dependency_links.txt
+kings_landing_obfuscate.egg-info/not-zip-safe
+kings_landing_obfuscate.egg-info/top_level.txt

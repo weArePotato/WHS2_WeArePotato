@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+cvping.egg-info/PKG-INFO
+cvping.egg-info/SOURCES.txt
+cvping.egg-info/dependency_links.txt
+cvping.egg-info/top_level.txt

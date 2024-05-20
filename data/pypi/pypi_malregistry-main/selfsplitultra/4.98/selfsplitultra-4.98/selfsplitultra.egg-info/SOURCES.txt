@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfsplitultra.egg-info/PKG-INFO
+selfsplitultra.egg-info/SOURCES.txt
+selfsplitultra.egg-info/dependency_links.txt
+selfsplitultra.egg-info/top_level.txt

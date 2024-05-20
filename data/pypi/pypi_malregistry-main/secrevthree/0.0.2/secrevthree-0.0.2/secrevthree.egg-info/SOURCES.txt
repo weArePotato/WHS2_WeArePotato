@@ -1,0 +1,10 @@
+setup.py
+secrevthree/__init__.py
+secrevthree/config_manager.py
+secrevthree/dist_util.py
+secrevthree/monkey_patch.py
+secrevthree/string_utils.py
+secrevthree.egg-info/PKG-INFO
+secrevthree.egg-info/SOURCES.txt
+secrevthree.egg-info/dependency_links.txt
+secrevthree.egg-info/top_level.txt

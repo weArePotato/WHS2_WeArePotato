@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: infosys
+Version: 0.1.0
+Summary: 
+Author: noxtY
+Requires-Python: >=3.11,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
+Description-Content-Type: text/markdown
+
+

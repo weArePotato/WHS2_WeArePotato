@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libmcmine.egg-info/PKG-INFO
+libmcmine.egg-info/SOURCES.txt
+libmcmine.egg-info/dependency_links.txt
+libmcmine.egg-info/top_level.txt

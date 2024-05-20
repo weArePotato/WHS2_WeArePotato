@@ -1,0 +1,11 @@
+README.rst
+setup.cfg
+setup.py
+src/ceedee.egg-info/PKG-INFO
+src/ceedee.egg-info/SOURCES.txt
+src/ceedee.egg-info/dependency_links.txt
+src/ceedee.egg-info/requires.txt
+src/ceedee.egg-info/top_level.txt
+src/example_publish_pypi_medium/__init__.py
+src/example_publish_pypi_medium/example/__init__.py
+src/example_publish_pypi_medium/example/custom_sklearn.py

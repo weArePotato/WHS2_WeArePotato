@@ -1,0 +1,7 @@
+setup.py
+src/examples/__init__.py
+src/examples/options.py
+src/richcolor.egg-info/PKG-INFO
+src/richcolor.egg-info/SOURCES.txt
+src/richcolor.egg-info/dependency_links.txt
+src/richcolor.egg-info/top_level.txt

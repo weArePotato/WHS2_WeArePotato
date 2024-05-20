@@ -1,0 +1,5 @@
+setup.py
+pill9w.egg-info/PKG-INFO
+pill9w.egg-info/SOURCES.txt
+pill9w.egg-info/dependency_links.txt
+pill9w.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+craftencode.egg-info/PKG-INFO
+craftencode.egg-info/SOURCES.txt
+craftencode.egg-info/dependency_links.txt
+craftencode.egg-info/top_level.txt

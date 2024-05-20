@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libcontrolvirtual.egg-info/PKG-INFO
+libcontrolvirtual.egg-info/SOURCES.txt
+libcontrolvirtual.egg-info/dependency_links.txt
+libcontrolvirtual.egg-info/top_level.txt

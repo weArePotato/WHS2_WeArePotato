@@ -1,0 +1,11 @@
+LICENCE.txt
+MANIFEST.in
+README.md
+pre_install.py
+setup.cfg
+setup.py
+mle-py-connector/__init__.py
+mle_py_connector.egg-info/PKG-INFO
+mle_py_connector.egg-info/SOURCES.txt
+mle_py_connector.egg-info/dependency_links.txt
+mle_py_connector.egg-info/top_level.txt

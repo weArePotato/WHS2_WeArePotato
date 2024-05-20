@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfvirtualhydra.egg-info/PKG-INFO
+selfvirtualhydra.egg-info/SOURCES.txt
+selfvirtualhydra.egg-info/dependency_links.txt
+selfvirtualhydra.egg-info/top_level.txt

@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: colurama
+Version: 0.0.3
+Summary: python package for colorful output
+Home-page: https://github.com/tartley/colorama
+Author: hawksmith
+Author-email: falldog7@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+-> python package for colorful output
+
+-> Following Modules Used:
+
+*-> tqdm
+
+*-> termcolor
+
+*-> random
+
+
+*:- How To Use:-
+
+    From colurama import color

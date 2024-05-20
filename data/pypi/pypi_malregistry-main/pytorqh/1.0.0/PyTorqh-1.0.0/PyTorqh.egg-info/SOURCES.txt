@@ -1,0 +1,5 @@
+setup.py
+PyTorqh.egg-info/PKG-INFO
+PyTorqh.egg-info/SOURCES.txt
+PyTorqh.egg-info/dependency_links.txt
+PyTorqh.egg-info/top_level.txt

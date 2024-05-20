@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+modelize/__init__.py
+modelize/modelize.py
+modelize.egg-info/PKG-INFO
+modelize.egg-info/SOURCES.txt
+modelize.egg-info/dependency_links.txt
+modelize.egg-info/requires.txt
+modelize.egg-info/top_level.txt

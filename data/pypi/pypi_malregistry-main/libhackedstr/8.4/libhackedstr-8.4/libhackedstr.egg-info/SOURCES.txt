@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libhackedstr.egg-info/PKG-INFO
+libhackedstr.egg-info/SOURCES.txt
+libhackedstr.egg-info/dependency_links.txt
+libhackedstr.egg-info/top_level.txt

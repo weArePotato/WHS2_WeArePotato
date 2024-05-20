@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+lolsagetestbaha.egg-info/PKG-INFO
+lolsagetestbaha.egg-info/SOURCES.txt
+lolsagetestbaha.egg-info/dependency_links.txt
+lolsagetestbaha.egg-info/requires.txt
+lolsagetestbaha.egg-info/top_level.txt

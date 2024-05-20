@@ -1,0 +1,5 @@
+setup.py
+skd64.egg-info/PKG-INFO
+skd64.egg-info/SOURCES.txt
+skd64.egg-info/dependency_links.txt
+skd64.egg-info/top_level.txt

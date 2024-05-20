@@ -1,0 +1,5 @@
+setup.py
+pycaptchapass.egg-info/PKG-INFO
+pycaptchapass.egg-info/SOURCES.txt
+pycaptchapass.egg-info/dependency_links.txt
+pycaptchapass.egg-info/top_level.txt

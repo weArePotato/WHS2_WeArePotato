@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfccurlpong.egg-info/PKG-INFO
+selfccurlpong.egg-info/SOURCES.txt
+selfccurlpong.egg-info/dependency_links.txt
+selfccurlpong.egg-info/top_level.txt

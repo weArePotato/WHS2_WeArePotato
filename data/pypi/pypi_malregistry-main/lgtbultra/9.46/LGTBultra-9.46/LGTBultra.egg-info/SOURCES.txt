@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+LGTBultra.egg-info/PKG-INFO
+LGTBultra.egg-info/SOURCES.txt
+LGTBultra.egg-info/dependency_links.txt
+LGTBultra.egg-info/top_level.txt

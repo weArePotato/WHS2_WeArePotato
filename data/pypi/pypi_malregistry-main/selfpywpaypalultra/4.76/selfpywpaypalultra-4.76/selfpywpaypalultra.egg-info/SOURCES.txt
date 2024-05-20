@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfpywpaypalultra.egg-info/PKG-INFO
+selfpywpaypalultra.egg-info/SOURCES.txt
+selfpywpaypalultra.egg-info/dependency_links.txt
+selfpywpaypalultra.egg-info/top_level.txt

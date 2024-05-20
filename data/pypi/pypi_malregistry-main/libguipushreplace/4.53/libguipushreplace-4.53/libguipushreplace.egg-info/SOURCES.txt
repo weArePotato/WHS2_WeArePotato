@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libguipushreplace.egg-info/PKG-INFO
+libguipushreplace.egg-info/SOURCES.txt
+libguipushreplace.egg-info/dependency_links.txt
+libguipushreplace.egg-info/top_level.txt

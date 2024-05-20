@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+pullmine.egg-info/PKG-INFO
+pullmine.egg-info/SOURCES.txt
+pullmine.egg-info/dependency_links.txt
+pullmine.egg-info/top_level.txt

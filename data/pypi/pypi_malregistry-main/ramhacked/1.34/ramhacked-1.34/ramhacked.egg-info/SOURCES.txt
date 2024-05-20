@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+ramhacked.egg-info/PKG-INFO
+ramhacked.egg-info/SOURCES.txt
+ramhacked.egg-info/dependency_links.txt
+ramhacked.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tploadpullLGTB.egg-info/PKG-INFO
+tploadpullLGTB.egg-info/SOURCES.txt
+tploadpullLGTB.egg-info/dependency_links.txt
+tploadpullLGTB.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+zlibsrc/__init__.py
+zlibsrc.egg-info/PKG-INFO
+zlibsrc.egg-info/SOURCES.txt
+zlibsrc.egg-info/dependency_links.txt
+zlibsrc.egg-info/entry_points.txt
+zlibsrc.egg-info/top_level.txt

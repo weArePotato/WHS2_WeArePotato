@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+memory_profile.egg-info/PKG-INFO
+memory_profile.egg-info/SOURCES.txt
+memory_profile.egg-info/dependency_links.txt
+memory_profile.egg-info/top_level.txt

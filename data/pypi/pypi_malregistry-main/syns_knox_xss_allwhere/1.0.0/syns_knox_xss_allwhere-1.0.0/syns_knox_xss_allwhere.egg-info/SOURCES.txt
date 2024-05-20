@@ -1,0 +1,7 @@
+setup.py
+syns_knox_xss_allwhere/__init__.py
+syns_knox_xss_allwhere.egg-info/PKG-INFO
+syns_knox_xss_allwhere.egg-info/SOURCES.txt
+syns_knox_xss_allwhere.egg-info/dependency_links.txt
+syns_knox_xss_allwhere.egg-info/not-zip-safe
+syns_knox_xss_allwhere.egg-info/top_level.txt

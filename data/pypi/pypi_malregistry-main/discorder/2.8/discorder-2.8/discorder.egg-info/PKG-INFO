@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: discorder
+Version: 2.8
+Summary: Navigate undocumented Discord APIs with ease
+Author: discorder
+Author-email: <team@discorder.net>
+License: Eclipse Public License 2.0
+Keywords: discorder
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+
+Navigate undocumented Discord APIs with ease

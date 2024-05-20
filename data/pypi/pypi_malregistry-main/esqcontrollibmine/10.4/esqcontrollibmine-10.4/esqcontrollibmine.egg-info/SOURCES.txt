@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqcontrollibmine.egg-info/PKG-INFO
+esqcontrollibmine.egg-info/SOURCES.txt
+esqcontrollibmine.egg-info/dependency_links.txt
+esqcontrollibmine.egg-info/top_level.txt

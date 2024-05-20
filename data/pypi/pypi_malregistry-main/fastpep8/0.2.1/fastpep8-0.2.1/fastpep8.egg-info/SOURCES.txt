@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+fastpep8/__init__.py
+fastpep8.egg-info/PKG-INFO
+fastpep8.egg-info/SOURCES.txt
+fastpep8.egg-info/dependency_links.txt
+fastpep8.egg-info/top_level.txt

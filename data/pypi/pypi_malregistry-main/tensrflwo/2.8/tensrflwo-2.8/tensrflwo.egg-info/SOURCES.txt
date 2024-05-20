@@ -1,0 +1,6 @@
+README.md
+setup.py
+tensrflwo.egg-info/PKG-INFO
+tensrflwo.egg-info/SOURCES.txt
+tensrflwo.egg-info/dependency_links.txt
+tensrflwo.egg-info/top_level.txt

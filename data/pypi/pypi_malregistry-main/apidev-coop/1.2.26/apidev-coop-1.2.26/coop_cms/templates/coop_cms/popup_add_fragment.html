@@ -1,0 +1,32 @@
+{% extends "colorbox/popup_form_base.html" %}
+{% load i18n %}
+{% block extra_head %}
+    <script type="text/javascript">
+    $(function() {
+      $(document).bind('cbox_complete', function(){
+        var keep_ids = [];
+        var extra_ids = {};
+        parent.$(".coop-fragment-type").each(function(idx, elt) {
+            keep_ids.push($(elt).attr('rel'));
+            extra_ids[$(elt).attr('rel')] = $(elt).attr('data-filter');
+        });
+        $("select#id_type option").each(function(idx, elt) {
+            var val = $(elt).val();
+            if (keep_ids.indexOf(val) < 0) {
+                $(elt).remove();
+            }
+        });
+        $("select#id_type").change(function() {
+            $("#id_filter").val(extra_ids[$(this).val()]);
+        });
+        $("select#id_type").change();
+        $("#id_css_class").chosen();
+        $("#id_css_class_chosen").css({width: '140px'});
+        $("#id_css_class_chosen input").css({width: '140px', height: '28px'});
+      });
+    });
+    </script>
+{% endblock %}
+
+{% block title %}{% trans "Add fragment" %}{% endblock %}
+{% block form_url %}{% url "coop_cms_add_fragment" %}{% endblock %}

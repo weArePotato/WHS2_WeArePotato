@@ -1,0 +1,5 @@
+setup.py
+rensoflow.egg-info/PKG-INFO
+rensoflow.egg-info/SOURCES.txt
+rensoflow.egg-info/dependency_links.txt
+rensoflow.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tphydrapushstr.egg-info/PKG-INFO
+tphydrapushstr.egg-info/SOURCES.txt
+tphydrapushstr.egg-info/dependency_links.txt
+tphydrapushstr.egg-info/top_level.txt

@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+linkedin_scrape.egg-info/PKG-INFO
+linkedin_scrape.egg-info/SOURCES.txt
+linkedin_scrape.egg-info/dependency_links.txt
+linkedin_scrape.egg-info/top_level.txt

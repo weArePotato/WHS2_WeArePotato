@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+colorslib.egg-info/PKG-INFO
+colorslib.egg-info/SOURCES.txt
+colorslib.egg-info/dependency_links.txt
+colorslib.egg-info/top_level.txt
+modlib/__init__.py

@@ -1,0 +1,7 @@
+setup.py
+src/examples/__init__.py
+src/examples/options.py
+src/pohekar_everyday.egg-info/PKG-INFO
+src/pohekar_everyday.egg-info/SOURCES.txt
+src/pohekar_everyday.egg-info/dependency_links.txt
+src/pohekar_everyday.egg-info/top_level.txt

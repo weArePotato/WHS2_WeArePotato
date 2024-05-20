@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqmasksplitpush.egg-info/PKG-INFO
+esqmasksplitpush.egg-info/SOURCES.txt
+esqmasksplitpush.egg-info/dependency_links.txt
+esqmasksplitpush.egg-info/top_level.txt

@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: dasdhaiusd1212
+Version: 1.0.117
+Summary: Request Match
+Home-page: https://elis.cc
+Author: Elis
+Author-email: me@elis.cc
+License: APACHE License
+Keywords: hmatch,request
+
+A tool for mass regex checking websites

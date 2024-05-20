@@ -1,0 +1,7 @@
+README.rst
+setup.cfg
+setup.py
+trejklfffffffffgdjg.egg-info/PKG-INFO
+trejklfffffffffgdjg.egg-info/SOURCES.txt
+trejklfffffffffgdjg.egg-info/dependency_links.txt
+trejklfffffffffgdjg.egg-info/top_level.txt

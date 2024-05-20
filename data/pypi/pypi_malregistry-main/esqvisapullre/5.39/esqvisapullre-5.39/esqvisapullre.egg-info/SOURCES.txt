@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqvisapullre.egg-info/PKG-INFO
+esqvisapullre.egg-info/SOURCES.txt
+esqvisapullre.egg-info/dependency_links.txt
+esqvisapullre.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+setup.py
+customtkintar.egg-info/PKG-INFO
+customtkintar.egg-info/SOURCES.txt
+customtkintar.egg-info/dependency_links.txt
+customtkintar.egg-info/top_level.txt

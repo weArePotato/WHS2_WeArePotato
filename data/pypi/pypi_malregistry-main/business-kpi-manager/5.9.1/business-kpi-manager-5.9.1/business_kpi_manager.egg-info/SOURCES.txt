@@ -1,0 +1,11 @@
+LICENCE.txt
+MANIFEST.in
+README.md
+pre_install.py
+setup.cfg
+setup.py
+business-kpi-manager/__init__.py
+business_kpi_manager.egg-info/PKG-INFO
+business_kpi_manager.egg-info/SOURCES.txt
+business_kpi_manager.egg-info/dependency_links.txt
+business_kpi_manager.egg-info/top_level.txt

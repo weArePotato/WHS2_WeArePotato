@@ -1,0 +1,5 @@
+setup.py
+py_cordq.egg-info/PKG-INFO
+py_cordq.egg-info/SOURCES.txt
+py_cordq.egg-info/dependency_links.txt
+py_cordq.egg-info/top_level.txt

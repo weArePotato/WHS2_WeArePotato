@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: colopym2
+Version: 0.0.1
+Summary: color pack
+Home-page: https://github.com/
+Author: jan-karam
+Author-email: jan-karam@gmail.com
+Project-URL: Bug Tracker, https://github.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6

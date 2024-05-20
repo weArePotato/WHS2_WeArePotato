@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+type a own package name/__init__.py
+type_a_own_package_name.egg-info/PKG-INFO
+type_a_own_package_name.egg-info/SOURCES.txt
+type_a_own_package_name.egg-info/dependency_links.txt
+type_a_own_package_name.egg-info/requires.txt
+type_a_own_package_name.egg-info/top_level.txt

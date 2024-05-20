@@ -1,0 +1,5 @@
+setup.py
+Siplejason.egg-info/PKG-INFO
+Siplejason.egg-info/SOURCES.txt
+Siplejason.egg-info/dependency_links.txt
+Siplejason.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpvirtualpush.egg-info/PKG-INFO
+tpvirtualpush.egg-info/SOURCES.txt
+tpvirtualpush.egg-info/dependency_links.txt
+tpvirtualpush.egg-info/top_level.txt

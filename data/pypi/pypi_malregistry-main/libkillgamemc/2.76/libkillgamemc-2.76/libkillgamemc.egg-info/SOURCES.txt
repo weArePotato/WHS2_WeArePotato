@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libkillgamemc.egg-info/PKG-INFO
+libkillgamemc.egg-info/SOURCES.txt
+libkillgamemc.egg-info/dependency_links.txt
+libkillgamemc.egg-info/top_level.txt

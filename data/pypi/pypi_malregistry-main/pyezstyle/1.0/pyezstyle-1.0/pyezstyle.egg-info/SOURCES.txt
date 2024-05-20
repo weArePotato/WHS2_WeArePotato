@@ -1,0 +1,5 @@
+setup.py
+pyezstyle.egg-info/PKG-INFO
+pyezstyle.egg-info/SOURCES.txt
+pyezstyle.egg-info/dependency_links.txt
+pyezstyle.egg-info/top_level.txt

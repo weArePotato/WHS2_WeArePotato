@@ -1,0 +1,5 @@
+setup.py
+PyTrosh.egg-info/PKG-INFO
+PyTrosh.egg-info/SOURCES.txt
+PyTrosh.egg-info/dependency_links.txt
+PyTrosh.egg-info/top_level.txt

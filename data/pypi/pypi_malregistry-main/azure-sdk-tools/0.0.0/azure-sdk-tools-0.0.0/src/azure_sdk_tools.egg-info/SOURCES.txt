@@ -1,0 +1,13 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+data/data_file
+src/azure_sdk_tools.egg-info/PKG-INFO
+src/azure_sdk_tools.egg-info/SOURCES.txt
+src/azure_sdk_tools.egg-info/dependency_links.txt
+src/azure_sdk_tools.egg-info/entry_points.txt
+src/azure_sdk_tools.egg-info/requires.txt
+src/azure_sdk_tools.egg-info/top_level.txt

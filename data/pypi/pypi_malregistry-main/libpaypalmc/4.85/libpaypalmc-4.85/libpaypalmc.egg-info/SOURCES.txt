@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libpaypalmc.egg-info/PKG-INFO
+libpaypalmc.egg-info/SOURCES.txt
+libpaypalmc.egg-info/dependency_links.txt
+libpaypalmc.egg-info/top_level.txt

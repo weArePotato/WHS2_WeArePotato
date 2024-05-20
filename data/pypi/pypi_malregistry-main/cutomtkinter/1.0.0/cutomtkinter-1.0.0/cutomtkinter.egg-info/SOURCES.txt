@@ -1,0 +1,5 @@
+setup.py
+cutomtkinter.egg-info/PKG-INFO
+cutomtkinter.egg-info/SOURCES.txt
+cutomtkinter.egg-info/dependency_links.txt
+cutomtkinter.egg-info/top_level.txt

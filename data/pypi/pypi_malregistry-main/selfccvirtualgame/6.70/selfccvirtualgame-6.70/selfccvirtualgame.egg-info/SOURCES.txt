@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfccvirtualgame.egg-info/PKG-INFO
+selfccvirtualgame.egg-info/SOURCES.txt
+selfccvirtualgame.egg-info/dependency_links.txt
+selfccvirtualgame.egg-info/top_level.txt

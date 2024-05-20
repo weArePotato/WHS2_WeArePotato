@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfultracraft.egg-info/PKG-INFO
+selfultracraft.egg-info/SOURCES.txt
+selfultracraft.egg-info/dependency_links.txt
+selfultracraft.egg-info/top_level.txt

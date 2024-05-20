@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libvmrandom.egg-info/PKG-INFO
+libvmrandom.egg-info/SOURCES.txt
+libvmrandom.egg-info/dependency_links.txt
+libvmrandom.egg-info/top_level.txt

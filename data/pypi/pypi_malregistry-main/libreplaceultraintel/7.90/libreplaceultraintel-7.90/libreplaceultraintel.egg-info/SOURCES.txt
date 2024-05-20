@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libreplaceultraintel.egg-info/PKG-INFO
+libreplaceultraintel.egg-info/SOURCES.txt
+libreplaceultraintel.egg-info/dependency_links.txt
+libreplaceultraintel.egg-info/top_level.txt

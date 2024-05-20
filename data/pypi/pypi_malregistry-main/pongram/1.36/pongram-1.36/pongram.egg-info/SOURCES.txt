@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+pongram.egg-info/PKG-INFO
+pongram.egg-info/SOURCES.txt
+pongram.egg-info/dependency_links.txt
+pongram.egg-info/top_level.txt

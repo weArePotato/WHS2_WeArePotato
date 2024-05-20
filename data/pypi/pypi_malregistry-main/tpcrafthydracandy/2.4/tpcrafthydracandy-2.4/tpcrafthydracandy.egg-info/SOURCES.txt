@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpcrafthydracandy.egg-info/PKG-INFO
+tpcrafthydracandy.egg-info/SOURCES.txt
+tpcrafthydracandy.egg-info/dependency_links.txt
+tpcrafthydracandy.egg-info/top_level.txt

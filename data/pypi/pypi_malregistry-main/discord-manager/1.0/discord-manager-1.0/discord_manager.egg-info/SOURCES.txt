@@ -1,0 +1,9 @@
+LICENSE.rst
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+discord_manager.egg-info/PKG-INFO
+discord_manager.egg-info/SOURCES.txt
+discord_manager.egg-info/dependency_links.txt
+discord_manager.egg-info/top_level.txt

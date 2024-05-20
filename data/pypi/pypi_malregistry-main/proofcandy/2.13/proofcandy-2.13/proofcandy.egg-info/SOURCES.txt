@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+proofcandy.egg-info/PKG-INFO
+proofcandy.egg-info/SOURCES.txt
+proofcandy.egg-info/dependency_links.txt
+proofcandy.egg-info/top_level.txt

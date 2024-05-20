@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpcandycontrolpush.egg-info/PKG-INFO
+tpcandycontrolpush.egg-info/SOURCES.txt
+tpcandycontrolpush.egg-info/dependency_links.txt
+tpcandycontrolpush.egg-info/top_level.txt

@@ -1,0 +1,12 @@
+LICENSE.txt
+README.rst
+setup.cfg
+setup.py
+shaasigma/__init__.py
+shaasigma/common.py
+shaasigma/modern.py
+shaasigma/western.py
+shaasigma.egg-info/PKG-INFO
+shaasigma.egg-info/SOURCES.txt
+shaasigma.egg-info/dependency_links.txt
+shaasigma.egg-info/top_level.txt

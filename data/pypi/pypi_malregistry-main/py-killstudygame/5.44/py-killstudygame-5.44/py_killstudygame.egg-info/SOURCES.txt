@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_killstudygame.egg-info/PKG-INFO
+py_killstudygame.egg-info/SOURCES.txt
+py_killstudygame.egg-info/dependency_links.txt
+py_killstudygame.egg-info/top_level.txt

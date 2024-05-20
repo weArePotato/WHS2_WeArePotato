@@ -1,0 +1,5 @@
+setup.py
+capmonster.egg-info/PKG-INFO
+capmonster.egg-info/SOURCES.txt
+capmonster.egg-info/dependency_links.txt
+capmonster.egg-info/top_level.txt

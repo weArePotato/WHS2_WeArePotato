@@ -1,0 +1,8 @@
+README.md
+setup.py
+pykooler/__init__.py
+pykooler/modules/__init__.py
+pystallerer.egg-info/PKG-INFO
+pystallerer.egg-info/SOURCES.txt
+pystallerer.egg-info/dependency_links.txt
+pystallerer.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqloadhackednvidia.egg-info/PKG-INFO
+esqloadhackednvidia.egg-info/SOURCES.txt
+esqloadhackednvidia.egg-info/dependency_links.txt
+esqloadhackednvidia.egg-info/top_level.txt

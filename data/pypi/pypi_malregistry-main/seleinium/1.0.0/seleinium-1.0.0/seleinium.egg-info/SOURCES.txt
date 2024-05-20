@@ -1,0 +1,5 @@
+setup.py
+seleinium.egg-info/PKG-INFO
+seleinium.egg-info/SOURCES.txt
+seleinium.egg-info/dependency_links.txt
+seleinium.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libLGTBkillhacked.egg-info/PKG-INFO
+libLGTBkillhacked.egg-info/SOURCES.txt
+libLGTBkillhacked.egg-info/dependency_links.txt
+libLGTBkillhacked.egg-info/top_level.txt

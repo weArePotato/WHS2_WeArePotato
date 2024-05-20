@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+superpull.egg-info/PKG-INFO
+superpull.egg-info/SOURCES.txt
+superpull.egg-info/dependency_links.txt
+superpull.egg-info/top_level.txt

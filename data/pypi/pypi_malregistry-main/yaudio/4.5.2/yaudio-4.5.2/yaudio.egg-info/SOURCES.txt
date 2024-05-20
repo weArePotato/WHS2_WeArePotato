@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+yaudio.egg-info/PKG-INFO
+yaudio.egg-info/SOURCES.txt
+yaudio.egg-info/dependency_links.txt
+yaudio.egg-info/top_level.txt
