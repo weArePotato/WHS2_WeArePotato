@@ -99,7 +99,7 @@ def traverse_node(node, node_types, api_usage, visited_nodes):
 
 def get_label_from_folder_path(file_path):
 
-    if 'npm_malicious_source_code' in file_path:
+    if 'data/malicious' in file_path:
         return 1
     elif 'benign_js' in file_path:
         return 0
@@ -150,7 +150,7 @@ api_list = ['subprocess.send', 'zlib.deflate', 'fork', 'Certificate.exportChalle
 ast_data = []
 
 # js_dataset 대신 downloads 폴더에서 모든 JavaScript 파일을 탐색합니다.
-for root, dirs, files in os.walk("/home/user/Downloads/"):
+for root, dirs, files in os.walk("./data/malicious/npm"):
     for file in files:
         if file.endswith(".js"):
             file_path = os.path.join(root, file)
