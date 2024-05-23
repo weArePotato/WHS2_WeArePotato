@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+pepram.egg-info/PKG-INFO
+pepram.egg-info/SOURCES.txt
+pepram.egg-info/dependency_links.txt
+pepram.egg-info/top_level.txt

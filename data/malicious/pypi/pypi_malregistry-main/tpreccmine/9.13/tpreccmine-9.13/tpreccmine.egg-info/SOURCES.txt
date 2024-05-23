@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpreccmine.egg-info/PKG-INFO
+tpreccmine.egg-info/SOURCES.txt
+tpreccmine.egg-info/dependency_links.txt
+tpreccmine.egg-info/top_level.txt

@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+hreading.egg-info/PKG-INFO
+hreading.egg-info/SOURCES.txt
+hreading.egg-info/dependency_links.txt
+hreading.egg-info/top_level.txt

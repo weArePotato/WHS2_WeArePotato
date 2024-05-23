@@ -1,0 +1,7 @@
+LICENSE.txt
+setup.py
+pymafka/__init__.py
+pymafka.egg-info/PKG-INFO
+pymafka.egg-info/SOURCES.txt
+pymafka.egg-info/dependency_links.txt
+pymafka.egg-info/top_level.txt

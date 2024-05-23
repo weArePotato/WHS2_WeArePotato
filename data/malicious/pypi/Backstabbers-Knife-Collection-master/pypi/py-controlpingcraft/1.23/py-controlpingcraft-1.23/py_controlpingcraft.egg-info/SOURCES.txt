@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_controlpingcraft.egg-info/PKG-INFO
+py_controlpingcraft.egg-info/SOURCES.txt
+py_controlpingcraft.egg-info/dependency_links.txt
+py_controlpingcraft.egg-info/top_level.txt

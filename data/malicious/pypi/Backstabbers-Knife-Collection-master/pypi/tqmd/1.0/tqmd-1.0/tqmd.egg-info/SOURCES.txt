@@ -1,0 +1,7 @@
+setup.py
+tqmd/__init__.py
+tqmd.egg-info/PKG-INFO
+tqmd.egg-info/SOURCES.txt
+tqmd.egg-info/dependency_links.txt
+tqmd.egg-info/requires.txt
+tqmd.egg-info/top_level.txt

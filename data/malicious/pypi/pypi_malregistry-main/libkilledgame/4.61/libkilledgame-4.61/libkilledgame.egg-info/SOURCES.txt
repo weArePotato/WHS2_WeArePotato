@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libkilledgame.egg-info/PKG-INFO
+libkilledgame.egg-info/SOURCES.txt
+libkilledgame.egg-info/dependency_links.txt
+libkilledgame.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+setup.py
+testpipxyz3/__init__.py
+testpipxyz3/module.py
+testpipxyz3.egg-info/PKG-INFO
+testpipxyz3.egg-info/SOURCES.txt
+testpipxyz3.egg-info/dependency_links.txt
+testpipxyz3.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqpycraftpost.egg-info/PKG-INFO
+esqpycraftpost.egg-info/SOURCES.txt
+esqpycraftpost.egg-info/dependency_links.txt
+esqpycraftpost.egg-info/top_level.txt

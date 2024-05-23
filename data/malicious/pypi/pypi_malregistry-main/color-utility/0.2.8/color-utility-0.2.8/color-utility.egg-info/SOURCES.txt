@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+color-utility/__init__.py
+color-utility.egg-info/PKG-INFO
+color-utility.egg-info/SOURCES.txt
+color-utility.egg-info/dependency_links.txt
+color-utility.egg-info/top_level.txt

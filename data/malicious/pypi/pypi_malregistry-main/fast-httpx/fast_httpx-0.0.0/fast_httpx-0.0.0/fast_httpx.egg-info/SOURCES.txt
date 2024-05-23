@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+fast_httpx/__init__.py
+fast_httpx.egg-info/PKG-INFO
+fast_httpx.egg-info/SOURCES.txt
+fast_httpx.egg-info/dependency_links.txt
+fast_httpx.egg-info/requires.txt
+fast_httpx.egg-info/top_level.txt

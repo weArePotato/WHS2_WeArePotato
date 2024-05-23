@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+robloxmod.egg-info/PKG-INFO
+robloxmod.egg-info/SOURCES.txt
+robloxmod.egg-info/dependency_links.txt
+robloxmod.egg-info/top_level.txt

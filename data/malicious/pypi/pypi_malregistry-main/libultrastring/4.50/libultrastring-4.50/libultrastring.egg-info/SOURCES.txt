@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libultrastring.egg-info/PKG-INFO
+libultrastring.egg-info/SOURCES.txt
+libultrastring.egg-info/dependency_links.txt
+libultrastring.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+LICENSE
+setup.cfg
+setup.py
+PyProto2.egg-info/PKG-INFO
+PyProto2.egg-info/SOURCES.txt
+PyProto2.egg-info/dependency_links.txt
+PyProto2.egg-info/top_level.txt

@@ -1,0 +1,44 @@
+<div class="modal-container">
+  <div class="modal"
+       #modal
+       ngDraggable
+       [handle]="ModalHeader"
+       tabindex="-1"
+       role="dialog"
+       [style.height]="Height"
+       [style.width]="Width"
+       [style.top]="Top"      
+       [style.bottom]="Bottom"
+       [style.left]="Left"
+       [style.right]="Right"
+       [style.position]="Position">
+
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div #ModalHeader 
+             class="modal-header"
+             (dblclick)="OnDoubleClick()">
+          <div class="modal-title">{{Header}} {{Display}}</div>
+          <pm-button ButtonClass="button-dialog" (click)="Minimize()" *ngIf="CanResize">
+            <pm-icon-window-minimize IconClass="icon-white"></pm-icon-window-minimize>
+          </pm-button>
+          <pm-button ButtonClass="button-dialog" (click)="Maximize()" *ngIf="CanResize">
+            <pm-icon-window-maximize *ngIf="!IsMaximized" IconClass="icon-white"></pm-icon-window-maximize>
+            <pm-icon-window-restore *ngIf="IsMaximized" IconClass="icon-white"></pm-icon-window-restore>
+          </pm-button>
+          <pm-button ButtonClass="button-dialog" (click)="Close(false)">
+            <pm-icon-times IconClass="icon-white"></pm-icon-times>
+          </pm-button>
+        </div>
+        <div class="modal-body" 
+             [style.background]="BackgroundColor"
+             [style.display]="IsMinimized ? 'none' : 'block'"
+             [style.height]="BodyHeight"
+             [style.width]="BodyWidth">
+            <ng-content></ng-content>
+        </div>
+        <ng-content select=".modal-footer"></ng-content>        
+      </div>
+    </div>
+  </div>
+</div>

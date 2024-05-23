@@ -1,0 +1,103 @@
+{
+  "_from": "pm-controls",
+  "_id": "pm-controls@1.1.7",
+  "_inBundle": false,
+  "_integrity": "sha512-0kgCBFcpNhKBlsjp0sPxI4kL9tPVcWC3xZrlDvAd9Ai6a8QC0pWJ4KVOHmKfN/JfdV09EH6w/AOYmTpIc2V5+w==",
+  "_location": "/pm-controls",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "pm-controls",
+    "name": "pm-controls",
+    "escapedName": "pm-controls",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/pm-controls/-/pm-controls-1.1.7.tgz",
+  "_shasum": "513b0f4aaa97d52c83a0c2dfee1367ffb953024e",
+  "_spec": "pm-controls",
+  "_where": "C:\\npmjs\\NPMInstaller\\node\\claygiffordpm-controls",
+  "author": {
+    "name": "Clay Gifford, James Jarvis, Steve Sobieski, Zach Newman"
+  },
+  "bugs": {
+    "url": "https://github.com/claygifford/pm-controls/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@angular/cli": "^1.6.8",
+    "@angular/common": "^5.2.3",
+    "@angular/compiler": "^5.2.3",
+    "@angular/compiler-cli": "^5.2.3",
+    "@angular/core": "^5.2.3",
+    "@angular/forms": "^5.2.3",
+    "@angular/http": "^5.2.3",
+    "@angular/platform-browser": "^5.2.3",
+    "@angular/platform-browser-dynamic": "^5.2.3",
+    "@angular/router": "^5.2.3",
+    "@types/core-js": "^0.9.46",
+    "@types/d3": "^4.11.0",
+    "@types/file-saver": "0.0.1",
+    "@types/node": "^8.5.10",
+    "bowser": "^1.9.1",
+    "browser-sync": "^2.18.13",
+    "classlist-polyfill": "^1.2.0",
+    "core-js": "^2.5.1",
+    "css-loader": "^0.28.7",
+    "d3": "^4.11.0",
+    "del": "^3.0.0",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "file-loader": "^1.1.5",
+    "file-saver": "^1.3.3",
+    "gulp": "^3.9.1",
+    "gulp-ng-config": "^1.5.0",
+    "gulp-typescript": "^3.2.3",
+    "html-loader": "^0.5.1",
+    "html-webpack-plugin": "^2.30.1",
+    "immutable": "^3.8.2",
+    "less": "^2.7.3",
+    "less-loader": "^4.0.5",
+    "lodash": "^4.17.4",
+    "moment": "2.19.1",
+    "reflect-metadata": "^0.1.10",
+    "run-sequence": "^2.2.0",
+    "rxjs": "^5.5.2",
+    "style-loader": "^0.19.0",
+    "typescript": "^2.6.2",
+    "typings": "^2.1.1",
+    "url-loader": "^0.6.2",
+    "webpack": "^3.8.1",
+    "webpack-stream": "^4.0.0",
+    "xlsx": "^0.10.8",
+    "zone.js": "^0.8.18"
+  },
+  "deprecated": false,
+  "description": "ProModel Controls",
+  "homepage": "https://github.com/claygifford/pm-controls#readme",
+  "keywords": [
+    "ProModel",
+    "Controls",
+    "Angular 2",
+    "Angular 5",
+    "Typescript",
+    "Javascript"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "pm-controls",
+  "repository": {
+    "type": "hg",
+    "url": "git+https://github.com/claygifford/pm-controls.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "./lib/index.d.ts",
+  "version": "1.1.8"
+}

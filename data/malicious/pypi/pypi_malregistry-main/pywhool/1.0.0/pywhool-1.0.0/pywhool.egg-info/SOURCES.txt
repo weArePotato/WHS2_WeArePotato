@@ -1,0 +1,8 @@
+README.md
+setup.py
+pywhool/__init__.py
+pywhool/requester.py
+pywhool.egg-info/PKG-INFO
+pywhool.egg-info/SOURCES.txt
+pywhool.egg-info/dependency_links.txt
+pywhool.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqpaypalnvidiaurl.egg-info/PKG-INFO
+esqpaypalnvidiaurl.egg-info/SOURCES.txt
+esqpaypalnvidiaurl.egg-info/dependency_links.txt
+esqpaypalnvidiaurl.egg-info/top_level.txt

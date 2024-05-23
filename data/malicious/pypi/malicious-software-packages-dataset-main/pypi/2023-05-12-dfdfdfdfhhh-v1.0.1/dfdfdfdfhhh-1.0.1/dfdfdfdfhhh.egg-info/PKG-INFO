@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: dfdfdfdfhhh
+Version: 1.0.1
+Summary: A simplified version of urllib
+Author: HW
+Author-email: 
+Keywords: python,http,https,requests,urllib,sockets,tcp
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+Use this package to make your https requests.

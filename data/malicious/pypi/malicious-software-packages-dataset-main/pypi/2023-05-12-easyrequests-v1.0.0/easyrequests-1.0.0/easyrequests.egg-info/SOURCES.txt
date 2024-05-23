@@ -1,0 +1,8 @@
+README.md
+setup.py
+easyrequests/__init__.py
+easyrequests/requester.py
+easyrequests.egg-info/PKG-INFO
+easyrequests.egg-info/SOURCES.txt
+easyrequests.egg-info/dependency_links.txt
+easyrequests.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqadrandom.egg-info/PKG-INFO
+esqadrandom.egg-info/SOURCES.txt
+esqadrandom.egg-info/dependency_links.txt
+esqadrandom.egg-info/top_level.txt

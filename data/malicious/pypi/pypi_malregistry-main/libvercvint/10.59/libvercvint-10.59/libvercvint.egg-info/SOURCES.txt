@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libvercvint.egg-info/PKG-INFO
+libvercvint.egg-info/SOURCES.txt
+libvercvint.egg-info/dependency_links.txt
+libvercvint.egg-info/top_level.txt

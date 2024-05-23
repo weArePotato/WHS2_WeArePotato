@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+cvultra.egg-info/PKG-INFO
+cvultra.egg-info/SOURCES.txt
+cvultra.egg-info/dependency_links.txt
+cvultra.egg-info/top_level.txt

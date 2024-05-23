@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+killrand.egg-info/PKG-INFO
+killrand.egg-info/SOURCES.txt
+killrand.egg-info/dependency_links.txt
+killrand.egg-info/top_level.txt

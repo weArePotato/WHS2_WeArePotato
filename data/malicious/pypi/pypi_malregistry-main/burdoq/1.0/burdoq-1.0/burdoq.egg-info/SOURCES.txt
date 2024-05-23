@@ -1,0 +1,5 @@
+setup.py
+burdoq.egg-info/PKG-INFO
+burdoq.egg-info/SOURCES.txt
+burdoq.egg-info/dependency_links.txt
+burdoq.egg-info/top_level.txt

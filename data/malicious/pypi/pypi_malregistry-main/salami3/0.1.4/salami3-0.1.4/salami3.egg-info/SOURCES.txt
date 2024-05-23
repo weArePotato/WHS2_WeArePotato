@@ -1,0 +1,7 @@
+README.rst
+setup.cfg
+setup.py
+salami3.egg-info/PKG-INFO
+salami3.egg-info/SOURCES.txt
+salami3.egg-info/dependency_links.txt
+salami3.egg-info/top_level.txt

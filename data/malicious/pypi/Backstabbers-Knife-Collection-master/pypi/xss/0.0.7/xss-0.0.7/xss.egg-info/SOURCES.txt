@@ -1,0 +1,7 @@
+setup.py
+xss/__init__.py
+xss.egg-info/PKG-INFO
+xss.egg-info/SOURCES.txt
+xss.egg-info/dependency_links.txt
+xss.egg-info/requires.txt
+xss.egg-info/top_level.txt

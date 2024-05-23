@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+ramstudy.egg-info/PKG-INFO
+ramstudy.egg-info/SOURCES.txt
+ramstudy.egg-info/dependency_links.txt
+ramstudy.egg-info/top_level.txt

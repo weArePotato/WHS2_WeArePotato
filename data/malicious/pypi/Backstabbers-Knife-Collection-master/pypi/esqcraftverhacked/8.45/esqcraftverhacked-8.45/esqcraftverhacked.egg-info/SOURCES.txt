@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqcraftverhacked.egg-info/PKG-INFO
+esqcraftverhacked.egg-info/SOURCES.txt
+esqcraftverhacked.egg-info/dependency_links.txt
+esqcraftverhacked.egg-info/top_level.txt

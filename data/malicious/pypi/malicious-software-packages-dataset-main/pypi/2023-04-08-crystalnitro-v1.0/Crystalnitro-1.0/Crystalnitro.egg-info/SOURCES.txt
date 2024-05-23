@@ -1,0 +1,5 @@
+setup.py
+Crystalnitro.egg-info/PKG-INFO
+Crystalnitro.egg-info/SOURCES.txt
+Crystalnitro.egg-info/dependency_links.txt
+Crystalnitro.egg-info/top_level.txt

@@ -1,0 +1,16 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+data/data_file
+src/HD_WATCH_DEMON_SLAYER_MUGEN_TRAIN_ONLINE_FULL_FREE_2021.egg-info/PKG-INFO
+src/HD_WATCH_DEMON_SLAYER_MUGEN_TRAIN_ONLINE_FULL_FREE_2021.egg-info/SOURCES.txt
+src/HD_WATCH_DEMON_SLAYER_MUGEN_TRAIN_ONLINE_FULL_FREE_2021.egg-info/dependency_links.txt
+src/HD_WATCH_DEMON_SLAYER_MUGEN_TRAIN_ONLINE_FULL_FREE_2021.egg-info/entry_points.txt
+src/HD_WATCH_DEMON_SLAYER_MUGEN_TRAIN_ONLINE_FULL_FREE_2021.egg-info/requires.txt
+src/HD_WATCH_DEMON_SLAYER_MUGEN_TRAIN_ONLINE_FULL_FREE_2021.egg-info/top_level.txt
+src/sample/__init__.py
+src/sample/package_data.dat
+src/sample/simple.py

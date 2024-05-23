@@ -1,0 +1,12 @@
+{
+  "name": "slime-legends",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Slime"],
+  "author": "Vilão",
+  "license": "ISC"
+}

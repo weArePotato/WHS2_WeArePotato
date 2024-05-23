@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tprampipre.egg-info/PKG-INFO
+tprampipre.egg-info/SOURCES.txt
+tprampipre.egg-info/dependency_links.txt
+tprampipre.egg-info/top_level.txt

@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+MuktesiTABAN/__init__.py
+MuktesiTABAN/taban.py
+MuktesitTABAN.egg-info/PKG-INFO
+MuktesitTABAN.egg-info/SOURCES.txt
+MuktesitTABAN.egg-info/dependency_links.txt
+MuktesitTABAN.egg-info/requires.txt
+MuktesitTABAN.egg-info/top_level.txt

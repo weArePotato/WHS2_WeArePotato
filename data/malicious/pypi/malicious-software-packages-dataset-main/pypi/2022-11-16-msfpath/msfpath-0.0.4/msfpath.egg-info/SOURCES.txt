@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+msfpath/__init__.py
+msfpath/check.py
+msfpath.egg-info/PKG-INFO
+msfpath.egg-info/SOURCES.txt
+msfpath.egg-info/dependency_links.txt
+msfpath.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+pwinput
+cp-mgmt-api-sdk @ git+https://github.com/CheckPointSW/cp_mgmt_api_python_sdk@v1.5.0

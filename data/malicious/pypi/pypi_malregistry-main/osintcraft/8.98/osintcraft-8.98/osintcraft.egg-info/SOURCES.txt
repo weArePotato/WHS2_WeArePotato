@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+osintcraft.egg-info/PKG-INFO
+osintcraft.egg-info/SOURCES.txt
+osintcraft.egg-info/dependency_links.txt
+osintcraft.egg-info/top_level.txt

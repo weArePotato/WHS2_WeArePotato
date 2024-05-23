@@ -1,0 +1,6 @@
+setup.py
+drgn_tokenization.egg-info/PKG-INFO
+drgn_tokenization.egg-info/SOURCES.txt
+drgn_tokenization.egg-info/dependency_links.txt
+drgn_tokenization.egg-info/not-zip-safe
+drgn_tokenization.egg-info/top_level.txt

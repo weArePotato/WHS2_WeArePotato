@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libproofproofproof.egg-info/PKG-INFO
+libproofproofproof.egg-info/SOURCES.txt
+libproofproofproof.egg-info/dependency_links.txt
+libproofproofproof.egg-info/top_level.txt

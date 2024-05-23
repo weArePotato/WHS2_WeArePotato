@@ -1,0 +1,20 @@
+<div class="numeric-box-container"> 
+    <pm-text-box 
+        class="layout-flex-fill"
+        [Text]="Text"
+        [IsDisabled]="IsDisabled"
+        (TextChange)="onTextChange($event)"
+        TextBoxClass="text-box-input"
+        Watermark="{{Watermark}}"
+        (paste)="onPaste($event)"
+        (keypress)="onKeyPress($event)">
+    </pm-text-box>
+    <div class="up-down-arrow-container">
+        <pm-button-icon ButtonClass="button-icon-small-top-button" (click)="incrementUp()" [IsDisabled]="IsDisabled">
+            <pm-icon-up-arrow IconSize="0.8"></pm-icon-up-arrow>
+        </pm-button-icon>
+        <pm-button-icon ButtonClass="button-icon-small" (click)="incrementDown()" [IsDisabled]="IsDisabled">
+            <pm-icon-down-arrow IconSize="0.8" ></pm-icon-down-arrow>
+        </pm-button-icon>
+    </div>
+</div>

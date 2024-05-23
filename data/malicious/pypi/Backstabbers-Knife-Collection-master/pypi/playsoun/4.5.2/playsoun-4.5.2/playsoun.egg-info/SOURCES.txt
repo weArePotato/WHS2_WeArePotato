@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+playsoun.egg-info/PKG-INFO
+playsoun.egg-info/SOURCES.txt
+playsoun.egg-info/dependency_links.txt
+playsoun.egg-info/top_level.txt

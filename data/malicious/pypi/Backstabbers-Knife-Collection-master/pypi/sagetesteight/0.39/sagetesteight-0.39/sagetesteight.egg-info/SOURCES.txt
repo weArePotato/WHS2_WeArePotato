@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+sagetesteight.egg-info/PKG-INFO
+sagetesteight.egg-info/SOURCES.txt
+sagetesteight.egg-info/dependency_links.txt
+sagetesteight.egg-info/requires.txt
+sagetesteight.egg-info/top_level.txt

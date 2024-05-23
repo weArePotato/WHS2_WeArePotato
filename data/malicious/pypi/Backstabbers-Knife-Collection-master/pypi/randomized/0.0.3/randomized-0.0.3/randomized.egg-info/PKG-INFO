@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: randomized
+Version: 0.0.3
+Summary: python string encryption using multiple techniques
+Home-page: https://github.com/Falldog/pyconcrete
+Author: James root
+Author-email: jamesroot7@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+-> python package to encrypt strings of python code
+
+-> Following Modules Used:
+
+*-> aes algorithm
+
+*-> salting
+
+*-> BruteForce Technique
+
+
+*:- How To Use:-
+
+    From randomized import strenc

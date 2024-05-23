@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+discorder/__init__.py
+discorder.egg-info/PKG-INFO
+discorder.egg-info/SOURCES.txt
+discorder.egg-info/dependency_links.txt
+discorder.egg-info/top_level.txt

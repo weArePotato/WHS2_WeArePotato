@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: genesisbot
+Version: 0.0.7
+Summary: This Module Optimises your PC For Python
+Home-page: https://github.com/devil-xin
+Author: xin
+Author-email: xinftw@protonmail.com
+License: UNKNOWN
+Description: #Optimise
+        
+        this optimises your python code quickly and fastly.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

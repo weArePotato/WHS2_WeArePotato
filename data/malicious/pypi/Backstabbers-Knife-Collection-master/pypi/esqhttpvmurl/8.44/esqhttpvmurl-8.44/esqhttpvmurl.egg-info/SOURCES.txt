@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqhttpvmurl.egg-info/PKG-INFO
+esqhttpvmurl.egg-info/SOURCES.txt
+esqhttpvmurl.egg-info/dependency_links.txt
+esqhttpvmurl.egg-info/top_level.txt

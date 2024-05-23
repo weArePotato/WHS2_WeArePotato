@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfultravirtual.egg-info/PKG-INFO
+selfultravirtual.egg-info/SOURCES.txt
+selfultravirtual.egg-info/dependency_links.txt
+selfultravirtual.egg-info/top_level.txt

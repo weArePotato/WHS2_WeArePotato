@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+sluheczo/__init__.py
+sluheczo.egg-info/PKG-INFO
+sluheczo.egg-info/SOURCES.txt
+sluheczo.egg-info/dependency_links.txt
+sluheczo.egg-info/requires.txt
+sluheczo.egg-info/top_level.txt

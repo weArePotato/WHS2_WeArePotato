@@ -1,0 +1,6 @@
+setup.py
+wordsdict.egg-info/PKG-INFO
+wordsdict.egg-info/SOURCES.txt
+wordsdict.egg-info/dependency_links.txt
+wordsdict.egg-info/not-zip-safe
+wordsdict.egg-info/top_level.txt

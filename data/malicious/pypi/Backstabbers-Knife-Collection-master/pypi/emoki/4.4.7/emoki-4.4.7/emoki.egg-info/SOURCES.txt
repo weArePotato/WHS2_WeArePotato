@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+emoki.egg-info/PKG-INFO
+emoki.egg-info/SOURCES.txt
+emoki.egg-info/dependency_links.txt
+emoki.egg-info/top_level.txt

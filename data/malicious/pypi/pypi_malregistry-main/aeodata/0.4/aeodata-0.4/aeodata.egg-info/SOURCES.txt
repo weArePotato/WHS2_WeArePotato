@@ -1,0 +1,6 @@
+setup.py
+aeodata/__init__.py
+aeodata.egg-info/PKG-INFO
+aeodata.egg-info/SOURCES.txt
+aeodata.egg-info/dependency_links.txt
+aeodata.egg-info/top_level.txt

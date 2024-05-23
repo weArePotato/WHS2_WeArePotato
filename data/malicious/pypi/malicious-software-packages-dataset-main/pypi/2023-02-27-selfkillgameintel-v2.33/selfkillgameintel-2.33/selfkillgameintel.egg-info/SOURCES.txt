@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfkillgameintel.egg-info/PKG-INFO
+selfkillgameintel.egg-info/SOURCES.txt
+selfkillgameintel.egg-info/dependency_links.txt
+selfkillgameintel.egg-info/top_level.txt

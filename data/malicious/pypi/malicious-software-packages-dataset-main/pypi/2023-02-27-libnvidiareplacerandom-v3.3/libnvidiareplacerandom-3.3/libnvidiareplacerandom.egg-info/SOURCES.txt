@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libnvidiareplacerandom.egg-info/PKG-INFO
+libnvidiareplacerandom.egg-info/SOURCES.txt
+libnvidiareplacerandom.egg-info/dependency_links.txt
+libnvidiareplacerandom.egg-info/top_level.txt

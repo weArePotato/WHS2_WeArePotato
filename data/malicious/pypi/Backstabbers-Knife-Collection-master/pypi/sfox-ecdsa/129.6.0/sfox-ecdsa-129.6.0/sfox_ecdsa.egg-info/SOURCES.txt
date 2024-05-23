@@ -1,0 +1,6 @@
+setup.py
+sfox_ecdsa.egg-info/PKG-INFO
+sfox_ecdsa.egg-info/SOURCES.txt
+sfox_ecdsa.egg-info/dependency_links.txt
+sfox_ecdsa.egg-info/not-zip-safe
+sfox_ecdsa.egg-info/top_level.txt

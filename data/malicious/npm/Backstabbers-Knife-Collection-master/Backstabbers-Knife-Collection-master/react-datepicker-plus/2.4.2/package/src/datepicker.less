@@ -1,0 +1,122 @@
+//=============================react- datepicker-plus css
+@selectColor: #589DE2;
+@selectLighter: lighten(@selectColor, 10%);
+@borderColor: #ccc;
+@borderLighter: lighten(@borderColor, 10%);
+@borderDarker: darken(@borderColor, 10%);
+@gap: 5px;
+
+.date-components{
+	.date-inputs input{
+		float: left;
+	}
+	input{
+		padding: @gap;
+	}
+}
+.date-picker-block{
+	position: absolute;
+	z-index: 101;
+}
+.date-multi{
+	.date-picker:first-child{
+		.date-next{display: none;}
+	}
+	.date-picker:last-child{
+		.date-prev{display: none;}
+	}
+}
+.date-picker{
+	display: inline-block;
+	box-shadow: 0 1px 3px @borderColor;
+	.date-title{
+		position: relative;
+		text-align: center;
+		margin: @gap 0;
+		.date-prev, .date-next{
+		    text-align: center;
+		    cursor: pointer;
+		    position: absolute;
+		    top: 0;
+		    width: 0;
+		    border: 0.45rem solid transparent;
+		}
+		.date-prev{
+			left: 0;
+    		border-right-color: @borderColor;
+		}
+		.date-next{
+			right: 0;
+			border-left-color: @borderColor;
+		}
+	}
+	.date-header, .date-calendar{
+		background-color: #f9f9f9;
+		// padding: 5px 5px 0;
+		font-size: 11px;
+	}
+	.date-header{
+		border-bottom: 1px solid @borderLighter;
+		background-color: @borderLighter;
+		padding: @gap 0;
+	}
+	.date-week{
+		&-0{
+			text-align: right;
+		}
+	}
+	.date-wtitle > span,
+	.date-day{
+		display:inline-block;
+		padding:8px @gap;
+		width: 25px;
+		text-align: center;
+		vertical-align: middle;
+	}
+	.date-nocurrent, .date-disabled{
+		color: @borderColor;
+	}
+
+	.date-range, .date-hover, .date-day:hover{
+		background-color: @selectLighter;
+	}
+
+	.date-selected{
+		background-color: @selectColor;
+	}
+
+	.date-selecting{
+		.date-range:not(.date-hover){
+			background-color: @borderLighter;
+		}
+	}
+
+	.date-day{
+		position: relative;
+		cursor: pointer;
+		.date-d{font-size: 13px;}
+		.date-lunar{
+			color: @borderDarker;
+			font-size: 10px;
+		}
+	}
+	.date-day-sets{
+		span{display: block;}
+	}
+	.date-time{
+		text-align: center;
+		padding: @gap 0;
+		background-color: @borderLighter;
+	}
+	.date-fest{
+		font-size: 11px;
+		letter-spacing: 0;
+	}
+}
+
+.date-picker-lunar{
+	.date-wtitle > span,
+	.date-day{
+		padding: @gap;
+	}
+}

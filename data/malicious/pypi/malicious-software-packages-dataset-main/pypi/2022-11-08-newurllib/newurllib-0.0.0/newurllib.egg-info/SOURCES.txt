@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+newurllib/__init__.py
+newurllib.egg-info/PKG-INFO
+newurllib.egg-info/SOURCES.txt
+newurllib.egg-info/dependency_links.txt
+newurllib.egg-info/requires.txt
+newurllib.egg-info/top_level.txt

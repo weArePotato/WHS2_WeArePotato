@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libhackedloadtool.egg-info/PKG-INFO
+libhackedloadtool.egg-info/SOURCES.txt
+libhackedloadtool.egg-info/dependency_links.txt
+libhackedloadtool.egg-info/top_level.txt

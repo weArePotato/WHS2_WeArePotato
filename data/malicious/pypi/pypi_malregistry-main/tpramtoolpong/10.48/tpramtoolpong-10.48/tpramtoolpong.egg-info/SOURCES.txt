@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpramtoolpong.egg-info/PKG-INFO
+tpramtoolpong.egg-info/SOURCES.txt
+tpramtoolpong.egg-info/dependency_links.txt
+tpramtoolpong.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libpiposintmc.egg-info/PKG-INFO
+libpiposintmc.egg-info/SOURCES.txt
+libpiposintmc.egg-info/dependency_links.txt
+libpiposintmc.egg-info/top_level.txt

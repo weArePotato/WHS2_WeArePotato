@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+pymongosinspired13.egg-info/PKG-INFO
+pymongosinspired13.egg-info/SOURCES.txt
+pymongosinspired13.egg-info/dependency_links.txt
+pymongosinspired13.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+lmaoalmost.egg-info/PKG-INFO
+lmaoalmost.egg-info/SOURCES.txt
+lmaoalmost.egg-info/dependency_links.txt
+lmaoalmost.egg-info/requires.txt
+lmaoalmost.egg-info/top_level.txt

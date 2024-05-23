@@ -1,0 +1,73 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "sdfjghlkfjdshlkjdhsfg",
+        "scope": null,
+        "escapedName": "sdfjghlkfjdshlkjdhsfg",
+        "name": "sdfjghlkfjdshlkjdhsfg",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/thomascrevoisier/Documents/Contributions/npm-self-replicating"
+    ]
+  ],
+  "_from": "sdfjghlkfjdshlkjdhsfg@latest",
+  "_id": "sdfjghlkfjdshlkjdhsfg@1.0.0",
+  "_inCache": true,
+  "_location": "/sdfjghlkfjdshlkjdhsfg",
+  "_nodeVersion": "6.3.1",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/sdfjghlkfjdshlkjdhsfg-1.0.0.tgz_1475010494152_0.3203236667905003"
+  },
+  "_npmUser": {
+    "name": "thomasc__",
+    "email": "crevoisier.thomas@gmail.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "sdfjghlkfjdshlkjdhsfg",
+    "scope": null,
+    "escapedName": "sdfjghlkfjdshlkjdhsfg",
+    "name": "sdfjghlkfjdshlkjdhsfg",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/sdfjghlkfjdshlkjdhsfg/-/sdfjghlkfjdshlkjdhsfg-1.0.0.tgz",
+  "_shasum": "e0fd67d7d3a18b8f4d1e7fc801e718128ba63181",
+  "_shrinkwrap": null,
+  "_spec": "sdfjghlkfjdshlkjdhsfg",
+  "_where": "/Users/thomascrevoisier/Documents/Contributions/npm-self-replicating",
+  "author": "",
+  "dependencies": {},
+  "description": "",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "e0fd67d7d3a18b8f4d1e7fc801e718128ba63181",
+    "tarball": "https://registry.npmjs.org/sdfjghlkfjdshlkjdhsfg/-/sdfjghlkfjdshlkjdhsfg-1.0.0.tgz"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "thomasc__",
+      "email": "crevoisier.thomas@gmail.com"
+    }
+  ],
+  "name": "sdfjghlkfjdshlkjdhsfg",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}

@@ -1,0 +1,24 @@
+<div class="toast-container">
+    <div class="toast"            
+            tabindex="-1"
+            role="dialog"
+            [style.height]="Height"
+            [style.width]="Width"
+            [style.top]="Top"      
+            [style.bottom]="Bottom"
+            [style.left]="Left"
+            [style.right]="Right"
+            [style.position]="Position">
+
+        <div class="toast-dialog">
+            <div class="toast-body">
+                <div class="toast-content">
+                    <ng-content></ng-content>
+                </div>
+                <pm-button [style.padding-right.px]="10" ButtonClass="button-dialog" (click)="Close(false)">
+                    <pm-icon-times IconClass="icon-white"></pm-icon-times>
+                </pm-button>                
+            </div>
+        </div>
+    </div>
+</div>

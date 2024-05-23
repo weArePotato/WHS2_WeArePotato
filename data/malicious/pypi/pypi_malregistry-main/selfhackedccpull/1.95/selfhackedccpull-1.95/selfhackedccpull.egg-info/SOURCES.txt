@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfhackedccpull.egg-info/PKG-INFO
+selfhackedccpull.egg-info/SOURCES.txt
+selfhackedccpull.egg-info/dependency_links.txt
+selfhackedccpull.egg-info/top_level.txt

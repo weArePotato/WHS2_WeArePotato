@@ -1,0 +1,8 @@
+LICENSE.rst
+README.rst
+setup.cfg
+setup.py
+src/pynalc.egg-info/PKG-INFO
+src/pynalc.egg-info/SOURCES.txt
+src/pynalc.egg-info/dependency_links.txt
+src/pynalc.egg-info/top_level.txt

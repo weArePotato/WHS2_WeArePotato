@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: requesrs
+Version: 2.28.2
+Summary: The initial release
+Requires-Python: >=3.6
+License-File: LICENSE.txt

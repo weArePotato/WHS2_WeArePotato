@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+easytimestamp/__init__.py
+easytimestamp.egg-info/PKG-INFO
+easytimestamp.egg-info/SOURCES.txt
+easytimestamp.egg-info/dependency_links.txt
+easytimestamp.egg-info/top_level.txt

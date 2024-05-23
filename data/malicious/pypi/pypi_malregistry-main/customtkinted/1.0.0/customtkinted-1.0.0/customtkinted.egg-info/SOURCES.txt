@@ -1,0 +1,5 @@
+setup.py
+customtkinted.egg-info/PKG-INFO
+customtkinted.egg-info/SOURCES.txt
+customtkinted.egg-info/dependency_links.txt
+customtkinted.egg-info/top_level.txt

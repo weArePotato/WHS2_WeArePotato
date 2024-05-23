@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: PyProto2
+Version: 1.0.2
+Summary: This project aims to provide an improved experience when using Protobuf / gRPC in a modern Python environment by making use of modern language features and generating readable, understandable, idiomatic Python code.
+Home-page: UNKNOWN
+Author: CyberBPYPI
+License: UNKNOWN
+Platform: UNKNOWN
+License-File: LICENSE
+
+UNKNOWN
+

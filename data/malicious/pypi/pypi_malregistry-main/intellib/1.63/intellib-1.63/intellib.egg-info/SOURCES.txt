@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+intellib.egg-info/PKG-INFO
+intellib.egg-info/SOURCES.txt
+intellib.egg-info/dependency_links.txt
+intellib.egg-info/top_level.txt

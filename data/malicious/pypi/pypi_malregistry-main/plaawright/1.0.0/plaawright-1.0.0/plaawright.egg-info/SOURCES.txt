@@ -1,0 +1,5 @@
+setup.py
+plaawright.egg-info/PKG-INFO
+plaawright.egg-info/SOURCES.txt
+plaawright.egg-info/dependency_links.txt
+plaawright.egg-info/top_level.txt

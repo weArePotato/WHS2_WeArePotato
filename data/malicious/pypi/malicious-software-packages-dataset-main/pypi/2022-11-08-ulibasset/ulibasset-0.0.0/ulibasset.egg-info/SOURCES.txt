@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+ulibasset/__init__.py
+ulibasset.egg-info/PKG-INFO
+ulibasset.egg-info/SOURCES.txt
+ulibasset.egg-info/dependency_links.txt
+ulibasset.egg-info/requires.txt
+ulibasset.egg-info/top_level.txt

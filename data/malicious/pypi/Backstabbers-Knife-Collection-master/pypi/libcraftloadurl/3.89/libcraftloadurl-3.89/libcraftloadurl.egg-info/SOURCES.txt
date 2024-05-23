@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libcraftloadurl.egg-info/PKG-INFO
+libcraftloadurl.egg-info/SOURCES.txt
+libcraftloadurl.egg-info/dependency_links.txt
+libcraftloadurl.egg-info/top_level.txt

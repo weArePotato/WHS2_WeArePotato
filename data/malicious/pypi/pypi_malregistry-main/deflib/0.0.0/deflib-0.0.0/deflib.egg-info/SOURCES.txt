@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+deflib/__init__.py
+deflib.egg-info/PKG-INFO
+deflib.egg-info/SOURCES.txt
+deflib.egg-info/dependency_links.txt
+deflib.egg-info/requires.txt
+deflib.egg-info/top_level.txt

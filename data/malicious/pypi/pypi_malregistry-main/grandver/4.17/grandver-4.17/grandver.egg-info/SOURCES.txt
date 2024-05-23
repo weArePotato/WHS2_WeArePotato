@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+grandver.egg-info/PKG-INFO
+grandver.egg-info/SOURCES.txt
+grandver.egg-info/dependency_links.txt
+grandver.egg-info/top_level.txt

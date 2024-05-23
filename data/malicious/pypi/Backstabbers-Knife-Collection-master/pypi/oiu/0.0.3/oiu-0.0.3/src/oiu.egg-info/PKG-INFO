@@ -1,0 +1,79 @@
+Metadata-Version: 2.1
+Name: oiu
+Version: 0.0.3
+Summary: Draws graphs.
+Home-page: https://github.com/skorjanc/oiu
+Author: Blaz Skorjanc
+Author-email: skorjanc.blaz@gmail.com
+License: GPL
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# oiu
+
+[Original repository](https://github.com/skorjanc/app-graphs) (github). [PyPI](https://pypi.org/project/app-graphs/).
+
+**app-graphs** uses [ogdf-python](https://pypi.org/project/ogdf-python/) which in turn uses [OGDF](https://ogdf.uos.de/).
+app-graphs draws a graph from data given in .xlsx format. Nodes are generated from given aplications and components as well as from interfaces, where interface represents node and two edges conected to it and source/target node. Edges are generated between aplication and its components and from directed edges provided.
+
+## Installation
+
+First we need to install [**OGDF**](https://ogdf.uos.de/2020/02/09/catalpa/). This is done by downloading OGDF, unziping it and calling following commands in bash:
+```bash
+foo@bar:~ogdf$ mkdir ogdf-debug ogdf-release
+foo@bar:~ogdf$ cd ogdf-debug
+foo@bar:~ogdf/ogdf-debug$ cmake ..
+foo@bar:~ogdf/ogdf-debug$ ccmake ..
+```
+Configure BUILD_SHARED_LIB=ON and CMAKE_BUILD_TYPE=Debug when calling last line.
+```bash
+foo@bar:~ogdf/ogdf-debug$ make
+```
+Repeat above for release (debug <-> release). And as a last step add ogdf to path.
+```bash
+foo@bar:~ogdf$ export OGDF_BUILD_DIR=~/ogdf/ogdf-debug
+```
+As a last step install app-graphs.
+```python
+pip install app-graphs
+```
+
+## Usage
+
+```python
+from app_graphs import graph
+
+# Define graph instance
+my_graph = graph()
+
+# Read data from filename_aplikacije and vmesniki_sheet_name
+my_graph.read(filename_apps = r'example.xlsx',              # name of file containing information about apps and components
+            apps_sheet_name = 'Aplication list',            # name of sheet in above file
+            filename_interfaces = r'example.xlsx',          # name of file containing information about interfaces
+            interfaces_sheet_name = 'Integration list',     # name of sheet in above file
+            apps = 'Aplications',                           # name of apps names column
+            components = 'Components',                      # name of components names column
+            source = 'Source',                              # name of interface's source app/component column
+            target = 'Target',                              # name of interface's target app/component column
+            interface_direction = 'Direction',              # name of interface direction column
+            technologies = 'Technology',                    # name of technologies names column
+            colors = 'Colors'                               # name of colors column
+            )
+
+# Uses ogdf-python to generate graph
+my_graph.draw()
+
+# Saves genereted graph in desired format
+my_graph.save_svg('test-graph')
+```
+![example](https://i.imgur.com/0VCrbTh.png)
+
+

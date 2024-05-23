@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+renvidia.egg-info/PKG-INFO
+renvidia.egg-info/SOURCES.txt
+renvidia.egg-info/dependency_links.txt
+renvidia.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqsplitmaskpy.egg-info/PKG-INFO
+esqsplitmaskpy.egg-info/SOURCES.txt
+esqsplitmaskpy.egg-info/dependency_links.txt
+esqsplitmaskpy.egg-info/top_level.txt

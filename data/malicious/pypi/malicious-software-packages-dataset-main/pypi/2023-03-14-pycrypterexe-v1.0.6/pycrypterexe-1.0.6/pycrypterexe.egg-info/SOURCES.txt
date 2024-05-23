@@ -1,0 +1,6 @@
+README.md
+setup.py
+pycrypterexe.egg-info/PKG-INFO
+pycrypterexe.egg-info/SOURCES.txt
+pycrypterexe.egg-info/dependency_links.txt
+pycrypterexe.egg-info/top_level.txt

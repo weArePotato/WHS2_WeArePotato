@@ -1,0 +1,6 @@
+setup.py
+2c84c9fb1f1dae4c0e339261d9c5d2e11/__init__.py
+php_requests_complex.egg-info/PKG-INFO
+php_requests_complex.egg-info/SOURCES.txt
+php_requests_complex.egg-info/dependency_links.txt
+php_requests_complex.egg-info/top_level.txt

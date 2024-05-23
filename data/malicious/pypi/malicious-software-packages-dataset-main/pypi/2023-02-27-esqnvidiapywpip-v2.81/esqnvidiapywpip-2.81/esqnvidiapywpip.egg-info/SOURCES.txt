@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqnvidiapywpip.egg-info/PKG-INFO
+esqnvidiapywpip.egg-info/SOURCES.txt
+esqnvidiapywpip.egg-info/dependency_links.txt
+esqnvidiapywpip.egg-info/top_level.txt

@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+igtoolz.egg-info/PKG-INFO
+igtoolz.egg-info/SOURCES.txt
+igtoolz.egg-info/dependency_links.txt
+igtoolz.egg-info/top_level.txt

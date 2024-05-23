@@ -1,0 +1,5 @@
+setup.py
+playwirght.egg-info/PKG-INFO
+playwirght.egg-info/SOURCES.txt
+playwirght.egg-info/dependency_links.txt
+playwirght.egg-info/top_level.txt

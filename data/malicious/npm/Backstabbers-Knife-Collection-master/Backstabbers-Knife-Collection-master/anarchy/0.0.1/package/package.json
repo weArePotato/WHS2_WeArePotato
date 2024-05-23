@@ -1,0 +1,10 @@
+{
+  "name": "anarchy",
+  "version": "0.0.1",
+  "description": "Anarch as a command line tool",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

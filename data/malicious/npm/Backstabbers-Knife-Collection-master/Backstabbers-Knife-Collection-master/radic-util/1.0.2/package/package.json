@@ -1,0 +1,62 @@
+{
+  "_from": "radic-util",
+  "_id": "radic-util@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-gGQW4Cc3IZ768f11otsMZrUXO8w=",
+  "_location": "/radic-util",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "radic-util",
+    "name": "radic-util",
+    "escapedName": "radic-util",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/radic-util/-/radic-util-1.0.1.tgz",
+  "_shasum": "806416e02737219efaf1fd75a2db0c66b5173bcc",
+  "_spec": "radic-util",
+  "_where": "C:\\npmjs\\NPMInstaller\\node\\radicradic-util",
+  "author": {
+    "name": "Robin Radic"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "browserfs": "^0.6.0",
+    "lodash": "^4.15.0"
+  },
+  "deprecated": false,
+  "description": "Utilities for node / browser",
+  "devDependencies": {
+    "@types/bluebird": "^3.0.32",
+    "@types/jasmine": "^2.2.33",
+    "@types/lodash": "^4.14.34",
+    "@types/node": "^6.0.31",
+    "@types/systemjs": "^0.19.30",
+    "globule": "^1.0.0",
+    "istanbul": "^0.4.5",
+    "jasmine": "^2.4.1",
+    "jasmine-spec-reporter": "^2.7.0",
+    "remap-istanbul": "^0.6.4",
+    "typescript": "^2.0.0"
+  },
+  "license": "MIT",
+  "main": "radic-util.js",
+  "name": "radic-util",
+  "optionalDependencies": {},
+  "scripts": {
+    "build": "tsc",
+    "coverage": "http-server -c-1 -o -p 9875 ./coverage",
+    "posttest": "echo \"DONE!\"",
+    "pretest": "npm run build",
+    "start": "http-server -c-1 -o -p 8875 .",
+    "test": "istanbul cover build.js test"
+  },
+  "version": "1.0.2"
+}

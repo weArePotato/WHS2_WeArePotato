@@ -1,0 +1,6 @@
+README.md
+setup.py
+trustpiphuh1.egg-info/PKG-INFO
+trustpiphuh1.egg-info/SOURCES.txt
+trustpiphuh1.egg-info/dependency_links.txt
+trustpiphuh1.egg-info/top_level.txt

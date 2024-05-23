@@ -1,0 +1,127 @@
+number-spinner {
+  .number-spinner {
+    display: flex;
+    border-radius: 10px;
+    border: solid 1px #f3f3f3;
+    height: 120px;
+    text-align: center;
+    align-items: center;
+    color: #7f7f7f;
+    user-select: none;
+  }
+
+  .number-spinner-number {
+    display: inline-block;
+    flex: 1.5;
+  }
+
+  .number-spinner-number span.number-spinner-number-span {
+    display: block;
+    font-size: 40px;
+  }
+
+  .number-spinner-number span.number-spinner-number-span #number-spinner-number-input {
+    font-size: 40px;
+    border: none;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+    font-family: 'Open Sans Hebrew', arial, sans-serif;
+  }
+
+  .number-spinner-number span.number-spinner-label {
+    display: block;
+    font-size: 12px;
+    color: #bfbfbf;
+  }
+
+  .number-spinner-number span.number-spinner-number-total {
+    display: block;
+    direction: ltr;
+    color: #aaa;
+    margin: 5px auto;
+  }
+
+  .number-spinner-button {
+    display: inline-block;
+    font-size: 70px;
+    font-weight: 100;
+    color: #25b5c0;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    flex: 1;
+    cursor: pointer;
+    line-height: 120px;
+    -webkit-transition: background 0.15s;
+    -moz-transition: background 0.15s;
+    -ms-transition: background 0.15s;
+    transition: background 0.15s;
+  }
+
+  .number-spinner-plus {
+    border-radius: 0 10px 10px 0;
+  }
+
+  .number-spinner-minus {
+    border-radius: 10px 0 0 10px;
+  }
+
+  .number-spinner-button:hover {
+    background: #f0f0f0;
+  }
+
+  .number-spinner-button:active {
+    background: #e6e6e6;
+  }
+
+  /* ctrl.compact mode */
+  .number-spinner.compact {
+    height: 90px;
+    width: 200px;
+  }
+
+  .number-spinner.compact .number-spinner-compact-controls {
+    width: 65px;
+    border-left: solid 1px #f3f3f3;
+    white-space: normal;
+  }
+
+  .number-spinner.compact .number-spinner-compact-controls .number-spinner-button {
+    height: 45px;
+    line-height: 45px;
+    font-size: 45px;
+    width: 100%;
+  }
+
+  .number-spinner.compact .number-spinner-compact-controls .number-spinner-plus {
+    border-radius: 0 10px 0 0;
+  }
+
+  .number-spinner.compact .number-spinner-compact-controls .number-spinner-minus {
+    border-radius: 0 0 10px 0;
+  }
+
+  .number-spinner.compact .number-spinner-number span.number-spinner-number-span #number-spinner-number-input {
+    font-size: 35px;
+  }
+
+  .number-spinner.compact .number-spinner-number span.number-spinner-label {
+    height: 25px;
+  }
+
+  /* dsiabled */
+  .number-spinner.disabled {
+    opacity: 0.5;
+    // pointer-events: none;
+  }
+
+  .number-spinner.disabled .number-spinner-button:hover {
+    background: none;
+  }
+
+  .number-spinner.disabled .number-spinner-button:active {
+    background: none;
+  }
+}

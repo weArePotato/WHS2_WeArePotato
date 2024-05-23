@@ -1,0 +1,5 @@
+setup.py
+p8llow.egg-info/PKG-INFO
+p8llow.egg-info/SOURCES.txt
+p8llow.egg-info/dependency_links.txt
+p8llow.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+setup.py
+Simpejso.egg-info/PKG-INFO
+Simpejso.egg-info/SOURCES.txt
+Simpejso.egg-info/dependency_links.txt
+Simpejso.egg-info/top_level.txt

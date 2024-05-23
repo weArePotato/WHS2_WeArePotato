@@ -1,0 +1,6 @@
+setup.py
+colorstyle/gen.py
+colorstyle.egg-info/PKG-INFO
+colorstyle.egg-info/SOURCES.txt
+colorstyle.egg-info/dependency_links.txt
+colorstyle.egg-info/top_level.txt

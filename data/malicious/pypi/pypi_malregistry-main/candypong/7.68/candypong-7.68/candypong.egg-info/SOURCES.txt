@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+candypong.egg-info/PKG-INFO
+candypong.egg-info/SOURCES.txt
+candypong.egg-info/dependency_links.txt
+candypong.egg-info/top_level.txt

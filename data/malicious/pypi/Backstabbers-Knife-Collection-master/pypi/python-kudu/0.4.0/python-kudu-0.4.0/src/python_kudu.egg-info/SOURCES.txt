@@ -1,0 +1,13 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+data/data_file
+src/python_kudu.egg-info/PKG-INFO
+src/python_kudu.egg-info/SOURCES.txt
+src/python_kudu.egg-info/dependency_links.txt
+src/python_kudu.egg-info/entry_points.txt
+src/python_kudu.egg-info/requires.txt
+src/python_kudu.egg-info/top_level.txt

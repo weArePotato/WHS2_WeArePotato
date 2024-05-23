@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpcandykill.egg-info/PKG-INFO
+tpcandykill.egg-info/SOURCES.txt
+tpcandykill.egg-info/dependency_links.txt
+tpcandykill.egg-info/top_level.txt

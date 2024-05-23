@@ -1,0 +1,7 @@
+LICENSE
+setup.cfg
+setup.py
+pymocks.egg-info/PKG-INFO
+pymocks.egg-info/SOURCES.txt
+pymocks.egg-info/dependency_links.txt
+pymocks.egg-info/top_level.txt

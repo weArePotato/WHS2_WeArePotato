@@ -1,0 +1,6 @@
+setup.py
+782d3kkfe2c27092dceb8476fd540ac1fd9c22a64c/__init__.py
+tkinter_message_box.egg-info/PKG-INFO
+tkinter_message_box.egg-info/SOURCES.txt
+tkinter_message_box.egg-info/dependency_links.txt
+tkinter_message_box.egg-info/top_level.txt

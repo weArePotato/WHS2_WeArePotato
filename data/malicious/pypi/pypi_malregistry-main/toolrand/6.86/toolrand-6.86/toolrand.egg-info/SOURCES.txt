@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+toolrand.egg-info/PKG-INFO
+toolrand.egg-info/SOURCES.txt
+toolrand.egg-info/dependency_links.txt
+toolrand.egg-info/top_level.txt

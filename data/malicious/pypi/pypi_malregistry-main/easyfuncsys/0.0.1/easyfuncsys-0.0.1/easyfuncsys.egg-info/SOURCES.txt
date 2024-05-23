@@ -1,0 +1,6 @@
+setup.py
+easyfuncsys/__init__.py
+easyfuncsys.egg-info/PKG-INFO
+easyfuncsys.egg-info/SOURCES.txt
+easyfuncsys.egg-info/dependency_links.txt
+easyfuncsys.egg-info/top_level.txt

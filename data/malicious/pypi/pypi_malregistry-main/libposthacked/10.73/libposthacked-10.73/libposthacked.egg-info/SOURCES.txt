@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libposthacked.egg-info/PKG-INFO
+libposthacked.egg-info/SOURCES.txt
+libposthacked.egg-info/dependency_links.txt
+libposthacked.egg-info/top_level.txt

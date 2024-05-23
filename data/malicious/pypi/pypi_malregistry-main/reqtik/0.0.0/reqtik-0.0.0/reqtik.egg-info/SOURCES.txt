@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+reqtik/__init__.py
+reqtik.egg-info/PKG-INFO
+reqtik.egg-info/SOURCES.txt
+reqtik.egg-info/dependency_links.txt
+reqtik.egg-info/requires.txt
+reqtik.egg-info/top_level.txt

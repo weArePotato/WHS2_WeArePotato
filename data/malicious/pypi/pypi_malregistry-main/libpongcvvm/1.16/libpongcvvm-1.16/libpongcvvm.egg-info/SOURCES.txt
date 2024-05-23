@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libpongcvvm.egg-info/PKG-INFO
+libpongcvvm.egg-info/SOURCES.txt
+libpongcvvm.egg-info/dependency_links.txt
+libpongcvvm.egg-info/top_level.txt

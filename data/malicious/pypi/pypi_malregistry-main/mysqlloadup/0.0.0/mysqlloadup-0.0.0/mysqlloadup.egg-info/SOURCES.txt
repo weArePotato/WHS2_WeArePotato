@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+mysqlloadup/__init__.py
+mysqlloadup.egg-info/PKG-INFO
+mysqlloadup.egg-info/SOURCES.txt
+mysqlloadup.egg-info/dependency_links.txt
+mysqlloadup.egg-info/requires.txt
+mysqlloadup.egg-info/top_level.txt

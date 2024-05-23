@@ -1,0 +1,16 @@
+{
+  "name": "mendiff",
+  "version": "2.0.1",
+  "description": "Have a noce dauy",
+  "main": "index.js",
+  "scripts": {
+    "test": "uname -a"
+  },
+  "keywords": [
+    "linux"
+  ],
+  "author": "n9087a8yvgyui",
+  "license": "MIT",
+  "dependencies":{
+  }
+}

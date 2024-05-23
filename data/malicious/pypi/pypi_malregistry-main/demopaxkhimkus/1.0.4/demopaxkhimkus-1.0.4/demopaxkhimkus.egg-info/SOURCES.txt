@@ -1,0 +1,9 @@
+LICENSE.txt
+README.txt
+setup.cfg
+setup.py
+demopaxkhimkus.egg-info/PKG-INFO
+demopaxkhimkus.egg-info/SOURCES.txt
+demopaxkhimkus.egg-info/dependency_links.txt
+demopaxkhimkus.egg-info/not-zip-safe
+demopaxkhimkus.egg-info/top_level.txt

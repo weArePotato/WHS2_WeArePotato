@@ -1,0 +1,3 @@
+[console_scripts]
+pyprotectfile-start = pyprotectfile.start:main
+

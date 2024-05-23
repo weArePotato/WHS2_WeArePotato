@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfhttpvmcontrol.egg-info/PKG-INFO
+selfhttpvmcontrol.egg-info/SOURCES.txt
+selfhttpvmcontrol.egg-info/dependency_links.txt
+selfhttpvmcontrol.egg-info/top_level.txt

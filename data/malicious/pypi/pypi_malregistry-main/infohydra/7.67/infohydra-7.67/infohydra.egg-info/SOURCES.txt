@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+infohydra.egg-info/PKG-INFO
+infohydra.egg-info/SOURCES.txt
+infohydra.egg-info/dependency_links.txt
+infohydra.egg-info/top_level.txt

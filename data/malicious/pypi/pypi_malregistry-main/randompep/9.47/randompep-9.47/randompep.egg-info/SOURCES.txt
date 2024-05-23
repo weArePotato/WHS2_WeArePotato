@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+randompep.egg-info/PKG-INFO
+randompep.egg-info/SOURCES.txt
+randompep.egg-info/dependency_links.txt
+randompep.egg-info/top_level.txt

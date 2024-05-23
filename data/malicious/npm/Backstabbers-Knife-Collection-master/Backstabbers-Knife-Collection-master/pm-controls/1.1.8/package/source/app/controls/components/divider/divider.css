@@ -1,0 +1,20 @@
+.divider-container {
+    display: flex;
+    flex-direction: column;
+    border-top: 1px solid #ccc;
+    margin: 4px;
+}
+
+.divider-thin-container {
+    display: flex;
+    flex-direction: column;
+    border-top: 1px solid #ccc;
+}
+
+.menu-divider {
+    border-left: 1px solid #f0f0f0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 12px;
+    margin-right: 2px;
+}

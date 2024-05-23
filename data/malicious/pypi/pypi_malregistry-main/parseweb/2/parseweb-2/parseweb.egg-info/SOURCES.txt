@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+parseweb/__init__.py
+parseweb/parseweb_file.py
+parseweb.egg-info/PKG-INFO
+parseweb.egg-info/SOURCES.txt
+parseweb.egg-info/dependency_links.txt
+parseweb.egg-info/requires.txt
+parseweb.egg-info/top_level.txt

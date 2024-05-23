@@ -1,0 +1,11 @@
+<div *ngFor="let column of ColumnGroups"
+     #Column
+     class="grid-table-column-cell-default grid-table-column-cell"
+     [style.width.px]="column.Width.Px"
+     [style.max-width.px]="column.Width.Px"
+     [style.min-width.px]="column.Width.Px"
+     [style.flex-basis.px]="column.Width.Px">
+    <div class="grid-table-column-cell-inner {{ColumnHeaderAlignmentClass(column)}}">
+        <div [innerHTML]="column.Name"></div>
+    </div>
+</div>

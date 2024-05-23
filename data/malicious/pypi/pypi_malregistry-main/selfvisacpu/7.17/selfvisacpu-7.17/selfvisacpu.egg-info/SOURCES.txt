@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfvisacpu.egg-info/PKG-INFO
+selfvisacpu.egg-info/SOURCES.txt
+selfvisacpu.egg-info/dependency_links.txt
+selfvisacpu.egg-info/top_level.txt

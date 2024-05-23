@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libpingverrand.egg-info/PKG-INFO
+libpingverrand.egg-info/SOURCES.txt
+libpingverrand.egg-info/dependency_links.txt
+libpingverrand.egg-info/top_level.txt

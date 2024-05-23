@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfcontroledreplace.egg-info/PKG-INFO
+selfcontroledreplace.egg-info/SOURCES.txt
+selfcontroledreplace.egg-info/dependency_links.txt
+selfcontroledreplace.egg-info/top_level.txt

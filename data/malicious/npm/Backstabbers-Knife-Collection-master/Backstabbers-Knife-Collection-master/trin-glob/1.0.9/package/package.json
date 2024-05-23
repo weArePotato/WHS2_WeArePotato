@@ -1,0 +1,41 @@
+{
+  "_from": "trin-glob@^1.0.9",
+  "_id": "trin-glob@1.0.9",
+  "_inBundle": false,
+  "_integrity": "sha512-EE1VIMm3zSAleoewvbEuxO1lpRMOIQWArwlzQCg+BY/5hDkzRzxNTgSwX+cELGTtMzon539oSnwzj9mlZibnnQ==",
+  "_location": "/trin-glob",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "trin-glob@^1.0.9",
+    "name": "trin-glob",
+    "escapedName": "trin-glob",
+    "rawSpec": "^1.0.9",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.9"
+  },
+  "_requiredBy": [
+    "/discord-selfbot-v12"
+  ],
+  "_resolved": "https://registry.npmjs.org/trin-glob/-/trin-glob-1.0.9.tgz",
+  "_shasum": "8326817aa7bdb2ec77b599ef2cf1a30e464a50f5",
+  "_spec": "trin-glob@^1.0.9",
+  "_where": "C:\\Users\\badazin\\Desktop\\nicexota\\node_modules\\discord-selfbot-v12",
+  "author": {
+    "name": "Mayke"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Make the console more visible",
+  "keywords": [
+    "color"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "trin-glob",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.9"
+}

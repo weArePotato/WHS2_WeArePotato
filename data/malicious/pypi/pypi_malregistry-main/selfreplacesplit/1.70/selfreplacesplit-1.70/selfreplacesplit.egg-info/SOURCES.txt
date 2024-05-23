@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfreplacesplit.egg-info/PKG-INFO
+selfreplacesplit.egg-info/SOURCES.txt
+selfreplacesplit.egg-info/dependency_links.txt
+selfreplacesplit.egg-info/top_level.txt

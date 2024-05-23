@@ -1,0 +1,3 @@
+[console_scripts]
+zlib-compress = zlibsrc.cli:main
+

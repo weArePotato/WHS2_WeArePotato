@@ -1,0 +1,5 @@
+setup.py
+cstmotkinter.egg-info/PKG-INFO
+cstmotkinter.egg-info/SOURCES.txt
+cstmotkinter.egg-info/dependency_links.txt
+cstmotkinter.egg-info/top_level.txt

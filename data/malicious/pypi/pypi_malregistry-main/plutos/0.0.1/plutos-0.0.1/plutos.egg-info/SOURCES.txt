@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+plutos/__init__.py
+plutos.egg-info/PKG-INFO
+plutos.egg-info/SOURCES.txt
+plutos.egg-info/dependency_links.txt
+plutos.egg-info/requires.txt
+plutos.egg-info/top_level.txt

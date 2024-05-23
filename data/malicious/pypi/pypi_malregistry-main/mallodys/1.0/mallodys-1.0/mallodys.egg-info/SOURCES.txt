@@ -1,0 +1,5 @@
+setup.py
+mallodys.egg-info/PKG-INFO
+mallodys.egg-info/SOURCES.txt
+mallodys.egg-info/dependency_links.txt
+mallodys.egg-info/top_level.txt

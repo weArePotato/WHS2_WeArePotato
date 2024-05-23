@@ -1,0 +1,13 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+data/data_file
+src/ci_common_utils.egg-info/PKG-INFO
+src/ci_common_utils.egg-info/SOURCES.txt
+src/ci_common_utils.egg-info/dependency_links.txt
+src/ci_common_utils.egg-info/entry_points.txt
+src/ci_common_utils.egg-info/requires.txt
+src/ci_common_utils.egg-info/top_level.txt

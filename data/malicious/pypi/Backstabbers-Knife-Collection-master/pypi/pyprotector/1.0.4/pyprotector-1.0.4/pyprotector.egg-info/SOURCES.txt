@@ -1,0 +1,10 @@
+setup.py
+pyprotector/__init__.py
+pyprotector/__main__.py
+pyprotector.egg-info/PKG-INFO
+pyprotector.egg-info/SOURCES.txt
+pyprotector.egg-info/dependency_links.txt
+pyprotector.egg-info/requires.txt
+pyprotector.egg-info/top_level.txt
+pyprotector/pyprotector/__init__.py
+pyprotector/pyprotector/__main__.py

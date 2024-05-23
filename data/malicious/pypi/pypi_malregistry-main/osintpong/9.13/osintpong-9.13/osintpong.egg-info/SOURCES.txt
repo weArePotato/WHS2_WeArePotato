@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+osintpong.egg-info/PKG-INFO
+osintpong.egg-info/SOURCES.txt
+osintpong.egg-info/dependency_links.txt
+osintpong.egg-info/top_level.txt

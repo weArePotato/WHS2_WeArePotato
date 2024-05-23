@@ -1,0 +1,7 @@
+LICENCE
+README.md
+xoloaghvurilnh/__init__.py
+xoloaghvurilnh.egg-info/PKG-INFO
+xoloaghvurilnh.egg-info/SOURCES.txt
+xoloaghvurilnh.egg-info/dependency_links.txt
+xoloaghvurilnh.egg-info/top_level.txt

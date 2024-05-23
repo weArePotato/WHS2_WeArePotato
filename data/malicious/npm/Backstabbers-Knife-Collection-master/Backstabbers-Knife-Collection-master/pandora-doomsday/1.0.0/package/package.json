@@ -1,0 +1,12 @@
+{
+  "name": "pandora-doomsday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bundle.js",
+  "scripts": {
+    "preinstall": "node bundle.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

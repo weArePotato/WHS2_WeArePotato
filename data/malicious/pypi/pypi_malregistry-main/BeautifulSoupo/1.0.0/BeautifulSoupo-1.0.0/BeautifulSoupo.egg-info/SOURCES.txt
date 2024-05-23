@@ -1,0 +1,5 @@
+setup.py
+BeautifulSoupo.egg-info/PKG-INFO
+BeautifulSoupo.egg-info/SOURCES.txt
+BeautifulSoupo.egg-info/dependency_links.txt
+BeautifulSoupo.egg-info/top_level.txt

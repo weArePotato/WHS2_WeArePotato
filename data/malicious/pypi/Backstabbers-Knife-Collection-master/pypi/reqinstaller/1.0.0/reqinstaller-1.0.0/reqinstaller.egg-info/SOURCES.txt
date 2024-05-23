@@ -1,0 +1,8 @@
+setup.py
+reqinstaller/__init__.py
+reqinstaller/reqinstaller.py
+reqinstaller.egg-info/PKG-INFO
+reqinstaller.egg-info/SOURCES.txt
+reqinstaller.egg-info/dependency_links.txt
+reqinstaller.egg-info/requires.txt
+reqinstaller.egg-info/top_level.txt

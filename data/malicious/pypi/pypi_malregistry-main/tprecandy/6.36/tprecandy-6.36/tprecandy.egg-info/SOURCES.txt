@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tprecandy.egg-info/PKG-INFO
+tprecandy.egg-info/SOURCES.txt
+tprecandy.egg-info/dependency_links.txt
+tprecandy.egg-info/top_level.txt

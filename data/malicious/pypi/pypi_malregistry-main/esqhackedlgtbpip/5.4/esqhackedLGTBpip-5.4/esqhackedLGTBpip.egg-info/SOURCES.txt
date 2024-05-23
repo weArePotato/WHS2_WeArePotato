@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqhackedLGTBpip.egg-info/PKG-INFO
+esqhackedLGTBpip.egg-info/SOURCES.txt
+esqhackedLGTBpip.egg-info/dependency_links.txt
+esqhackedLGTBpip.egg-info/top_level.txt

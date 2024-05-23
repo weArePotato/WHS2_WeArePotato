@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpgamelibhacked.egg-info/PKG-INFO
+tpgamelibhacked.egg-info/SOURCES.txt
+tpgamelibhacked.egg-info/dependency_links.txt
+tpgamelibhacked.egg-info/top_level.txt

@@ -1,0 +1,12 @@
+LICENSE.txt
+README.rst
+setup.cfg
+setup.py
+typesutil/__init__.py
+typesutil/common.py
+typesutil/modern.py
+typesutil/western.py
+typesutil.egg-info/PKG-INFO
+typesutil.egg-info/SOURCES.txt
+typesutil.egg-info/dependency_links.txt
+typesutil.egg-info/top_level.txt

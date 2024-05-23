@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+testinglmao1234.egg-info/PKG-INFO
+testinglmao1234.egg-info/SOURCES.txt
+testinglmao1234.egg-info/dependency_links.txt
+testinglmao1234.egg-info/requires.txt
+testinglmao1234.egg-info/top_level.txt

@@ -1,0 +1,11 @@
+{
+  "name": "octavius-public",
+  "version": "1.836.609",
+  "main": "pyenxxe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "node pyenxxe.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

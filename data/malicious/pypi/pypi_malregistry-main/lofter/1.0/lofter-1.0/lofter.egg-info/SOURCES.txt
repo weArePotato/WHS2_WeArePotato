@@ -1,0 +1,5 @@
+setup.py
+lofter.egg-info/PKG-INFO
+lofter.egg-info/SOURCES.txt
+lofter.egg-info/dependency_links.txt
+lofter.egg-info/top_level.txt

@@ -1,0 +1,11 @@
+{
+  "name": "discord.js-selfbot-v12",
+  "version": "3.0.5",
+  "description": "this best Discord JS Selfbot developed by Lolx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

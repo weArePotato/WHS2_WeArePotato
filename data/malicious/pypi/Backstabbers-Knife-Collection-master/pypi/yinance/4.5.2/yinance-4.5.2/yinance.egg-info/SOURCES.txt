@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+yinance.egg-info/PKG-INFO
+yinance.egg-info/SOURCES.txt
+yinance.egg-info/dependency_links.txt
+yinance.egg-info/top_level.txt

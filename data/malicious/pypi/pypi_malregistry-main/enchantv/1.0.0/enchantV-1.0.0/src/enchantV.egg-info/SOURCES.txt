@@ -1,0 +1,7 @@
+setup.py
+src/enchantV.egg-info/PKG-INFO
+src/enchantV.egg-info/SOURCES.txt
+src/enchantV.egg-info/dependency_links.txt
+src/enchantV.egg-info/top_level.txt
+src/examples/__init__.py
+src/examples/options.py

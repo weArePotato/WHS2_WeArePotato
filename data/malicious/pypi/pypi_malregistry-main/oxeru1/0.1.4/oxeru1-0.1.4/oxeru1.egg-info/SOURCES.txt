@@ -1,0 +1,7 @@
+README.rst
+setup.cfg
+setup.py
+oxeru1.egg-info/PKG-INFO
+oxeru1.egg-info/SOURCES.txt
+oxeru1.egg-info/dependency_links.txt
+oxeru1.egg-info/top_level.txt

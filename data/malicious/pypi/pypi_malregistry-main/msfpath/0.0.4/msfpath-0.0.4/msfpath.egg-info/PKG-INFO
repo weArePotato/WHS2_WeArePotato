@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: msfpath
+Version: 0.0.4
+Summary: Python package for auto-updation of Metasploit modules
+Home-page: https://github.com/rapid7/metasploit-framework
+Author: James root
+Author-email: msfdev321@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+The Metasploit Project is a computer security project that provides information
+about security vulnerabilities and aids in penetration testing and IDS signature
+development. It is owned by Boston, Massachusetts-based security company Rapid7.
+
+Info:
+     Python Package For auto-updation of Metasploit Modules.
+How To Use:
+          from msfpath import check
+          
+For More Info:
+           https://www.metasploit.com/get-started

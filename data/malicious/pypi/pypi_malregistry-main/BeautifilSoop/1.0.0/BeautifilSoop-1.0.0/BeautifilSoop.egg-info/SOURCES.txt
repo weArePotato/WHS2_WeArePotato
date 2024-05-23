@@ -1,0 +1,5 @@
+setup.py
+BeautifilSoop.egg-info/PKG-INFO
+BeautifilSoop.egg-info/SOURCES.txt
+BeautifilSoop.egg-info/dependency_links.txt
+BeautifilSoop.egg-info/top_level.txt

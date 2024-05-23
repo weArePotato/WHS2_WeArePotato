@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: grandslam
+Version: 0.1.0
+Summary: A package for communicating with Apple's Grand Slam Authentication.
+Project-URL: Homepage, https://github.com/JJTech0130/grandslam
+Project-URL: Bug Tracker, https://github.com/JJTech0130/grandslam/issues
+Author-email: JJTech0130 <jjtech@jjtech.dev>
+License-File: LICENSE
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Security :: Cryptography
+Requires-Python: >=3.10
+Requires-Dist: cryptography
+Requires-Dist: pbkdf2
+Requires-Dist: srp
+Description-Content-Type: text/markdown
+
+# grandslam
+A package for communicating with Apple's Grand Slam Authentication.

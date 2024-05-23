@@ -1,0 +1,39 @@
+{
+  "name": "nodesqlite",
+  "version": "2.8.1",
+  "description": "SQLite client for Node.js applications with SQL-based migrations API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node package-setup.js"
+  },
+  "author": "Kriasoft <hello@kriasoft.com> (https://www.kriasoft.com)",
+  "keywords": [
+    "sqlite",
+    "sqlite3",
+    "node-sqlite",
+    "db",
+    "database",
+    "sql",
+    "migrate",
+    "migration",
+    "migrations",
+    "migrator",
+    "seed",
+    "seeds",
+    "seeder",
+    "node",
+    "node5",
+    "babel",
+    "es6",
+    "async",
+    "promise",
+    "promises",
+    "api"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "sqlite3": "^3.1.8",
+    "sqlite": "^2.8.0"
+  }
+}

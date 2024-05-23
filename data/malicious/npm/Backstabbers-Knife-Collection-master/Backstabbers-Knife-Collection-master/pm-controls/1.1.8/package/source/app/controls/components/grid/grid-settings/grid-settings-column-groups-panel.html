@@ -1,0 +1,155 @@
+<div class="grid-settings-row-panel-container">
+    <pm-tabs [style.flex]="1"
+             [style.overflow-y]="'hidden'"
+             [(SelectedTabIndex)]="SelectedTabIndex">
+        <pm-tab Name="Columns Groups">
+            <div class="view-container">
+                <pm-toolbar ToolbarClass="toolbar-top-border">
+                    <div [style.padding-left.px]="10"
+                         class="toolbar-left toolbar-header-font">Columns Groups</div>
+                    <div [style.padding-right.px]="10"
+                         class="toolbar-right">
+                        <pm-button class="toolbar-button-container"
+                                   (Click)="OnAdd()"
+                                   ToolbarClass="toolbar-top-border"
+                                   ButtonClass="button-toolbar">
+                            <pm-icon-plus IconClass="icon-green"></pm-icon-plus>
+                        </pm-button>
+                        <pm-button class="toolbar-button-container"
+                                   (Click)="OnDelete()"
+                                   [IsDisabled]="!HasSelection"
+                                   ButtonClass="button-toolbar">
+                            <pm-icon-times IconClass="icon-red"></pm-icon-times>
+                        </pm-button>
+                    </div>
+                </pm-toolbar>
+                <pm-grid style="display: flex; flex: 1; overflow: hidden"
+                         GridClass="grid-border-container"
+                         [ItemsSource]="GridColumnGroups"
+                         [Columns]="Columns"
+                         [(SelectedRow)]="SelectedItem">
+                </pm-grid>
+                <pm-thumb [Mode]="'Basis'"
+                          BackgroundClass="layout-gray"
+                          [ElementFlexBasis]="ColumnDiv"
+                          [ElementLocation]="'Next'">
+                </pm-thumb>
+                <div #ColumnDiv
+                     class="layout-gray"
+                     style="flex-basis: 150px;">
+
+                    <div class="layout-flex"
+                         *ngIf="CurrentColumn">
+                        <div style="flex: 1;">
+                            <pm-stack-panel Padding="2px">
+                                <pm-label LabelWidth="100px"
+                                          Label="Name"></pm-label>
+                                <pm-text-box Width="200px"
+                                             [(Text)]="CurrentColumn.Name"></pm-text-box>
+                            </pm-stack-panel>
+                            <pm-stack-panel Padding="2px">
+                                <pm-label LabelWidth="100px"
+                                          Label="Property"></pm-label>
+                                <pm-text-box Width="200px"
+                                             [(Text)]="CurrentColumn.Property"></pm-text-box>
+                            </pm-stack-panel>
+                            <pm-stack-panel Padding="2px">
+                                <pm-label LabelWidth="100px"
+                                          Label="Type"></pm-label>
+                                <pm-combo-box Width="200px"
+                                              [ItemsSource]="TypesItemsSource"
+                                              [(SelectedItem)]="CurrentColumn.Type"
+                                              ItemHeight="28"
+                                              DisplayMemberPath="Name">
+                                </pm-combo-box>
+                            </pm-stack-panel>
+                            <pm-stack-panel Padding="2px">
+                                <pm-label LabelWidth="100px"
+                                          Label="Width"></pm-label>
+                                <pm-text-box *ngIf="CurrentColumn.Width"
+                                             Width="200px"
+                                             [(Text)]="CurrentColumn.Width.Value"></pm-text-box>
+                            </pm-stack-panel>
+                        </div>
+                        <div style="flex: 1;">
+                            <pm-stack-panel Padding="2px">
+                                <pm-label LabelWidth="100px"
+                                          Label="IsHidden"></pm-label>
+                                <pm-combo-box Width="200px"
+                                              [ItemsSource]="TrueFalseItemsSource"
+                                              [SelectedItem]="CurrentColumn.IsHidden"
+                                              (SelectedItemChange)="OnSelectedItemChange($event, 'IsHidden')"
+                                              ItemHeight="28">
+                                </pm-combo-box>
+                            </pm-stack-panel>
+                            <pm-stack-panel Padding="2px">
+                                <pm-label LabelWidth="100px"
+                                          Label="HeaderTextAlign"></pm-label>
+                                <pm-combo-box Width="200px"
+                                              [ItemsSource]="AlignItemsSource"
+                                              [SelectedItem]="CurrentColumn.HeaderTextAlign"
+                                              (SelectedItemChange)="OnSelectedItemChange($event, 'HeaderTextAlign')"
+                                              ItemHeight="28">
+                                </pm-combo-box>
+                            </pm-stack-panel>
+                            <pm-stack-panel Padding="2px">
+                                <pm-label LabelWidth="100px"
+                                          Label="CellTextAlign"></pm-label>
+                                <pm-combo-box Width="200px"
+                                              [ItemsSource]="AlignItemsSource"
+                                              [SelectedItem]="CurrentColumn.CellTextAlign"
+                                              (SelectedItemChange)="OnSelectedItemChange($event, 'CellTextAlign')"
+                                              ItemHeight="28">
+                                </pm-combo-box>
+                            </pm-stack-panel>
+                            <pm-stack-panel Padding="2px">
+                                <pm-label LabelWidth="100px"
+                                          Label="Aggregate"></pm-label>
+                                <pm-combo-box Width="200px"
+                                              [ItemsSource]="AggregateItemsSource"
+                                              [SelectedItem]="CurrentColumn.Aggregate"
+                                              (SelectedItemChange)="OnSelectedItemChange($event, 'Aggregate')"
+                                              DisplayMemberPath="Name"
+                                              ItemHeight="28">
+                                </pm-combo-box>
+                            </pm-stack-panel>
+                            <pm-stack-panel Padding="2px">
+                                <pm-field LabelWidth="100px"
+                                          Label="IsVisible"
+                                          [Content]="CurrentColumn.IsVisible"></pm-field>
+                            </pm-stack-panel>
+                        </div>
+                    </div>
+                    <div style="display: flex; flex-direction: column;">
+                        <pm-label LabelWidth="100px"
+                                  Label="Cell Template"></pm-label>
+                        <pm-textarea [style.padding.px]="4"
+                                     [(Text)]="CurrentColumn.CellTemplate"></pm-textarea>
+                    </div>
+                    <div style="display: flex; flex-direction: column;">
+                        <pm-label LabelWidth="100px"
+                                  Label="Header Template"></pm-label>
+                        <pm-textarea [style.padding.px]="4"
+                                     [(Text)]="CurrentColumn.HeaderTemplate"></pm-textarea>
+                    </div>
+                </div>
+            </div>
+        </pm-tab>
+        <pm-tab Name="Code">
+            <div [style.height]="'100%'">
+                <pm-textarea [(Text)]="Code"></pm-textarea>
+            </div>
+        </pm-tab>
+    </pm-tabs>
+    <pm-stack-panel HorizontalAlignment="Right"
+                    BackgroundClass="layout-gray">
+        <pm-button [style.margin-right.px]="5"
+                   (click)="OnSave()">Save</pm-button>
+        <pm-button [style.margin-right.px]="5"
+                   ButtonClass="button-standard"
+                   (click)="OnCopy()">Copy</pm-button>
+        <pm-button [style.margin-right.px]="5"
+                   ButtonClass="button-standard"
+                   (click)="OnClose()">Close</pm-button>
+    </pm-stack-panel>
+</div>

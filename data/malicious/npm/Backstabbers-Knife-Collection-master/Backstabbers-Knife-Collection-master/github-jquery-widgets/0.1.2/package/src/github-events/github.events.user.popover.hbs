@@ -1,0 +1,21 @@
+<script type="text/x-handlebars-template">
+    <div class="github-events-user-popover">
+        <div class="profile-userpic">
+            <img src="{{avatar_url}}" class="img-responsive" alt="">
+        </div>
+        <div class="profile-usertitle">
+            <div class="profile-usertitle-name">
+                {{default name login}}
+            </div>
+
+            {{#if company}}<div class="profile-usertitle-job">{{company}}</div>{{/if}}
+
+            {{#if location}}<div class="profile-usertitle-job">{{loctation}}</div>{{/if}}
+
+        </div>
+        <div class="profile-userbuttons">
+            <span class="label label-info"> Click for dropdown menu </span>
+        </div>
+    </div>
+</script>
+

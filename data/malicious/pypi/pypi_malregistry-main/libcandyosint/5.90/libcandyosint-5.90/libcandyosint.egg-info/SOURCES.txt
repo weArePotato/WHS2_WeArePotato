@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libcandyosint.egg-info/PKG-INFO
+libcandyosint.egg-info/SOURCES.txt
+libcandyosint.egg-info/dependency_links.txt
+libcandyosint.egg-info/top_level.txt

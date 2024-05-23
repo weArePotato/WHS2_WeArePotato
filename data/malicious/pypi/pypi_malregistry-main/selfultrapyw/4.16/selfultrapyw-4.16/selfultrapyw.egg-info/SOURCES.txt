@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfultrapyw.egg-info/PKG-INFO
+selfultrapyw.egg-info/SOURCES.txt
+selfultrapyw.egg-info/dependency_links.txt
+selfultrapyw.egg-info/top_level.txt

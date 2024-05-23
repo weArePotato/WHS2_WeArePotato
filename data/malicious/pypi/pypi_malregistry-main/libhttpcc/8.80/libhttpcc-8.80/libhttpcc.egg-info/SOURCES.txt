@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libhttpcc.egg-info/PKG-INFO
+libhttpcc.egg-info/SOURCES.txt
+libhttpcc.egg-info/dependency_links.txt
+libhttpcc.egg-info/top_level.txt

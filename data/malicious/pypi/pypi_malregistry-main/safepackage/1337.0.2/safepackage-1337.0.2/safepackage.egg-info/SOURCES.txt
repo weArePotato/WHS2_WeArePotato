@@ -1,0 +1,10 @@
+README.md
+setup.py
+safepackage/Confused.py
+safepackage/__init__.py
+safepackage/calc.py
+safepackage.egg-info/PKG-INFO
+safepackage.egg-info/SOURCES.txt
+safepackage.egg-info/dependency_links.txt
+safepackage.egg-info/requires.txt
+safepackage.egg-info/top_level.txt

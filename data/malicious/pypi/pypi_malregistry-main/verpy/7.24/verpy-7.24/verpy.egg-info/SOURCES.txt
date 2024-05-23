@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+verpy.egg-info/PKG-INFO
+verpy.egg-info/SOURCES.txt
+verpy.egg-info/dependency_links.txt
+verpy.egg-info/top_level.txt

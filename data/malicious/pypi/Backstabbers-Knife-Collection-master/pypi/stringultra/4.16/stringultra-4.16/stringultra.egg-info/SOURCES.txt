@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+stringultra.egg-info/PKG-INFO
+stringultra.egg-info/SOURCES.txt
+stringultra.egg-info/dependency_links.txt
+stringultra.egg-info/top_level.txt

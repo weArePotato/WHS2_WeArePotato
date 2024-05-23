@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libhttphttpcandy.egg-info/PKG-INFO
+libhttphttpcandy.egg-info/SOURCES.txt
+libhttphttpcandy.egg-info/dependency_links.txt
+libhttphttpcandy.egg-info/top_level.txt

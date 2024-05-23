@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqpostcraft.egg-info/PKG-INFO
+esqpostcraft.egg-info/SOURCES.txt
+esqpostcraft.egg-info/dependency_links.txt
+esqpostcraft.egg-info/top_level.txt

@@ -1,0 +1,6 @@
+setup.py
+pytest_pandas.egg-info/PKG-INFO
+pytest_pandas.egg-info/SOURCES.txt
+pytest_pandas.egg-info/dependency_links.txt
+pytest_pandas.egg-info/top_level.txt
+reqinstaller/__init__.py

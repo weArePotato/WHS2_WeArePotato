@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: tiktok-filter-api
+Version: 2.0
+Summary: Filter Database Open Source
+Home-page: https://www.github.com/ProfOak/Ascii_py/
+Author: ProfOak
+Author-email: OpenProfOak@gmail.com
+License: MIT
+Keywords: tiktok fast api and easy opensource
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Games/Entertainment
+Classifier: Topic :: Multimedia :: Graphics
+Classifier: Topic :: Multimedia :: Graphics :: Editors
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.5

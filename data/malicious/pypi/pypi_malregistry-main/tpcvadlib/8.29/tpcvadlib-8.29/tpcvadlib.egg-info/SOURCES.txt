@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpcvadlib.egg-info/PKG-INFO
+tpcvadlib.egg-info/SOURCES.txt
+tpcvadlib.egg-info/dependency_links.txt
+tpcvadlib.egg-info/top_level.txt

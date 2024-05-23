@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tppingcpuget.egg-info/PKG-INFO
+tppingcpuget.egg-info/SOURCES.txt
+tppingcpuget.egg-info/dependency_links.txt
+tppingcpuget.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqverlibosint.egg-info/PKG-INFO
+esqverlibosint.egg-info/SOURCES.txt
+esqverlibosint.egg-info/dependency_links.txt
+esqverlibosint.egg-info/top_level.txt

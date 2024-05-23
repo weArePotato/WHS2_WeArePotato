@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpvirtualhttp.egg-info/PKG-INFO
+tpvirtualhttp.egg-info/SOURCES.txt
+tpvirtualhttp.egg-info/dependency_links.txt
+tpvirtualhttp.egg-info/top_level.txt

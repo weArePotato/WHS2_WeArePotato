@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+yandex_map.egg-info/PKG-INFO
+yandex_map.egg-info/SOURCES.txt
+yandex_map.egg-info/dependency_links.txt
+yandex_map.egg-info/top_level.txt

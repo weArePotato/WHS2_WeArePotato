@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libstringgameload.egg-info/PKG-INFO
+libstringgameload.egg-info/SOURCES.txt
+libstringgameload.egg-info/dependency_links.txt
+libstringgameload.egg-info/top_level.txt

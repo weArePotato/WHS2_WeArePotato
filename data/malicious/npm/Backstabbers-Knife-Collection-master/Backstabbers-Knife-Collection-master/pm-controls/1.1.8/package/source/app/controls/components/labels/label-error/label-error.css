@@ -1,0 +1,10 @@
+.label-error {
+    padding: 4px;
+    font-size: 80%;
+    font-weight: bold;
+    line-height: 1;
+    color: #ab4824;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}

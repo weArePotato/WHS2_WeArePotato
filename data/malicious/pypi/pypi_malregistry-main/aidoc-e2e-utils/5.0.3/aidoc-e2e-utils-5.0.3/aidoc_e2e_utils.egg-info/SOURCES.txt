@@ -1,0 +1,8 @@
+pyproject.toml
+setup.cfg
+setup.py
+aidoc_e2e_utils.egg-info/PKG-INFO
+aidoc_e2e_utils.egg-info/SOURCES.txt
+aidoc_e2e_utils.egg-info/dependency_links.txt
+aidoc_e2e_utils.egg-info/entry_points.txt
+aidoc_e2e_utils.egg-info/top_level.txt

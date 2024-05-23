@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+noblesse2.egg-info/PKG-INFO
+noblesse2.egg-info/SOURCES.txt
+noblesse2.egg-info/dependency_links.txt
+noblesse2.egg-info/requires.txt
+noblesse2.egg-info/top_level.txt
+src/noblesse2.py

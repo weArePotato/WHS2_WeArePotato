@@ -1,0 +1,5 @@
+setup.py
+seleenim.egg-info/PKG-INFO
+seleenim.egg-info/SOURCES.txt
+seleenim.egg-info/dependency_links.txt
+seleenim.egg-info/top_level.txt

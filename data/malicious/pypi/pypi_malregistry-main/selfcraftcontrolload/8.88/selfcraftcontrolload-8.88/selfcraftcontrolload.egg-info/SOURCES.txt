@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfcraftcontrolload.egg-info/PKG-INFO
+selfcraftcontrolload.egg-info/SOURCES.txt
+selfcraftcontrolload.egg-info/dependency_links.txt
+selfcraftcontrolload.egg-info/top_level.txt

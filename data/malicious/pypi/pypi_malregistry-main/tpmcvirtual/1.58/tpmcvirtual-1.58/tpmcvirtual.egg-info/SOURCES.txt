@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpmcvirtual.egg-info/PKG-INFO
+tpmcvirtual.egg-info/SOURCES.txt
+tpmcvirtual.egg-info/dependency_links.txt
+tpmcvirtual.egg-info/top_level.txt

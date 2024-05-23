@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+virtualcc.egg-info/PKG-INFO
+virtualcc.egg-info/SOURCES.txt
+virtualcc.egg-info/dependency_links.txt
+virtualcc.egg-info/top_level.txt

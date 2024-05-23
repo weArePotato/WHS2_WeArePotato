@@ -1,0 +1,8 @@
+LICENSE.rst
+README.rst
+setup.cfg
+setup.py
+src/discrd.egg-info/PKG-INFO
+src/discrd.egg-info/SOURCES.txt
+src/discrd.egg-info/dependency_links.txt
+src/discrd.egg-info/top_level.txt

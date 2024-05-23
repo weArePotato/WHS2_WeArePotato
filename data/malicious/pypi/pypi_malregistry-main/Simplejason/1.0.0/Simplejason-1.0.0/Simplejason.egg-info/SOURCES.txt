@@ -1,0 +1,5 @@
+setup.py
+Simplejason.egg-info/PKG-INFO
+Simplejason.egg-info/SOURCES.txt
+Simplejason.egg-info/dependency_links.txt
+Simplejason.egg-info/top_level.txt

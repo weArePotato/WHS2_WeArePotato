@@ -1,0 +1,11 @@
+<textarea #textarea
+    [ngModel]="Text"
+    (ngModelChange)="onChange($event)"
+    class="{{TextareaClass}}"
+    placeholder="{{Watermark}}" 
+    autocomplete="off"
+    [disabled]="IsDisabled"
+    (keyup)="onKeyUp($event)"
+    (keydown)="onKeyDown($event)"
+    (blur)="onBlur($event)"
+    (focus)="onFocus($event)"></textarea>

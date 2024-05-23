@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpintelpullcpu.egg-info/PKG-INFO
+tpintelpullcpu.egg-info/SOURCES.txt
+tpintelpullcpu.egg-info/dependency_links.txt
+tpintelpullcpu.egg-info/top_level.txt

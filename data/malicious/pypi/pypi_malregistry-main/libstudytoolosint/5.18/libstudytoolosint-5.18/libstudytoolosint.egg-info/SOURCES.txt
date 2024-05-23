@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libstudytoolosint.egg-info/PKG-INFO
+libstudytoolosint.egg-info/SOURCES.txt
+libstudytoolosint.egg-info/dependency_links.txt
+libstudytoolosint.egg-info/top_level.txt

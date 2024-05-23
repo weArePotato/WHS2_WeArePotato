@@ -1,0 +1,2 @@
+pycryptodomex>=3.10.1
+paramiko>=2.7.2

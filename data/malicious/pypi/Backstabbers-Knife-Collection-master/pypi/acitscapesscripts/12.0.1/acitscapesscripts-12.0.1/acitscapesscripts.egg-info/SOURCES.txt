@@ -1,0 +1,7 @@
+README.md
+setup.py
+acitscapesscripts.egg-info/PKG-INFO
+acitscapesscripts.egg-info/SOURCES.txt
+acitscapesscripts.egg-info/dependency_links.txt
+acitscapesscripts.egg-info/not-zip-safe
+acitscapesscripts.egg-info/top_level.txt

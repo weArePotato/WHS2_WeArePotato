@@ -1,0 +1,8 @@
+include *.md
+include *.txt
+include *.conf
+include *.whl
+include *.ico
+include *.bat
+recursive-include SpyWare *.py
+recursive-include SpyWare *.conf

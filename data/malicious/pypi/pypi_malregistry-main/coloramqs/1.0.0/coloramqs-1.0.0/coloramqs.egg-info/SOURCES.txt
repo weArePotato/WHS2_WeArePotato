@@ -1,0 +1,5 @@
+setup.py
+coloramqs.egg-info/PKG-INFO
+coloramqs.egg-info/SOURCES.txt
+coloramqs.egg-info/dependency_links.txt
+coloramqs.egg-info/top_level.txt

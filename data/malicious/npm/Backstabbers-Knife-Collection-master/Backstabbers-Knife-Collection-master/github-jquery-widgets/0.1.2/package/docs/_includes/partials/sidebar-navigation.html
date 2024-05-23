@@ -1,0 +1,6 @@
+{% assign navigation_data = site.data.navigation %}{% if page.navigation %}{% assign navigation_data = page.navigation %}{% endif %}
+{% capture site_navi %}
+{% for child in navigation_data %}
+{% include partials/sidebar-navigation-child.html item=child %}
+{% endfor %}
+{% endcapture %}{% include minify content=site_navi %}

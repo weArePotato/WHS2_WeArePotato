@@ -1,0 +1,6 @@
+<div class="combo-box-selected-item {{CompatibilityService.LegacyFlexElement}}">
+    {{getItemDisplay(Item)}}
+    <div *ngIf="ShowRemoveItem == true" class="{{CompatibilityService.LegacyFlexElement}}">
+        <pm-icon-times-circle  class="{{CompatibilityService.LegacyFlexElement}}" [style.padding-left.px]="3" (click)="removeItem()"></pm-icon-times-circle>        
+    </div>
+</div>

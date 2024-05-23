@@ -1,0 +1,165 @@
+<div class="grid-container {{GridClass}}">
+    <div class="grid-table-container" 
+         [contextMenu]="ContextMenu || defaultContextMenu"
+         mouseWheel 
+         (mouseWheelUp)="mouseWheelUp($event)" 
+         (mouseWheelDown)="mouseWheelDown($event)">
+        <div *ngIf="ShowColumnGroups"
+             class="grid-table-columns-container"
+             [style.height.px]="ColumnHeaderHeight"
+             [style.flex-basis.px]="ColumnHeaderHeight">
+            <div *ngIf="ShowRowNumbers"
+                    class="grid-table-top-left-corner">
+                <div class="grid-table-top-left-inner-corner"></div>
+            </div>
+            <div *ngIf="FrozenColumnCount > 0"
+                    class="grid-table-columns-header-frozen">
+                <pm-grid-column-group class="grid-table-columns"
+                                        [ColumnGroups]="FrozenColumnGroupings"
+                                        [Grid]="Grid"></pm-grid-column-group>
+            </div>
+            <div class="grid-table-column-header"
+                    #gridColumnGroupContainer>
+                <pm-grid-column-group class="grid-table-columns"
+                                        [ColumnGroups]="RegularColumnGroupings"
+                                        [Grid]="Grid"></pm-grid-column-group>
+            </div>
+        </div>
+        <div class="grid-table-columns-container"
+             [style.height.px]="ColumnHeaderHeight"
+             [style.flex-basis.px]="ColumnHeaderHeight">
+            <div *ngIf="ShowRowNumbers"
+                 class="grid-table-top-left-corner">
+                <div class="grid-table-top-left-inner-corner"></div>
+            </div>
+            <div *ngIf="FrozenColumnCount > 0"
+                  class="grid-table-columns-header-frozen">
+                <pm-grid-column-header 
+                    class="grid-table-columns"
+                    [Columns]="FrozenColumns"
+                    [Grid]="Grid"
+                    [ColumnFocus]="ColumnFocus"></pm-grid-column-header>
+            </div>
+            <div class="grid-table-column-header"
+                 #gridColumnHorizontalContainer>
+                <pm-grid-column-header 
+                    class="grid-table-columns"
+                    [Columns]="RegularColumns"
+                    [Grid]="Grid"
+                    [ColumnFocus]="ColumnFocus"></pm-grid-column-header>
+            </div>
+        </div>
+        <div class="grid-table-row-container"
+             #gridRowVerticalContainer>
+
+            <div class="grid-table-row-count"
+                 *ngIf="ShowRowNumbers"
+                 [style.height.px]="HeightPx">
+                 <pm-grid-rows-count
+                    #gridRowCount
+                    [Rows]="VisibleRows"
+                    [Grid]="Grid"
+                    [RowFocus]="RowFocus"></pm-grid-rows-count>
+            </div>
+
+            <div *ngIf="FrozenColumnCount > 0"
+                 class="grid-table-row-frozen"                         
+                 [style.height.px]="HeightPx"
+                 [style.flex-basis.px]="FrozenColumnWidthPx">
+
+                <pm-grid-rows
+                    #gridFrozenRows
+                    [IsFrozen]="'true'"
+                    [Rows]="VisibleRows"
+                    [SelectedCells]="SelectedCells"
+                    [SelectedRows]="SelectedRows"
+                    [Columns]="FrozenColumns"                    
+                    [Grid]="Grid"
+                    class="grid-table-row"></pm-grid-rows>
+            </div>
+
+            <div class="grid-table-rows"
+                 #gridRowHorizontalContainer
+                 [style.height.px]="HeightPx">
+
+                <pm-grid-rows
+                    #gridRows
+                    [Rows]="VisibleRows"
+                    [SelectedCells]="SelectedCells"
+                    [SelectedRows]="SelectedRows"
+                    [Columns]="RegularColumns"
+                    [Grid]="Grid"
+                    class="grid-table-row"></pm-grid-rows>
+            </div>
+        </div>
+        <div *ngIf="ShowFooter"
+             class="grid-table-columns-container">
+            <div *ngIf="ShowRowNumbers"
+                 class="grid-table-bottom-left-corner">
+                <div class="grid-table-footer-left-inner-corner"></div>
+            </div>
+            <div *ngIf="FrozenColumnCount > 0"
+                 class="grid-table-columns-footer-frozen">
+                <pm-grid-column-footer class="grid-table-columns"
+                                       [Columns]="FrozenColumns"
+                                       [Grid]="Grid"></pm-grid-column-footer>
+            </div>
+            <div class="grid-table-column-footer"
+                 #gridFooterContainer>
+                <pm-grid-column-footer class="grid-table-columns"
+                                       [Columns]="RegularColumns"
+                                       [Grid]="Grid"></pm-grid-column-footer>
+            </div>
+        </div>
+    </div>
+    <div class="grid-table-vertical-shim">
+        <div class="grid-table-top-right-corner">
+            <div class="grid-table-top-right-inner-corner"></div>
+        </div>
+    </div>
+    <div class="grid-table-horizontal-shim">
+        <div class="grid-table-bottom-left-corner">
+            <div class="grid-table-bottom-left-inner-corner"></div>
+        </div>
+        <div class="grid-table-bottom-right-corner">
+            <div class="grid-table-bottom-right-inner-corner"></div>
+        </div>
+    </div>
+    <div class="grid-table-scrollbar-vertical-container"
+         #gridTableScrollbarVerticalContainer
+         (scroll)="onVerticalScroll($event)"
+         [style.top.px]="VerticalScrollbarTopPx"
+         [style.bottom.px]="VerticalScrollbarBottomPx">
+        <div class="grid-table-scrollbar-vertical"
+             [style.height.px]="HeightPx"></div>
+    </div>
+    <div class="grid-table-scrollbar-horizontal-container"
+            #gridTableScrollbarHorizontalContainer>
+        <div class="grid-table-scrollbar-horizontal-action-panel">
+            <div class="grid-table-action-panel">Count: {{Rows.length}}</div>
+            <pm-button-icon 
+                *ngIf="IsDevMode"
+                ButtonClass="button-icon-inline-small"
+                            (click)="showSettings()">
+                <pm-icon-cogs></pm-icon-cogs>
+            </pm-button-icon>
+        </div>
+        <pm-thumb (Resize)="SizeHorizontalScrollbar()" 
+                  ItemOrientation="Horizontal"></pm-thumb>
+        <div class="grid-table-scrollbar-horizontal-scroll-panel"
+             #gridTableScrollbarHorizontalScrollPanel
+                (scroll)="onHorizontalScroll($event)">
+            <div class="grid-table-scrollbar-horizontal"
+                 [style.width.px]="PanelWidthPx"></div>
+        </div>
+    </div>
+    <pm-busy-indicator-overlay-circular
+        *ngIf="IsBusy"
+        [BusyMessage]="BusyMessage">
+    </pm-busy-indicator-overlay-circular>
+</div>
+
+<pm-context-menu #defaultContextMenu AutoSelect>
+    <pm-context-menu-header>Grid</pm-context-menu-header>
+    <pm-context-menu-item (click)="ExportToExcel()">Export to Excel</pm-context-menu-item>
+</pm-context-menu>

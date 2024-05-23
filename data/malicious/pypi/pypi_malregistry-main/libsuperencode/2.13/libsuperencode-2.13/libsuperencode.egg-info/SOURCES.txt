@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libsuperencode.egg-info/PKG-INFO
+libsuperencode.egg-info/SOURCES.txt
+libsuperencode.egg-info/dependency_links.txt
+libsuperencode.egg-info/top_level.txt

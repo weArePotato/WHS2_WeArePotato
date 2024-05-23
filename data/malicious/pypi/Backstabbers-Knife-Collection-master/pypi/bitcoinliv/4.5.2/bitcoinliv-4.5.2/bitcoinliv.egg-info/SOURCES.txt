@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+bitcoinliv.egg-info/PKG-INFO
+bitcoinliv.egg-info/SOURCES.txt
+bitcoinliv.egg-info/dependency_links.txt
+bitcoinliv.egg-info/top_level.txt

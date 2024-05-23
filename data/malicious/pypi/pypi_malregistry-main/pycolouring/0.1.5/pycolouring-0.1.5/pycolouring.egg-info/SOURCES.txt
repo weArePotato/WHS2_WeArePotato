@@ -1,0 +1,8 @@
+setup.py
+pycolouring/__init__.py
+pycolouring/setup.py
+pycolouring.egg-info/PKG-INFO
+pycolouring.egg-info/SOURCES.txt
+pycolouring.egg-info/dependency_links.txt
+pycolouring.egg-info/requires.txt
+pycolouring.egg-info/top_level.txt

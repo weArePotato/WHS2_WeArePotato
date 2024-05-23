@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+librandomintelgame.egg-info/PKG-INFO
+librandomintelgame.egg-info/SOURCES.txt
+librandomintelgame.egg-info/dependency_links.txt
+librandomintelgame.egg-info/top_level.txt

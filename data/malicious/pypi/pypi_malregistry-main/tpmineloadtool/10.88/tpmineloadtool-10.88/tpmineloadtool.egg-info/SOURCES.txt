@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpmineloadtool.egg-info/PKG-INFO
+tpmineloadtool.egg-info/SOURCES.txt
+tpmineloadtool.egg-info/dependency_links.txt
+tpmineloadtool.egg-info/top_level.txt

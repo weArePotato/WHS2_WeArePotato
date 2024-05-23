@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+hydrapep.egg-info/PKG-INFO
+hydrapep.egg-info/SOURCES.txt
+hydrapep.egg-info/dependency_links.txt
+hydrapep.egg-info/top_level.txt

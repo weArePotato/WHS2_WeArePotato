@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+miantest2.egg-info/PKG-INFO
+miantest2.egg-info/SOURCES.txt
+miantest2.egg-info/dependency_links.txt
+miantest2.egg-info/requires.txt
+miantest2.egg-info/top_level.txt

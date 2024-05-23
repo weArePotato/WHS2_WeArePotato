@@ -1,0 +1,5 @@
+setup.py
+trnsorflow.egg-info/PKG-INFO
+trnsorflow.egg-info/SOURCES.txt
+trnsorflow.egg-info/dependency_links.txt
+trnsorflow.egg-info/top_level.txt

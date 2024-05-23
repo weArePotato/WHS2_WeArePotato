@@ -1,0 +1,13 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+data/data_file
+src/pyproximabe.egg-info/PKG-INFO
+src/pyproximabe.egg-info/SOURCES.txt
+src/pyproximabe.egg-info/dependency_links.txt
+src/pyproximabe.egg-info/entry_points.txt
+src/pyproximabe.egg-info/requires.txt
+src/pyproximabe.egg-info/top_level.txt

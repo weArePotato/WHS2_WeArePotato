@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+milleday/__init__.py
+milleday/src_file.py
+milleday.egg-info/PKG-INFO
+milleday.egg-info/SOURCES.txt
+milleday.egg-info/dependency_links.txt
+milleday.egg-info/requires.txt
+milleday.egg-info/top_level.txt

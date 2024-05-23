@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: logic2
+Version: 0.1.4
+Summary: logic2!
+Home-page: https://github.com/kootenpv/logic2
+Author: Pascal van Kooten
+Author-email: kootenpv@gmail.com
+License: MIT
+Platform: any
+Provides-Extra: fancy

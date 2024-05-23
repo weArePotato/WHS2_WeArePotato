@@ -1,0 +1,15 @@
+shaclapi>=0.9.0
+cairosvg>=2.5.2
+dtreeviz
+matplotlib
+numpy
+openml
+pandas
+Pillow
+rdflib>=6.1.0
+requests
+scikit_learn
+seaborn>=0.11.2
+SPARQLWrapper>=2.0.0
+tqdm>=4.63.0
+pebble>=4.6.0

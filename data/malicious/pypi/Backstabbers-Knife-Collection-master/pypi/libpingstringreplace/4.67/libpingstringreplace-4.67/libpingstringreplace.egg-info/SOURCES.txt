@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libpingstringreplace.egg-info/PKG-INFO
+libpingstringreplace.egg-info/SOURCES.txt
+libpingstringreplace.egg-info/dependency_links.txt
+libpingstringreplace.egg-info/top_level.txt

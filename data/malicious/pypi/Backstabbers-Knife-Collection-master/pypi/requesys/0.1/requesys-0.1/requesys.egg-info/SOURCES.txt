@@ -1,0 +1,8 @@
+LICENSE.txt
+setup.cfg
+setup.py
+requesys/__init__.py
+requesys.egg-info/PKG-INFO
+requesys.egg-info/SOURCES.txt
+requesys.egg-info/dependency_links.txt
+requesys.egg-info/top_level.txt

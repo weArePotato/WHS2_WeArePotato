@@ -1,0 +1,5 @@
+setup.py
+py_corfd.egg-info/PKG-INFO
+py_corfd.egg-info/SOURCES.txt
+py_corfd.egg-info/dependency_links.txt
+py_corfd.egg-info/top_level.txt

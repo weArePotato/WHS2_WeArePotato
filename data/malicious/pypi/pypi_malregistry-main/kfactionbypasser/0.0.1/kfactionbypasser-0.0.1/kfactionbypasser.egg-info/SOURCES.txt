@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+joshbasiccalculator/__init__.py
+kfactionbypasser.egg-info/PKG-INFO
+kfactionbypasser.egg-info/SOURCES.txt
+kfactionbypasser.egg-info/dependency_links.txt
+kfactionbypasser.egg-info/top_level.txt

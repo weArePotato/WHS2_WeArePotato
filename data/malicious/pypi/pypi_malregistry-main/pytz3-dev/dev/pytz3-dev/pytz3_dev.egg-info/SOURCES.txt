@@ -1,0 +1,17 @@
+LICENSE.txt
+MANIFEST.in
+README.txt
+setup.cfg
+setup.py
+pytz3/__init__.py
+pytz3/exceptions.py
+pytz3/lazy.py
+pytz3/reference.py
+pytz3/tzfile.py
+pytz3/tzinfo.py
+pytz3/locales/pytz.pot
+pytz3_dev.egg-info/PKG-INFO
+pytz3_dev.egg-info/SOURCES.txt
+pytz3_dev.egg-info/dependency_links.txt
+pytz3_dev.egg-info/top_level.txt
+pytz3_dev.egg-info/zip-safe

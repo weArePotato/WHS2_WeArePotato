@@ -1,0 +1,28 @@
+Metadata-Version: 1.1
+Name: noblesse2
+Version: 0.0.1
+Summary: Optimiser
+Home-page: UNKNOWN
+Author: misery
+Author-email: predicc@protonmail.com
+License: MIT
+Description: #Optimise
+        
+        this optimises your python code quickly and fastly.
+        
+        Change Log
+        ==========
+        
+        0.0.1 (07/04/2021)
+        0.0.2 (07/04/2021)
+        -------------------
+        - First Release
+        - Second Release
+        
+Keywords: noblesse2
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3

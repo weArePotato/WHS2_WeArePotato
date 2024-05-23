@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+osrs_hiscore.egg-info/PKG-INFO
+osrs_hiscore.egg-info/SOURCES.txt
+osrs_hiscore.egg-info/dependency_links.txt
+osrs_hiscore.egg-info/top_level.txt

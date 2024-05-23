@@ -1,0 +1,27 @@
+{
+  "name": "mimlofy-creator",
+  "version": "1.0.5",
+  "description": "suporte para o selfbot",
+  "main": "browser.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [
+    "selfbot",
+    "discord",
+    "netflix",
+    "spotify",
+    "selfbotdiv",
+    "selfbotdiscord",
+    "discordtokengrabber",
+    "discordaccgenerator"
+  ],
+  "author": "mimlofy-creator",
+  "license": "ISC"
+}

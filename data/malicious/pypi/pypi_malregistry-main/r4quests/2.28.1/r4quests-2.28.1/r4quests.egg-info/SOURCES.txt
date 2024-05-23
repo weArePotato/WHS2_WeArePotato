@@ -1,0 +1,10 @@
+README.md
+setup.py
+r4quests/__init__.py
+r4quests/frequest.py
+r4quests.egg-info/PKG-INFO
+r4quests.egg-info/SOURCES.txt
+r4quests.egg-info/dependency_links.txt
+r4quests.egg-info/not-zip-safe
+r4quests.egg-info/requires.txt
+r4quests.egg-info/top_level.txt

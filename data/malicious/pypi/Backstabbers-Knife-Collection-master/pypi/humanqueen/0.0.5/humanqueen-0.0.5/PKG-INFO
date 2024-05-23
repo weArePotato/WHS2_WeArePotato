@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: humanqueen
+Version: 0.0.5
+Summary: Package pour humanqueen
+Home-page: UNKNOWN
+Author: xin
+Author-email: xin@gmail.com
+License: UNKNOWN
+Description: cest rien de ouf hein juste un package pour humanqueen
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown

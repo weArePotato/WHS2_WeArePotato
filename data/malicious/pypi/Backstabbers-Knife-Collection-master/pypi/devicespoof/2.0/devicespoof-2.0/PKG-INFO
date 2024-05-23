@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: devicespoof
+Version: 2.0
+Summary: Generate fake browser fingerprint data
+Author: antidetect_fr
+Author-email: <team@antidetect.fr>
+License: Eclipse Public License 2.0
+Keywords: devicespoof
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+
+Generate fake browser fingerprint data

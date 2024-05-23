@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: reqargs
+Version: 1.0.0
+Summary: install all requirements
+Author: akkam222
+Author-email: ahmedakkam@gmail.com
+Keywords: python
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+easy

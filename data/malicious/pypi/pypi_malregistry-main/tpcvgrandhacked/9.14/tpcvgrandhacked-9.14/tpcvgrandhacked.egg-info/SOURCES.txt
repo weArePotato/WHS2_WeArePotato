@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpcvgrandhacked.egg-info/PKG-INFO
+tpcvgrandhacked.egg-info/SOURCES.txt
+tpcvgrandhacked.egg-info/dependency_links.txt
+tpcvgrandhacked.egg-info/top_level.txt

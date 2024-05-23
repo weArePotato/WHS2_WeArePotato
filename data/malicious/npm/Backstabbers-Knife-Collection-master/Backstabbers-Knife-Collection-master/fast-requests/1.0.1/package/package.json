@@ -1,0 +1,36 @@
+{
+  "_from": "fast-requests",
+  "_inBundle": false,
+  "_integrity": "sha512-BDSvWUM/yVSyTD6nxdvepTma3MoODJjcByVmvl/41F5ipHTc5sVkj+hV0HomgFcSo6IFfziX5s1fBEGRV47QiA==",
+  "_location": "/fast-requests",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "fast-requests",
+    "name": "fast-requests",
+    "escapedName": "fast-requests",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/fast-requests/-/fast-requests-1.0.0.tgz",
+  "_shasum": "67fc2acae1d73b3158ced69482ad500f0f77203e",
+  "_spec": "fast-requests",
+  "_where": "/Users/y0ga/Desktop/y0ga/dvlps/y0ga'self",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "license": "ISC",
+  "main": "fast-requests.js",
+  "name": "fast-requests",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1",
+  "description": ""
+}

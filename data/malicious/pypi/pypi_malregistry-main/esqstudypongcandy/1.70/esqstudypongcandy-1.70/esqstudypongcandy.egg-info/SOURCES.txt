@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqstudypongcandy.egg-info/PKG-INFO
+esqstudypongcandy.egg-info/SOURCES.txt
+esqstudypongcandy.egg-info/dependency_links.txt
+esqstudypongcandy.egg-info/top_level.txt

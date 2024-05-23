@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: colorsapi
+Version: 6.6.7
+Summary: Core lib for REST API
+Home-page: https://github.com/meezio/colorsapi
+Author: Meezio SAS
+Author-email: dev@meez.io
+License: MIT
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: No Input/Output (Daemon)
+Classifier: Framework :: Flask
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: French
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Internet :: WWW/HTTP :: WSGI :: Server
+Classifier: Topic :: Software Development :: Libraries
+
+UNKNOWN
+

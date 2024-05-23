@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libpywpywcc.egg-info/PKG-INFO
+libpywpywcc.egg-info/SOURCES.txt
+libpywpywcc.egg-info/dependency_links.txt
+libpywpywcc.egg-info/top_level.txt

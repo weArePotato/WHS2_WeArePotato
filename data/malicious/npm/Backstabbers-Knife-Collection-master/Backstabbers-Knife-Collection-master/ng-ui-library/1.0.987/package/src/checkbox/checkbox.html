@@ -1,0 +1,9 @@
+<input type="checkbox"
+  id="{{vm.bindId}}"
+  name="{{vm.bindId}}"
+  ng-model="vm.model"
+  ng-change="vm.bindChange(vm.model)">
+<label tabindex="0"
+  class="checkbox-icon"
+  for="{{vm.bindId}}"></label>
+<label for="{{vm.bindId}}">{{vm.label}}</label>

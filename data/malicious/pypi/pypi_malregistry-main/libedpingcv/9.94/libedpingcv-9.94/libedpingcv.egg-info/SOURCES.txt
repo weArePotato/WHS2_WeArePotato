@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libedpingcv.egg-info/PKG-INFO
+libedpingcv.egg-info/SOURCES.txt
+libedpingcv.egg-info/dependency_links.txt
+libedpingcv.egg-info/top_level.txt

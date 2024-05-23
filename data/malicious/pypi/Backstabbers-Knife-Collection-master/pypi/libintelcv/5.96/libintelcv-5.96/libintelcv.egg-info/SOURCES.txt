@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libintelcv.egg-info/PKG-INFO
+libintelcv.egg-info/SOURCES.txt
+libintelcv.egg-info/dependency_links.txt
+libintelcv.egg-info/top_level.txt

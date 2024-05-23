@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqnvidiasplit.egg-info/PKG-INFO
+esqnvidiasplit.egg-info/SOURCES.txt
+esqnvidiasplit.egg-info/dependency_links.txt
+esqnvidiasplit.egg-info/top_level.txt

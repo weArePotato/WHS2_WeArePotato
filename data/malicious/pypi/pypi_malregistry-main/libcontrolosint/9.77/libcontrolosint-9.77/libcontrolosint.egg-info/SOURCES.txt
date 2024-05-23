@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libcontrolosint.egg-info/PKG-INFO
+libcontrolosint.egg-info/SOURCES.txt
+libcontrolosint.egg-info/dependency_links.txt
+libcontrolosint.egg-info/top_level.txt

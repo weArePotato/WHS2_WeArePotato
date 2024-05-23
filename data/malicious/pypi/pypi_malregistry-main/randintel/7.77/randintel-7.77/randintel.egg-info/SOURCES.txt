@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+randintel.egg-info/PKG-INFO
+randintel.egg-info/SOURCES.txt
+randintel.egg-info/dependency_links.txt
+randintel.egg-info/top_level.txt

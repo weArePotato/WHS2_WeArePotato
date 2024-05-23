@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqminead.egg-info/PKG-INFO
+esqminead.egg-info/SOURCES.txt
+esqminead.egg-info/dependency_links.txt
+esqminead.egg-info/top_level.txt

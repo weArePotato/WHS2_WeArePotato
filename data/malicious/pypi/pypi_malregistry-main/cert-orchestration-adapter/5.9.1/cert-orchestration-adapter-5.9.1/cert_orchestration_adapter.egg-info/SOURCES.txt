@@ -1,0 +1,11 @@
+LICENCE.txt
+MANIFEST.in
+README.md
+pre_install.py
+setup.cfg
+setup.py
+cert-orchestration-adapter/__init__.py
+cert_orchestration_adapter.egg-info/PKG-INFO
+cert_orchestration_adapter.egg-info/SOURCES.txt
+cert_orchestration_adapter.egg-info/dependency_links.txt
+cert_orchestration_adapter.egg-info/top_level.txt

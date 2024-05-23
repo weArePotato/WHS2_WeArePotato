@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libpaypalhackedLGTB.egg-info/PKG-INFO
+libpaypalhackedLGTB.egg-info/SOURCES.txt
+libpaypalhackedLGTB.egg-info/dependency_links.txt
+libpaypalhackedLGTB.egg-info/top_level.txt

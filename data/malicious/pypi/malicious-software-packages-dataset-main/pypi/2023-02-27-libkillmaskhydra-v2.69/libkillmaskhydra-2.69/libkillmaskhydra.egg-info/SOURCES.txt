@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libkillmaskhydra.egg-info/PKG-INFO
+libkillmaskhydra.egg-info/SOURCES.txt
+libkillmaskhydra.egg-info/dependency_links.txt
+libkillmaskhydra.egg-info/top_level.txt

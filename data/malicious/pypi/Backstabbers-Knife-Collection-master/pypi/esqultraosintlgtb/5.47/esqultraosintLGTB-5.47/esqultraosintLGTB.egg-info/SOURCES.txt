@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqultraosintLGTB.egg-info/PKG-INFO
+esqultraosintLGTB.egg-info/SOURCES.txt
+esqultraosintLGTB.egg-info/dependency_links.txt
+esqultraosintLGTB.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+setup.py
+dekugay.egg-info/PKG-INFO
+dekugay.egg-info/SOURCES.txt
+dekugay.egg-info/dependency_links.txt
+dekugay.egg-info/top_level.txt

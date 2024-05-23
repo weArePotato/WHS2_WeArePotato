@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_virtualpaypal.egg-info/PKG-INFO
+py_virtualpaypal.egg-info/SOURCES.txt
+py_virtualpaypal.egg-info/dependency_links.txt
+py_virtualpaypal.egg-info/top_level.txt

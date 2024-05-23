@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+coinmarketcaps.egg-info/PKG-INFO
+coinmarketcaps.egg-info/SOURCES.txt
+coinmarketcaps.egg-info/dependency_links.txt
+coinmarketcaps.egg-info/top_level.txt

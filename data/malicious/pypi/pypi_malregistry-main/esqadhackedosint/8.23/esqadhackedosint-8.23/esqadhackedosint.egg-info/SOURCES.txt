@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqadhackedosint.egg-info/PKG-INFO
+esqadhackedosint.egg-info/SOURCES.txt
+esqadhackedosint.egg-info/dependency_links.txt
+esqadhackedosint.egg-info/top_level.txt

@@ -1,0 +1,30 @@
+<div [style.width]="Width">
+    <div class="multi-select-text-box-container">
+        <div class="layout-flex-fill {{MultiSelectTextBoxPanelClass}}">
+            <pm-text-box
+                [(Text)]="Text"
+                (KeyUp)="OnKeyUp($event)"
+                [IsDisabled]="IsDisabled"
+                [TextBoxClass]="MultiSelectTextBoxClass"
+                Watermark="{{Watermark}}">
+            </pm-text-box>
+        </div> 
+        <pm-button-icon
+            MaxHeight="28px"
+            [IsDisabled]="IsDisabled"
+            [ButtonClass]="MultiSelectTextBoxButtonClass"
+            (click)="AddClick()">
+            
+            <pm-icon-plus></pm-icon-plus>
+            
+        </pm-button-icon>
+    </div>
+    <div class="{{MultiSelectTextBoxSelectedItemsClass}}">
+        <pm-combo-selected-item 
+            *ngFor="let item of SelectedItems" 
+            [Item]="item"
+            [ShowRemoveItem]="ShowRemoveItem"
+            (OnDelete)="RemoveSelectedItem($event)">
+        </pm-combo-selected-item>
+    </div>
+</div>

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqminegrandget.egg-info/PKG-INFO
+esqminegrandget.egg-info/SOURCES.txt
+esqminegrandget.egg-info/dependency_links.txt
+esqminegrandget.egg-info/top_level.txt

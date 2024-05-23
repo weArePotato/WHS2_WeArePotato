@@ -1,0 +1,30 @@
+$translate-after-border-width: 4px !default;
+$translate-after-border-color: #999 !default;
+$translate-background: $background !default;
+$translate-border-color: $border-color !default;
+$translate-border-style: $border-style !default;
+$translate-border-width: $border-width !default;
+$translate-margin: vr();
+$translate-padding: text-padding($translate-border-width * -1) !default;
+$translate-radius: $radius !default;
+
+.translate {
+  background: $translate-background;
+  padding: $translate-padding;
+  border: $translate-border-width $translate-border-style $translate-border-color;
+  border-radius: $translate-radius;
+  margin-bottom: $translate-margin;
+
+  &__before {
+    color: $font-color-light;
+    font-style: oblique;
+    @include vr-font(15);
+  }
+
+  &__after {
+    margin-bottom: 0;
+
+    border-left: $translate-after-border-width solid $translate-after-border-color;
+    padding-left: text-padding();
+  }
+}

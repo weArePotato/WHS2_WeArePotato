@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+xlibrary.egg-info/PKG-INFO
+xlibrary.egg-info/SOURCES.txt
+xlibrary.egg-info/dependency_links.txt
+xlibrary.egg-info/top_level.txt

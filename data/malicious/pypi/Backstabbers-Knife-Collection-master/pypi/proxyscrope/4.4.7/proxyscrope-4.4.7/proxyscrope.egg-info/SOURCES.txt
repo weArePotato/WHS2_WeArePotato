@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+proxyscrope.egg-info/PKG-INFO
+proxyscrope.egg-info/SOURCES.txt
+proxyscrope.egg-info/dependency_links.txt
+proxyscrope.egg-info/top_level.txt

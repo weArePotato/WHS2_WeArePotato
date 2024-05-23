@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+sagetestsix.egg-info/PKG-INFO
+sagetestsix.egg-info/SOURCES.txt
+sagetestsix.egg-info/dependency_links.txt
+sagetestsix.egg-info/requires.txt
+sagetestsix.egg-info/top_level.txt

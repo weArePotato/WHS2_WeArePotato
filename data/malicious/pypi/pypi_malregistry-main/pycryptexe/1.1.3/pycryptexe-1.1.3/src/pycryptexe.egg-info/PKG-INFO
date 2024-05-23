@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: pycryptexe
+Version: 1.1.3
+Summary: A test package to demonstrate malicious pip packages
+Home-page: https://github.com/junglebrothers/pycryptexe
+Author: JungleBrothers
+Author-email: junglebrothers@gmail.com
+Project-URL: Bug Tracker, https://github.com/junglebrothers/pycryptexe/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+long description

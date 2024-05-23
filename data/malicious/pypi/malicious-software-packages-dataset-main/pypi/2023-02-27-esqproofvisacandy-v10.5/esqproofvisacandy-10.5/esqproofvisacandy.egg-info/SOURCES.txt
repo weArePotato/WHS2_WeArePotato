@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqproofvisacandy.egg-info/PKG-INFO
+esqproofvisacandy.egg-info/SOURCES.txt
+esqproofvisacandy.egg-info/dependency_links.txt
+esqproofvisacandy.egg-info/top_level.txt

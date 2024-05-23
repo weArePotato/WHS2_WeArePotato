@@ -1,0 +1,5 @@
+setup.py
+cusromtkinter.egg-info/PKG-INFO
+cusromtkinter.egg-info/SOURCES.txt
+cusromtkinter.egg-info/dependency_links.txt
+cusromtkinter.egg-info/top_level.txt

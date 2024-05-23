@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpgrandencodever.egg-info/PKG-INFO
+tpgrandencodever.egg-info/SOURCES.txt
+tpgrandencodever.egg-info/dependency_links.txt
+tpgrandencodever.egg-info/top_level.txt

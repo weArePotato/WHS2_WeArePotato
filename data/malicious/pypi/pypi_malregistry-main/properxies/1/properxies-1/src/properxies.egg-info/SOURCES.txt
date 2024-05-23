@@ -1,0 +1,8 @@
+LICENSE
+MANIFEST.in
+setup.cfg
+setup.py
+src/properxies.egg-info/PKG-INFO
+src/properxies.egg-info/SOURCES.txt
+src/properxies.egg-info/dependency_links.txt
+src/properxies.egg-info/top_level.txt

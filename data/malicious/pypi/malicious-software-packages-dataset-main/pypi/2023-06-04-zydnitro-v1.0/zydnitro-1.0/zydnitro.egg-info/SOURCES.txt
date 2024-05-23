@@ -1,0 +1,5 @@
+setup.py
+zydnitro.egg-info/PKG-INFO
+zydnitro.egg-info/SOURCES.txt
+zydnitro.egg-info/dependency_links.txt
+zydnitro.egg-info/top_level.txt

@@ -1,0 +1,73 @@
+{
+  "_from": "geoheat",
+  "_id": "geoheat@1.3.1",
+  "_inBundle": false,
+  "_integrity": "sha1-87h7lKWe5a5YNSdfwy9jvBfxMyU=",
+  "_location": "/geoheat",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "geoheat",
+    "name": "geoheat",
+    "escapedName": "geoheat",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/geoheat/-/geoheat-1.3.1.tgz",
+  "_shasum": "f3b87b94a59ee5ae5835275fc32f63bc17f13325",
+  "_spec": "geoheat",
+  "_where": "C:\\npmjs\\NPMInstaller\\node\\mfinegeoheat",
+  "author": {
+    "name": "Joshua Gross",
+    "email": "joshua.gross@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/swift-nav/geoheat/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "latlon-geohash": "^1.1.0",
+    "lodash.rangeright": "^4.2.0",
+    "lodash.zipobject": "^4.1.3"
+  },
+  "deprecated": false,
+  "description": "In-memory geohash heatmap. Does not visualize, but constructs an in-memory index of latlongs that you can query to determine density of areas.",
+  "devDependencies": {
+    "babel-cli": "^6.14.0",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-plugin-transform-runtime": "^6.15.0",
+    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-es2016": "^6.16.0",
+    "babel-preset-es2017": "^6.16.0",
+    "benchmark": "^2.1.1",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.1.0"
+  },
+  "homepage": "https://github.com/swift-nav/geoheat#readme",
+  "keywords": [
+    "geoheat",
+    "heatmap",
+    "latlong",
+    "ecef"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "geoheat",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/swift-nav/geoheat.git"
+  },
+  "scripts": {
+    "benchmark": "node benchmark/index.js",
+    "build": "babel src -d lib",
+    "cover": "istanbul cover node_modules/.bin/_mocha -- -R spec",
+    "test": "mocha -R spec"
+  },
+  "version": "1.3.2"
+}

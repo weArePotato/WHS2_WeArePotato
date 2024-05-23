@@ -1,0 +1,7 @@
+setup.py
+src/SwiftyPy/__init__.py
+src/SwiftyPy/average.py
+src/feur.egg-info/PKG-INFO
+src/feur.egg-info/SOURCES.txt
+src/feur.egg-info/dependency_links.txt
+src/feur.egg-info/top_level.txt

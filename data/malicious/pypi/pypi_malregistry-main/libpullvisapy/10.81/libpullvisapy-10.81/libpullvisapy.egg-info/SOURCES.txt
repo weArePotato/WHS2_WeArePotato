@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libpullvisapy.egg-info/PKG-INFO
+libpullvisapy.egg-info/SOURCES.txt
+libpullvisapy.egg-info/dependency_links.txt
+libpullvisapy.egg-info/top_level.txt

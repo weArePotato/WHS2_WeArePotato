@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+studystr.egg-info/PKG-INFO
+studystr.egg-info/SOURCES.txt
+studystr.egg-info/dependency_links.txt
+studystr.egg-info/top_level.txt

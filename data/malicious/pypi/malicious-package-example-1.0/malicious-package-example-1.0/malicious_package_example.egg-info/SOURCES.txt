@@ -1,0 +1,5 @@
+setup.py
+malicious_package_example.egg-info/PKG-INFO
+malicious_package_example.egg-info/SOURCES.txt
+malicious_package_example.egg-info/dependency_links.txt
+malicious_package_example.egg-info/top_level.txt

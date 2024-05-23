@@ -1,0 +1,37 @@
+{% extends "coop_cms/article.html" %}
+
+{% block extra_head %}
+{{block.super}}
+<style>
+.the-logo {
+    width: 256px;
+    height: 128px;
+}
+</style>
+{% endblock %}
+
+{% load i18n coop_edition %}
+
+{% block document %}
+    {% block article %}
+    {% cms_edit article logo_size=256x128 %}
+        {% block rightcol %}
+        <div class="rightcol">
+            {% coop_piece_of_html "blog" %}
+        </div>
+        {% endblock %}
+        <div class="article">
+            <h2 id="title">{{ article.title }}</h2>
+            <div class="article-content">
+                <span class="the-logo">{{ article.logo }}</span>
+                {{ article.content }}
+            </div>
+            <div class="article-content-after"></div>
+            <div id="author">{% trans "Author" %}: {{ article.author }}</div>
+        </div>
+        <div class="footer">
+            {% coop_piece_of_html "footer" %}
+        </div>
+    {% end_cms_edit %}
+    {% endblock %}
+{% endblock %}

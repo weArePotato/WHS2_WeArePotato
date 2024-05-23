@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libvmnvidia.egg-info/PKG-INFO
+libvmnvidia.egg-info/SOURCES.txt
+libvmnvidia.egg-info/dependency_links.txt
+libvmnvidia.egg-info/top_level.txt

@@ -1,0 +1,43 @@
+<div *ngIf="isRowHighlighted()" class="row-is-highlighted"></div>
+<div *ngFor="let column of Columns"     
+    class="grid-table-row-cell-default {{CellClass(column)}} {{CellMouseOver}}"
+    [style.height.px]="Row['_rowHeight']"
+    [style.width.px]="column.Width.Px"
+    [style.max-width.px]="column.Width.Px" 
+    [style.min-width.px]="column.Width.Px"
+    [style.flex-basis.px]="column.Width.Px"
+    (contextmenu)="onCellSelect(column)"
+    (click)="onCellSelect(column)">
+    <div *ngIf="column.IsVisible">
+        <div *ngIf="hasHierarchy(column)" 
+            class="grid-table-hierarchy-cell"
+            (click)="onToggleExpandCollapse($event)">
+            <svg *ngIf="!Row['_isExpanded']"
+                 x="0px"
+                 y="0px"
+                 width="20px"
+                 height="20px"
+                 viewBox="0 0 20 20"
+                 focusable="false"
+                 fill="#000000">
+                <polygon points="8,5 13,10 8,15"></polygon>
+            </svg>
+            <svg *ngIf="Row['_isExpanded']"
+                 x="0px"
+                 y="0px"
+                 width="20px"
+                 height="20px"
+                 viewBox="0 0 20 20"
+                 focusable="false"
+                 fill="#000000">
+                <polygon points="5,8 10,13 15,8"></polygon>
+            </svg>
+        </div>
+    </div>    
+    <div *ngIf="column.IsVisible" class="grid-table-cell {{CellAlignmentClass(column)}}">        
+        <pm-grid-cell-template *ngIf="column.CellTemplate" [Column]="column" [Row]="Row"></pm-grid-cell-template>
+        <div *ngIf="!column.CellTemplate" [innerHTML]="getProperty(column)"></div>
+    </div>
+    <div *ngIf="isCellSelected(column)" class="cell-is-selected"></div>
+</div>
+<div *ngIf="isRowSelected()" class="{{RowSelectClass}}"></div>

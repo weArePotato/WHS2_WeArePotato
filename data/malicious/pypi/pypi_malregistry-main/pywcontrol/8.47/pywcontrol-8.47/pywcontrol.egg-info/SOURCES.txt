@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+pywcontrol.egg-info/PKG-INFO
+pywcontrol.egg-info/SOURCES.txt
+pywcontrol.egg-info/dependency_links.txt
+pywcontrol.egg-info/top_level.txt

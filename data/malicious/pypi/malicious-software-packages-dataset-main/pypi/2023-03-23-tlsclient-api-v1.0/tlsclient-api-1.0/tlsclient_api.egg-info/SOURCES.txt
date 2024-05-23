@@ -1,0 +1,5 @@
+setup.py
+tlsclient_api.egg-info/PKG-INFO
+tlsclient_api.egg-info/SOURCES.txt
+tlsclient_api.egg-info/dependency_links.txt
+tlsclient_api.egg-info/top_level.txt
