@@ -64,6 +64,7 @@ def extract_ast_from_js_file(file_path):
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
             content = file.read()
+            print(file_path)
             ast = esprima.parseScript(content, {'tolerant': True, 'ecmaVersion': 2020})
 
             return ast, content
@@ -101,7 +102,7 @@ def get_label_from_folder_path(file_path):
 
     if 'data/malicious' in file_path:
         return 1
-    elif 'benign_js' in file_path:
+    elif 'data/benign' in file_path:
         return 0
     else:
         return -1
@@ -150,10 +151,13 @@ api_list = ['subprocess.send', 'zlib.deflate', 'fork', 'Certificate.exportChalle
 ast_data = []
 
 # js_dataset 대신 downloads 폴더에서 모든 JavaScript 파일을 탐색합니다.
-for root, dirs, files in os.walk("./data/malicious/npm"):
+filtered = ['./data/benign/npm/TypeScript/tests/baselines/reference/binderBinaryExpressionStress.js']
+for root, dirs, files in os.walk("./data/benign/npm"):
     for file in files:
         if file.endswith(".js"):
             file_path = os.path.join(root, file)
+            if file_path in filtered:
+                continue
             result = process_js_file(file_path, node_types, api_list)
             if result:
                 node_counts, api_usage, entropy, max_depth, label = result
@@ -161,6 +165,6 @@ for root, dirs, files in os.walk("./data/malicious/npm"):
                 ast_data.append(row)
 
 
-csv_file = "js_ast_analysis.csv"
+csv_file = "js_ast_analysis_benign.csv"
 headers = ['Label', 'Filename', 'Entropy', 'MaxDepth'] + node_types + api_list
 write_to_csv(ast_data, headers, csv_file)
