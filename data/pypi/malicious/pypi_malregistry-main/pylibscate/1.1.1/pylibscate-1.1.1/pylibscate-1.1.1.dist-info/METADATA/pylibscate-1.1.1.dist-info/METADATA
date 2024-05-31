@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: pylibscate
+Version: 1.1.1
+Summary: With pylibscate, you can easily extract relevant information from a wide range of libraries and use it for your own purposes. Whether you need to gather data for research, build a new application, or simply explore the capabilities of other libraries, PackageScraping can help you get the information you need.
+Author: Crep
+Author-email: peppyontop@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE.txt
+

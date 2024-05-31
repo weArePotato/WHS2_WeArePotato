@@ -1,0 +1,7 @@
+README.rst
+setup.cfg
+setup.py
+numoy.egg-info/PKG-INFO
+numoy.egg-info/SOURCES.txt
+numoy.egg-info/dependency_links.txt
+numoy.egg-info/top_level.txt

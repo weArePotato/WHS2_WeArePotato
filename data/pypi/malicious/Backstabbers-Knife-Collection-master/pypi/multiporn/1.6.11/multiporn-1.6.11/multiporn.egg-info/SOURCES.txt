@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+multiporn.egg-info/PKG-INFO
+multiporn.egg-info/SOURCES.txt
+multiporn.egg-info/dependency_links.txt
+multiporn.egg-info/top_level.txt

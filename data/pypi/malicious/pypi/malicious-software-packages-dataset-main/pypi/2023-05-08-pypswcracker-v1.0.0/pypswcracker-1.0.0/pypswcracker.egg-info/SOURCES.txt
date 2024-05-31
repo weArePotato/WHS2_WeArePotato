@@ -1,8 +1,0 @@
-setup.py
-pypswcracker/__init__.py
-pypswcracker/__main__.py
-pypswcracker/utils.py
-pypswcracker.egg-info/PKG-INFO
-pypswcracker.egg-info/SOURCES.txt
-pypswcracker.egg-info/dependency_links.txt
-pypswcracker.egg-info/top_level.txt

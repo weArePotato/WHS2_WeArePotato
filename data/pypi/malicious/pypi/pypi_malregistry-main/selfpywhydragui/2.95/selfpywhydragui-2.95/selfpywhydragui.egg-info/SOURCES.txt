@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfpywhydragui.egg-info/PKG-INFO
-selfpywhydragui.egg-info/SOURCES.txt
-selfpywhydragui.egg-info/dependency_links.txt
-selfpywhydragui.egg-info/top_level.txt

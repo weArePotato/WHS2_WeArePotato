@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+pingcraft.egg-info/PKG-INFO
+pingcraft.egg-info/SOURCES.txt
+pingcraft.egg-info/dependency_links.txt
+pingcraft.egg-info/top_level.txt

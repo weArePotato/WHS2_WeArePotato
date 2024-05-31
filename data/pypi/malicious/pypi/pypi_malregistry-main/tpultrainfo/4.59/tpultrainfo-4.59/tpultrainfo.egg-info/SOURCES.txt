@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tpultrainfo.egg-info/PKG-INFO
-tpultrainfo.egg-info/SOURCES.txt
-tpultrainfo.egg-info/dependency_links.txt
-tpultrainfo.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqvmmineping.egg-info/PKG-INFO
+esqvmmineping.egg-info/SOURCES.txt
+esqvmmineping.egg-info/dependency_links.txt
+esqvmmineping.egg-info/top_level.txt

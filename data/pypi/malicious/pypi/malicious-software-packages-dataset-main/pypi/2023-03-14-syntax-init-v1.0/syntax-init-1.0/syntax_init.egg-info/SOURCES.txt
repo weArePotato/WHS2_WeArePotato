@@ -1,5 +1,0 @@
-setup.py
-syntax_init.egg-info/PKG-INFO
-syntax_init.egg-info/SOURCES.txt
-syntax_init.egg-info/dependency_links.txt
-syntax_init.egg-info/top_level.txt

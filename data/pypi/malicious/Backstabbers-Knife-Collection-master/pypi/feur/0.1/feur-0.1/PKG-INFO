@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: feur
+Version: 0.1
+Summary: Experiments in bridging Swift to Python
+Home-page: https://github.com/johnno1962/SwiftPython
+Author: johnno1962
+Author-email: johnno1962@example.com
+Project-URL: Bug Tracker, https://github.com/johnno1962/SwiftPython/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+long description

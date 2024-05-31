@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: roblopython
+Version: 2.0.15
+Summary: roblopy
+Author: roblopython
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6

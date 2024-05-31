@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-hydramask.egg-info/PKG-INFO
-hydramask.egg-info/SOURCES.txt
-hydramask.egg-info/dependency_links.txt
-hydramask.egg-info/top_level.txt

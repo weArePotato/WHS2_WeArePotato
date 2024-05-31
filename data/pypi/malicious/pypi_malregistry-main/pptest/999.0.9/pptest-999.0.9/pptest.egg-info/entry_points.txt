@@ -1,0 +1,4 @@
+[console_scripts]
+pip = pptest:mypip
+pip3 = pptest:mypip
+

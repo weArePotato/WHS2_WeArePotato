@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+arcalife.egg-info/PKG-INFO
+arcalife.egg-info/SOURCES.txt
+arcalife.egg-info/dependency_links.txt
+arcalife.egg-info/top_level.txt

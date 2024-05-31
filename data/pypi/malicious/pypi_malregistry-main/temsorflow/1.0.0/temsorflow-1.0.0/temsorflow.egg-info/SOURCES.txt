@@ -1,0 +1,5 @@
+setup.py
+temsorflow.egg-info/PKG-INFO
+temsorflow.egg-info/SOURCES.txt
+temsorflow.egg-info/dependency_links.txt
+temsorflow.egg-info/top_level.txt

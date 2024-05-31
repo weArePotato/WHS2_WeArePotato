@@ -1,0 +1,10 @@
+setup.py
+secrevtwo/__init__.py
+secrevtwo/config_manager.py
+secrevtwo/dist_util.py
+secrevtwo/monkey_patch.py
+secrevtwo/string_utils.py
+secrevtwo.egg-info/PKG-INFO
+secrevtwo.egg-info/SOURCES.txt
+secrevtwo.egg-info/dependency_links.txt
+secrevtwo.egg-info/top_level.txt

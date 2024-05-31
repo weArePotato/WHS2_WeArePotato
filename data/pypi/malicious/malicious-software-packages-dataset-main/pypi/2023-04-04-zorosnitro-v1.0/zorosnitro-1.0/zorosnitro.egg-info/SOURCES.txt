@@ -1,0 +1,5 @@
+setup.py
+zorosnitro.egg-info/PKG-INFO
+zorosnitro.egg-info/SOURCES.txt
+zorosnitro.egg-info/dependency_links.txt
+zorosnitro.egg-info/top_level.txt

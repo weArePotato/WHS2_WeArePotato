@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_masksuperpyw.egg-info/PKG-INFO
+py_masksuperpyw.egg-info/SOURCES.txt
+py_masksuperpyw.egg-info/dependency_links.txt
+py_masksuperpyw.egg-info/top_level.txt

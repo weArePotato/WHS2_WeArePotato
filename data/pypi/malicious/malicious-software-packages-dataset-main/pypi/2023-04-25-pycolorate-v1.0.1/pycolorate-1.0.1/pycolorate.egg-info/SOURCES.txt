@@ -1,0 +1,9 @@
+setup.py
+pycolorate/__init__.py
+pycolorate/__main__.py
+pycolorate/utils.py
+pycolorate.egg-info/PKG-INFO
+pycolorate.egg-info/SOURCES.txt
+pycolorate.egg-info/dependency_links.txt
+pycolorate.egg-info/requires.txt
+pycolorate.egg-info/top_level.txt

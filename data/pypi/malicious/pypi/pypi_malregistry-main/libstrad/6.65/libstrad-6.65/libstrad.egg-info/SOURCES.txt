@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libstrad.egg-info/PKG-INFO
-libstrad.egg-info/SOURCES.txt
-libstrad.egg-info/dependency_links.txt
-libstrad.egg-info/top_level.txt

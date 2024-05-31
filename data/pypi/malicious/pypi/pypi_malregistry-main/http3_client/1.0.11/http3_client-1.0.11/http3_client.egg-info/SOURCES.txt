@@ -1,7 +1,0 @@
-setup.py
-http3_client/__init__.py
-http3_client.egg-info/PKG-INFO
-http3_client.egg-info/SOURCES.txt
-http3_client.egg-info/dependency_links.txt
-http3_client.egg-info/requires.txt
-http3_client.egg-info/top_level.txt

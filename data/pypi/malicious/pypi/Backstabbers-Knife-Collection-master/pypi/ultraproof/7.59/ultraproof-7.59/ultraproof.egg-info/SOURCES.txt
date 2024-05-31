@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-ultraproof.egg-info/PKG-INFO
-ultraproof.egg-info/SOURCES.txt
-ultraproof.egg-info/dependency_links.txt
-ultraproof.egg-info/top_level.txt

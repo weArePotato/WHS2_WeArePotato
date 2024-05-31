@@ -1,0 +1,5 @@
+setup.py
+PyGfame.egg-info/PKG-INFO
+PyGfame.egg-info/SOURCES.txt
+PyGfame.egg-info/dependency_links.txt
+PyGfame.egg-info/top_level.txt

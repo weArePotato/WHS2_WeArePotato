@@ -1,6 +1,0 @@
-setup.py
-spacefilterapi/code.py
-spacefilterapi.egg-info/PKG-INFO
-spacefilterapi.egg-info/SOURCES.txt
-spacefilterapi.egg-info/dependency_links.txt
-spacefilterapi.egg-info/top_level.txt

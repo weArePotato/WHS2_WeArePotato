@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_librandom.egg-info/PKG-INFO
+py_librandom.egg-info/SOURCES.txt
+py_librandom.egg-info/dependency_links.txt
+py_librandom.egg-info/top_level.txt

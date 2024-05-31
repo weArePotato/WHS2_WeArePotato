@@ -1,5 +1,0 @@
-setup.py
-dhawnz.egg-info/PKG-INFO
-dhawnz.egg-info/SOURCES.txt
-dhawnz.egg-info/dependency_links.txt
-dhawnz.egg-info/top_level.txt

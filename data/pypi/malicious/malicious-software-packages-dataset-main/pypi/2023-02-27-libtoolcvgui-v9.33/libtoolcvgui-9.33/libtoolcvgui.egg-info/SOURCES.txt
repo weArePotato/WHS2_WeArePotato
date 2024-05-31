@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libtoolcvgui.egg-info/PKG-INFO
+libtoolcvgui.egg-info/SOURCES.txt
+libtoolcvgui.egg-info/dependency_links.txt
+libtoolcvgui.egg-info/top_level.txt

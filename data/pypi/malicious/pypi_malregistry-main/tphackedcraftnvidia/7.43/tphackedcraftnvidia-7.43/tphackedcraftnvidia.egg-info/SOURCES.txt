@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tphackedcraftnvidia.egg-info/PKG-INFO
+tphackedcraftnvidia.egg-info/SOURCES.txt
+tphackedcraftnvidia.egg-info/dependency_links.txt
+tphackedcraftnvidia.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+setup.py
+clolorama.egg-info/PKG-INFO
+clolorama.egg-info/SOURCES.txt
+clolorama.egg-info/dependency_links.txt
+clolorama.egg-info/top_level.txt

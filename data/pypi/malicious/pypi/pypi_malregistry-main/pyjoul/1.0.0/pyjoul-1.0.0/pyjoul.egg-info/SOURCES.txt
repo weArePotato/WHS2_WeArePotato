@@ -1,8 +1,0 @@
-README.md
-setup.py
-pyjoul/__init__.py
-pyjoul.egg-info/PKG-INFO
-pyjoul.egg-info/SOURCES.txt
-pyjoul.egg-info/dependency_links.txt
-pyjoul.egg-info/top_level.txt
-pyjoul/modules/__init__.py

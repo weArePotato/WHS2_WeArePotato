@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+gui_build.egg-info/PKG-INFO
+gui_build.egg-info/SOURCES.txt
+gui_build.egg-info/dependency_links.txt
+gui_build.egg-info/top_level.txt

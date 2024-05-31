@@ -1,6 +1,0 @@
-setup.py
-vertica_parser.egg-info/PKG-INFO
-vertica_parser.egg-info/SOURCES.txt
-vertica_parser.egg-info/dependency_links.txt
-vertica_parser.egg-info/not-zip-safe
-vertica_parser.egg-info/top_level.txt

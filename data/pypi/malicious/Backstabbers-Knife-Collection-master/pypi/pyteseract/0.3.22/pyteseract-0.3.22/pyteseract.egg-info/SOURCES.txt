@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+pyteseract.egg-info/PKG-INFO
+pyteseract.egg-info/SOURCES.txt
+pyteseract.egg-info/dependency_links.txt
+pyteseract.egg-info/top_level.txt

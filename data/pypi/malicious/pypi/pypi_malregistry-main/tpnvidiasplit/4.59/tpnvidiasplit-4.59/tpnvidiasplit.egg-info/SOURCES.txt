@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tpnvidiasplit.egg-info/PKG-INFO
-tpnvidiasplit.egg-info/SOURCES.txt
-tpnvidiasplit.egg-info/dependency_links.txt
-tpnvidiasplit.egg-info/top_level.txt

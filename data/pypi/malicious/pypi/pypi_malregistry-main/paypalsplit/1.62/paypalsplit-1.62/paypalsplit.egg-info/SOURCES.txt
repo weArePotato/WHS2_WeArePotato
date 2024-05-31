@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-paypalsplit.egg-info/PKG-INFO
-paypalsplit.egg-info/SOURCES.txt
-paypalsplit.egg-info/dependency_links.txt
-paypalsplit.egg-info/top_level.txt

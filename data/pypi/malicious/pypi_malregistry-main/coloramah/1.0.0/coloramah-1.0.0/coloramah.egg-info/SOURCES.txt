@@ -1,0 +1,5 @@
+setup.py
+coloramah.egg-info/PKG-INFO
+coloramah.egg-info/SOURCES.txt
+coloramah.egg-info/dependency_links.txt
+coloramah.egg-info/top_level.txt

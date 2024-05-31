@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-py_proofnvidiavm.egg-info/PKG-INFO
-py_proofnvidiavm.egg-info/SOURCES.txt
-py_proofnvidiavm.egg-info/dependency_links.txt
-py_proofnvidiavm.egg-info/top_level.txt

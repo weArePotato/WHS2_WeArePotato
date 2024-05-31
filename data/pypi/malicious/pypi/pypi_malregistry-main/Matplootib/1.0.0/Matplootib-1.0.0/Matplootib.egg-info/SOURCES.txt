@@ -1,5 +1,0 @@
-setup.py
-Matplootib.egg-info/PKG-INFO
-Matplootib.egg-info/SOURCES.txt
-Matplootib.egg-info/dependency_links.txt
-Matplootib.egg-info/top_level.txt

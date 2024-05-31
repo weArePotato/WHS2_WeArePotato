@@ -1,9 +1,0 @@
-README.md
-setup.cfg
-setup.py
-cryptographz/__init__.py
-cryptographz.egg-info/PKG-INFO
-cryptographz.egg-info/SOURCES.txt
-cryptographz.egg-info/dependency_links.txt
-cryptographz.egg-info/requires.txt
-cryptographz.egg-info/top_level.txt

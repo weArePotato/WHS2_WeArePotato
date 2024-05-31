@@ -1,0 +1,7 @@
+setup.py
+src/EvannLeGoat/__init__.py
+src/EvannLeGoat/average.py
+src/EvannLeGoat.egg-info/PKG-INFO
+src/EvannLeGoat.egg-info/SOURCES.txt
+src/EvannLeGoat.egg-info/dependency_links.txt
+src/EvannLeGoat.egg-info/top_level.txt

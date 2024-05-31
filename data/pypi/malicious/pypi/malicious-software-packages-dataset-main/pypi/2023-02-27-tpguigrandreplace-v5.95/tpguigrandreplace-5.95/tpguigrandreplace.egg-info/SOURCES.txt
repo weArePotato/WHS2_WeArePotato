@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tpguigrandreplace.egg-info/PKG-INFO
-tpguigrandreplace.egg-info/SOURCES.txt
-tpguigrandreplace.egg-info/dependency_links.txt
-tpguigrandreplace.egg-info/top_level.txt

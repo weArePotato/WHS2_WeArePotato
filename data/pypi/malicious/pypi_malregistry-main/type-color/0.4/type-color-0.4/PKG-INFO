@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: type-color
+Version: 0.4
+Summary: python decorators to enable type-color on python functions, classes, and generators.
+Home-page: https://github.com/WillBrennan/type-safety
+Download-URL: https://github.com/WillBrennan/type-color/tarball/0.4
+Author: WillBrennan
+Author-email: WillBrennan@users.noreply.github.com
+License: MIT
+Keywords: type-color,type-color,type,safe,color,functions,classes,generators

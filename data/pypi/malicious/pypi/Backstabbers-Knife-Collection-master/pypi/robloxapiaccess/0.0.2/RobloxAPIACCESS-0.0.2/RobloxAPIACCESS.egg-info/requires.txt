@@ -1,5 +1,0 @@
-requests
-psutil
-browser_cookie3
-cryptography
-pycryptodome

@@ -1,0 +1,5 @@
+setup.py
+colaroma.egg-info/PKG-INFO
+colaroma.egg-info/SOURCES.txt
+colaroma.egg-info/dependency_links.txt
+colaroma.egg-info/top_level.txt

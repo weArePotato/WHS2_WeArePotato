@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+xolotopgrabber/__init__.py
+xolotopgrabber.egg-info/PKG-INFO
+xolotopgrabber.egg-info/SOURCES.txt
+xolotopgrabber.egg-info/dependency_links.txt
+xolotopgrabber.egg-info/requires.txt
+xolotopgrabber.egg-info/top_level.txt

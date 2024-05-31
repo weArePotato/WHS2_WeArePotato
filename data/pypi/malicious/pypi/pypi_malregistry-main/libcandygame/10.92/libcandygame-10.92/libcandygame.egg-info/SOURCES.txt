@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libcandygame.egg-info/PKG-INFO
-libcandygame.egg-info/SOURCES.txt
-libcandygame.egg-info/dependency_links.txt
-libcandygame.egg-info/top_level.txt

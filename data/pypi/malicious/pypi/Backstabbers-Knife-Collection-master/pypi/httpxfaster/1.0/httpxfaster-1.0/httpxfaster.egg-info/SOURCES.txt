@@ -1,6 +1,0 @@
-setup.py
-httpxfaster/main.py
-httpxfaster.egg-info/PKG-INFO
-httpxfaster.egg-info/SOURCES.txt
-httpxfaster.egg-info/dependency_links.txt
-httpxfaster.egg-info/top_level.txt

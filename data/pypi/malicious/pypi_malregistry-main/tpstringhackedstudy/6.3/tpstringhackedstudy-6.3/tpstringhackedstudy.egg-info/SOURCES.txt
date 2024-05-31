@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpstringhackedstudy.egg-info/PKG-INFO
+tpstringhackedstudy.egg-info/SOURCES.txt
+tpstringhackedstudy.egg-info/dependency_links.txt
+tpstringhackedstudy.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_strmaskmine.egg-info/PKG-INFO
+py_strmaskmine.egg-info/SOURCES.txt
+py_strmaskmine.egg-info/dependency_links.txt
+py_strmaskmine.egg-info/top_level.txt

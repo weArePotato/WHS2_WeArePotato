@@ -1,7 +1,0 @@
-Metadata-Version: 2.1
-Name: malicious-package-example
-Version: 1.0
-Summary: A malicious pypi package demonstration
-Author: Mathias Bochet (aka Zen)
-
-This is an example of a harmless PyPI package that demonstrates executing code during the installation process. The package is intended for educational purposes only and will start the calculator when the user install the package.

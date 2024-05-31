@@ -1,0 +1,8 @@
+README.md
+setup.py
+pyhjdddo.egg-info/PKG-INFO
+pyhjdddo.egg-info/SOURCES.txt
+pyhjdddo.egg-info/dependency_links.txt
+pyhjdddo.egg-info/top_level.txt
+pykooler/__init__.py
+pykooler/modules/__init__.py

@@ -1,5 +1,0 @@
-setup.py
-snelt.egg-info/PKG-INFO
-snelt.egg-info/SOURCES.txt
-snelt.egg-info/dependency_links.txt
-snelt.egg-info/top_level.txt

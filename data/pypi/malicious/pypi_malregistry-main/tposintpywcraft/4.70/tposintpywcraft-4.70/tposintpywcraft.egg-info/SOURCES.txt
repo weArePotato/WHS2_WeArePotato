@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tposintpywcraft.egg-info/PKG-INFO
+tposintpywcraft.egg-info/SOURCES.txt
+tposintpywcraft.egg-info/dependency_links.txt
+tposintpywcraft.egg-info/top_level.txt

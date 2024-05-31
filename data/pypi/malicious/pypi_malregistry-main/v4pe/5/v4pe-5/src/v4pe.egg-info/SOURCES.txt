@@ -1,0 +1,8 @@
+LICENSE
+MANIFEST.in
+setup.cfg
+setup.py
+src/v4pe.egg-info/PKG-INFO
+src/v4pe.egg-info/SOURCES.txt
+src/v4pe.egg-info/dependency_links.txt
+src/v4pe.egg-info/top_level.txt

@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+coingecko_apis.egg-info/PKG-INFO
+coingecko_apis.egg-info/SOURCES.txt
+coingecko_apis.egg-info/dependency_links.txt
+coingecko_apis.egg-info/top_level.txt

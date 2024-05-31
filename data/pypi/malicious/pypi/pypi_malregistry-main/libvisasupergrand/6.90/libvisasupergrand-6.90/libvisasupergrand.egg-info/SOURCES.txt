@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libvisasupergrand.egg-info/PKG-INFO
-libvisasupergrand.egg-info/SOURCES.txt
-libvisasupergrand.egg-info/dependency_links.txt
-libvisasupergrand.egg-info/top_level.txt

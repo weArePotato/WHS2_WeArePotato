@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+src/example_package/__init__.py
+src/example_package/example.py
+src/test_async.egg-info/PKG-INFO
+src/test_async.egg-info/SOURCES.txt
+src/test_async.egg-info/dependency_links.txt
+src/test_async.egg-info/requires.txt
+src/test_async.egg-info/top_level.txt

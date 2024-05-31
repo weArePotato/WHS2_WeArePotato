@@ -1,6 +1,0 @@
-setup.py
-kubespy.egg-info/PKG-INFO
-kubespy.egg-info/SOURCES.txt
-kubespy.egg-info/dependency_links.txt
-kubespy.egg-info/not-zip-safe
-kubespy.egg-info/top_level.txt

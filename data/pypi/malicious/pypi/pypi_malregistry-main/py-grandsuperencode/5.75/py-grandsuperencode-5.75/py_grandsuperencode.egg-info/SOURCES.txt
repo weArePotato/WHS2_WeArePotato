@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-py_grandsuperencode.egg-info/PKG-INFO
-py_grandsuperencode.egg-info/SOURCES.txt
-py_grandsuperencode.egg-info/dependency_links.txt
-py_grandsuperencode.egg-info/top_level.txt

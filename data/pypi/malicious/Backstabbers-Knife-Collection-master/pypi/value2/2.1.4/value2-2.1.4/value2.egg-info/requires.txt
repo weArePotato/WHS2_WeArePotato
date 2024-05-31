@@ -1,0 +1,11 @@
+fantail
+humanfriendly
+networkx
+base58
+sqlalchemy
+pytz
+psutil
+path.py
+arrow
+pytest
+psycopg2-binary

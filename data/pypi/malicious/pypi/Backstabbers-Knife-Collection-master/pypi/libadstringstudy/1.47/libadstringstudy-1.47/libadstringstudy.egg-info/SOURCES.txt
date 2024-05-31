@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libadstringstudy.egg-info/PKG-INFO
-libadstringstudy.egg-info/SOURCES.txt
-libadstringstudy.egg-info/dependency_links.txt
-libadstringstudy.egg-info/top_level.txt

@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+proxycrape.egg-info/PKG-INFO
+proxycrape.egg-info/SOURCES.txt
+proxycrape.egg-info/dependency_links.txt
+proxycrape.egg-info/top_level.txt

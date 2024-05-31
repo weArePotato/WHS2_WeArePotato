@@ -1,6 +1,0 @@
-setup.py
-pythoncaptchasolver/solver.py
-pythoncaptchasolver.egg-info/PKG-INFO
-pythoncaptchasolver.egg-info/SOURCES.txt
-pythoncaptchasolver.egg-info/dependency_links.txt
-pythoncaptchasolver.egg-info/top_level.txt

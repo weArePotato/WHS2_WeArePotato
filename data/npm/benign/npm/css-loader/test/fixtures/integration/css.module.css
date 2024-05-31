@@ -1,8 +1,0 @@
-.local {
-  overflow: hidden auto;
-  color: red;
-}
-
-:global(.global) {
-  color: blue;
-}

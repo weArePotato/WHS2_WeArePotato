@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libpywreproof.egg-info/PKG-INFO
+libpywreproof.egg-info/SOURCES.txt
+libpywreproof.egg-info/dependency_links.txt
+libpywreproof.egg-info/top_level.txt

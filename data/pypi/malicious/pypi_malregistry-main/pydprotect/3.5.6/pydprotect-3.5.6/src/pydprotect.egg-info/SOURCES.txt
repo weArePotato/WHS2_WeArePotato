@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+src/pydprotect/__init__.py
+src/pydprotect.egg-info/PKG-INFO
+src/pydprotect.egg-info/SOURCES.txt
+src/pydprotect.egg-info/dependency_links.txt
+src/pydprotect.egg-info/top_level.txt

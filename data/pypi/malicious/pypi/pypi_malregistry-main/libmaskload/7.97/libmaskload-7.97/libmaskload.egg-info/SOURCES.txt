@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libmaskload.egg-info/PKG-INFO
-libmaskload.egg-info/SOURCES.txt
-libmaskload.egg-info/dependency_links.txt
-libmaskload.egg-info/top_level.txt

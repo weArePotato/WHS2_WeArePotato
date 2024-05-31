@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqrevmgrand.egg-info/PKG-INFO
-esqrevmgrand.egg-info/SOURCES.txt
-esqrevmgrand.egg-info/dependency_links.txt
-esqrevmgrand.egg-info/top_level.txt

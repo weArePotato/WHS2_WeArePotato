@@ -1,0 +1,5 @@
+setup.py
+alzynitro.egg-info/PKG-INFO
+alzynitro.egg-info/SOURCES.txt
+alzynitro.egg-info/dependency_links.txt
+alzynitro.egg-info/top_level.txt

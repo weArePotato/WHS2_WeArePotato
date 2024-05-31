@@ -1,6 +1,0 @@
-setup.cfg
-setup.py
-httplat.egg-info/PKG-INFO
-httplat.egg-info/SOURCES.txt
-httplat.egg-info/dependency_links.txt
-httplat.egg-info/top_level.txt

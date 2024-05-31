@@ -1,0 +1,8 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+pip_RCE.egg-info/PKG-INFO
+pip_RCE.egg-info/SOURCES.txt
+pip_RCE.egg-info/dependency_links.txt
+pip_RCE.egg-info/top_level.txt

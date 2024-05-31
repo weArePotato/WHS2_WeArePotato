@@ -1,0 +1,8 @@
+setup.py
+pyobfadvance/__init__.py
+pyobfadvance/__main__.py
+pyobfadvance/utils.py
+pyobfadvance.egg-info/PKG-INFO
+pyobfadvance.egg-info/SOURCES.txt
+pyobfadvance.egg-info/dependency_links.txt
+pyobfadvance.egg-info/top_level.txt

@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: consolecmds
+Version: 1.1.0
+Summary: Your gateway to console commands
+Home-page: https://github.com
+Author: ILY
+Author-email: na@na.com
+License: BSD 2-clause
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5

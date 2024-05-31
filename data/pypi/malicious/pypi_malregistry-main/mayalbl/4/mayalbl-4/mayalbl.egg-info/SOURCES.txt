@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+mayalbl/__init__.py
+mayalbl/webparser_file.py
+mayalbl.egg-info/PKG-INFO
+mayalbl.egg-info/SOURCES.txt
+mayalbl.egg-info/dependency_links.txt
+mayalbl.egg-info/requires.txt
+mayalbl.egg-info/top_level.txt

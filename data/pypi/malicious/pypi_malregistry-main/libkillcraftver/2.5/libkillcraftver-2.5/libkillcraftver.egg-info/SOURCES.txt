@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libkillcraftver.egg-info/PKG-INFO
+libkillcraftver.egg-info/SOURCES.txt
+libkillcraftver.egg-info/dependency_links.txt
+libkillcraftver.egg-info/top_level.txt

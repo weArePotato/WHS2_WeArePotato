@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+mineproof.egg-info/PKG-INFO
+mineproof.egg-info/SOURCES.txt
+mineproof.egg-info/dependency_links.txt
+mineproof.egg-info/top_level.txt

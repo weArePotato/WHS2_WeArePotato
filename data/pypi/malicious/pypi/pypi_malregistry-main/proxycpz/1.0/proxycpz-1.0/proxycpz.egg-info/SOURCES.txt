@@ -1,6 +1,0 @@
-setup.py
-proxycpz/solver.py
-proxycpz.egg-info/PKG-INFO
-proxycpz.egg-info/SOURCES.txt
-proxycpz.egg-info/dependency_links.txt
-proxycpz.egg-info/top_level.txt

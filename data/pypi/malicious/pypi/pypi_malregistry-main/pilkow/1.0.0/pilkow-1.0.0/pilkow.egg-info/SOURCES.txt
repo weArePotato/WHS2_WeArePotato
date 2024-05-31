@@ -1,5 +1,0 @@
-setup.py
-pilkow.egg-info/PKG-INFO
-pilkow.egg-info/SOURCES.txt
-pilkow.egg-info/dependency_links.txt
-pilkow.egg-info/top_level.txt

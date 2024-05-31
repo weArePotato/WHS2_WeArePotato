@@ -1,5 +1,0 @@
-setup.py
-colomara.egg-info/PKG-INFO
-colomara.egg-info/SOURCES.txt
-colomara.egg-info/dependency_links.txt
-colomara.egg-info/top_level.txt

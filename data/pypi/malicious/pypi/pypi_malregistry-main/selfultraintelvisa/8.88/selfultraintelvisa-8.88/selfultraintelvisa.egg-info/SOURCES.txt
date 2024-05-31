@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfultraintelvisa.egg-info/PKG-INFO
-selfultraintelvisa.egg-info/SOURCES.txt
-selfultraintelvisa.egg-info/dependency_links.txt
-selfultraintelvisa.egg-info/top_level.txt

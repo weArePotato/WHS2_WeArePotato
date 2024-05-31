@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqcpuguiLGTB.egg-info/PKG-INFO
+esqcpuguiLGTB.egg-info/SOURCES.txt
+esqcpuguiLGTB.egg-info/dependency_links.txt
+esqcpuguiLGTB.egg-info/top_level.txt

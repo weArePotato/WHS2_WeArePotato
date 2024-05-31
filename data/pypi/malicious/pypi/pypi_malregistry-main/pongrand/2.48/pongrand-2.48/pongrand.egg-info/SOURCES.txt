@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-pongrand.egg-info/PKG-INFO
-pongrand.egg-info/SOURCES.txt
-pongrand.egg-info/dependency_links.txt
-pongrand.egg-info/top_level.txt

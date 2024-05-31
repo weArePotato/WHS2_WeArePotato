@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfpullsplitcraft.egg-info/PKG-INFO
+selfpullsplitcraft.egg-info/SOURCES.txt
+selfpullsplitcraft.egg-info/dependency_links.txt
+selfpullsplitcraft.egg-info/top_level.txt

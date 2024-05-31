@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libguiping.egg-info/PKG-INFO
-libguiping.egg-info/SOURCES.txt
-libguiping.egg-info/dependency_links.txt
-libguiping.egg-info/top_level.txt

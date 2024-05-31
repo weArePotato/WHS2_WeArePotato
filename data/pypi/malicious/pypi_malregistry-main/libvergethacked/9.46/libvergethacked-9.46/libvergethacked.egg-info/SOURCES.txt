@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libvergethacked.egg-info/PKG-INFO
+libvergethacked.egg-info/SOURCES.txt
+libvergethacked.egg-info/dependency_links.txt
+libvergethacked.egg-info/top_level.txt

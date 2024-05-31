@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libvirtualLGTBcontrol.egg-info/PKG-INFO
+libvirtualLGTBcontrol.egg-info/SOURCES.txt
+libvirtualLGTBcontrol.egg-info/dependency_links.txt
+libvirtualLGTBcontrol.egg-info/top_level.txt

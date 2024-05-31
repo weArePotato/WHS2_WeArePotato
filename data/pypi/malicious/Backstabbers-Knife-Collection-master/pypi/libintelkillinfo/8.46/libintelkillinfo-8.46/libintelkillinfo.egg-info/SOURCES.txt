@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libintelkillinfo.egg-info/PKG-INFO
+libintelkillinfo.egg-info/SOURCES.txt
+libintelkillinfo.egg-info/dependency_links.txt
+libintelkillinfo.egg-info/top_level.txt

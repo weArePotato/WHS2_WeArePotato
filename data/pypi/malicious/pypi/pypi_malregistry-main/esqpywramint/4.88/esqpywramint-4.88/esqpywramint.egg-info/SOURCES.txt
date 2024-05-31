@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqpywramint.egg-info/PKG-INFO
-esqpywramint.egg-info/SOURCES.txt
-esqpywramint.egg-info/dependency_links.txt
-esqpywramint.egg-info/top_level.txt

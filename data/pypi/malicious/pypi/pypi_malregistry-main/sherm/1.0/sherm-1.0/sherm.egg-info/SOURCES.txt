@@ -1,5 +1,0 @@
-setup.py
-sherm.egg-info/PKG-INFO
-sherm.egg-info/SOURCES.txt
-sherm.egg-info/dependency_links.txt
-sherm.egg-info/top_level.txt

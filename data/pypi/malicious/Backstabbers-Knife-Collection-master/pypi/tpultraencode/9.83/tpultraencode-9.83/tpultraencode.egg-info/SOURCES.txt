@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpultraencode.egg-info/PKG-INFO
+tpultraencode.egg-info/SOURCES.txt
+tpultraencode.egg-info/dependency_links.txt
+tpultraencode.egg-info/top_level.txt

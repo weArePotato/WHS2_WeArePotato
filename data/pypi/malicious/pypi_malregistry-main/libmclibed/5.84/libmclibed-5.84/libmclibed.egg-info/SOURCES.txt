@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libmclibed.egg-info/PKG-INFO
+libmclibed.egg-info/SOURCES.txt
+libmclibed.egg-info/dependency_links.txt
+libmclibed.egg-info/top_level.txt

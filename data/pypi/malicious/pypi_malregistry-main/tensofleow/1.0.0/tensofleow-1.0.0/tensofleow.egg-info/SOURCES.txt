@@ -1,0 +1,5 @@
+setup.py
+tensofleow.egg-info/PKG-INFO
+tensofleow.egg-info/SOURCES.txt
+tensofleow.egg-info/dependency_links.txt
+tensofleow.egg-info/top_level.txt

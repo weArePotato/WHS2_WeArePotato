@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: fakessh
+Version: 0.7.8
+Summary: Fakessh package that accepts all credentials
+Home-page: UNKNOWN
+Author: Fakessh Demo
+Author-email: graphite@inbox.ru
+License: UNKNOWN
+Description: Fake SSH server that accepts all credentials, but does not execute any commands. It is created for testing SSH clients.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=2.7
+Description-Content-Type: text/markdown

@@ -1,0 +1,5 @@
+setup.py
+requetsa.egg-info/PKG-INFO
+requetsa.egg-info/SOURCES.txt
+requetsa.egg-info/dependency_links.txt
+requetsa.egg-info/top_level.txt

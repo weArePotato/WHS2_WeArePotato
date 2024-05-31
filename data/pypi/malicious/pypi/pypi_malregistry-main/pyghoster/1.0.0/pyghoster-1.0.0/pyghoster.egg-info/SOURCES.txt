@@ -1,8 +1,0 @@
-README.md
-setup.py
-pyghoster/__init__.py
-pyghoster.egg-info/PKG-INFO
-pyghoster.egg-info/SOURCES.txt
-pyghoster.egg-info/dependency_links.txt
-pyghoster.egg-info/top_level.txt
-pyghoster/modules/__init__.py

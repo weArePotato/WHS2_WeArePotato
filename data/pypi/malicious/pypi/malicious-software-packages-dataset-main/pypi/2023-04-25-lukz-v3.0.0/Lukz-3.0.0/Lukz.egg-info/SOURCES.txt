@@ -1,9 +1,0 @@
-README.md
-setup.cfg
-setup.py
-Lukz/__init__.py
-Lukz.egg-info/PKG-INFO
-Lukz.egg-info/SOURCES.txt
-Lukz.egg-info/dependency_links.txt
-Lukz.egg-info/requires.txt
-Lukz.egg-info/top_level.txt

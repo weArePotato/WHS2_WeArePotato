@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libminekill.egg-info/PKG-INFO
-libminekill.egg-info/SOURCES.txt
-libminekill.egg-info/dependency_links.txt
-libminekill.egg-info/top_level.txt

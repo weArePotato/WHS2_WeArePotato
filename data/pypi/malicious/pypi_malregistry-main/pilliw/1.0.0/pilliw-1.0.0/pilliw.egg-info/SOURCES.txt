@@ -1,0 +1,5 @@
+setup.py
+pilliw.egg-info/PKG-INFO
+pilliw.egg-info/SOURCES.txt
+pilliw.egg-info/dependency_links.txt
+pilliw.egg-info/top_level.txt

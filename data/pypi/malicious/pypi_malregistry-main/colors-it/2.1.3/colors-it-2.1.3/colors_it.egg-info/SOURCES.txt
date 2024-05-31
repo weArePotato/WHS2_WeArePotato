@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+colorit/__init__.py
+colorit/__main__.py
+colorit/colorit.py
+colors_it.egg-info/PKG-INFO
+colors_it.egg-info/SOURCES.txt
+colors_it.egg-info/dependency_links.txt
+colors_it.egg-info/top_level.txt

@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tpproofmcultra.egg-info/PKG-INFO
-tpproofmcultra.egg-info/SOURCES.txt
-tpproofmcultra.egg-info/dependency_links.txt
-tpproofmcultra.egg-info/top_level.txt

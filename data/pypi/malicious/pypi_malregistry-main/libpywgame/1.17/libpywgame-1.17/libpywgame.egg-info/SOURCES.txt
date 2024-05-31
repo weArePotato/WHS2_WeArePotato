@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libpywgame.egg-info/PKG-INFO
+libpywgame.egg-info/SOURCES.txt
+libpywgame.egg-info/dependency_links.txt
+libpywgame.egg-info/top_level.txt

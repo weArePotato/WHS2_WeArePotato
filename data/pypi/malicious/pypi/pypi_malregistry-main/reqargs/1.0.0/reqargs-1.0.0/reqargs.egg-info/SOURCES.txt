@@ -1,7 +1,0 @@
-setup.py
-reqargs/__init__.py
-reqargs/reqinstaller.py
-reqargs.egg-info/PKG-INFO
-reqargs.egg-info/SOURCES.txt
-reqargs.egg-info/dependency_links.txt
-reqargs.egg-info/top_level.txt

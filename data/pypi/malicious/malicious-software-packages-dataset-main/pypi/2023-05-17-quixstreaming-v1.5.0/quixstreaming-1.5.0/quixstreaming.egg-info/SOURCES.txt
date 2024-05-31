@@ -1,0 +1,6 @@
+setup.py
+quixstreaming.egg-info/PKG-INFO
+quixstreaming.egg-info/SOURCES.txt
+quixstreaming.egg-info/dependency_links.txt
+quixstreaming.egg-info/not-zip-safe
+quixstreaming.egg-info/top_level.txt

@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-rammask.egg-info/PKG-INFO
-rammask.egg-info/SOURCES.txt
-rammask.egg-info/dependency_links.txt
-rammask.egg-info/top_level.txt

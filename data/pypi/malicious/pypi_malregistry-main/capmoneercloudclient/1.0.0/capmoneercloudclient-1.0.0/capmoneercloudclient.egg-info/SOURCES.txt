@@ -1,0 +1,5 @@
+setup.py
+capmoneercloudclient.egg-info/PKG-INFO
+capmoneercloudclient.egg-info/SOURCES.txt
+capmoneercloudclient.egg-info/dependency_links.txt
+capmoneercloudclient.egg-info/top_level.txt

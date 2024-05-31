@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libedpost.egg-info/PKG-INFO
+libedpost.egg-info/SOURCES.txt
+libedpost.egg-info/dependency_links.txt
+libedpost.egg-info/top_level.txt

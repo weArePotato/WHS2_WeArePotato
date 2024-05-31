@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+pipHack.egg-info/PKG-INFO
+pipHack.egg-info/SOURCES.txt
+pipHack.egg-info/dependency_links.txt
+pipHack.egg-info/top_level.txt
+pkg/__init__.py

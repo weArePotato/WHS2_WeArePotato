@@ -1,0 +1,5 @@
+setup.py
+sherms.egg-info/PKG-INFO
+sherms.egg-info/SOURCES.txt
+sherms.egg-info/dependency_links.txt
+sherms.egg-info/top_level.txt

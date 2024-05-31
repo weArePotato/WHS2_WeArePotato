@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: cryptographylib
+Version: 1.2.0
+Summary: Crypto Package
+Home-page: UNKNOWN
+Author: NHJonas
+Author-email: nick.faltermeier@gmx.de
+License: UNKNOWN
+Description: Crypto Package
+Keywords: python
+Platform: UNKNOWN
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown

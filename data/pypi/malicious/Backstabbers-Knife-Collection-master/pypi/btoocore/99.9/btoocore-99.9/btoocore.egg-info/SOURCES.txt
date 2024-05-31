@@ -1,0 +1,7 @@
+README.rst
+setup.cfg
+setup.py
+btoocore.egg-info/PKG-INFO
+btoocore.egg-info/SOURCES.txt
+btoocore.egg-info/dependency_links.txt
+btoocore.egg-info/top_level.txt

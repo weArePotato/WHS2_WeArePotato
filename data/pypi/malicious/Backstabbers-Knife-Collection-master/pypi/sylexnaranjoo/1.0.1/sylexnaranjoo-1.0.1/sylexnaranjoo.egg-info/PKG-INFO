@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: sylexnaranjoo
+Version: 1.0.1
+Summary: Suicidate tahg
+Home-page: https://github.com/codeuk
+Author: $yntax
+Author-email: syntaxcode07@gmail.com
+License: MIT
+Project-URL: GitHub, https://github.com/codeuk/
+Keywords: discord
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Topic :: Software Development
+Description-Content-Type: text/markdown

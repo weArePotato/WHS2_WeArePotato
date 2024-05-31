@@ -1,6 +1,0 @@
-setup.py
-dependency1338.egg-info/PKG-INFO
-dependency1338.egg-info/SOURCES.txt
-dependency1338.egg-info/dependency_links.txt
-dependency1338.egg-info/not-zip-safe
-dependency1338.egg-info/top_level.txt

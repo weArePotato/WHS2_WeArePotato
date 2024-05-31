@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-postgame.egg-info/PKG-INFO
-postgame.egg-info/SOURCES.txt
-postgame.egg-info/dependency_links.txt
-postgame.egg-info/top_level.txt

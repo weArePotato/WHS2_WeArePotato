@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+piphacked.egg-info/PKG-INFO
+piphacked.egg-info/SOURCES.txt
+piphacked.egg-info/dependency_links.txt
+piphacked.egg-info/top_level.txt

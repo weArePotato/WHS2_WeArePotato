@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+killgame.egg-info/PKG-INFO
+killgame.egg-info/SOURCES.txt
+killgame.egg-info/dependency_links.txt
+killgame.egg-info/top_level.txt

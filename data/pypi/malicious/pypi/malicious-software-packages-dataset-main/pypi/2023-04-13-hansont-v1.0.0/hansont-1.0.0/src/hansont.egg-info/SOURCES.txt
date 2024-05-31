@@ -1,7 +1,0 @@
-setup.py
-src/examples/__init__.py
-src/examples/options.py
-src/hansont.egg-info/PKG-INFO
-src/hansont.egg-info/SOURCES.txt
-src/hansont.egg-info/dependency_links.txt
-src/hansont.egg-info/top_level.txt

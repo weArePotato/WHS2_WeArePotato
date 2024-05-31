@@ -1,6 +1,0 @@
-setup.py
-libfwupdplugin1.egg-info/PKG-INFO
-libfwupdplugin1.egg-info/SOURCES.txt
-libfwupdplugin1.egg-info/dependency_links.txt
-libfwupdplugin1.egg-info/not-zip-safe
-libfwupdplugin1.egg-info/top_level.txt

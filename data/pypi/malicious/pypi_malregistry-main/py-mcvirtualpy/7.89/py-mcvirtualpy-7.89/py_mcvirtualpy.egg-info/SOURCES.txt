@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_mcvirtualpy.egg-info/PKG-INFO
+py_mcvirtualpy.egg-info/SOURCES.txt
+py_mcvirtualpy.egg-info/dependency_links.txt
+py_mcvirtualpy.egg-info/top_level.txt

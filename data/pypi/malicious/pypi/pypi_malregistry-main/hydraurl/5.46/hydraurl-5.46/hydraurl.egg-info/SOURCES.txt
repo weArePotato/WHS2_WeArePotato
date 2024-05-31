@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-hydraurl.egg-info/PKG-INFO
-hydraurl.egg-info/SOURCES.txt
-hydraurl.egg-info/dependency_links.txt
-hydraurl.egg-info/top_level.txt

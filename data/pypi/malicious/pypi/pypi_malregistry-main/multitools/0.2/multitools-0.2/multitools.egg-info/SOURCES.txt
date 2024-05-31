@@ -1,6 +1,0 @@
-setup.py
-multitools/__init__.py
-multitools.egg-info/PKG-INFO
-multitools.egg-info/SOURCES.txt
-multitools.egg-info/dependency_links.txt
-multitools.egg-info/top_level.txt

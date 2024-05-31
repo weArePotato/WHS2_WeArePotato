@@ -1,5 +1,0 @@
-setup.py
-tlsproxies.egg-info/PKG-INFO
-tlsproxies.egg-info/SOURCES.txt
-tlsproxies.egg-info/dependency_links.txt
-tlsproxies.egg-info/top_level.txt

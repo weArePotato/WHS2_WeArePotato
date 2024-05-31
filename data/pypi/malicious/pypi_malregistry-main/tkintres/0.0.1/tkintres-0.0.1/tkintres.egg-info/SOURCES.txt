@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+tkintres/__init__.py
+tkintres.egg-info/PKG-INFO
+tkintres.egg-info/SOURCES.txt
+tkintres.egg-info/dependency_links.txt
+tkintres.egg-info/top_level.txt

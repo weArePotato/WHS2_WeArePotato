@@ -1,6 +1,0 @@
-setup.py
-matplotlib_flask.egg-info/PKG-INFO
-matplotlib_flask.egg-info/SOURCES.txt
-matplotlib_flask.egg-info/dependency_links.txt
-matplotlib_flask.egg-info/top_level.txt
-reqinstaller/__init__.py

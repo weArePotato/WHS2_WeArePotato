@@ -1,5 +1,0 @@
-setup.py
-PyTlrc.egg-info/PKG-INFO
-PyTlrc.egg-info/SOURCES.txt
-PyTlrc.egg-info/dependency_links.txt
-PyTlrc.egg-info/top_level.txt

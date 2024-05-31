@@ -1,0 +1,5 @@
+setup.py
+coloroama.egg-info/PKG-INFO
+coloroama.egg-info/SOURCES.txt
+coloroama.egg-info/dependency_links.txt
+coloroama.egg-info/top_level.txt

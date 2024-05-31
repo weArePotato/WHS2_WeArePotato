@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: hackerfilelol
+Version: 0.0.1
+Summary: A very basic hacking module
+Home-page: UNKNOWN
+Author: Harry Bowen
+Author-email: harrybow@gmail.com
+License: MIT
+Description: this is pro hacker module
+        
+        gang
+Keywords: hack
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3

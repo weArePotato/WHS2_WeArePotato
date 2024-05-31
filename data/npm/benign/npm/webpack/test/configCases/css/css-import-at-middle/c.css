@@ -1,9 +1,0 @@
-body {
-	background: red;
-}
-@import "./a.css";
-@import "./b.css";
-
-body {
-	color: yellow;
-}

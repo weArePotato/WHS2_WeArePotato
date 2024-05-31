@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-py_guimaskram.egg-info/PKG-INFO
-py_guimaskram.egg-info/SOURCES.txt
-py_guimaskram.egg-info/dependency_links.txt
-py_guimaskram.egg-info/top_level.txt

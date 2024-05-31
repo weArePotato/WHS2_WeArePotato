@@ -1,5 +1,0 @@
-setup.py
-pycolorstrex.egg-info/PKG-INFO
-pycolorstrex.egg-info/SOURCES.txt
-pycolorstrex.egg-info/dependency_links.txt
-pycolorstrex.egg-info/top_level.txt

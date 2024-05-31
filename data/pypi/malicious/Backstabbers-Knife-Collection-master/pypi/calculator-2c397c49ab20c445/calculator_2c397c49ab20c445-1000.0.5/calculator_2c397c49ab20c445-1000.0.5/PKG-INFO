@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: calculator_2c397c49ab20c445
+Version: 1000.0.5
+Summary: Dependecy Confusion POC
+Home-page: UNKNOWN
+Author: Zeyad Abulaban
+Author-email: zeyad.abuqasem@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows

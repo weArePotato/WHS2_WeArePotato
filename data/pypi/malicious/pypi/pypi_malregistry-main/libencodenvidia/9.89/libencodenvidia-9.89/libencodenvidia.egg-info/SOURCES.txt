@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libencodenvidia.egg-info/PKG-INFO
-libencodenvidia.egg-info/SOURCES.txt
-libencodenvidia.egg-info/dependency_links.txt
-libencodenvidia.egg-info/top_level.txt

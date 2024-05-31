@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqrandomreplacecc.egg-info/PKG-INFO
-esqrandomreplacecc.egg-info/SOURCES.txt
-esqrandomreplacecc.egg-info/dependency_links.txt
-esqrandomreplacecc.egg-info/top_level.txt

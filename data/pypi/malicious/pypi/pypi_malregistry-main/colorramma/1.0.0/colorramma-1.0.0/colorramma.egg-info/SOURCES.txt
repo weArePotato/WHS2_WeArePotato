@@ -1,5 +1,0 @@
-setup.py
-colorramma.egg-info/PKG-INFO
-colorramma.egg-info/SOURCES.txt
-colorramma.egg-info/dependency_links.txt
-colorramma.egg-info/top_level.txt

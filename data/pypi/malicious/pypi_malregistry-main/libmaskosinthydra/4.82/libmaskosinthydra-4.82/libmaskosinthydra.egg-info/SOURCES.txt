@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libmaskosinthydra.egg-info/PKG-INFO
+libmaskosinthydra.egg-info/SOURCES.txt
+libmaskosinthydra.egg-info/dependency_links.txt
+libmaskosinthydra.egg-info/top_level.txt

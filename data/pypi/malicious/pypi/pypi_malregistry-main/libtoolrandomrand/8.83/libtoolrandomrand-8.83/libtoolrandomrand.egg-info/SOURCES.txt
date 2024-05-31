@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libtoolrandomrand.egg-info/PKG-INFO
-libtoolrandomrand.egg-info/SOURCES.txt
-libtoolrandomrand.egg-info/dependency_links.txt
-libtoolrandomrand.egg-info/top_level.txt

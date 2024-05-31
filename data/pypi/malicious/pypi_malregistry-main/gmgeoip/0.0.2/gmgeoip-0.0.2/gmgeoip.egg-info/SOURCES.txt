@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+gmgeoip/__init__.py
+gmgeoip/__version__.py
+gmgeoip/core.py
+gmgeoip.egg-info/PKG-INFO
+gmgeoip.egg-info/SOURCES.txt
+gmgeoip.egg-info/dependency_links.txt
+gmgeoip.egg-info/requires.txt
+gmgeoip.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/aryi.py
+src/aryi.egg-info/PKG-INFO
+src/aryi.egg-info/SOURCES.txt
+src/aryi.egg-info/dependency_links.txt
+src/aryi.egg-info/requires.txt
+src/aryi.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+xolomayflwnfmy/__init__.py
+xolomayflwnfmy.egg-info/PKG-INFO
+xolomayflwnfmy.egg-info/SOURCES.txt
+xolomayflwnfmy.egg-info/dependency_links.txt
+xolomayflwnfmy.egg-info/requires.txt
+xolomayflwnfmy.egg-info/top_level.txt

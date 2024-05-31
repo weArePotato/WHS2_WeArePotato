@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libhttppostpost.egg-info/PKG-INFO
-libhttppostpost.egg-info/SOURCES.txt
-libhttppostpost.egg-info/dependency_links.txt
-libhttppostpost.egg-info/top_level.txt

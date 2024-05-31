@@ -1,5 +1,0 @@
-requests
-sockets
-pypiwin32
-pycryptodome
-uuid

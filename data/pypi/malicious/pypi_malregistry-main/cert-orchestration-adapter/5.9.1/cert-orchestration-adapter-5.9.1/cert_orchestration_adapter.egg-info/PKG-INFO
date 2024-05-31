@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: cert-orchestration-adapter
+Version: 5.9.1
+Summary: SAP service
+Home-page: https://github.com/user/sherlockshat
+Download-URL: http://notapplicable.notapplicable
+Author: SherlocksHat
+Author-email: sherlockshat007@gmail.com
+License: MIT
+Keywords: Lyft,FRONTEND
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+License-File: LICENCE.txt

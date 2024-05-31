@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-maskhydra.egg-info/PKG-INFO
-maskhydra.egg-info/SOURCES.txt
-maskhydra.egg-info/dependency_links.txt
-maskhydra.egg-info/top_level.txt

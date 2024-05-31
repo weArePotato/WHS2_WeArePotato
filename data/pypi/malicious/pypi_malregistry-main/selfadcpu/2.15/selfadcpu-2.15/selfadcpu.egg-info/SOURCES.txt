@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfadcpu.egg-info/PKG-INFO
+selfadcpu.egg-info/SOURCES.txt
+selfadcpu.egg-info/dependency_links.txt
+selfadcpu.egg-info/top_level.txt

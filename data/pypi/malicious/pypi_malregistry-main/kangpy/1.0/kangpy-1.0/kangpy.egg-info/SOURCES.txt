@@ -1,0 +1,8 @@
+README.md
+setup.py
+kangpy/__init__.py
+kangpy/module.py
+kangpy.egg-info/PKG-INFO
+kangpy.egg-info/SOURCES.txt
+kangpy.egg-info/dependency_links.txt
+kangpy.egg-info/top_level.txt

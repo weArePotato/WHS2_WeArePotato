@@ -1,0 +1,6 @@
+pyproject.toml
+setup.py
+ai_solver_py.egg-info/PKG-INFO
+ai_solver_py.egg-info/SOURCES.txt
+ai_solver_py.egg-info/dependency_links.txt
+ai_solver_py.egg-info/top_level.txt

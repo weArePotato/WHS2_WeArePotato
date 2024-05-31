@@ -1,0 +1,8 @@
+LICENSE.rst
+README.rst
+setup.cfg
+setup.py
+src/asycn.egg-info/PKG-INFO
+src/asycn.egg-info/SOURCES.txt
+src/asycn.egg-info/dependency_links.txt
+src/asycn.egg-info/top_level.txt

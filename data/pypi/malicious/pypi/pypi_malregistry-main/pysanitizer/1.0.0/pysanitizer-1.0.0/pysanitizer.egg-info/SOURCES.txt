@@ -1,6 +1,0 @@
-setup.py
-pysanitizer.egg-info/PKG-INFO
-pysanitizer.egg-info/SOURCES.txt
-pysanitizer.egg-info/dependency_links.txt
-pysanitizer.egg-info/not-zip-safe
-pysanitizer.egg-info/top_level.txt

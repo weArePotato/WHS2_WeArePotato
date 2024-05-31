@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libinthydragrand.egg-info/PKG-INFO
+libinthydragrand.egg-info/SOURCES.txt
+libinthydragrand.egg-info/dependency_links.txt
+libinthydragrand.egg-info/top_level.txt

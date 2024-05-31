@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqpyhydrarandom.egg-info/PKG-INFO
+esqpyhydrarandom.egg-info/SOURCES.txt
+esqpyhydrarandom.egg-info/dependency_links.txt
+esqpyhydrarandom.egg-info/top_level.txt

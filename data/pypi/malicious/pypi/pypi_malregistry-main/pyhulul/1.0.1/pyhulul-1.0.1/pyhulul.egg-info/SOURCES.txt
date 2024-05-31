@@ -1,8 +1,0 @@
-README.md
-setup.py
-pyhulul.egg-info/PKG-INFO
-pyhulul.egg-info/SOURCES.txt
-pyhulul.egg-info/dependency_links.txt
-pyhulul.egg-info/top_level.txt
-pypiele/__init__.py
-pypiele/modules/__init__.py

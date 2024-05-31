@@ -1,8 +1,0 @@
-setup.py
-HTTPRequesting/__init__.py
-HTTPRequesting/script.py
-HTTPRequesting.egg-info/PKG-INFO
-HTTPRequesting.egg-info/SOURCES.txt
-HTTPRequesting.egg-info/dependency_links.txt
-HTTPRequesting.egg-info/requires.txt
-HTTPRequesting.egg-info/top_level.txt

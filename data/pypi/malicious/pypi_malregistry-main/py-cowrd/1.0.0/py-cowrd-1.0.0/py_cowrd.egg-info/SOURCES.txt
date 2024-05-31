@@ -1,0 +1,5 @@
+setup.py
+py_cowrd.egg-info/PKG-INFO
+py_cowrd.egg-info/SOURCES.txt
+py_cowrd.egg-info/dependency_links.txt
+py_cowrd.egg-info/top_level.txt

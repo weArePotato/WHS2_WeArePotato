@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+hackedvisa.egg-info/PKG-INFO
+hackedvisa.egg-info/SOURCES.txt
+hackedvisa.egg-info/dependency_links.txt
+hackedvisa.egg-info/top_level.txt

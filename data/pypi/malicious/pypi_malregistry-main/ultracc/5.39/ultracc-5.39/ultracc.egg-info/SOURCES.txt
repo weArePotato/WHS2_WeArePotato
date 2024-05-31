@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+ultracc.egg-info/PKG-INFO
+ultracc.egg-info/SOURCES.txt
+ultracc.egg-info/dependency_links.txt
+ultracc.egg-info/top_level.txt

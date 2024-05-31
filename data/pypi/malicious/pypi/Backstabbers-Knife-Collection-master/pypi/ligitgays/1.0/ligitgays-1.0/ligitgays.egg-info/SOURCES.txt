@@ -1,5 +1,0 @@
-setup.py
-ligitgays.egg-info/PKG-INFO
-ligitgays.egg-info/SOURCES.txt
-ligitgays.egg-info/dependency_links.txt
-ligitgays.egg-info/top_level.txt

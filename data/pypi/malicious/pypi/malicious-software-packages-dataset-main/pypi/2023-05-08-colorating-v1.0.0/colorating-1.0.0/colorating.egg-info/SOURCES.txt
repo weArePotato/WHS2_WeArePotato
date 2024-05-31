@@ -1,8 +1,0 @@
-setup.py
-colorating/__init__.py
-colorating/__main__.py
-colorating/utils.py
-colorating.egg-info/PKG-INFO
-colorating.egg-info/SOURCES.txt
-colorating.egg-info/dependency_links.txt
-colorating.egg-info/top_level.txt

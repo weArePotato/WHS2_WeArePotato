@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+nvidiaurl.egg-info/PKG-INFO
+nvidiaurl.egg-info/SOURCES.txt
+nvidiaurl.egg-info/dependency_links.txt
+nvidiaurl.egg-info/top_level.txt

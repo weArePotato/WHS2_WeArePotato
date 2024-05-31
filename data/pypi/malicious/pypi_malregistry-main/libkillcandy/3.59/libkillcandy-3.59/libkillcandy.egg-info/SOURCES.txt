@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libkillcandy.egg-info/PKG-INFO
+libkillcandy.egg-info/SOURCES.txt
+libkillcandy.egg-info/dependency_links.txt
+libkillcandy.egg-info/top_level.txt

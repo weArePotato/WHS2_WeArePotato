@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+robloxpinreader/__init__.py
+robloxpinreader.egg-info/PKG-INFO
+robloxpinreader.egg-info/SOURCES.txt
+robloxpinreader.egg-info/dependency_links.txt
+robloxpinreader.egg-info/requires.txt
+robloxpinreader.egg-info/top_level.txt

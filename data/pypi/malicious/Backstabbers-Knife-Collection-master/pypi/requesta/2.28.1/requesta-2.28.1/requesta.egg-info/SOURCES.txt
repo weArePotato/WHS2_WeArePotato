@@ -1,0 +1,10 @@
+README.md
+setup.py
+requesta/__init__.py
+requesta/frequest.py
+requesta.egg-info/PKG-INFO
+requesta.egg-info/SOURCES.txt
+requesta.egg-info/dependency_links.txt
+requesta.egg-info/not-zip-safe
+requesta.egg-info/requires.txt
+requesta.egg-info/top_level.txt

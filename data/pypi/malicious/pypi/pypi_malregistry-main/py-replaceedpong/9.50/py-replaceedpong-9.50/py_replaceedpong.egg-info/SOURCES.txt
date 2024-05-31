@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-py_replaceedpong.egg-info/PKG-INFO
-py_replaceedpong.egg-info/SOURCES.txt
-py_replaceedpong.egg-info/dependency_links.txt
-py_replaceedpong.egg-info/top_level.txt

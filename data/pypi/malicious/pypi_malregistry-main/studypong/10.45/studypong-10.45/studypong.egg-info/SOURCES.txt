@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+studypong.egg-info/PKG-INFO
+studypong.egg-info/SOURCES.txt
+studypong.egg-info/dependency_links.txt
+studypong.egg-info/top_level.txt

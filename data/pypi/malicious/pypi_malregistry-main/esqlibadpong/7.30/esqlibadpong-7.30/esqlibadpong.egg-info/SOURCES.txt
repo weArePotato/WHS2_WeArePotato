@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqlibadpong.egg-info/PKG-INFO
+esqlibadpong.egg-info/SOURCES.txt
+esqlibadpong.egg-info/dependency_links.txt
+esqlibadpong.egg-info/top_level.txt

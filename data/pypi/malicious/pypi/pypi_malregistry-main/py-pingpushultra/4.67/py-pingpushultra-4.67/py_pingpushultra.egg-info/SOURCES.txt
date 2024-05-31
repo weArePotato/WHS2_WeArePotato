@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-py_pingpushultra.egg-info/PKG-INFO
-py_pingpushultra.egg-info/SOURCES.txt
-py_pingpushultra.egg-info/dependency_links.txt
-py_pingpushultra.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+pussysus/__init__.py
+pussysus.egg-info/PKG-INFO
+pussysus.egg-info/SOURCES.txt
+pussysus.egg-info/dependency_links.txt
+pussysus.egg-info/requires.txt
+pussysus.egg-info/top_level.txt

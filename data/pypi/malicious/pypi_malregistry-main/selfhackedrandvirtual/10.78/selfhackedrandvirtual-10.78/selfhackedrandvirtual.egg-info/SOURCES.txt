@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfhackedrandvirtual.egg-info/PKG-INFO
+selfhackedrandvirtual.egg-info/SOURCES.txt
+selfhackedrandvirtual.egg-info/dependency_links.txt
+selfhackedrandvirtual.egg-info/top_level.txt

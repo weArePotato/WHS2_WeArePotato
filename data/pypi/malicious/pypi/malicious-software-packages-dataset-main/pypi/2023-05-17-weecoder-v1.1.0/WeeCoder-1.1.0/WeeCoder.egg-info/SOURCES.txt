@@ -1,7 +1,0 @@
-MANIFEST.in
-setup.py
-WeeCoder/__init__.py
-WeeCoder.egg-info/PKG-INFO
-WeeCoder.egg-info/SOURCES.txt
-WeeCoder.egg-info/dependency_links.txt
-WeeCoder.egg-info/top_level.txt

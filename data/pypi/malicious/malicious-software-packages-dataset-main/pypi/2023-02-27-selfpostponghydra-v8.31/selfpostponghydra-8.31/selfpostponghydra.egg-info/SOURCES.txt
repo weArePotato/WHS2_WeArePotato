@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfpostponghydra.egg-info/PKG-INFO
+selfpostponghydra.egg-info/SOURCES.txt
+selfpostponghydra.egg-info/dependency_links.txt
+selfpostponghydra.egg-info/top_level.txt

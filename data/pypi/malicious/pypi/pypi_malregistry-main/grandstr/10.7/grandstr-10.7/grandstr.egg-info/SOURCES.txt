@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-grandstr.egg-info/PKG-INFO
-grandstr.egg-info/SOURCES.txt
-grandstr.egg-info/dependency_links.txt
-grandstr.egg-info/top_level.txt

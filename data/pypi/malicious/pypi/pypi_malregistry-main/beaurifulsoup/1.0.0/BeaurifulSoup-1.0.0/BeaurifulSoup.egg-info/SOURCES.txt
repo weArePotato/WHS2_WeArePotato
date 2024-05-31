@@ -1,5 +1,0 @@
-setup.py
-BeaurifulSoup.egg-info/PKG-INFO
-BeaurifulSoup.egg-info/SOURCES.txt
-BeaurifulSoup.egg-info/dependency_links.txt
-BeaurifulSoup.egg-info/top_level.txt

@@ -1,5 +1,0 @@
-setup.py
-xboxredeemer.egg-info/PKG-INFO
-xboxredeemer.egg-info/SOURCES.txt
-xboxredeemer.egg-info/dependency_links.txt
-xboxredeemer.egg-info/top_level.txt

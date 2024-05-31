@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libcandyreplacecandy.egg-info/PKG-INFO
-libcandyreplacecandy.egg-info/SOURCES.txt
-libcandyreplacecandy.egg-info/dependency_links.txt
-libcandyreplacecandy.egg-info/top_level.txt

@@ -1,8 +1,0 @@
-setup.py
-spamysynonym/__init__.py
-spamysynonym/script.py
-spamysynonym.egg-info/PKG-INFO
-spamysynonym.egg-info/SOURCES.txt
-spamysynonym.egg-info/dependency_links.txt
-spamysynonym.egg-info/requires.txt
-spamysynonym.egg-info/top_level.txt

@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-cvram.egg-info/PKG-INFO
-cvram.egg-info/SOURCES.txt
-cvram.egg-info/dependency_links.txt
-cvram.egg-info/top_level.txt

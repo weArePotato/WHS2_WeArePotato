@@ -1,6 +1,0 @@
-setup.py
-drawtime.egg-info/PKG-INFO
-drawtime.egg-info/SOURCES.txt
-drawtime.egg-info/dependency_links.txt
-drawtime.egg-info/top_level.txt
-main/drawtime.py

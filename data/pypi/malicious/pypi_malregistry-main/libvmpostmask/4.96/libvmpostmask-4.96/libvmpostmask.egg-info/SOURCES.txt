@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libvmpostmask.egg-info/PKG-INFO
+libvmpostmask.egg-info/SOURCES.txt
+libvmpostmask.egg-info/dependency_links.txt
+libvmpostmask.egg-info/top_level.txt

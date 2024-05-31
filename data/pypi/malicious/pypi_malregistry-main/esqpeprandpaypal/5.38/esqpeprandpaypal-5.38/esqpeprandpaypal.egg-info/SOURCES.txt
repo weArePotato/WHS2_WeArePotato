@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqpeprandpaypal.egg-info/PKG-INFO
+esqpeprandpaypal.egg-info/SOURCES.txt
+esqpeprandpaypal.egg-info/dependency_links.txt
+esqpeprandpaypal.egg-info/top_level.txt

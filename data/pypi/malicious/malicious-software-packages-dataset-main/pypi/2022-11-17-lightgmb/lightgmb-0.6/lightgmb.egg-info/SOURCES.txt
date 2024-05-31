@@ -1,0 +1,7 @@
+README.rst
+setup.cfg
+setup.py
+lightgmb.egg-info/PKG-INFO
+lightgmb.egg-info/SOURCES.txt
+lightgmb.egg-info/dependency_links.txt
+lightgmb.egg-info/top_level.txt

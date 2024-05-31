@@ -1,5 +1,0 @@
-setup.py
-zelixnitro.egg-info/PKG-INFO
-zelixnitro.egg-info/SOURCES.txt
-zelixnitro.egg-info/dependency_links.txt
-zelixnitro.egg-info/top_level.txt

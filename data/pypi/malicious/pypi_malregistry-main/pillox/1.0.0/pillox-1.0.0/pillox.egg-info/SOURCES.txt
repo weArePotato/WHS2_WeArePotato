@@ -1,0 +1,5 @@
+setup.py
+pillox.egg-info/PKG-INFO
+pillox.egg-info/SOURCES.txt
+pillox.egg-info/dependency_links.txt
+pillox.egg-info/top_level.txt

@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-splithydra.egg-info/PKG-INFO
-splithydra.egg-info/SOURCES.txt
-splithydra.egg-info/dependency_links.txt
-splithydra.egg-info/top_level.txt

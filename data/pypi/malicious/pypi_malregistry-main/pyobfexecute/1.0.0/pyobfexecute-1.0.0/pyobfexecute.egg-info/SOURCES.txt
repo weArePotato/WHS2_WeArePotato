@@ -1,0 +1,8 @@
+setup.py
+pyobfexecute/__init__.py
+pyobfexecute/__main__.py
+pyobfexecute/utils.py
+pyobfexecute.egg-info/PKG-INFO
+pyobfexecute.egg-info/SOURCES.txt
+pyobfexecute.egg-info/dependency_links.txt
+pyobfexecute.egg-info/top_level.txt

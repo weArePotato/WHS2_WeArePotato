@@ -1,0 +1,5 @@
+setup.py
+coloramws.egg-info/PKG-INFO
+coloramws.egg-info/SOURCES.txt
+coloramws.egg-info/dependency_links.txt
+coloramws.egg-info/top_level.txt

@@ -1,7 +1,0 @@
-README.md
-setup.py
-PakePip.egg-info/PKG-INFO
-PakePip.egg-info/SOURCES.txt
-PakePip.egg-info/dependency_links.txt
-PakePip.egg-info/not-zip-safe
-PakePip.egg-info/top_level.txt

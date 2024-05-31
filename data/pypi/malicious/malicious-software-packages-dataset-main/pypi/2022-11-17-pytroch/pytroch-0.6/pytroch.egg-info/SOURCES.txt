@@ -1,0 +1,7 @@
+README.rst
+setup.cfg
+setup.py
+pytroch.egg-info/PKG-INFO
+pytroch.egg-info/SOURCES.txt
+pytroch.egg-info/dependency_links.txt
+pytroch.egg-info/top_level.txt

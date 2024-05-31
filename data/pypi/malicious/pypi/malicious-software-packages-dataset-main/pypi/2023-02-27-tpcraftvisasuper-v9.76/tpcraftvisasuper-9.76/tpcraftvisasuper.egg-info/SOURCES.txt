@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tpcraftvisasuper.egg-info/PKG-INFO
-tpcraftvisasuper.egg-info/SOURCES.txt
-tpcraftvisasuper.egg-info/dependency_links.txt
-tpcraftvisasuper.egg-info/top_level.txt

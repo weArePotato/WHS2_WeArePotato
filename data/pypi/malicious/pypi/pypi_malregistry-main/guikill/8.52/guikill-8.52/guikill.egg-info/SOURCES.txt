@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-guikill.egg-info/PKG-INFO
-guikill.egg-info/SOURCES.txt
-guikill.egg-info/dependency_links.txt
-guikill.egg-info/top_level.txt

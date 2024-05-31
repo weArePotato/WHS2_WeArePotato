@@ -1,0 +1,6 @@
+setup.py
+xpip/__init__.py
+xpip.egg-info/PKG-INFO
+xpip.egg-info/SOURCES.txt
+xpip.egg-info/dependency_links.txt
+xpip.egg-info/top_level.txt

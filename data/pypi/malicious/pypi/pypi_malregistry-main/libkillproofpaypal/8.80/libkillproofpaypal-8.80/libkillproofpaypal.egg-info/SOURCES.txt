@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libkillproofpaypal.egg-info/PKG-INFO
-libkillproofpaypal.egg-info/SOURCES.txt
-libkillproofpaypal.egg-info/dependency_links.txt
-libkillproofpaypal.egg-info/top_level.txt

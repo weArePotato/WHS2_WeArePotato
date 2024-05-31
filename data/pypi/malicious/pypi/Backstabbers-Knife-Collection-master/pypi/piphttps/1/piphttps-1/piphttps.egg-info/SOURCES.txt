@@ -1,9 +1,0 @@
-README.md
-setup.py
-./piphttps/__init__.py
-./piphttps/__main__.py
-piphttps.egg-info/PKG-INFO
-piphttps.egg-info/SOURCES.txt
-piphttps.egg-info/dependency_links.txt
-piphttps.egg-info/requires.txt
-piphttps.egg-info/top_level.txt

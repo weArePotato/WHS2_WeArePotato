@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+cryptobalance.egg-info/PKG-INFO
+cryptobalance.egg-info/SOURCES.txt
+cryptobalance.egg-info/dependency_links.txt
+cryptobalance.egg-info/top_level.txt

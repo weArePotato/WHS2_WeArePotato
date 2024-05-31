@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libencodepypost.egg-info/PKG-INFO
-libencodepypost.egg-info/SOURCES.txt
-libencodepypost.egg-info/dependency_links.txt
-libencodepypost.egg-info/top_level.txt

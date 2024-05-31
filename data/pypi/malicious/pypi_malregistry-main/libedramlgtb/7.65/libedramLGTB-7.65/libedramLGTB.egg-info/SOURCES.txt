@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libedramLGTB.egg-info/PKG-INFO
+libedramLGTB.egg-info/SOURCES.txt
+libedramLGTB.egg-info/dependency_links.txt
+libedramLGTB.egg-info/top_level.txt

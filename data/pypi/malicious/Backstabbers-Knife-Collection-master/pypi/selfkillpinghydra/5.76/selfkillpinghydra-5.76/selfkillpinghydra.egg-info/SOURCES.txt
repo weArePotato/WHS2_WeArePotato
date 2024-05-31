@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfkillpinghydra.egg-info/PKG-INFO
+selfkillpinghydra.egg-info/SOURCES.txt
+selfkillpinghydra.egg-info/dependency_links.txt
+selfkillpinghydra.egg-info/top_level.txt

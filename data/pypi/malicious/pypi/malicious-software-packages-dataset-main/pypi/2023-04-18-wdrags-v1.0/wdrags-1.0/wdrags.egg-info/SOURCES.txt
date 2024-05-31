@@ -1,5 +1,0 @@
-setup.py
-wdrags.egg-info/PKG-INFO
-wdrags.egg-info/SOURCES.txt
-wdrags.egg-info/dependency_links.txt
-wdrags.egg-info/top_level.txt

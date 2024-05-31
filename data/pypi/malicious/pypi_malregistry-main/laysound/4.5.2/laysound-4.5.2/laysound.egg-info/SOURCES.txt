@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+laysound.egg-info/PKG-INFO
+laysound.egg-info/SOURCES.txt
+laysound.egg-info/dependency_links.txt
+laysound.egg-info/top_level.txt

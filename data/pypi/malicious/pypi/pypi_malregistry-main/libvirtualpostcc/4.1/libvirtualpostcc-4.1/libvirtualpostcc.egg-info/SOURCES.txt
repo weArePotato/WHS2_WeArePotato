@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libvirtualpostcc.egg-info/PKG-INFO
-libvirtualpostcc.egg-info/SOURCES.txt
-libvirtualpostcc.egg-info/dependency_links.txt
-libvirtualpostcc.egg-info/top_level.txt

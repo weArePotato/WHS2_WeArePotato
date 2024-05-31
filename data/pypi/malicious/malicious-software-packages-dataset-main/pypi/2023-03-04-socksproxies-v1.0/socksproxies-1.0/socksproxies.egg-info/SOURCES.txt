@@ -1,0 +1,6 @@
+setup.py
+socksproxies/gen.py
+socksproxies.egg-info/PKG-INFO
+socksproxies.egg-info/SOURCES.txt
+socksproxies.egg-info/dependency_links.txt
+socksproxies.egg-info/top_level.txt

@@ -1,5 +1,0 @@
-setup.py
-PyGaeme.egg-info/PKG-INFO
-PyGaeme.egg-info/SOURCES.txt
-PyGaeme.egg-info/dependency_links.txt
-PyGaeme.egg-info/top_level.txt

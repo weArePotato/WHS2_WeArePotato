@@ -1,0 +1,109 @@
+{% load i18n coop_edition coop_bar_tags %}
+<!DOCYTPE HTML>
+<html lang="{{LANG}}">
+<head>
+  <meta charset="utf-8">
+  <title>{{newsletter.subject}}</title>
+  {% if editable %}
+    {% include "coop_cms/_js_includes.html" %}
+    {% if_cms_edition %}
+      {% cms_form_media %}
+    {% endif %}
+    {% coop_bar_headers %}
+  {% endif %}
+  {% if_cms_edition %}
+  <script>
+    $(function(){
+        //move the form submit to the coop_bar
+        $("form#cms_form input[type='submit']").hide();
+        $('.post-form').click(function(event) {
+            $("form#cms_form").submit();
+            event.preventDefault();
+        });
+    })
+    </script>
+  {% endif %}
+</head>
+<body>
+  {% if by_email %}
+    {% block email_only_style %}
+    <style>
+    .top-header {
+        top: 0;
+    }
+    .bottom-footer {
+        bottom: 0;
+    }
+    .email-only {
+        font-size: small;
+        background: #eee;
+        color: #777;
+        text-align: center;
+        position: absolute;
+        width: 100%;
+    }
+    .email-only a{
+        color: #777;
+        text-decoration: underline;
+    }
+    </style>
+    {% endblock %}
+  {% endif %}
+  {% block style %}
+  <style>
+    body {
+        background: #eee;
+    }
+    #newsletter {
+        width: 600px;
+        background: #fff;
+        padding: 20px 20px 20px 20px;
+        border: solid thin #ccc;
+        margin: auto;
+    }
+    .newsletter-item {
+        min-height: 128px;
+        border: solid thin #ccc;
+    }
+    .newsletter-item img {
+        float: left;
+    }
+    .newsletter-item .item-content{
+        padding-left: 135px;
+    }
+  </style>
+  {% endblock %}
+
+    {% if by_email %}
+    {% block email_only_header %}
+    <div class="top-header email-only">
+        <div class="item">
+            {% trans "If you can't view this email, " %}
+            <a href="{{SITE_PREFIX}}{% url "coop_cms_view_newsletter" newsletter.id %}">
+                {% trans "read the online version" %}
+            </a>
+        </div>
+    </div>
+    {% endblock %}
+    {% endif %}
+
+    <div id="newsletter">
+    {% block newsletter %}
+        {% cms_edit newsletter %}
+            <div id="content">{{ newsletter.content }}</div>
+            {% include "coop_cms/_newsletter_articles.html" %}
+        {% end_cms_edit %}
+    {% endblock %}
+    </div>
+
+    {% if by_email %}
+    {% block email_only_footer %}
+        {% comment %}Put unsunbscribe link here{% endcomment %}
+    {% endblock %}
+    {% endif %}
+
+    {% if editable %}
+      {% include "coop_cms/_messages.html" %}
+      {% coop_bar %}
+    {% endif %}
+</body>

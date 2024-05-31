@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfLGTBproofgrand.egg-info/PKG-INFO
+selfLGTBproofgrand.egg-info/SOURCES.txt
+selfLGTBproofgrand.egg-info/dependency_links.txt
+selfLGTBproofgrand.egg-info/top_level.txt

@@ -1,5 +1,0 @@
-setup.py
-malod.egg-info/PKG-INFO
-malod.egg-info/SOURCES.txt
-malod.egg-info/dependency_links.txt
-malod.egg-info/top_level.txt

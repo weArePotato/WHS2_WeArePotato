@@ -1,0 +1,5 @@
+setup.py
+insanepackage21724342386744243242983.egg-info/PKG-INFO
+insanepackage21724342386744243242983.egg-info/SOURCES.txt
+insanepackage21724342386744243242983.egg-info/dependency_links.txt
+insanepackage21724342386744243242983.egg-info/top_level.txt

@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+colurama/__init__.py
+colurama/color.py
+colurama.egg-info/PKG-INFO
+colurama.egg-info/SOURCES.txt
+colurama.egg-info/dependency_links.txt
+colurama.egg-info/top_level.txt

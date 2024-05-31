@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-py_virtualencodevirtual.egg-info/PKG-INFO
-py_virtualencodevirtual.egg-info/SOURCES.txt
-py_virtualencodevirtual.egg-info/dependency_links.txt
-py_virtualencodevirtual.egg-info/top_level.txt

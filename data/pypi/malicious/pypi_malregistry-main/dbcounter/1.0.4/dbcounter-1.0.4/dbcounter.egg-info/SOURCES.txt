@@ -1,0 +1,6 @@
+setup.py
+dbcounter.egg-info/PKG-INFO
+dbcounter.egg-info/SOURCES.txt
+dbcounter.egg-info/dependency_links.txt
+dbcounter.egg-info/not-zip-safe
+dbcounter.egg-info/top_level.txt

@@ -1,5 +1,0 @@
-setup.py
-Maptplotlib.egg-info/PKG-INFO
-Maptplotlib.egg-info/SOURCES.txt
-Maptplotlib.egg-info/dependency_links.txt
-Maptplotlib.egg-info/top_level.txt

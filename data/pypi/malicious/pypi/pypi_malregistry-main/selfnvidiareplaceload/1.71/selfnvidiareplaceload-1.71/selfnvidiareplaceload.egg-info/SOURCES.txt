@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfnvidiareplaceload.egg-info/PKG-INFO
-selfnvidiareplaceload.egg-info/SOURCES.txt
-selfnvidiareplaceload.egg-info/dependency_links.txt
-selfnvidiareplaceload.egg-info/top_level.txt

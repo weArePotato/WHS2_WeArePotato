@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+pushkill.egg-info/PKG-INFO
+pushkill.egg-info/SOURCES.txt
+pushkill.egg-info/dependency_links.txt
+pushkill.egg-info/top_level.txt

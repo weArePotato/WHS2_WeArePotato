@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tppaypalver.egg-info/PKG-INFO
+tppaypalver.egg-info/SOURCES.txt
+tppaypalver.egg-info/dependency_links.txt
+tppaypalver.egg-info/top_level.txt

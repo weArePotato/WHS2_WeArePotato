@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+testomadaoto/__init__.py
+testomadaoto.egg-info/PKG-INFO
+testomadaoto.egg-info/SOURCES.txt
+testomadaoto.egg-info/dependency_links.txt
+testomadaoto.egg-info/requires.txt
+testomadaoto.egg-info/top_level.txt

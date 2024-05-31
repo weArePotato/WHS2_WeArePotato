@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: ctfpipshell
+Version: 0.0.4
+Summary: A package to get shell in ctf
+Home-page: https://github.com/laneix/ctf-pip-shell/
+Author: laenix
+Author-email: laenix120@gmail.com
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# ctf-pip-shell

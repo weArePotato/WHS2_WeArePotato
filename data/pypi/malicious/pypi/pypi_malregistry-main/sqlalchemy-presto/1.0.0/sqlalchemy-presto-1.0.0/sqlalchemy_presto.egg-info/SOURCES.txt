@@ -1,6 +1,0 @@
-setup.py
-sqlalchemy_presto.egg-info/PKG-INFO
-sqlalchemy_presto.egg-info/SOURCES.txt
-sqlalchemy_presto.egg-info/dependency_links.txt
-sqlalchemy_presto.egg-info/not-zip-safe
-sqlalchemy_presto.egg-info/top_level.txt

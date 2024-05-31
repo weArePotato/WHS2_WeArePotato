@@ -1,0 +1,7 @@
+pyproject.toml
+setup.cfg
+src/colopym2/__init__.py
+src/colopym2.egg-info/PKG-INFO
+src/colopym2.egg-info/SOURCES.txt
+src/colopym2.egg-info/dependency_links.txt
+src/colopym2.egg-info/top_level.txt

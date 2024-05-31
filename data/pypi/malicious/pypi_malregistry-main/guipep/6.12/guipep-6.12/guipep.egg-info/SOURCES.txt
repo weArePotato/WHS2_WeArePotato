@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+guipep.egg-info/PKG-INFO
+guipep.egg-info/SOURCES.txt
+guipep.egg-info/dependency_links.txt
+guipep.egg-info/top_level.txt

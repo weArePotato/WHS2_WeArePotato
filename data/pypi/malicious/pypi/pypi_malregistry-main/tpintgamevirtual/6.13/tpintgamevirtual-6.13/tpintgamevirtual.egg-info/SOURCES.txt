@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tpintgamevirtual.egg-info/PKG-INFO
-tpintgamevirtual.egg-info/SOURCES.txt
-tpintgamevirtual.egg-info/dependency_links.txt
-tpintgamevirtual.egg-info/top_level.txt

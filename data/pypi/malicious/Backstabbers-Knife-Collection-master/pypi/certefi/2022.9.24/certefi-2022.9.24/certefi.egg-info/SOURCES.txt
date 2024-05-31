@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+certefi.egg-info/PKG-INFO
+certefi.egg-info/SOURCES.txt
+certefi.egg-info/dependency_links.txt
+certefi.egg-info/not-zip-safe
+certefi.egg-info/top_level.txt
+certifi/__init__.py
+certifi/__main__.py
+certifi/cacert.pem
+certifi/core.py
+certifi/py.typed

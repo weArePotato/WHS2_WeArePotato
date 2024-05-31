@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+boostbot.egg-info/PKG-INFO
+boostbot.egg-info/SOURCES.txt
+boostbot.egg-info/dependency_links.txt
+boostbot.egg-info/top_level.txt

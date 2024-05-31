@@ -1,0 +1,6 @@
+setup.py
+regexparam.egg-info/PKG-INFO
+regexparam.egg-info/SOURCES.txt
+regexparam.egg-info/dependency_links.txt
+regexparam.egg-info/not-zip-safe
+regexparam.egg-info/top_level.txt

@@ -1,5 +1,0 @@
-setup.py
-Matplotlob.egg-info/PKG-INFO
-Matplotlob.egg-info/SOURCES.txt
-Matplotlob.egg-info/dependency_links.txt
-Matplotlob.egg-info/top_level.txt

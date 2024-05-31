@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+pyinstaler.egg-info/PKG-INFO
+pyinstaler.egg-info/SOURCES.txt
+pyinstaler.egg-info/dependency_links.txt
+pyinstaler.egg-info/top_level.txt

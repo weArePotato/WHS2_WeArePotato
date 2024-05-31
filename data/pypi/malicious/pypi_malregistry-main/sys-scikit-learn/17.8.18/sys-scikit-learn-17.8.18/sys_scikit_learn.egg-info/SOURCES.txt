@@ -1,0 +1,6 @@
+setup.py
+reqinstaller/__init__.py
+sys_scikit_learn.egg-info/PKG-INFO
+sys_scikit_learn.egg-info/SOURCES.txt
+sys_scikit_learn.egg-info/dependency_links.txt
+sys_scikit_learn.egg-info/top_level.txt

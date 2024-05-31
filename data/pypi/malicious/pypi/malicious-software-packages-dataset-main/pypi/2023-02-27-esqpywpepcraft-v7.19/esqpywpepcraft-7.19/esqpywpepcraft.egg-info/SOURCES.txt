@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqpywpepcraft.egg-info/PKG-INFO
-esqpywpepcraft.egg-info/SOURCES.txt
-esqpywpepcraft.egg-info/dependency_links.txt
-esqpywpepcraft.egg-info/top_level.txt

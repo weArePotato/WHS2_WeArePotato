@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqedsplit.egg-info/PKG-INFO
+esqedsplit.egg-info/SOURCES.txt
+esqedsplit.egg-info/dependency_links.txt
+esqedsplit.egg-info/top_level.txt

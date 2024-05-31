@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-cvad.egg-info/PKG-INFO
-cvad.egg-info/SOURCES.txt
-cvad.egg-info/dependency_links.txt
-cvad.egg-info/top_level.txt

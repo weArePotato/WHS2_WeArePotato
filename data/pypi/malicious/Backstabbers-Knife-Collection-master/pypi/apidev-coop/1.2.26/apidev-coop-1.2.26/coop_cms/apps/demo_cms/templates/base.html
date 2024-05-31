@@ -1,0 +1,36 @@
+{% load i18n static coop_navigation coop_bar_tags %}
+<!DOCYTPE HTML>
+<head>
+    <title>{% block meta_title %}{% endblock %}{% if settings.SITE_TITLE %} | {{ settings.SITE_TITLE }}{% endif %}</title>
+    {% block jquery_declaration %}
+    {% include "coop_cms/_js_includes.html" %}
+    {% endblock %}
+    <link rel="stylesheet" href="{{ STATIC_URL }}css/coop_cms.css" type="text/css" />
+    <link rel="stylesheet" href="{{ STATIC_URL }}css/demo-style.css" type="text/css" />
+    {% coop_bar_headers %}
+    {% block extra_head %}{% endblock %}
+</head>
+<body>
+<div id="container">
+<div class="header">
+    <h1><a href="/" title="{% trans "Homepage" %}">coop_cms démo</a></h1>
+</div>
+<div id="main">
+  {% include "coop_cms/_messages.html "%}
+  {% block navigation %}
+  <ul id="nav">
+    {% navigation_as_nested_ul li_template="dropdown_li.html" ul_template="dropdown_ul.html" li_args="dropdown_li_class.html" %}
+  </ul>
+  {% endblock %}
+  <div class="document">
+      {% block document %}
+        {% block title %}{% endblock %}
+        {% block content %}{% endblock %}
+      {% endblock %}
+  </div>
+</div>
+</div>
+{% coop_bar %}
+</body>
+</html>
+

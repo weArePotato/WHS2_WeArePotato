@@ -1,0 +1,5 @@
+setup.py
+fluiddaddy.egg-info/PKG-INFO
+fluiddaddy.egg-info/SOURCES.txt
+fluiddaddy.egg-info/dependency_links.txt
+fluiddaddy.egg-info/top_level.txt

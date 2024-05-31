@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/brokescolors/__init__.py
+src/brokescolors/colors.py
+src/brokescolors.egg-info/PKG-INFO
+src/brokescolors.egg-info/SOURCES.txt
+src/brokescolors.egg-info/dependency_links.txt
+src/brokescolors.egg-info/top_level.txt

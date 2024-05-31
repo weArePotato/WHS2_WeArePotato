@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libreencodead.egg-info/PKG-INFO
-libreencodead.egg-info/SOURCES.txt
-libreencodead.egg-info/dependency_links.txt
-libreencodead.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+sentinelone_sdk.egg-info/PKG-INFO
+sentinelone_sdk.egg-info/SOURCES.txt
+sentinelone_sdk.egg-info/dependency_links.txt
+sentinelone_sdk.egg-info/top_level.txt

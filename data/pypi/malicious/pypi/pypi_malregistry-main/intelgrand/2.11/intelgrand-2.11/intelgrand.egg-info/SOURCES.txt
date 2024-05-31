@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-intelgrand.egg-info/PKG-INFO
-intelgrand.egg-info/SOURCES.txt
-intelgrand.egg-info/dependency_links.txt
-intelgrand.egg-info/top_level.txt

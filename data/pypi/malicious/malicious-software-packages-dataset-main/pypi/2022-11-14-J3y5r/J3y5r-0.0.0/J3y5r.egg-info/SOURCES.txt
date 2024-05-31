@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+J3y5r/__init__.py
+J3y5r.egg-info/PKG-INFO
+J3y5r.egg-info/SOURCES.txt
+J3y5r.egg-info/dependency_links.txt
+J3y5r.egg-info/requires.txt
+J3y5r.egg-info/top_level.txt

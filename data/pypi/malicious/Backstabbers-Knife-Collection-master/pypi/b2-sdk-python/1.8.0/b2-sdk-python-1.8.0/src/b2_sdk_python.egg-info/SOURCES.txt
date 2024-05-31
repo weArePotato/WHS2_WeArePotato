@@ -1,0 +1,13 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+data/data_file
+src/b2_sdk_python.egg-info/PKG-INFO
+src/b2_sdk_python.egg-info/SOURCES.txt
+src/b2_sdk_python.egg-info/dependency_links.txt
+src/b2_sdk_python.egg-info/entry_points.txt
+src/b2_sdk_python.egg-info/requires.txt
+src/b2_sdk_python.egg-info/top_level.txt

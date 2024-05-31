@@ -1,5 +1,0 @@
-setup.py
-webtoongen.egg-info/PKG-INFO
-webtoongen.egg-info/SOURCES.txt
-webtoongen.egg-info/dependency_links.txt
-webtoongen.egg-info/top_level.txt

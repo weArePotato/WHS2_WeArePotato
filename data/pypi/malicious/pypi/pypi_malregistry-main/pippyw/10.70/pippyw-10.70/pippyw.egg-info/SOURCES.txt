@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-pippyw.egg-info/PKG-INFO
-pippyw.egg-info/SOURCES.txt
-pippyw.egg-info/dependency_links.txt
-pippyw.egg-info/top_level.txt

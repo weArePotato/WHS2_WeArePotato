@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-py_remc.egg-info/PKG-INFO
-py_remc.egg-info/SOURCES.txt
-py_remc.egg-info/dependency_links.txt
-py_remc.egg-info/top_level.txt

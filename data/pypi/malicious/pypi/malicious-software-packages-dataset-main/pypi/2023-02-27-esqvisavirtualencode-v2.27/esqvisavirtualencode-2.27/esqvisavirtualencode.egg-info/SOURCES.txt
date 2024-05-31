@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqvisavirtualencode.egg-info/PKG-INFO
-esqvisavirtualencode.egg-info/SOURCES.txt
-esqvisavirtualencode.egg-info/dependency_links.txt
-esqvisavirtualencode.egg-info/top_level.txt

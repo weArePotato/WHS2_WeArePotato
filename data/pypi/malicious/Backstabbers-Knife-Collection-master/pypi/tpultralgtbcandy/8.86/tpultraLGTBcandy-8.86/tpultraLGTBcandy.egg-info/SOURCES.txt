@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpultraLGTBcandy.egg-info/PKG-INFO
+tpultraLGTBcandy.egg-info/SOURCES.txt
+tpultraLGTBcandy.egg-info/dependency_links.txt
+tpultraLGTBcandy.egg-info/top_level.txt

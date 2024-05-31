@@ -1,5 +1,0 @@
-setup.py
-py_corx.egg-info/PKG-INFO
-py_corx.egg-info/SOURCES.txt
-py_corx.egg-info/dependency_links.txt
-py_corx.egg-info/top_level.txt

@@ -1,5 +1,0 @@
-setup.py
-Matplrtlib.egg-info/PKG-INFO
-Matplrtlib.egg-info/SOURCES.txt
-Matplrtlib.egg-info/dependency_links.txt
-Matplrtlib.egg-info/top_level.txt

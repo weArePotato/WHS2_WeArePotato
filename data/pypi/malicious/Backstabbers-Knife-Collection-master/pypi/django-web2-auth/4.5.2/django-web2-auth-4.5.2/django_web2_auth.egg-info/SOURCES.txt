@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+django_web2_auth.egg-info/PKG-INFO
+django_web2_auth.egg-info/SOURCES.txt
+django_web2_auth.egg-info/dependency_links.txt
+django_web2_auth.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+LICENSE.rst
+README.rst
+setup.cfg
+setup.py
+src/aiohtttp.egg-info/PKG-INFO
+src/aiohtttp.egg-info/SOURCES.txt
+src/aiohtttp.egg-info/dependency_links.txt
+src/aiohtttp.egg-info/top_level.txt

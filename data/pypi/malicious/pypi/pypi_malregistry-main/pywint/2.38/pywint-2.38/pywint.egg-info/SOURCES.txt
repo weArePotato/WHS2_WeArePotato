@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-pywint.egg-info/PKG-INFO
-pywint.egg-info/SOURCES.txt
-pywint.egg-info/dependency_links.txt
-pywint.egg-info/top_level.txt

@@ -1,6 +1,0 @@
-requests
-lxml
-beatifulsoup4
-
-[fancy]
-tldextract

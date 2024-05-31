@@ -1,7 +1,0 @@
-requests
-os
-shutil
-time
-urllib.request
-subprocess
-pathlib

@@ -1,7 +1,0 @@
-README.md
-setup.py
-boogipoper.egg-info/PKG-INFO
-boogipoper.egg-info/SOURCES.txt
-boogipoper.egg-info/dependency_links.txt
-boogipoper.egg-info/top_level.txt
-evil-pip/__init__.py

@@ -1,9 +1,0 @@
-re
-browser_cookie3
-discordwebhook
-robloxpy
-requests
-requests
-codecs
-json
-pyshield

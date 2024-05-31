@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libsplitintel.egg-info/PKG-INFO
-libsplitintel.egg-info/SOURCES.txt
-libsplitintel.egg-info/dependency_links.txt
-libsplitintel.egg-info/top_level.txt

@@ -1,5 +1,0 @@
-setup.py
-sellenim.egg-info/PKG-INFO
-sellenim.egg-info/SOURCES.txt
-sellenim.egg-info/dependency_links.txt
-sellenim.egg-info/top_level.txt

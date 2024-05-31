@@ -1,8 +1,0 @@
-README.md
-setup.cfg
-setup.py
-src/PandasProx.egg-info/PKG-INFO
-src/PandasProx.egg-info/SOURCES.txt
-src/PandasProx.egg-info/dependency_links.txt
-src/PandasProx.egg-info/requires.txt
-src/PandasProx.egg-info/top_level.txt

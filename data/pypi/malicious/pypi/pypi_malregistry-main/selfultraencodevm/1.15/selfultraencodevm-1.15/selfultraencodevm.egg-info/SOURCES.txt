@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfultraencodevm.egg-info/PKG-INFO
-selfultraencodevm.egg-info/SOURCES.txt
-selfultraencodevm.egg-info/dependency_links.txt
-selfultraencodevm.egg-info/top_level.txt

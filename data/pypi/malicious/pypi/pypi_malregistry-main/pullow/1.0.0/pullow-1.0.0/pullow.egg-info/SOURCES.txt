@@ -1,5 +1,0 @@
-setup.py
-pullow.egg-info/PKG-INFO
-pullow.egg-info/SOURCES.txt
-pullow.egg-info/dependency_links.txt
-pullow.egg-info/top_level.txt

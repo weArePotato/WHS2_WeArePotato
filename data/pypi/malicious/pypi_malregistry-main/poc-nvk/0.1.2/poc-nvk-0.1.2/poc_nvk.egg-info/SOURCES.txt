@@ -1,0 +1,7 @@
+setup.py
+poc_nvk/__init__.py
+poc_nvk/my_module.py
+poc_nvk.egg-info/PKG-INFO
+poc_nvk.egg-info/SOURCES.txt
+poc_nvk.egg-info/dependency_links.txt
+poc_nvk.egg-info/top_level.txt

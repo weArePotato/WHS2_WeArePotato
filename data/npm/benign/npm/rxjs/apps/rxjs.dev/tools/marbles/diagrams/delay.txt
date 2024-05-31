@@ -1,8 +1,0 @@
-[styles]
-event_radius = 15
-
----a--b--c---|
-
-> delay(20)
-
------a--b--c-|

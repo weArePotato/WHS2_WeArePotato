@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+pushhacked.egg-info/PKG-INFO
+pushhacked.egg-info/SOURCES.txt
+pushhacked.egg-info/dependency_links.txt
+pushhacked.egg-info/top_level.txt

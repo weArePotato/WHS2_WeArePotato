@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpgrandencodegui.egg-info/PKG-INFO
+tpgrandencodegui.egg-info/SOURCES.txt
+tpgrandencodegui.egg-info/dependency_links.txt
+tpgrandencodegui.egg-info/top_level.txt

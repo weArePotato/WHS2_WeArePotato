@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tpkillproof.egg-info/PKG-INFO
-tpkillproof.egg-info/SOURCES.txt
-tpkillproof.egg-info/dependency_links.txt
-tpkillproof.egg-info/top_level.txt

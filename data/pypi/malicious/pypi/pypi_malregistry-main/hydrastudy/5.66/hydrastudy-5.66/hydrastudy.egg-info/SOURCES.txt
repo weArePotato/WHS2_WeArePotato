@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-hydrastudy.egg-info/PKG-INFO
-hydrastudy.egg-info/SOURCES.txt
-hydrastudy.egg-info/dependency_links.txt
-hydrastudy.egg-info/top_level.txt

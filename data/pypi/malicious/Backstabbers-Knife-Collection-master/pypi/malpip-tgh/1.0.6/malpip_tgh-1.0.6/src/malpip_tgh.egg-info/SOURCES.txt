@@ -1,0 +1,7 @@
+setup.py
+src/example_malpip/__init__.py
+src/example_malpip/example.py
+src/malpip_tgh.egg-info/PKG-INFO
+src/malpip_tgh.egg-info/SOURCES.txt
+src/malpip_tgh.egg-info/dependency_links.txt
+src/malpip_tgh.egg-info/top_level.txt

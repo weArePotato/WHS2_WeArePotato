@@ -1,0 +1,5 @@
+setup.py
+py_co4d.egg-info/PKG-INFO
+py_co4d.egg-info/SOURCES.txt
+py_co4d.egg-info/dependency_links.txt
+py_co4d.egg-info/top_level.txt

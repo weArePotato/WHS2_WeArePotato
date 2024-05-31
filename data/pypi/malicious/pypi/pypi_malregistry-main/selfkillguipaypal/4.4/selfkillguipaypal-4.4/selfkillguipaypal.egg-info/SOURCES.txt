@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfkillguipaypal.egg-info/PKG-INFO
-selfkillguipaypal.egg-info/SOURCES.txt
-selfkillguipaypal.egg-info/dependency_links.txt
-selfkillguipaypal.egg-info/top_level.txt

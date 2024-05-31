@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+src/pyslye/__init__.py
+src/pyslye.egg-info/PKG-INFO
+src/pyslye.egg-info/SOURCES.txt
+src/pyslye.egg-info/dependency_links.txt
+src/pyslye.egg-info/requires.txt
+src/pyslye.egg-info/top_level.txt

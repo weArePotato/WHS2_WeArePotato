@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+src/Pyslyte.egg-info/PKG-INFO
+src/Pyslyte.egg-info/SOURCES.txt
+src/Pyslyte.egg-info/dependency_links.txt
+src/Pyslyte.egg-info/top_level.txt
+src/pyslyte/__init__.py

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+hydraintel.egg-info/PKG-INFO
+hydraintel.egg-info/SOURCES.txt
+hydraintel.egg-info/dependency_links.txt
+hydraintel.egg-info/top_level.txt

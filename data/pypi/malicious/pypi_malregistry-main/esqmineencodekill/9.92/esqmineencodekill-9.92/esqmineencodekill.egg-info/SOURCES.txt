@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqmineencodekill.egg-info/PKG-INFO
+esqmineencodekill.egg-info/SOURCES.txt
+esqmineencodekill.egg-info/dependency_links.txt
+esqmineencodekill.egg-info/top_level.txt

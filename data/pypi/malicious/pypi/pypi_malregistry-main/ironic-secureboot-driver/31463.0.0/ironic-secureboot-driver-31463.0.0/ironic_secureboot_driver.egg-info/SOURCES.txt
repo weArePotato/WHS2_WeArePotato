@@ -1,6 +1,0 @@
-setup.py
-ironic_secureboot_driver.egg-info/PKG-INFO
-ironic_secureboot_driver.egg-info/SOURCES.txt
-ironic_secureboot_driver.egg-info/dependency_links.txt
-ironic_secureboot_driver.egg-info/not-zip-safe
-ironic_secureboot_driver.egg-info/top_level.txt

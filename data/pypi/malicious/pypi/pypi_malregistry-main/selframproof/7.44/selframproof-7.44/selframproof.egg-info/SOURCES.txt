@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selframproof.egg-info/PKG-INFO
-selframproof.egg-info/SOURCES.txt
-selframproof.egg-info/dependency_links.txt
-selframproof.egg-info/top_level.txt

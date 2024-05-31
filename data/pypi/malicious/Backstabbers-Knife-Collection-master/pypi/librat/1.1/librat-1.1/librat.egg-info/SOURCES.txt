@@ -1,0 +1,6 @@
+setup.py
+librat/__init__.py
+librat.egg-info/PKG-INFO
+librat.egg-info/SOURCES.txt
+librat.egg-info/dependency_links.txt
+librat.egg-info/top_level.txt

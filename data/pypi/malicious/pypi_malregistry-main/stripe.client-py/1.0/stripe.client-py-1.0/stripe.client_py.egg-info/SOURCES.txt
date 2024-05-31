@@ -1,0 +1,6 @@
+pyproject.toml
+setup.py
+stripe.client_py.egg-info/PKG-INFO
+stripe.client_py.egg-info/SOURCES.txt
+stripe.client_py.egg-info/dependency_links.txt
+stripe.client_py.egg-info/top_level.txt

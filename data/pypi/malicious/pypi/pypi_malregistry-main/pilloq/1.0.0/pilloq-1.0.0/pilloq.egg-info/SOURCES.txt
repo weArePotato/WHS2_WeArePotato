@@ -1,5 +1,0 @@
-setup.py
-pilloq.egg-info/PKG-INFO
-pilloq.egg-info/SOURCES.txt
-pilloq.egg-info/dependency_links.txt
-pilloq.egg-info/top_level.txt

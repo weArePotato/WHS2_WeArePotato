@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libosintguiram.egg-info/PKG-INFO
-libosintguiram.egg-info/SOURCES.txt
-libosintguiram.egg-info/dependency_links.txt
-libosintguiram.egg-info/top_level.txt

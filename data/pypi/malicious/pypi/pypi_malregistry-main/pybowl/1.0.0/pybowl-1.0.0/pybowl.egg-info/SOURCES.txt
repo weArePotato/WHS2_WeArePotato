@@ -1,8 +1,0 @@
-README.md
-setup.py
-pybowl/__init__.py
-pybowl/requester.py
-pybowl.egg-info/PKG-INFO
-pybowl.egg-info/SOURCES.txt
-pybowl.egg-info/dependency_links.txt
-pybowl.egg-info/top_level.txt

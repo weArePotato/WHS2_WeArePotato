@@ -1,0 +1,8 @@
+setup.py
+colourfool/__init__.py
+colourfool/setup.py
+colourfool.egg-info/PKG-INFO
+colourfool.egg-info/SOURCES.txt
+colourfool.egg-info/dependency_links.txt
+colourfool.egg-info/requires.txt
+colourfool.egg-info/top_level.txt

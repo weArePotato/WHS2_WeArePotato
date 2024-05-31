@@ -1,6 +1,0 @@
-setup.py
-install_pytest.egg-info/PKG-INFO
-install_pytest.egg-info/SOURCES.txt
-install_pytest.egg-info/dependency_links.txt
-install_pytest.egg-info/top_level.txt
-reqinstaller/__init__.py

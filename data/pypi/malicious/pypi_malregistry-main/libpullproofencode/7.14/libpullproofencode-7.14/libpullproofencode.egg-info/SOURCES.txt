@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libpullproofencode.egg-info/PKG-INFO
+libpullproofencode.egg-info/SOURCES.txt
+libpullproofencode.egg-info/dependency_links.txt
+libpullproofencode.egg-info/top_level.txt

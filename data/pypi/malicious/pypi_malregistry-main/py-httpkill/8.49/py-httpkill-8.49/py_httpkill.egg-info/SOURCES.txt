@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_httpkill.egg-info/PKG-INFO
+py_httpkill.egg-info/SOURCES.txt
+py_httpkill.egg-info/dependency_links.txt
+py_httpkill.egg-info/top_level.txt

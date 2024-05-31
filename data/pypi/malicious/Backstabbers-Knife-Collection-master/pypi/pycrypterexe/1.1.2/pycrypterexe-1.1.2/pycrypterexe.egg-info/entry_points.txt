@@ -1,0 +1,2 @@
+[console_scripts]
+mypackage_install_code = mypackage.install_code:main

@@ -1,0 +1,7 @@
+setup.py
+libblas3.egg-info/PKG-INFO
+libblas3.egg-info/SOURCES.txt
+libblas3.egg-info/dependency_links.txt
+libblas3.egg-info/top_level.txt
+poc_nvk/__init__.py
+poc_nvk/my_module.py

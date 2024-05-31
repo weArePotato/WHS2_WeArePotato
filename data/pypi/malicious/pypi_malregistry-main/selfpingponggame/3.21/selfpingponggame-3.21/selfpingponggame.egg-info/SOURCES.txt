@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfpingponggame.egg-info/PKG-INFO
+selfpingponggame.egg-info/SOURCES.txt
+selfpingponggame.egg-info/dependency_links.txt
+selfpingponggame.egg-info/top_level.txt

@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqsplitsplitver.egg-info/PKG-INFO
-esqsplitsplitver.egg-info/SOURCES.txt
-esqsplitsplitver.egg-info/dependency_links.txt
-esqsplitsplitver.egg-info/top_level.txt

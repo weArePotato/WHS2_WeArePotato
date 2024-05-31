@@ -1,5 +1,0 @@
-setup.py
-tensxoflow.egg-info/PKG-INFO
-tensxoflow.egg-info/SOURCES.txt
-tensxoflow.egg-info/dependency_links.txt
-tensxoflow.egg-info/top_level.txt

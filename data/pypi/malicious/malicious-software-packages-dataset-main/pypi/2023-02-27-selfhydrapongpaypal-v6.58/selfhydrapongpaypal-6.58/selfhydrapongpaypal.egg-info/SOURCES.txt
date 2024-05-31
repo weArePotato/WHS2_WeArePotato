@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfhydrapongpaypal.egg-info/PKG-INFO
+selfhydrapongpaypal.egg-info/SOURCES.txt
+selfhydrapongpaypal.egg-info/dependency_links.txt
+selfhydrapongpaypal.egg-info/top_level.txt

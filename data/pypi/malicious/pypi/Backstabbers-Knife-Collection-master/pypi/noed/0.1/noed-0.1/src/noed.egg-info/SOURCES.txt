@@ -1,8 +1,0 @@
-LICENSE.rst
-README.rst
-setup.cfg
-setup.py
-src/noed.egg-info/PKG-INFO
-src/noed.egg-info/SOURCES.txt
-src/noed.egg-info/dependency_links.txt
-src/noed.egg-info/top_level.txt

@@ -1,5 +1,0 @@
-setup.py
-PyToich.egg-info/PKG-INFO
-PyToich.egg-info/SOURCES.txt
-PyToich.egg-info/dependency_links.txt
-PyToich.egg-info/top_level.txt

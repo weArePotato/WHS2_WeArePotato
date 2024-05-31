@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-hydraping.egg-info/PKG-INFO
-hydraping.egg-info/SOURCES.txt
-hydraping.egg-info/dependency_links.txt
-hydraping.egg-info/top_level.txt

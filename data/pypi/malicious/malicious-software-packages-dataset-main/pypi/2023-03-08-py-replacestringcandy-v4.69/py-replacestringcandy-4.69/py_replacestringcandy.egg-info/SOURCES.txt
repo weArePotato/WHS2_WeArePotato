@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_replacestringcandy.egg-info/PKG-INFO
+py_replacestringcandy.egg-info/SOURCES.txt
+py_replacestringcandy.egg-info/dependency_links.txt
+py_replacestringcandy.egg-info/top_level.txt

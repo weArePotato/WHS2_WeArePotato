@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libcandystr.egg-info/PKG-INFO
-libcandystr.egg-info/SOURCES.txt
-libcandystr.egg-info/dependency_links.txt
-libcandystr.egg-info/top_level.txt

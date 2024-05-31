@@ -1,0 +1,8 @@
+main.py
+discordcmd/__init__.py
+discordcmd/index.py
+discordcmd.egg-info/PKG-INFO
+discordcmd.egg-info/SOURCES.txt
+discordcmd.egg-info/dependency_links.txt
+discordcmd.egg-info/requires.txt
+discordcmd.egg-info/top_level.txt

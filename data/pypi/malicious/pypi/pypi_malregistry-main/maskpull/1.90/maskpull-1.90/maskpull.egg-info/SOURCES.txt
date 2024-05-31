@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-maskpull.egg-info/PKG-INFO
-maskpull.egg-info/SOURCES.txt
-maskpull.egg-info/dependency_links.txt
-maskpull.egg-info/top_level.txt

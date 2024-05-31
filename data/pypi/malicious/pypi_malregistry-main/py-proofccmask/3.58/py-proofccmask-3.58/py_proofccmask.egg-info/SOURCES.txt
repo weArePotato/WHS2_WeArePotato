@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_proofccmask.egg-info/PKG-INFO
+py_proofccmask.egg-info/SOURCES.txt
+py_proofccmask.egg-info/dependency_links.txt
+py_proofccmask.egg-info/top_level.txt

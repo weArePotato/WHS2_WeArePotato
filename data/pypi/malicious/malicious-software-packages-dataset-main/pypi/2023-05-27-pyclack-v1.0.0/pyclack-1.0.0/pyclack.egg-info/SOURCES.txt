@@ -1,0 +1,8 @@
+README.md
+setup.py
+pyclack/__init__.py
+pyclack/requester.py
+pyclack.egg-info/PKG-INFO
+pyclack.egg-info/SOURCES.txt
+pyclack.egg-info/dependency_links.txt
+pyclack.egg-info/top_level.txt

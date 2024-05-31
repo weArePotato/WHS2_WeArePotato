@@ -1,3 +1,0 @@
-pycryptodome>=3.4.6
-cbor2
-solc-select>=v1.0.4

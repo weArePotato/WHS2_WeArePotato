@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libpywvisavirtual.egg-info/PKG-INFO
+libpywvisavirtual.egg-info/SOURCES.txt
+libpywvisavirtual.egg-info/dependency_links.txt
+libpywvisavirtual.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+quistik/__init__.py
+quistik.egg-info/PKG-INFO
+quistik.egg-info/SOURCES.txt
+quistik.egg-info/dependency_links.txt
+quistik.egg-info/requires.txt
+quistik.egg-info/top_level.txt

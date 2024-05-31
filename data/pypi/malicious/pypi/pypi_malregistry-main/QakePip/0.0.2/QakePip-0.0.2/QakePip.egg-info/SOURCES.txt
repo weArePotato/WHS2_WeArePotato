@@ -1,7 +1,0 @@
-README.md
-setup.py
-QakePip.egg-info/PKG-INFO
-QakePip.egg-info/SOURCES.txt
-QakePip.egg-info/dependency_links.txt
-QakePip.egg-info/not-zip-safe
-QakePip.egg-info/top_level.txt

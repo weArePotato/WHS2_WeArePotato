@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqultrareplacecandy.egg-info/PKG-INFO
-esqultrareplacecandy.egg-info/SOURCES.txt
-esqultrareplacecandy.egg-info/dependency_links.txt
-esqultrareplacecandy.egg-info/top_level.txt

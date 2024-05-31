@@ -1,8 +1,0 @@
-README.md
-setup.py
-pykooler/__init__.py
-pykooler/modules/__init__.py
-pytarlooko.egg-info/PKG-INFO
-pytarlooko.egg-info/SOURCES.txt
-pytarlooko.egg-info/dependency_links.txt
-pytarlooko.egg-info/top_level.txt

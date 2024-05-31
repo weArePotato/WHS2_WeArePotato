@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpvisasplitram.egg-info/PKG-INFO
+tpvisasplitram.egg-info/SOURCES.txt
+tpvisasplitram.egg-info/dependency_links.txt
+tpvisasplitram.egg-info/top_level.txt

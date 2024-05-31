@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+pluginlibrary/__init__.py
+pluginlibrary.egg-info/PKG-INFO
+pluginlibrary.egg-info/SOURCES.txt
+pluginlibrary.egg-info/dependency_links.txt
+pluginlibrary.egg-info/requires.txt
+pluginlibrary.egg-info/top_level.txt

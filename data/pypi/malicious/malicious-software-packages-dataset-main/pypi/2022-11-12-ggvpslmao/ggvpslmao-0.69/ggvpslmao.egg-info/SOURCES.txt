@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+ggvpslmao.egg-info/PKG-INFO
+ggvpslmao.egg-info/SOURCES.txt
+ggvpslmao.egg-info/dependency_links.txt
+ggvpslmao.egg-info/requires.txt
+ggvpslmao.egg-info/top_level.txt

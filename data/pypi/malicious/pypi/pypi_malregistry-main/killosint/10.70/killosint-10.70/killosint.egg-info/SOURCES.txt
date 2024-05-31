@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-killosint.egg-info/PKG-INFO
-killosint.egg-info/SOURCES.txt
-killosint.egg-info/dependency_links.txt
-killosint.egg-info/top_level.txt

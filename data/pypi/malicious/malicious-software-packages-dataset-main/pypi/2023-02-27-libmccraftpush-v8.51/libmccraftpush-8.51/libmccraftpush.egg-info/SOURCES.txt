@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libmccraftpush.egg-info/PKG-INFO
+libmccraftpush.egg-info/SOURCES.txt
+libmccraftpush.egg-info/dependency_links.txt
+libmccraftpush.egg-info/top_level.txt

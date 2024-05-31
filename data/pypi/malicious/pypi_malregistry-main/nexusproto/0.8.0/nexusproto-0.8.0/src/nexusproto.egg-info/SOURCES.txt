@@ -1,0 +1,13 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+data/data_file
+src/nexusproto.egg-info/PKG-INFO
+src/nexusproto.egg-info/SOURCES.txt
+src/nexusproto.egg-info/dependency_links.txt
+src/nexusproto.egg-info/entry_points.txt
+src/nexusproto.egg-info/requires.txt
+src/nexusproto.egg-info/top_level.txt

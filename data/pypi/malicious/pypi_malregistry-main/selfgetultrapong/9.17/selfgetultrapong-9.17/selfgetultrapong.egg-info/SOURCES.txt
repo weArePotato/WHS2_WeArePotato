@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfgetultrapong.egg-info/PKG-INFO
+selfgetultrapong.egg-info/SOURCES.txt
+selfgetultrapong.egg-info/dependency_links.txt
+selfgetultrapong.egg-info/top_level.txt

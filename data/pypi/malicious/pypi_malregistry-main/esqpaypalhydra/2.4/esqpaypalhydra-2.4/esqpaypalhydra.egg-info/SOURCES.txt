@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqpaypalhydra.egg-info/PKG-INFO
+esqpaypalhydra.egg-info/SOURCES.txt
+esqpaypalhydra.egg-info/dependency_links.txt
+esqpaypalhydra.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfcandyhttpnvidia.egg-info/PKG-INFO
+selfcandyhttpnvidia.egg-info/SOURCES.txt
+selfcandyhttpnvidia.egg-info/dependency_links.txt
+selfcandyhttpnvidia.egg-info/top_level.txt

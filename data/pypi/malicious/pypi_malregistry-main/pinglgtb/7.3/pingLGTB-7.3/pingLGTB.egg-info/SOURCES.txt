@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+pingLGTB.egg-info/PKG-INFO
+pingLGTB.egg-info/SOURCES.txt
+pingLGTB.egg-info/dependency_links.txt
+pingLGTB.egg-info/top_level.txt

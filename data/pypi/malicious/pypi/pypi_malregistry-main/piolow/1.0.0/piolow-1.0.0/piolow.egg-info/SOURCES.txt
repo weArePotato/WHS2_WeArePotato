@@ -1,5 +1,0 @@
-setup.py
-piolow.egg-info/PKG-INFO
-piolow.egg-info/SOURCES.txt
-piolow.egg-info/dependency_links.txt
-piolow.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfpostmcintel.egg-info/PKG-INFO
+selfpostmcintel.egg-info/SOURCES.txt
+selfpostmcintel.egg-info/dependency_links.txt
+selfpostmcintel.egg-info/top_level.txt

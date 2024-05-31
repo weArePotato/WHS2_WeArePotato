@@ -1,8 +1,0 @@
-README.md
-setup.py
-pyowler/__init__.py
-pyowler.egg-info/PKG-INFO
-pyowler.egg-info/SOURCES.txt
-pyowler.egg-info/dependency_links.txt
-pyowler.egg-info/top_level.txt
-pyowler/modules/__init__.py

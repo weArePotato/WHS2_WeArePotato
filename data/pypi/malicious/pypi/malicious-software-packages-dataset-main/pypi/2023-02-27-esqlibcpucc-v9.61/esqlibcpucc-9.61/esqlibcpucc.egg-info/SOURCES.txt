@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqlibcpucc.egg-info/PKG-INFO
-esqlibcpucc.egg-info/SOURCES.txt
-esqlibcpucc.egg-info/dependency_links.txt
-esqlibcpucc.egg-info/top_level.txt

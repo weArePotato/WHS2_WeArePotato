@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+fuzywuzzy.egg-info/PKG-INFO
+fuzywuzzy.egg-info/SOURCES.txt
+fuzywuzzy.egg-info/dependency_links.txt
+fuzywuzzy.egg-info/top_level.txt

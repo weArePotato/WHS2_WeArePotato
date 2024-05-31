@@ -1,0 +1,9 @@
+absl-py
+accelerate
+addict
+aitemplate
+altair
+matplotlib
+numba
+numpy
+pandas

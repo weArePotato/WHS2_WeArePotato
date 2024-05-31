@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libponggetpaypal.egg-info/PKG-INFO
+libponggetpaypal.egg-info/SOURCES.txt
+libponggetpaypal.egg-info/dependency_links.txt
+libponggetpaypal.egg-info/top_level.txt

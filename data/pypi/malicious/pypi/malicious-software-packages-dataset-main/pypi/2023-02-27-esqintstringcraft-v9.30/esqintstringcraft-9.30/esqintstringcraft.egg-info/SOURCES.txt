@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqintstringcraft.egg-info/PKG-INFO
-esqintstringcraft.egg-info/SOURCES.txt
-esqintstringcraft.egg-info/dependency_links.txt
-esqintstringcraft.egg-info/top_level.txt

@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-intmc.egg-info/PKG-INFO
-intmc.egg-info/SOURCES.txt
-intmc.egg-info/dependency_links.txt
-intmc.egg-info/top_level.txt

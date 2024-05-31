@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+hackedhydra.egg-info/PKG-INFO
+hackedhydra.egg-info/SOURCES.txt
+hackedhydra.egg-info/dependency_links.txt
+hackedhydra.egg-info/top_level.txt

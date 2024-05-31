@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+synthetictest1.egg-info/PKG-INFO
+synthetictest1.egg-info/SOURCES.txt
+synthetictest1.egg-info/dependency_links.txt
+synthetictest1.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfnvidiaccpong.egg-info/PKG-INFO
+selfnvidiaccpong.egg-info/SOURCES.txt
+selfnvidiaccpong.egg-info/dependency_links.txt
+selfnvidiaccpong.egg-info/top_level.txt

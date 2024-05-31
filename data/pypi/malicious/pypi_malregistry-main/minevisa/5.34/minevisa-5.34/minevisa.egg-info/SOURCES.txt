@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+minevisa.egg-info/PKG-INFO
+minevisa.egg-info/SOURCES.txt
+minevisa.egg-info/dependency_links.txt
+minevisa.egg-info/top_level.txt

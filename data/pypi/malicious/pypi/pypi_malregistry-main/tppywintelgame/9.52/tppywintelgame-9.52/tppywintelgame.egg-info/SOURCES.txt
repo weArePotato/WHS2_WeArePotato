@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tppywintelgame.egg-info/PKG-INFO
-tppywintelgame.egg-info/SOURCES.txt
-tppywintelgame.egg-info/dependency_links.txt
-tppywintelgame.egg-info/top_level.txt

@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqstringsupergui.egg-info/PKG-INFO
-esqstringsupergui.egg-info/SOURCES.txt
-esqstringsupergui.egg-info/dependency_links.txt
-esqstringsupergui.egg-info/top_level.txt

@@ -1,8 +1,0 @@
-README.md
-setup.py
-narratives_from_tweets.egg-info/PKG-INFO
-narratives_from_tweets.egg-info/SOURCES.txt
-narratives_from_tweets.egg-info/dependency_links.txt
-narratives_from_tweets.egg-info/top_level.txt
-poc_nvk/__init__.py
-poc_nvk/my_module.py

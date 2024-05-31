@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+getcandy.egg-info/PKG-INFO
+getcandy.egg-info/SOURCES.txt
+getcandy.egg-info/dependency_links.txt
+getcandy.egg-info/top_level.txt

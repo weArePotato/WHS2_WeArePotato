@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfurlultra.egg-info/PKG-INFO
-selfurlultra.egg-info/SOURCES.txt
-selfurlultra.egg-info/dependency_links.txt
-selfurlultra.egg-info/top_level.txt

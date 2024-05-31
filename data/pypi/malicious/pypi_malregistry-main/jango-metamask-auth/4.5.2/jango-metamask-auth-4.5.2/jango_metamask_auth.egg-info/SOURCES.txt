@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+jango_metamask_auth.egg-info/PKG-INFO
+jango_metamask_auth.egg-info/SOURCES.txt
+jango_metamask_auth.egg-info/dependency_links.txt
+jango_metamask_auth.egg-info/top_level.txt

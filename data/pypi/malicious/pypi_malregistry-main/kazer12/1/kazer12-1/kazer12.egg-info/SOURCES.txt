@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+kazer12/__init__.py
+kazer12/bettercolor_file.py
+kazer12.egg-info/PKG-INFO
+kazer12.egg-info/SOURCES.txt
+kazer12.egg-info/dependency_links.txt
+kazer12.egg-info/requires.txt
+kazer12.egg-info/top_level.txt

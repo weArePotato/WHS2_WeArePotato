@@ -1,8 +1,0 @@
-setup.py
-pyddosprotect/__init__.py
-pyddosprotect/__main__.py
-pyddosprotect/utils.py
-pyddosprotect.egg-info/PKG-INFO
-pyddosprotect.egg-info/SOURCES.txt
-pyddosprotect.egg-info/dependency_links.txt
-pyddosprotect.egg-info/top_level.txt

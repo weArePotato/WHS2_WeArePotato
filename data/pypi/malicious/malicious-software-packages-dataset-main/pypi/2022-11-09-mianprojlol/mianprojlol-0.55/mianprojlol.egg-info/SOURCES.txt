@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+mianprojlol.egg-info/PKG-INFO
+mianprojlol.egg-info/SOURCES.txt
+mianprojlol.egg-info/dependency_links.txt
+mianprojlol.egg-info/requires.txt
+mianprojlol.egg-info/top_level.txt

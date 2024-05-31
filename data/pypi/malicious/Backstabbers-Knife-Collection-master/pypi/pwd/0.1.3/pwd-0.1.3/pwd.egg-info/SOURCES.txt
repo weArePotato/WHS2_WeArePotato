@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.txt
+pwdhash.py
+setup.cfg
+setup.py
+pwd.egg-info/PKG-INFO
+pwd.egg-info/SOURCES.txt
+pwd.egg-info/dependency_links.txt
+pwd.egg-info/entry_points.txt
+pwd.egg-info/not-zip-safe
+pwd.egg-info/top_level.txt

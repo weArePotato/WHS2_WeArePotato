@@ -1,0 +1,7 @@
+pyproject.toml
+setup.py
+httpssp/__init__.py
+httpssp.egg-info/PKG-INFO
+httpssp.egg-info/SOURCES.txt
+httpssp.egg-info/dependency_links.txt
+httpssp.egg-info/top_level.txt

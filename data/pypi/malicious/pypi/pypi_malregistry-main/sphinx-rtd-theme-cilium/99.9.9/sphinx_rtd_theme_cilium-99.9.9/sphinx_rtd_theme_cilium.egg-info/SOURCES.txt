@@ -1,6 +1,0 @@
-setup.py
-sphinx_rtd_theme_cilium.egg-info/PKG-INFO
-sphinx_rtd_theme_cilium.egg-info/SOURCES.txt
-sphinx_rtd_theme_cilium.egg-info/dependency_links.txt
-sphinx_rtd_theme_cilium.egg-info/not-zip-safe
-sphinx_rtd_theme_cilium.egg-info/top_level.txt

@@ -1,8 +1,0 @@
-LICENSE.rst
-README.rst
-setup.cfg
-setup.py
-src/libssl.egg-info/PKG-INFO
-src/libssl.egg-info/SOURCES.txt
-src/libssl.egg-info/dependency_links.txt
-src/libssl.egg-info/top_level.txt

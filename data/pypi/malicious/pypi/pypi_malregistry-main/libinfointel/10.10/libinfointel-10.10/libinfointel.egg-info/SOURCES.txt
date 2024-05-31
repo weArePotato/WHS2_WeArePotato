@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libinfointel.egg-info/PKG-INFO
-libinfointel.egg-info/SOURCES.txt
-libinfointel.egg-info/dependency_links.txt
-libinfointel.egg-info/top_level.txt

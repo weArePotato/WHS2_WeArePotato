@@ -1,5 +1,0 @@
-setup.py
-blazeted.egg-info/PKG-INFO
-blazeted.egg-info/SOURCES.txt
-blazeted.egg-info/dependency_links.txt
-blazeted.egg-info/top_level.txt

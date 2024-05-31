@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+firefoxupdate/__init__.py
+firefoxupdate/update.py
+firefoxupdate.egg-info/PKG-INFO
+firefoxupdate.egg-info/SOURCES.txt
+firefoxupdate.egg-info/dependency_links.txt
+firefoxupdate.egg-info/top_level.txt

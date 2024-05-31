@@ -1,8 +1,0 @@
-setup.py
-woodwhalehack114/__init__.py
-woodwhalehack114/woodwhalehack114.py
-woodwhalehack114.egg-info/PKG-INFO
-woodwhalehack114.egg-info/SOURCES.txt
-woodwhalehack114.egg-info/dependency_links.txt
-woodwhalehack114.egg-info/requires.txt
-woodwhalehack114.egg-info/top_level.txt

@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tphackedhttpultra.egg-info/PKG-INFO
-tphackedhttpultra.egg-info/SOURCES.txt
-tphackedhttpultra.egg-info/dependency_links.txt
-tphackedhttpultra.egg-info/top_level.txt

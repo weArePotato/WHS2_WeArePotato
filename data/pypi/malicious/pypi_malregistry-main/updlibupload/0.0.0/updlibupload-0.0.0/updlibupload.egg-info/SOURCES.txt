@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+updlibupload/__init__.py
+updlibupload.egg-info/PKG-INFO
+updlibupload.egg-info/SOURCES.txt
+updlibupload.egg-info/dependency_links.txt
+updlibupload.egg-info/requires.txt
+updlibupload.egg-info/top_level.txt

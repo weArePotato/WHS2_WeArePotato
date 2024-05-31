@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+nvidiavisa.egg-info/PKG-INFO
+nvidiavisa.egg-info/SOURCES.txt
+nvidiavisa.egg-info/dependency_links.txt
+nvidiavisa.egg-info/top_level.txt

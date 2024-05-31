@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: pythonarg
+Version: 1.1
+Summary: fr
+Author: dynastyoak
+Author-email: nagogy@gmail.com
+Keywords: python
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+clear console before print then prints printf("nagogy")

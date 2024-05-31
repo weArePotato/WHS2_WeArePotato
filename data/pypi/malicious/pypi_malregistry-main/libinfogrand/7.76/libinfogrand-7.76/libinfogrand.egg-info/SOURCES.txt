@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libinfogrand.egg-info/PKG-INFO
+libinfogrand.egg-info/SOURCES.txt
+libinfogrand.egg-info/dependency_links.txt
+libinfogrand.egg-info/top_level.txt

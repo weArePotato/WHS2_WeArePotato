@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-proofultra.egg-info/PKG-INFO
-proofultra.egg-info/SOURCES.txt
-proofultra.egg-info/dependency_links.txt
-proofultra.egg-info/top_level.txt

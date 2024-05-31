@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfvisacontrolcraft.egg-info/PKG-INFO
+selfvisacontrolcraft.egg-info/SOURCES.txt
+selfvisacontrolcraft.egg-info/dependency_links.txt
+selfvisacontrolcraft.egg-info/top_level.txt

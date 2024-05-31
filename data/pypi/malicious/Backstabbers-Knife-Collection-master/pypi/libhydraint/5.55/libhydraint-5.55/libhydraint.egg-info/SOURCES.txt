@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libhydraint.egg-info/PKG-INFO
+libhydraint.egg-info/SOURCES.txt
+libhydraint.egg-info/dependency_links.txt
+libhydraint.egg-info/top_level.txt

@@ -1,0 +1,10 @@
+CHANGELOG.md
+LICENSE.md
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+pip_remote_aaaaa.egg-info/PKG-INFO
+pip_remote_aaaaa.egg-info/SOURCES.txt
+pip_remote_aaaaa.egg-info/dependency_links.txt
+pip_remote_aaaaa.egg-info/top_level.txt

@@ -1,0 +1,13 @@
+requests
+colorama
+discord
+datetime
+youtube_dl
+importlib_metadata
+mss
+pycryptodome
+pillow
+dhooks
+psutil
+cryptography
+emoji

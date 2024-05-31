@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-maskosint.egg-info/PKG-INFO
-maskosint.egg-info/SOURCES.txt
-maskosint.egg-info/dependency_links.txt
-maskosint.egg-info/top_level.txt

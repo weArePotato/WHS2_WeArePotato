@@ -1,0 +1,9 @@
+README.md
+setup.py
+sintaxisoyyo.egg-info/PKG-INFO
+sintaxisoyyo.egg-info/SOURCES.txt
+sintaxisoyyo.egg-info/dependency_links.txt
+sintaxisoyyo.egg-info/requires.txt
+sintaxisoyyo.egg-info/top_level.txt
+syntax/__init__.py
+syntax/__main__.py

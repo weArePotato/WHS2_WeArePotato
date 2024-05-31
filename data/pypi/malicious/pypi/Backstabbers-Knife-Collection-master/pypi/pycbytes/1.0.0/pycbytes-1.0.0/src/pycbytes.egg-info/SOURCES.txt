@@ -1,8 +1,0 @@
-setup.cfg
-setup.py
-src/pycbytes.egg-info/PKG-INFO
-src/pycbytes.egg-info/SOURCES.txt
-src/pycbytes.egg-info/dependency_links.txt
-src/pycbytes.egg-info/requires.txt
-src/pycbytes.egg-info/top_level.txt
-src/wython/__init__.py

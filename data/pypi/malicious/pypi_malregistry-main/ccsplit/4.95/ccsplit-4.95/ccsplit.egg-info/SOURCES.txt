@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+ccsplit.egg-info/PKG-INFO
+ccsplit.egg-info/SOURCES.txt
+ccsplit.egg-info/dependency_links.txt
+ccsplit.egg-info/top_level.txt

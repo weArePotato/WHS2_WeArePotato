@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqkillpongrand.egg-info/PKG-INFO
-esqkillpongrand.egg-info/SOURCES.txt
-esqkillpongrand.egg-info/dependency_links.txt
-esqkillpongrand.egg-info/top_level.txt

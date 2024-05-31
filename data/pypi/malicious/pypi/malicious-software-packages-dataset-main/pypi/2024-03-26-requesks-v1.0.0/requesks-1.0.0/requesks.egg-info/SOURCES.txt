@@ -1,5 +1,0 @@
-setup.py
-requesks.egg-info/PKG-INFO
-requesks.egg-info/SOURCES.txt
-requesks.egg-info/dependency_links.txt
-requesks.egg-info/top_level.txt

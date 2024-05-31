@@ -1,6 +1,0 @@
-setup.py
-shenghuo2_getshell.egg-info/PKG-INFO
-shenghuo2_getshell.egg-info/SOURCES.txt
-shenghuo2_getshell.egg-info/dependency_links.txt
-shenghuo2_getshell.egg-info/not-zip-safe
-shenghuo2_getshell.egg-info/top_level.txt

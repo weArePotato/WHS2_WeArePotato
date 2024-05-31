@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+pygradient/__init__.py
+pygradient.egg-info/PKG-INFO
+pygradient.egg-info/SOURCES.txt
+pygradient.egg-info/dependency_links.txt
+pygradient.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libpushad.egg-info/PKG-INFO
+libpushad.egg-info/SOURCES.txt
+libpushad.egg-info/dependency_links.txt
+libpushad.egg-info/top_level.txt

@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: analyze-me
+Version: 1.0.0
+Summary: DISCLAIMER: do not install this package. This is part of a test. It might contain harmful code
+Home-page: UNKNOWN
+Author: MIT
+Author-email: contact@example.com
+License: MIT
+Description: DISCLAIMER: do not install this package. This is part of a test. It might contain harmful code
+Platform: UNKNOWN
+Requires-Python: >=3.6

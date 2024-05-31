@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+notsogood.egg-info/PKG-INFO
+notsogood.egg-info/SOURCES.txt
+notsogood.egg-info/dependency_links.txt
+notsogood.egg-info/top_level.txt
+src/__init__.py
+src/main.py

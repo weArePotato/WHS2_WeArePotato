@@ -1,6 +1,0 @@
-setup.py
-reqinstaller/__init__.py
-sys_selenium.egg-info/PKG-INFO
-sys_selenium.egg-info/SOURCES.txt
-sys_selenium.egg-info/dependency_links.txt
-sys_selenium.egg-info/top_level.txt

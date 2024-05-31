@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libcvcontrolhydra.egg-info/PKG-INFO
+libcvcontrolhydra.egg-info/SOURCES.txt
+libcvcontrolhydra.egg-info/dependency_links.txt
+libcvcontrolhydra.egg-info/top_level.txt

@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: pyrologin
+Version: 2.6
+Summary: Manage Telegram accounts with Python
+Author: pyrologin
+Author-email: <team@pyrogram.net>
+License: Eclipse Public License 2.0
+Keywords: pyrologin
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+
+Manage Telegram accounts with Python

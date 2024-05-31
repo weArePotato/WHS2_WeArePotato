@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-py_gameping.egg-info/PKG-INFO
-py_gameping.egg-info/SOURCES.txt
-py_gameping.egg-info/dependency_links.txt
-py_gameping.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+pandasrequest/__init__.py
+pandasrequest.egg-info/PKG-INFO
+pandasrequest.egg-info/SOURCES.txt
+pandasrequest.egg-info/dependency_links.txt
+pandasrequest.egg-info/requires.txt
+pandasrequest.egg-info/top_level.txt

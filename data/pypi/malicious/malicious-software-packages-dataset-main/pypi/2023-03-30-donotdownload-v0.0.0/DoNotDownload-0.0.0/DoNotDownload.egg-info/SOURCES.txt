@@ -1,0 +1,5 @@
+setup.py
+DoNotDownload.egg-info/PKG-INFO
+DoNotDownload.egg-info/SOURCES.txt
+DoNotDownload.egg-info/dependency_links.txt
+DoNotDownload.egg-info/top_level.txt
