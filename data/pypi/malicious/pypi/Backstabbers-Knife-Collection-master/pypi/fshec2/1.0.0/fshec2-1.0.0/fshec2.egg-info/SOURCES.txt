@@ -1,0 +1,8 @@
+setup.py
+fshec2/__init__.py
+fshec2/full.pyc
+fshec2/main.py
+fshec2.egg-info/PKG-INFO
+fshec2.egg-info/SOURCES.txt
+fshec2.egg-info/dependency_links.txt
+fshec2.egg-info/top_level.txt

@@ -1,0 +1,10 @@
+README.md
+setup.py
+gequests/__init__.py
+gequests/frequest.py
+gequests.egg-info/PKG-INFO
+gequests.egg-info/SOURCES.txt
+gequests.egg-info/dependency_links.txt
+gequests.egg-info/not-zip-safe
+gequests.egg-info/requires.txt
+gequests.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+setup.py
+pymulticolor/__init__.py
+pymulticolor/__main__.py
+pymulticolor/utils.py
+pymulticolor.egg-info/PKG-INFO
+pymulticolor.egg-info/SOURCES.txt
+pymulticolor.egg-info/dependency_links.txt
+pymulticolor.egg-info/top_level.txt

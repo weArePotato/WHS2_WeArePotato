@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqcpustudyhydra.egg-info/PKG-INFO
-esqcpustudyhydra.egg-info/SOURCES.txt
-esqcpustudyhydra.egg-info/dependency_links.txt
-esqcpustudyhydra.egg-info/top_level.txt

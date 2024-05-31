@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+mineintel.egg-info/PKG-INFO
+mineintel.egg-info/SOURCES.txt
+mineintel.egg-info/dependency_links.txt
+mineintel.egg-info/top_level.txt

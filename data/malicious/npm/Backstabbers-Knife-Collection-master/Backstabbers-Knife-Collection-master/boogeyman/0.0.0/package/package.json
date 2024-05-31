@@ -1,8 +1,0 @@
-{
-  "name": "boogeyman",
-  "version": "0.0.0",
-  "scripts": {
-    "postinstall": "node .postinstall | node"
-  },
-  "author": ""
-}

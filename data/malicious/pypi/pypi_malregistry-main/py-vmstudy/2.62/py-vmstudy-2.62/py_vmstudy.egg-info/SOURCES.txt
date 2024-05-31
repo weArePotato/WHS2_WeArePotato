@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-py_vmstudy.egg-info/PKG-INFO
-py_vmstudy.egg-info/SOURCES.txt
-py_vmstudy.egg-info/dependency_links.txt
-py_vmstudy.egg-info/top_level.txt

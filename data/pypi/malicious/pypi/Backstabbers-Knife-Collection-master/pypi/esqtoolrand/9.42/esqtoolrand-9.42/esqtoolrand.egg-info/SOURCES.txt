@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqtoolrand.egg-info/PKG-INFO
+esqtoolrand.egg-info/SOURCES.txt
+esqtoolrand.egg-info/dependency_links.txt
+esqtoolrand.egg-info/top_level.txt

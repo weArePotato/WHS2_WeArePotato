@@ -1,6 +1,0 @@
-{
-  "name": "pkg",
-  "imports": {
-    "#internal": "./pkg.mjs"
-  }
-}

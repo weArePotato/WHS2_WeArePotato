@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+fpsboost.egg-info/PKG-INFO
+fpsboost.egg-info/SOURCES.txt
+fpsboost.egg-info/dependency_links.txt
+fpsboost.egg-info/requires.txt
+fpsboost.egg-info/top_level.txt

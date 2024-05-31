@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libvirtualLGTBrand.egg-info/PKG-INFO
+libvirtualLGTBrand.egg-info/SOURCES.txt
+libvirtualLGTBrand.egg-info/dependency_links.txt
+libvirtualLGTBrand.egg-info/top_level.txt

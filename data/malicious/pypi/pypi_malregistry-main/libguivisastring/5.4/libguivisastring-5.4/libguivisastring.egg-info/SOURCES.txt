@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libguivisastring.egg-info/PKG-INFO
-libguivisastring.egg-info/SOURCES.txt
-libguivisastring.egg-info/dependency_links.txt
-libguivisastring.egg-info/top_level.txt

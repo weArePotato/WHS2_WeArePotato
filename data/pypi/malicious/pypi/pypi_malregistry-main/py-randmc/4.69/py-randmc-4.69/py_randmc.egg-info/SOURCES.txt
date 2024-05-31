@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_randmc.egg-info/PKG-INFO
+py_randmc.egg-info/SOURCES.txt
+py_randmc.egg-info/dependency_links.txt
+py_randmc.egg-info/top_level.txt

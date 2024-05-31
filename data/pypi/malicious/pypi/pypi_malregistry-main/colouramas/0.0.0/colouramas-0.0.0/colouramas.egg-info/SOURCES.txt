@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+colouramas/__init__.py
+colouramas.egg-info/PKG-INFO
+colouramas.egg-info/SOURCES.txt
+colouramas.egg-info/dependency_links.txt
+colouramas.egg-info/requires.txt
+colouramas.egg-info/top_level.txt

@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-intelproof.egg-info/PKG-INFO
-intelproof.egg-info/SOURCES.txt
-intelproof.egg-info/dependency_links.txt
-intelproof.egg-info/top_level.txt

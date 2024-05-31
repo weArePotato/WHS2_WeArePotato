@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpramgrandcontrol.egg-info/PKG-INFO
+tpramgrandcontrol.egg-info/SOURCES.txt
+tpramgrandcontrol.egg-info/dependency_links.txt
+tpramgrandcontrol.egg-info/top_level.txt

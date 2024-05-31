@@ -1,7 +1,0 @@
-setup.cfg
-setup.py
-src/supra_style.egg-info/PKG-INFO
-src/supra_style.egg-info/SOURCES.txt
-src/supra_style.egg-info/dependency_links.txt
-src/supra_style.egg-info/requires.txt
-src/supra_style.egg-info/top_level.txt

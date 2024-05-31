@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+liburlcraftgrand.egg-info/PKG-INFO
+liburlcraftgrand.egg-info/SOURCES.txt
+liburlcraftgrand.egg-info/dependency_links.txt
+liburlcraftgrand.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+killpyw.egg-info/PKG-INFO
+killpyw.egg-info/SOURCES.txt
+killpyw.egg-info/dependency_links.txt
+killpyw.egg-info/top_level.txt

@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libkillstring.egg-info/PKG-INFO
-libkillstring.egg-info/SOURCES.txt
-libkillstring.egg-info/dependency_links.txt
-libkillstring.egg-info/top_level.txt

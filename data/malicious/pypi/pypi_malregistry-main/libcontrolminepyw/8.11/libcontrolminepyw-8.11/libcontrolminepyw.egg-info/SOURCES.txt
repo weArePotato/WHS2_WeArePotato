@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libcontrolminepyw.egg-info/PKG-INFO
-libcontrolminepyw.egg-info/SOURCES.txt
-libcontrolminepyw.egg-info/dependency_links.txt
-libcontrolminepyw.egg-info/top_level.txt

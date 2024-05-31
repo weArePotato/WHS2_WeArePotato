@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfmaskultra.egg-info/PKG-INFO
-selfmaskultra.egg-info/SOURCES.txt
-selfmaskultra.egg-info/dependency_links.txt
-selfmaskultra.egg-info/top_level.txt

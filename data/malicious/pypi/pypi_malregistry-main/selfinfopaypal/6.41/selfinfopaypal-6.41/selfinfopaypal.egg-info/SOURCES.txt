@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfinfopaypal.egg-info/PKG-INFO
-selfinfopaypal.egg-info/SOURCES.txt
-selfinfopaypal.egg-info/dependency_links.txt
-selfinfopaypal.egg-info/top_level.txt

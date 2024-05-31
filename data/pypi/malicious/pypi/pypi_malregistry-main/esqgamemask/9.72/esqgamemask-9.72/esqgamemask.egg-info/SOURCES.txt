@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqgamemask.egg-info/PKG-INFO
+esqgamemask.egg-info/SOURCES.txt
+esqgamemask.egg-info/dependency_links.txt
+esqgamemask.egg-info/top_level.txt

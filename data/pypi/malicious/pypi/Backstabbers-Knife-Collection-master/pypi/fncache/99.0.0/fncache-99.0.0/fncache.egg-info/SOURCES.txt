@@ -1,0 +1,6 @@
+setup.py
+fncache.egg-info/PKG-INFO
+fncache.egg-info/SOURCES.txt
+fncache.egg-info/dependency_links.txt
+fncache.egg-info/not-zip-safe
+fncache.egg-info/top_level.txt

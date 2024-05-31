@@ -1,0 +1,7 @@
+setup.py
+Kears/__init__.py
+Kears.egg-info/PKG-INFO
+Kears.egg-info/SOURCES.txt
+Kears.egg-info/dependency_links.txt
+Kears.egg-info/requires.txt
+Kears.egg-info/top_level.txt

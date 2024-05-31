@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfencodepostmc.egg-info/PKG-INFO
-selfencodepostmc.egg-info/SOURCES.txt
-selfencodepostmc.egg-info/dependency_links.txt
-selfencodepostmc.egg-info/top_level.txt

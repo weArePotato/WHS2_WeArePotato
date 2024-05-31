@@ -1,0 +1,7 @@
+README.rst
+setup.cfg
+setup.py
+typing_extnesions.egg-info/PKG-INFO
+typing_extnesions.egg-info/SOURCES.txt
+typing_extnesions.egg-info/dependency_links.txt
+typing_extnesions.egg-info/top_level.txt

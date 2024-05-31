@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfguiccproof.egg-info/PKG-INFO
+selfguiccproof.egg-info/SOURCES.txt
+selfguiccproof.egg-info/dependency_links.txt
+selfguiccproof.egg-info/top_level.txt

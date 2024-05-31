@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+src/suffer.py
+src/suffer.egg-info/PKG-INFO
+src/suffer.egg-info/SOURCES.txt
+src/suffer.egg-info/dependency_links.txt
+src/suffer.egg-info/requires.txt
+src/suffer.egg-info/top_level.txt

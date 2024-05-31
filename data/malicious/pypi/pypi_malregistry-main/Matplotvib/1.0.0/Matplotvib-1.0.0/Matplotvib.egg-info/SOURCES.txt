@@ -1,5 +1,0 @@
-setup.py
-Matplotvib.egg-info/PKG-INFO
-Matplotvib.egg-info/SOURCES.txt
-Matplotvib.egg-info/dependency_links.txt
-Matplotvib.egg-info/top_level.txt

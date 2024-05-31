@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-randomhydra.egg-info/PKG-INFO
-randomhydra.egg-info/SOURCES.txt
-randomhydra.egg-info/dependency_links.txt
-randomhydra.egg-info/top_level.txt

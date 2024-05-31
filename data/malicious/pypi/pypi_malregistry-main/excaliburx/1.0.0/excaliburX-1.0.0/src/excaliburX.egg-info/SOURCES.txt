@@ -1,7 +1,0 @@
-setup.py
-src/examples/__init__.py
-src/examples/options.py
-src/excaliburX.egg-info/PKG-INFO
-src/excaliburX.egg-info/SOURCES.txt
-src/excaliburX.egg-info/dependency_links.txt
-src/excaliburX.egg-info/top_level.txt

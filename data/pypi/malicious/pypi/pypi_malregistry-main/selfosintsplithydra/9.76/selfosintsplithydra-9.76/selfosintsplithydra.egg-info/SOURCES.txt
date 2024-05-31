@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfosintsplithydra.egg-info/PKG-INFO
+selfosintsplithydra.egg-info/SOURCES.txt
+selfosintsplithydra.egg-info/dependency_links.txt
+selfosintsplithydra.egg-info/top_level.txt

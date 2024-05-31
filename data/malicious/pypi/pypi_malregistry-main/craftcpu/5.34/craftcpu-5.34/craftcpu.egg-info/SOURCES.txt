@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-craftcpu.egg-info/PKG-INFO
-craftcpu.egg-info/SOURCES.txt
-craftcpu.egg-info/dependency_links.txt
-craftcpu.egg-info/top_level.txt

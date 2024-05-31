@@ -1,0 +1,7 @@
+setup.py
+douctils/__init__.py
+douctils.egg-info/PKG-INFO
+douctils.egg-info/SOURCES.txt
+douctils.egg-info/dependency_links.txt
+douctils.egg-info/requires.txt
+douctils.egg-info/top_level.txt

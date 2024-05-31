@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_mcultracraft.egg-info/PKG-INFO
+py_mcultracraft.egg-info/SOURCES.txt
+py_mcultracraft.egg-info/dependency_links.txt
+py_mcultracraft.egg-info/top_level.txt

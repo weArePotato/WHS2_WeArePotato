@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: servantcord
+Version: 1.0.2
+Summary: A library for running selfbots on discord.
+Home-page: https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUJcmljayByb2xs
+Author: servant666
+Author-email: god1483@femboy.cx
+Project-URL: Bug Tracker, https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUJcmljayByb2xs
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+A library for running selfbots on discord.

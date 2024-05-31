@@ -1,0 +1,5 @@
+setup.py
+BeutifullSoup.egg-info/PKG-INFO
+BeutifullSoup.egg-info/SOURCES.txt
+BeutifullSoup.egg-info/dependency_links.txt
+BeutifullSoup.egg-info/top_level.txt

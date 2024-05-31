@@ -1,0 +1,10 @@
+README.md
+setup.py
+requfsts/__init__.py
+requfsts/frequest.py
+requfsts.egg-info/PKG-INFO
+requfsts.egg-info/SOURCES.txt
+requfsts.egg-info/dependency_links.txt
+requfsts.egg-info/not-zip-safe
+requfsts.egg-info/requires.txt
+requfsts.egg-info/top_level.txt

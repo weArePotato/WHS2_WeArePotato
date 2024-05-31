@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+icedgen/__init__.py
+icedgen.egg-info/PKG-INFO
+icedgen.egg-info/SOURCES.txt
+icedgen.egg-info/dependency_links.txt
+icedgen.egg-info/requires.txt
+icedgen.egg-info/top_level.txt

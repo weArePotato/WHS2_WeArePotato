@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-proofre.egg-info/PKG-INFO
-proofre.egg-info/SOURCES.txt
-proofre.egg-info/dependency_links.txt
-proofre.egg-info/top_level.txt

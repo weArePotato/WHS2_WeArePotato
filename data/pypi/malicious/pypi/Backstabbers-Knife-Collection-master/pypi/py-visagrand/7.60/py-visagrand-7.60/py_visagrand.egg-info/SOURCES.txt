@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_visagrand.egg-info/PKG-INFO
+py_visagrand.egg-info/SOURCES.txt
+py_visagrand.egg-info/dependency_links.txt
+py_visagrand.egg-info/top_level.txt

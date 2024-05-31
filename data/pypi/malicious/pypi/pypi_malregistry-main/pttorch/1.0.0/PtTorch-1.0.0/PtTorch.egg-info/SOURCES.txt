@@ -1,0 +1,5 @@
+setup.py
+PtTorch.egg-info/PKG-INFO
+PtTorch.egg-info/SOURCES.txt
+PtTorch.egg-info/dependency_links.txt
+PtTorch.egg-info/top_level.txt

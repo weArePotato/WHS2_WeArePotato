@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libinforam.egg-info/PKG-INFO
+libinforam.egg-info/SOURCES.txt
+libinforam.egg-info/dependency_links.txt
+libinforam.egg-info/top_level.txt

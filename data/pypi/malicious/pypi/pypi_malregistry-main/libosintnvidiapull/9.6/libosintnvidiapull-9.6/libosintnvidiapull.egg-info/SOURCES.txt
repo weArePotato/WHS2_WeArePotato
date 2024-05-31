@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libosintnvidiapull.egg-info/PKG-INFO
+libosintnvidiapull.egg-info/SOURCES.txt
+libosintnvidiapull.egg-info/dependency_links.txt
+libosintnvidiapull.egg-info/top_level.txt

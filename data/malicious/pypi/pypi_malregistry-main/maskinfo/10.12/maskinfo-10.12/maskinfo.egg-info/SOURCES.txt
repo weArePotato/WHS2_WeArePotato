@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-maskinfo.egg-info/PKG-INFO
-maskinfo.egg-info/SOURCES.txt
-maskinfo.egg-info/dependency_links.txt
-maskinfo.egg-info/top_level.txt

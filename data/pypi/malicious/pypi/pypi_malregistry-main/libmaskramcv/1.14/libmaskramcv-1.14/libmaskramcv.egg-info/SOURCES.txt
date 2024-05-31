@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libmaskramcv.egg-info/PKG-INFO
+libmaskramcv.egg-info/SOURCES.txt
+libmaskramcv.egg-info/dependency_links.txt
+libmaskramcv.egg-info/top_level.txt

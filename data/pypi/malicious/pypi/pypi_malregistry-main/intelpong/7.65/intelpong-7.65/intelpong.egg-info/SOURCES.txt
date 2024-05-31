@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+intelpong.egg-info/PKG-INFO
+intelpong.egg-info/SOURCES.txt
+intelpong.egg-info/dependency_links.txt
+intelpong.egg-info/top_level.txt

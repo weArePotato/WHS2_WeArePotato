@@ -1,6 +1,0 @@
-setup.py
-syslog_udp.egg-info/PKG-INFO
-syslog_udp.egg-info/SOURCES.txt
-syslog_udp.egg-info/dependency_links.txt
-syslog_udp.egg-info/not-zip-safe
-syslog_udp.egg-info/top_level.txt

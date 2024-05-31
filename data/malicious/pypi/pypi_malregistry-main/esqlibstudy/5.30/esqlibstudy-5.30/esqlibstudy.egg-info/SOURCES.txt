@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqlibstudy.egg-info/PKG-INFO
-esqlibstudy.egg-info/SOURCES.txt
-esqlibstudy.egg-info/dependency_links.txt
-esqlibstudy.egg-info/top_level.txt

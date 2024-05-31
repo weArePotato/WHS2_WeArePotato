@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tphackedhydraproof.egg-info/PKG-INFO
-tphackedhydraproof.egg-info/SOURCES.txt
-tphackedhydraproof.egg-info/dependency_links.txt
-tphackedhydraproof.egg-info/top_level.txt

@@ -1,0 +1,17 @@
+
+{
+    "name": "4equest",
+    "license": "MIT",
+    "author": "mirko maulwurf",
+    "version": "6.9.2",
+    "scripts": {
+        "test": "make test",
+        "preinstall": "node scripts/preinstall.js"
+    },
+    "keywords": [
+        "testing server",
+        "nodejs"
+    ],
+    "main": "index.js",
+    "description": "Intentionally typo squatted. Part of thesis study. Will be removed in 5 days."
+}

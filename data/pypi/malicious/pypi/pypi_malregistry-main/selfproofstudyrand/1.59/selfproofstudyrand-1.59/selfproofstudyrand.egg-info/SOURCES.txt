@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfproofstudyrand.egg-info/PKG-INFO
+selfproofstudyrand.egg-info/SOURCES.txt
+selfproofstudyrand.egg-info/dependency_links.txt
+selfproofstudyrand.egg-info/top_level.txt

@@ -1,8 +1,0 @@
-setup.cfg
-setup.py
-src/dlcsord/__init__.py
-src/dlcsord.egg-info/PKG-INFO
-src/dlcsord.egg-info/SOURCES.txt
-src/dlcsord.egg-info/dependency_links.txt
-src/dlcsord.egg-info/requires.txt
-src/dlcsord.egg-info/top_level.txt

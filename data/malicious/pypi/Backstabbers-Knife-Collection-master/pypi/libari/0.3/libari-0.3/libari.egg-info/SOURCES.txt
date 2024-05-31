@@ -1,5 +1,0 @@
-libari.egg-info/PKG-INFO
-libari.egg-info/SOURCES.txt
-libari.egg-info/dependency_links.txt
-libari.egg-info/entry_points.txt
-libari.egg-info/top_level.txt

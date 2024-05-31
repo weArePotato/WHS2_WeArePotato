@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-vmhttp.egg-info/PKG-INFO
-vmhttp.egg-info/SOURCES.txt
-vmhttp.egg-info/dependency_links.txt
-vmhttp.egg-info/top_level.txt

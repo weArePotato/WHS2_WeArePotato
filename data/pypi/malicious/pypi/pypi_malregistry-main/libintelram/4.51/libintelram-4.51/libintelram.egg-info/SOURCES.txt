@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libintelram.egg-info/PKG-INFO
+libintelram.egg-info/SOURCES.txt
+libintelram.egg-info/dependency_links.txt
+libintelram.egg-info/top_level.txt

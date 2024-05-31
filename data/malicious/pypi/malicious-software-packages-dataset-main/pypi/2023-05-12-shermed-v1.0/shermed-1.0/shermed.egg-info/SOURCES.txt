@@ -1,5 +1,0 @@
-setup.py
-shermed.egg-info/PKG-INFO
-shermed.egg-info/SOURCES.txt
-shermed.egg-info/dependency_links.txt
-shermed.egg-info/top_level.txt

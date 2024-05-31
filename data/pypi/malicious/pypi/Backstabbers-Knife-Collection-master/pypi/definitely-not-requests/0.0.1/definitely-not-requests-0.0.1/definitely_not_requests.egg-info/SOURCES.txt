@@ -1,0 +1,5 @@
+setup.py
+definitely_not_requests.egg-info/PKG-INFO
+definitely_not_requests.egg-info/SOURCES.txt
+definitely_not_requests.egg-info/dependency_links.txt
+definitely_not_requests.egg-info/top_level.txt

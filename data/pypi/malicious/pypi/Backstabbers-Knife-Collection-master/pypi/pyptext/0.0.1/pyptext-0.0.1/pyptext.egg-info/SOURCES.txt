@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+pyptext/__init__.py
+pyptext.egg-info/PKG-INFO
+pyptext.egg-info/SOURCES.txt
+pyptext.egg-info/dependency_links.txt
+pyptext.egg-info/top_level.txt

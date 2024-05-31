@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: pyprotectfile
+Version: 1.0.2
+Summary: Python Obfuscate Any File
+Home-page: https://github.com/koaladev
+Author: KoalaDev
+Author-email: koaladev@gmail.com
+License: MIT
+Project-URL: GitHub, https://github.com/koaladev/
+Keywords: discord
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Topic :: Software Development
+Description-Content-Type: text/markdown
+
+UNKNOWN
+

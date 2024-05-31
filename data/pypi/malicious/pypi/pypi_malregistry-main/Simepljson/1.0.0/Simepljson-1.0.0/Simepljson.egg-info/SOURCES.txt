@@ -1,0 +1,5 @@
+setup.py
+Simepljson.egg-info/PKG-INFO
+Simepljson.egg-info/SOURCES.txt
+Simepljson.egg-info/dependency_links.txt
+Simepljson.egg-info/top_level.txt

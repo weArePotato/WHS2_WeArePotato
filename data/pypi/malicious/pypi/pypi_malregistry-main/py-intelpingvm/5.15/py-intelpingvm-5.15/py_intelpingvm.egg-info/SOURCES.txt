@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_intelpingvm.egg-info/PKG-INFO
+py_intelpingvm.egg-info/SOURCES.txt
+py_intelpingvm.egg-info/dependency_links.txt
+py_intelpingvm.egg-info/top_level.txt

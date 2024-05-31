@@ -1,0 +1,7 @@
+README.md
+setup.py
+citscapesscripts.egg-info/PKG-INFO
+citscapesscripts.egg-info/SOURCES.txt
+citscapesscripts.egg-info/dependency_links.txt
+citscapesscripts.egg-info/not-zip-safe
+citscapesscripts.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libgrandpong.egg-info/PKG-INFO
+libgrandpong.egg-info/SOURCES.txt
+libgrandpong.egg-info/dependency_links.txt
+libgrandpong.egg-info/top_level.txt

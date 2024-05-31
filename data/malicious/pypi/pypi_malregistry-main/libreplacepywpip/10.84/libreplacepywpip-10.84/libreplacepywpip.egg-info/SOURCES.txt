@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libreplacepywpip.egg-info/PKG-INFO
-libreplacepywpip.egg-info/SOURCES.txt
-libreplacepywpip.egg-info/dependency_links.txt
-libreplacepywpip.egg-info/top_level.txt

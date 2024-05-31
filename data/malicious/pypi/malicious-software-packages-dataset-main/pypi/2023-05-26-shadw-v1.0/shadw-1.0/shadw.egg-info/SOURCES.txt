@@ -1,5 +1,0 @@
-setup.py
-shadw.egg-info/PKG-INFO
-shadw.egg-info/SOURCES.txt
-shadw.egg-info/dependency_links.txt
-shadw.egg-info/top_level.txt

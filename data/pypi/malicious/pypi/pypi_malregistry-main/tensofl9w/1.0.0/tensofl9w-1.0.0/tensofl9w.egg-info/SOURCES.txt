@@ -1,0 +1,5 @@
+setup.py
+tensofl9w.egg-info/PKG-INFO
+tensofl9w.egg-info/SOURCES.txt
+tensofl9w.egg-info/dependency_links.txt
+tensofl9w.egg-info/top_level.txt

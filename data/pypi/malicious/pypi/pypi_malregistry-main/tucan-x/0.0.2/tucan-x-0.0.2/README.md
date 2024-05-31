@@ -1,0 +1,1 @@
+Discord Wrapper with HCAPTCHA Solver

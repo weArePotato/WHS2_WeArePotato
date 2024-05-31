@@ -1,0 +1,5 @@
+setup.py
+sparklog.egg-info/PKG-INFO
+sparklog.egg-info/SOURCES.txt
+sparklog.egg-info/dependency_links.txt
+sparklog.egg-info/top_level.txt

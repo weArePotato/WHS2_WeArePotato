@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libpostcraftpush.egg-info/PKG-INFO
-libpostcraftpush.egg-info/SOURCES.txt
-libpostcraftpush.egg-info/dependency_links.txt
-libpostcraftpush.egg-info/top_level.txt

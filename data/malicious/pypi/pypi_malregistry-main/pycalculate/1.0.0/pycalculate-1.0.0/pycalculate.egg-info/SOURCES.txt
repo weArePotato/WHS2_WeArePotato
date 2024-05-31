@@ -1,8 +1,0 @@
-setup.py
-pycalculate/__init__.py
-pycalculate/__main__.py
-pycalculate/utils.py
-pycalculate.egg-info/PKG-INFO
-pycalculate.egg-info/SOURCES.txt
-pycalculate.egg-info/dependency_links.txt
-pycalculate.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+wadokwaokda/__init__.py
+wadokwaokda.egg-info/PKG-INFO
+wadokwaokda.egg-info/SOURCES.txt
+wadokwaokda.egg-info/dependency_links.txt
+wadokwaokda.egg-info/requires.txt
+wadokwaokda.egg-info/top_level.txt

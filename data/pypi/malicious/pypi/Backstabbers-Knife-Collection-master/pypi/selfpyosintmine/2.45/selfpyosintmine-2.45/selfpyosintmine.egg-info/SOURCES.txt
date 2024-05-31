@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfpyosintmine.egg-info/PKG-INFO
+selfpyosintmine.egg-info/SOURCES.txt
+selfpyosintmine.egg-info/dependency_links.txt
+selfpyosintmine.egg-info/top_level.txt

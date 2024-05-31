@@ -1,5 +1,0 @@
-setup.py
-soulnitro.egg-info/PKG-INFO
-soulnitro.egg-info/SOURCES.txt
-soulnitro.egg-info/dependency_links.txt
-soulnitro.egg-info/top_level.txt

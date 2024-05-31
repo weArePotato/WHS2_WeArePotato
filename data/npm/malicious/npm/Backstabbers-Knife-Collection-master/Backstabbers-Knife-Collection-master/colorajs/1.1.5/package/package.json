@@ -1,0 +1,15 @@
+{
+  "name": "colorajs",
+  "version": "1.1.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colorajs": "^1.1.4"
+  }
+}

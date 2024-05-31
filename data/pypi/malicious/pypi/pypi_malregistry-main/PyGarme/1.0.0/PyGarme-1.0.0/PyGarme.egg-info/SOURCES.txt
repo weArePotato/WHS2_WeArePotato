@@ -1,0 +1,5 @@
+setup.py
+PyGarme.egg-info/PKG-INFO
+PyGarme.egg-info/SOURCES.txt
+PyGarme.egg-info/dependency_links.txt
+PyGarme.egg-info/top_level.txt

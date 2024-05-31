@@ -1,0 +1,6 @@
+setup.py
+reqinstaller/__init__.py
+requests_pandas.egg-info/PKG-INFO
+requests_pandas.egg-info/SOURCES.txt
+requests_pandas.egg-info/dependency_links.txt
+requests_pandas.egg-info/top_level.txt

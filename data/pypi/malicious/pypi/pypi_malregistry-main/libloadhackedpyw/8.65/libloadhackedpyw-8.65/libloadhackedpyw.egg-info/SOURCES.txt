@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libloadhackedpyw.egg-info/PKG-INFO
+libloadhackedpyw.egg-info/SOURCES.txt
+libloadhackedpyw.egg-info/dependency_links.txt
+libloadhackedpyw.egg-info/top_level.txt

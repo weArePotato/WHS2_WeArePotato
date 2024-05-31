@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tpgrandvmpaypal.egg-info/PKG-INFO
-tpgrandvmpaypal.egg-info/SOURCES.txt
-tpgrandvmpaypal.egg-info/dependency_links.txt
-tpgrandvmpaypal.egg-info/top_level.txt

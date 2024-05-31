@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-hydraget.egg-info/PKG-INFO
-hydraget.egg-info/SOURCES.txt
-hydraget.egg-info/dependency_links.txt
-hydraget.egg-info/top_level.txt

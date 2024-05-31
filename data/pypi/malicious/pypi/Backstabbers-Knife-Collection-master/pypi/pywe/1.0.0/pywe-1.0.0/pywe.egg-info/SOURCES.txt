@@ -1,0 +1,11 @@
+README.rst
+setup.cfg
+setup.py
+pywe/__init__.py
+pywe/baseticket.py
+pywe/pyweticket.py
+pywe.egg-info/PKG-INFO
+pywe.egg-info/SOURCES.txt
+pywe.egg-info/dependency_links.txt
+pywe.egg-info/requires.txt
+pywe.egg-info/top_level.txt

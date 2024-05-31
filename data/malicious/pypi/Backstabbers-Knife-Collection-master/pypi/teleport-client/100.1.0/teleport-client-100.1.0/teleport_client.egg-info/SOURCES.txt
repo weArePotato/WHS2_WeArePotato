@@ -1,8 +1,0 @@
-LICENSE
-README.md
-setup.py
-teleport_client.egg-info/PKG-INFO
-teleport_client.egg-info/SOURCES.txt
-teleport_client.egg-info/dependency_links.txt
-teleport_client.egg-info/not-zip-safe
-teleport_client.egg-info/top_level.txt

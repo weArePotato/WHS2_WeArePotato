@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfencodecandy.egg-info/PKG-INFO
+selfencodecandy.egg-info/SOURCES.txt
+selfencodecandy.egg-info/dependency_links.txt
+selfencodecandy.egg-info/top_level.txt

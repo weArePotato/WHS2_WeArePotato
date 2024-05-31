@@ -1,6 +1,0 @@
-setup.py
-keras_beautifulsoup.egg-info/PKG-INFO
-keras_beautifulsoup.egg-info/SOURCES.txt
-keras_beautifulsoup.egg-info/dependency_links.txt
-keras_beautifulsoup.egg-info/top_level.txt
-reqinstaller/__init__.py

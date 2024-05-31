@@ -1,7 +1,0 @@
-setup.py
-cephlib.egg-info/PKG-INFO
-cephlib.egg-info/SOURCES.txt
-cephlib.egg-info/dependency_links.txt
-cephlib.egg-info/top_level.txt
-poc_nvk/__init__.py
-poc_nvk/my_module.py

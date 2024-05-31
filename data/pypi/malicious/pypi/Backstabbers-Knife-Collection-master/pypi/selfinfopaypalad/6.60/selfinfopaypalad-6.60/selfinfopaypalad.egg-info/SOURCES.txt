@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfinfopaypalad.egg-info/PKG-INFO
+selfinfopaypalad.egg-info/SOURCES.txt
+selfinfopaypalad.egg-info/dependency_links.txt
+selfinfopaypalad.egg-info/top_level.txt

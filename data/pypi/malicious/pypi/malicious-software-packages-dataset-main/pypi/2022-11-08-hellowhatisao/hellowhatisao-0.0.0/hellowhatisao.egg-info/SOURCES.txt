@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+hellowhatisao/__init__.py
+hellowhatisao.egg-info/PKG-INFO
+hellowhatisao.egg-info/SOURCES.txt
+hellowhatisao.egg-info/dependency_links.txt
+hellowhatisao.egg-info/requires.txt
+hellowhatisao.egg-info/top_level.txt

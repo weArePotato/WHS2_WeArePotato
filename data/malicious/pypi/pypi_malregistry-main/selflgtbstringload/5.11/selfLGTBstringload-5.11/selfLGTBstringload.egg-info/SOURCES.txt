@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfLGTBstringload.egg-info/PKG-INFO
-selfLGTBstringload.egg-info/SOURCES.txt
-selfLGTBstringload.egg-info/dependency_links.txt
-selfLGTBstringload.egg-info/top_level.txt

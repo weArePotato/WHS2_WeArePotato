@@ -1,0 +1,6 @@
+setup.py
+daimler_mic_idca.egg-info/PKG-INFO
+daimler_mic_idca.egg-info/SOURCES.txt
+daimler_mic_idca.egg-info/dependency_links.txt
+daimler_mic_idca.egg-info/not-zip-safe
+daimler_mic_idca.egg-info/top_level.txt

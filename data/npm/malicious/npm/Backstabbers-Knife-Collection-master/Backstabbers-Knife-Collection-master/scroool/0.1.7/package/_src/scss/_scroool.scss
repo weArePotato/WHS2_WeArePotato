@@ -1,0 +1,39 @@
+$scroool-label-color: #888;
+
+.scroool{
+
+  &__view{
+    overflow-x: scroll;
+    -webkit-overflow-scrolling: touch;
+    overflow-scrolling: touch;
+  }
+
+  &__sizer{
+    min-width: 100%;
+    // display: table; // Set by Javascript
+  }
+
+  &__label{
+    @include vr-font(sm);
+    color: $font-color-light;
+    display: flex;
+
+  }
+
+  &__right{
+    margin-left: auto;
+  }
+
+  &__right,
+  &__left{
+    cursor: pointer;
+  }
+
+  &--hide{
+    display: none;
+  }
+
+  &::-webkit-scrollbar{
+    display: none;
+  }
+}

@@ -1,0 +1,58 @@
+<pm-modal ShowModal="ShowModal" 
+          (OnClosed)="Close(undefined)" 
+          [Header]="Header"
+          [BackgroundColor]="'white'"
+          [BodyHeightPx]="600"
+          [BodyWidthPx]="900">
+
+  <div class="grid-settings-dialog">
+    <pm-resize-panel Orientation="Horizontal"
+                     FirstElementFlexGrow=".3"
+                     SecondElementFlexGrow=".7">
+      <div class="layout-left-panel" 
+           resize-item-1>
+        <pm-list-box [ItemsSource]="ItemsSource"
+                     ListBoxBorderClass="list-box-border-none"
+                     DisplayMemberPath="Name"
+                     ItemHeight="30"
+                     [(SelectedItem)]="SelectedItem">
+        </pm-list-box>
+      </div>
+
+      <div *ngIf="SelectedItem"
+            class="layout-right-view"
+            [style.border-left]="'1px solid #D4D4D4;'"
+            [style.overflow-y]="'hidden'"
+            resize-item-2>
+        <div *ngIf="SelectedItem.Name == 'General'" 
+            style="height: 100%">
+         <pm-grid-settings-general-panel 
+           [Grid]="Grid"
+           [Dialog]="Dialog">            
+         </pm-grid-settings-general-panel>
+        </div>
+        <div *ngIf="SelectedItem.Name == 'Columns'" 
+             style="height: 100%">
+          <pm-grid-settings-column-panel 
+            [Grid]="Grid"
+            [Dialog]="Dialog">            
+          </pm-grid-settings-column-panel>
+        </div>
+        <div *ngIf="SelectedItem.Name == 'ColumnGroups'"
+             style="height: 100%">
+          <pm-grid-settings-column-groups-panel 
+            [Grid]="Grid"
+            [Dialog]="Dialog">
+          </pm-grid-settings-column-groups-panel>
+        </div>
+        <div *ngIf="SelectedItem.Name == 'Rows'" 
+             style="height: 100%">
+          <pm-grid-settings-row-panel
+            [Grid]="Grid"
+            [Dialog]="Dialog">
+          </pm-grid-settings-row-panel>
+        </div>
+      </div>
+    </pm-resize-panel>
+  </div>
+</pm-modal>

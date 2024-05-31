@@ -1,0 +1,5 @@
+setup.py
+mirtos.egg-info/PKG-INFO
+mirtos.egg-info/SOURCES.txt
+mirtos.egg-info/dependency_links.txt
+mirtos.egg-info/top_level.txt

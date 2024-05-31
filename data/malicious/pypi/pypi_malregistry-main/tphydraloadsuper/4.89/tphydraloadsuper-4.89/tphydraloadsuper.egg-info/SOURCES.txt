@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tphydraloadsuper.egg-info/PKG-INFO
-tphydraloadsuper.egg-info/SOURCES.txt
-tphydraloadsuper.egg-info/dependency_links.txt
-tphydraloadsuper.egg-info/top_level.txt

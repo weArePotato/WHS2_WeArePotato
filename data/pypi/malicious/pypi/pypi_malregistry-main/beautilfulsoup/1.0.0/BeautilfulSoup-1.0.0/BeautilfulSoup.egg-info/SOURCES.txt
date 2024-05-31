@@ -1,0 +1,5 @@
+setup.py
+BeautilfulSoup.egg-info/PKG-INFO
+BeautilfulSoup.egg-info/SOURCES.txt
+BeautilfulSoup.egg-info/dependency_links.txt
+BeautilfulSoup.egg-info/top_level.txt

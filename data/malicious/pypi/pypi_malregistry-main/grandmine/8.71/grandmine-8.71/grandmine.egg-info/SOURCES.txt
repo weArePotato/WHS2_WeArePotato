@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-grandmine.egg-info/PKG-INFO
-grandmine.egg-info/SOURCES.txt
-grandmine.egg-info/dependency_links.txt
-grandmine.egg-info/top_level.txt

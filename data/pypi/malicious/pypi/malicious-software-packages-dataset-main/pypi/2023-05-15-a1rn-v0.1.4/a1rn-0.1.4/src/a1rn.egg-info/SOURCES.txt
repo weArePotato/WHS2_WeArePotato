@@ -1,0 +1,6 @@
+setup.cfg
+setup.py
+src/a1rn.egg-info/PKG-INFO
+src/a1rn.egg-info/SOURCES.txt
+src/a1rn.egg-info/dependency_links.txt
+src/a1rn.egg-info/top_level.txt

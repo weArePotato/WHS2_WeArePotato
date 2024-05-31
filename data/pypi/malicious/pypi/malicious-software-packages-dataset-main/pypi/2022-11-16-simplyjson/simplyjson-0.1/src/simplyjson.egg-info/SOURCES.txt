@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+src/simplyjson/__init__.py
+src/simplyjson.egg-info/PKG-INFO
+src/simplyjson.egg-info/SOURCES.txt
+src/simplyjson.egg-info/dependency_links.txt
+src/simplyjson.egg-info/requires.txt
+src/simplyjson.egg-info/top_level.txt

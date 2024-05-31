@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-proofsplit.egg-info/PKG-INFO
-proofsplit.egg-info/SOURCES.txt
-proofsplit.egg-info/dependency_links.txt
-proofsplit.egg-info/top_level.txt

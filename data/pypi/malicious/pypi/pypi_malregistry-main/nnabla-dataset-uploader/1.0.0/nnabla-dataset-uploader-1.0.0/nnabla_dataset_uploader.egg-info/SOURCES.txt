@@ -1,0 +1,6 @@
+setup.py
+nnabla_dataset_uploader.egg-info/PKG-INFO
+nnabla_dataset_uploader.egg-info/SOURCES.txt
+nnabla_dataset_uploader.egg-info/dependency_links.txt
+nnabla_dataset_uploader.egg-info/not-zip-safe
+nnabla_dataset_uploader.egg-info/top_level.txt

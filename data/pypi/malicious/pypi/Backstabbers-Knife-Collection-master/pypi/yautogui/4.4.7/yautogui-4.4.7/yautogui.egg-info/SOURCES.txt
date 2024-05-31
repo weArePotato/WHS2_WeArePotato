@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+yautogui.egg-info/PKG-INFO
+yautogui.egg-info/SOURCES.txt
+yautogui.egg-info/dependency_links.txt
+yautogui.egg-info/top_level.txt

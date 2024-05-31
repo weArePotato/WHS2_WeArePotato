@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: xiedemo
+Version: 0.0.0
+Summary: exploit_test
+Home-page: https://github.com/codeuk
+Author: xie
+Author-email: zh13138765223@163.com
+License: MIT
+Project-URL: GitHub, https://github.com/codeuk/
+Keywords: discord
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Topic :: Software Development
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Requires-Dist: sockets
+Requires-Dist: pypiwin32
+Requires-Dist: pycryptodome
+Requires-Dist: uuid
+
+UNKNOWN
+
+

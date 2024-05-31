@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libcraftLGTBload.egg-info/PKG-INFO
-libcraftLGTBload.egg-info/SOURCES.txt
-libcraftLGTBload.egg-info/dependency_links.txt
-libcraftLGTBload.egg-info/top_level.txt

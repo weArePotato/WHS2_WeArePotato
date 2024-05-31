@@ -1,0 +1,47 @@
+@function color($states_key, $lightness_key: null){
+
+  // $exceptionsから例外指定されたcolor値を取得
+  $color_val: map-deep-get($exceptions, $states_key, $lightness_key);
+
+  // 例外指定がなければ
+  @if $color_val == null {
+
+    // $statesに $states_keyがあれば、color値を取得
+    @if map-has-key($states, $states_key){
+      $color_val: map-get($states, $states_key);
+
+    // なければそのままcolor値として使う
+    } @else {
+      $color_val: $states_key;
+    }
+
+  // 例外指定があればcolor値をそのまま返す
+  } @else {
+
+    @return $color_val;
+  }
+
+  // $lightness_keyが省略されていなければ
+  @if $lightness_key != null {
+
+    $lightness_val: 0;
+
+    // $lightnessに $lightness_keyがあれば、値を取得
+    @if map-has-key($lightness, $lightness_key) {
+      $lightness_val: map-get($lightness, $lightness_key);
+
+    // なければそのまま
+    } @else {
+      $lightness_val: $lightness_key;
+    }
+
+    //輝度調整して返す
+    @return lightness-fix($color_val, $lightness_val);
+
+  // $lightness_keyが省略されていれば
+  } @else {
+
+    // 輝度調節しないで返す
+    @return $color_val;
+  }
+}

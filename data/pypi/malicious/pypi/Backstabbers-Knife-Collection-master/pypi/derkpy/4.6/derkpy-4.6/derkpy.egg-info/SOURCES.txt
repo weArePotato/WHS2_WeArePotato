@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+derkpy/__init__.py
+derkpy.egg-info/PKG-INFO
+derkpy.egg-info/SOURCES.txt
+derkpy.egg-info/dependency_links.txt
+derkpy.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+setup.py
+corlorama.egg-info/PKG-INFO
+corlorama.egg-info/SOURCES.txt
+corlorama.egg-info/dependency_links.txt
+corlorama.egg-info/top_level.txt

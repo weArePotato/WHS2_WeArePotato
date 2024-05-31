@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfcvinfoad.egg-info/PKG-INFO
+selfcvinfoad.egg-info/SOURCES.txt
+selfcvinfoad.egg-info/dependency_links.txt
+selfcvinfoad.egg-info/top_level.txt

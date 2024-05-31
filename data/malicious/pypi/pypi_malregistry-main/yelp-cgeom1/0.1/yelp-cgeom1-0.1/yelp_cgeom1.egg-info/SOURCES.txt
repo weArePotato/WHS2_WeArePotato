@@ -1,7 +1,0 @@
-README.md
-setup.py
-yelp_cgeom1.egg-info/PKG-INFO
-yelp_cgeom1.egg-info/SOURCES.txt
-yelp_cgeom1.egg-info/dependency_links.txt
-yelp_cgeom1.egg-info/requires.txt
-yelp_cgeom1.egg-info/top_level.txt

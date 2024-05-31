@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpvirtualcontrolmc.egg-info/PKG-INFO
+tpvirtualcontrolmc.egg-info/SOURCES.txt
+tpvirtualcontrolmc.egg-info/dependency_links.txt
+tpvirtualcontrolmc.egg-info/top_level.txt

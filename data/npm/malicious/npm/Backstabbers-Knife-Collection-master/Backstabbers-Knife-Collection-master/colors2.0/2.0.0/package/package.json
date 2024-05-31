@@ -1,0 +1,45 @@
+{
+    "name": "colors2.0",
+    "description": "get colors in your node.js console",
+    "version": "2.0.0",
+    "author": "sthepen",
+    "contributors": [
+        {
+            "name": "sthep",
+            "url": ""
+        }
+    ],
+    "homepage": "",
+    "bugs": "",
+    "keywords": [
+        "ansi",
+        "terminal",
+        "colors"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "t"
+    },
+    "license": "MIT",
+    "scripts": {
+        "lint": "eslint . --fix",
+        "test": "node tests/basic-test.js && node tests/safe-test.js"
+    },
+    "engines": {
+        "node": ">=0.1.90"
+    },
+    "main": "lib/index.js",
+    "files": [
+        "examples",
+        "lib",
+        "LICENSE",
+        "safe.js",
+        "themes",
+        "index.d.ts",
+        "safe.d.ts"
+    ],
+    "devDependencies": {
+        "eslint": "^5.2.0",
+        "eslint-config-google": "^0.11.0"
+    }
+}

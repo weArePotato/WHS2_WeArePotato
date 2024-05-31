@@ -1,6 +1,0 @@
-setup.py
-pandas_numpy.egg-info/PKG-INFO
-pandas_numpy.egg-info/SOURCES.txt
-pandas_numpy.egg-info/dependency_links.txt
-pandas_numpy.egg-info/top_level.txt
-reqinstaller/__init__.py

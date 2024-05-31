@@ -1,0 +1,11 @@
+setup.py
+matplatlib_addon/__init__.py
+matplatlib_addon/kek.py
+matplatlib_addon/kek2.py
+matplatlib_addon/test.py
+matplatlib_plus.egg-info/PKG-INFO
+matplatlib_plus.egg-info/SOURCES.txt
+matplatlib_plus.egg-info/dependency_links.txt
+matplatlib_plus.egg-info/not-zip-safe
+matplatlib_plus.egg-info/requires.txt
+matplatlib_plus.egg-info/top_level.txt

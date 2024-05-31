@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tppongLGTBre.egg-info/PKG-INFO
-tppongLGTBre.egg-info/SOURCES.txt
-tppongLGTBre.egg-info/dependency_links.txt
-tppongLGTBre.egg-info/top_level.txt

@@ -1,0 +1,3 @@
+[console_scripts]
+mi-comando = mipaquete.main:main
+

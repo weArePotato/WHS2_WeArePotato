@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+killhacked.egg-info/PKG-INFO
+killhacked.egg-info/SOURCES.txt
+killhacked.egg-info/dependency_links.txt
+killhacked.egg-info/top_level.txt

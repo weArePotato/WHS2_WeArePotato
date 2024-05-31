@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfccpyw.egg-info/PKG-INFO
-selfccpyw.egg-info/SOURCES.txt
-selfccpyw.egg-info/dependency_links.txt
-selfccpyw.egg-info/top_level.txt

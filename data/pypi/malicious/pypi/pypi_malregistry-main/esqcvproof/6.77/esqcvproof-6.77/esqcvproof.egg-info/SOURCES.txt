@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqcvproof.egg-info/PKG-INFO
+esqcvproof.egg-info/SOURCES.txt
+esqcvproof.egg-info/dependency_links.txt
+esqcvproof.egg-info/top_level.txt

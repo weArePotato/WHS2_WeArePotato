@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+python3_kivy.egg-info/PKG-INFO
+python3_kivy.egg-info/SOURCES.txt
+python3_kivy.egg-info/dependency_links.txt
+python3_kivy.egg-info/not-zip-safe
+python3_kivy.egg-info/top_level.txt

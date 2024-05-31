@@ -1,8 +1,0 @@
-pyproject.toml
-setup.py
-robonotif/__init__.py
-robonotif.egg-info/PKG-INFO
-robonotif.egg-info/SOURCES.txt
-robonotif.egg-info/dependency_links.txt
-robonotif.egg-info/requires.txt
-robonotif.egg-info/top_level.txt

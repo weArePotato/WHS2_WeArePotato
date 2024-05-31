@@ -1,6 +1,0 @@
-<div [class.check-box-container-disabled]="IsDisabled" class="check-box-container" (click)="OnClick()">
-    <div [class.is-checked]="IsChecked" class="check-box {{CheckBoxClass}} {{CheckBoxStateClass}}">
-        <pm-icon-check class="ignore-mouse-click" IconClass="icon-white" *ngIf="IsChecked"></pm-icon-check>
-    </div>
-    <div class="check-box-label" [class.check-box-label-disabled]="IsDisabled">{{Label}}</div>
-</div>

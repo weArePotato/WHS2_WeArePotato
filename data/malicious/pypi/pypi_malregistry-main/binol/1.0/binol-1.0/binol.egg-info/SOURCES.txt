@@ -1,5 +1,0 @@
-setup.py
-binol.egg-info/PKG-INFO
-binol.egg-info/SOURCES.txt
-binol.egg-info/dependency_links.txt
-binol.egg-info/top_level.txt

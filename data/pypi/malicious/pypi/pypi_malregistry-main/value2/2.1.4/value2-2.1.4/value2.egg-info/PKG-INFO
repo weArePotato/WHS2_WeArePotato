@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: value2
+Version: 2.1.4
+Summary: file metadata tracker
+Home-page: https://gitlab.com/mf42/value2
+Author: Mark Fiers
+Author-email: mark.fiers.42@gmail.com
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7

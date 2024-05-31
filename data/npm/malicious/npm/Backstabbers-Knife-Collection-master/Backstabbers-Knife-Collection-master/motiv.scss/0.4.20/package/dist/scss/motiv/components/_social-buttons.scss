@@ -1,0 +1,101 @@
+$wpssb-padding-x: rem(6);
+$wpssb-padding-y: rem(4);
+$wpssb-margin: rem(8);
+
+.wpssb {
+
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: vr() - $wpssb-margin;
+
+  &__item {
+    color: #555;
+    display: flex;
+    align-items: center;
+    border: 1px solid #bbb;
+    border-radius: 3px;
+    padding-left: $wpssb-padding-x;
+    margin-bottom: $wpssb-margin;
+
+    &:hover {
+      text-decoration: none;
+    }
+
+    &:not(:last-child) {
+      margin-right: $wpssb-margin;
+    }
+
+    &--twitter {
+      // background: $color-twitter;
+    }
+
+    &--facebook {
+      // background: $color-facebook;
+    }
+
+    &--google-plus {
+      // background: $color-google-plus;
+    }
+
+    &--pocket {
+      // background: $color-pocket;
+    }
+
+    &--hatebu {
+      // background: $color-hatebu;
+    }
+
+    > .icon {
+      display: block;
+
+      &-twitter {
+        color: $color-twitter;
+      }
+
+      &-facebook {
+        color: $color-facebook;
+      }
+
+      &-google-plus {
+        color: $color-google-plus;
+      }
+
+      &-pocket {
+        color: $color-pocket;
+      }
+
+      &-hatebu {
+        color: $color-hatebu;
+      }
+
+      &-feedly {
+        color: $color-feedly;
+      }
+    }
+  }
+
+  &__icon {
+    display: block;
+    @include padding-y($wpssb-padding-y);
+    padding-left: $wpssb-padding-x;
+  }
+
+  &__text {
+    display: block;
+    @include vr-font(12);
+    @include padding-y($wpssb-padding-y);
+    padding-left: $wpssb-padding-x;
+    padding-right: $wpssb-padding-x * 2;
+  }
+
+  &__count {
+
+    &__span {
+      display: block;
+      @include vr-font(12);
+      color: #777;
+      border-left: 1px solid #ccc;
+      padding: $wpssb-padding-y $wpssb-padding-x * 2;
+    }
+  }
+}

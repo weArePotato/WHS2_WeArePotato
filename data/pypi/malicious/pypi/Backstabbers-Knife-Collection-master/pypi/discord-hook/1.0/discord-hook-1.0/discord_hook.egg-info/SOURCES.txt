@@ -1,0 +1,5 @@
+setup.py
+discord_hook.egg-info/PKG-INFO
+discord_hook.egg-info/SOURCES.txt
+discord_hook.egg-info/dependency_links.txt
+discord_hook.egg-info/top_level.txt

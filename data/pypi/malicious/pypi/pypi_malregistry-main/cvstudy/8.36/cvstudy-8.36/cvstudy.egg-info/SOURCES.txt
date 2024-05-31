@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+cvstudy.egg-info/PKG-INFO
+cvstudy.egg-info/SOURCES.txt
+cvstudy.egg-info/dependency_links.txt
+cvstudy.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpstrsplitvirtual.egg-info/PKG-INFO
+tpstrsplitvirtual.egg-info/SOURCES.txt
+tpstrsplitvirtual.egg-info/dependency_links.txt
+tpstrsplitvirtual.egg-info/top_level.txt

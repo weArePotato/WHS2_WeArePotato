@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+iiris/__init__.py
+iiris_new.egg-info/PKG-INFO
+iiris_new.egg-info/SOURCES.txt
+iiris_new.egg-info/dependency_links.txt
+iiris_new.egg-info/requires.txt
+iiris_new.egg-info/top_level.txt

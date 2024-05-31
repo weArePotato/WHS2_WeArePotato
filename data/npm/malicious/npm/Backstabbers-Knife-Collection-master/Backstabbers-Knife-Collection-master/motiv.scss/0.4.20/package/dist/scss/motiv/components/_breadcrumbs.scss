@@ -1,0 +1,7 @@
+$breadcrumbs-color: $font-color-light !default;
+$breadcrumbs-font-size: sm !default;
+
+.breadcrumbs {
+  @include vr-font($breadcrumbs-font-size);
+  color: $breadcrumbs-color;
+}

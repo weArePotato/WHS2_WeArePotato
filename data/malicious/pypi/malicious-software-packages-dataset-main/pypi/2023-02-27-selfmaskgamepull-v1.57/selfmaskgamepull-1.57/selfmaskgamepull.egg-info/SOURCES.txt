@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfmaskgamepull.egg-info/PKG-INFO
-selfmaskgamepull.egg-info/SOURCES.txt
-selfmaskgamepull.egg-info/dependency_links.txt
-selfmaskgamepull.egg-info/top_level.txt

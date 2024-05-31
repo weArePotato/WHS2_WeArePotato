@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tppaypalmine.egg-info/PKG-INFO
+tppaypalmine.egg-info/SOURCES.txt
+tppaypalmine.egg-info/dependency_links.txt
+tppaypalmine.egg-info/top_level.txt

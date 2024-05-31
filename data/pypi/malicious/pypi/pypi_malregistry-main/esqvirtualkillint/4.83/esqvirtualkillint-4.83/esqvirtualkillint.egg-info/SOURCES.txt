@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqvirtualkillint.egg-info/PKG-INFO
+esqvirtualkillint.egg-info/SOURCES.txt
+esqvirtualkillint.egg-info/dependency_links.txt
+esqvirtualkillint.egg-info/top_level.txt

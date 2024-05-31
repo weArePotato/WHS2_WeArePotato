@@ -1,0 +1,7 @@
+setup.py
+collored/__init__.py
+collored/collored.py
+collored.egg-info/PKG-INFO
+collored.egg-info/SOURCES.txt
+collored.egg-info/dependency_links.txt
+collored.egg-info/top_level.txt

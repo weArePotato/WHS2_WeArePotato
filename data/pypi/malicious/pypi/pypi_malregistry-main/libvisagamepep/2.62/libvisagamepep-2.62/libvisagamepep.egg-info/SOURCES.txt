@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libvisagamepep.egg-info/PKG-INFO
+libvisagamepep.egg-info/SOURCES.txt
+libvisagamepep.egg-info/dependency_links.txt
+libvisagamepep.egg-info/top_level.txt

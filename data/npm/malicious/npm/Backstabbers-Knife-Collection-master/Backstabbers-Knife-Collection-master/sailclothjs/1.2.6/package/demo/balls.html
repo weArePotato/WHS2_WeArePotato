@@ -1,0 +1,32 @@
+<!doctype html>
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name='viewport' content='user-scalable=no, width=device-width, initial-scale=1.0' />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	
+	<title>Canvas Test</title>
+
+    <style type='text/css'>
+        #canvas {
+            border: 1px gray solid;
+        }
+	</style>
+
+
+    <script type='text/javascript' src='../node_modules/requirejs/require.js'></script>
+    
+    <script type='text/javascript'>
+        require(['./lib/balls.flow.js'], function( _) {
+            _app = new _.App();
+        });
+	</script>
+
+</head>
+
+<body>
+    <canvas id='canvas' width='400' height='300'></canvas>
+</body>
+
+</html>

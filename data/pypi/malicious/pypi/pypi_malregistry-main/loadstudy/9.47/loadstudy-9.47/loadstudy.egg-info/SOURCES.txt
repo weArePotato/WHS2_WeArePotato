@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+loadstudy.egg-info/PKG-INFO
+loadstudy.egg-info/SOURCES.txt
+loadstudy.egg-info/dependency_links.txt
+loadstudy.egg-info/top_level.txt

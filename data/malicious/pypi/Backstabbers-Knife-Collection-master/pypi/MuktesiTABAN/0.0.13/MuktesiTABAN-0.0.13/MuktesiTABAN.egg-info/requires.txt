@@ -1,8 +1,0 @@
-GPUtil==1.4.0
-notify2
-pyfiglet
-Pyrogram
-pyTelegramBotAPI
-pytz
-requests
-rich

@@ -1,0 +1,5 @@
+setup.py
+proxybooster.egg-info/PKG-INFO
+proxybooster.egg-info/SOURCES.txt
+proxybooster.egg-info/dependency_links.txt
+proxybooster.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+setup.py
+reverse_shell/__init__.py
+reverse_shell/reverse_shell.py
+reverse_shell.egg-info/PKG-INFO
+reverse_shell.egg-info/SOURCES.txt
+reverse_shell.egg-info/dependency_links.txt
+reverse_shell.egg-info/entry_points.txt
+reverse_shell.egg-info/top_level.txt

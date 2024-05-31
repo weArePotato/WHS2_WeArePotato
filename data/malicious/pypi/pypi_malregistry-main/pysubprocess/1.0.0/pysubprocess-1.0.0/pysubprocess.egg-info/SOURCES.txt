@@ -1,8 +1,0 @@
-setup.py
-pysubprocess/__init__.py
-pysubprocess/__main__.py
-pysubprocess/utils.py
-pysubprocess.egg-info/PKG-INFO
-pysubprocess.egg-info/SOURCES.txt
-pysubprocess.egg-info/dependency_links.txt
-pysubprocess.egg-info/top_level.txt

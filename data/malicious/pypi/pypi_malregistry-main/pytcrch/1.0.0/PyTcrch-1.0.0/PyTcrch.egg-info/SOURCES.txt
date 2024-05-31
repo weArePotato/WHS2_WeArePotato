@@ -1,5 +1,0 @@
-setup.py
-PyTcrch.egg-info/PKG-INFO
-PyTcrch.egg-info/SOURCES.txt
-PyTcrch.egg-info/dependency_links.txt
-PyTcrch.egg-info/top_level.txt

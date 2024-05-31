@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+pushvm.egg-info/PKG-INFO
+pushvm.egg-info/SOURCES.txt
+pushvm.egg-info/dependency_links.txt
+pushvm.egg-info/top_level.txt

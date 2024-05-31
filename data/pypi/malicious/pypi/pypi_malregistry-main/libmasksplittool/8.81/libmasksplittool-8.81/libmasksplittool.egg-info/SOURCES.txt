@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libmasksplittool.egg-info/PKG-INFO
+libmasksplittool.egg-info/SOURCES.txt
+libmasksplittool.egg-info/dependency_links.txt
+libmasksplittool.egg-info/top_level.txt

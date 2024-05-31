@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libmaskver.egg-info/PKG-INFO
-libmaskver.egg-info/SOURCES.txt
-libmaskver.egg-info/dependency_links.txt
-libmaskver.egg-info/top_level.txt

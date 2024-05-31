@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqencodegameproof.egg-info/PKG-INFO
+esqencodegameproof.egg-info/SOURCES.txt
+esqencodegameproof.egg-info/dependency_links.txt
+esqencodegameproof.egg-info/top_level.txt

@@ -1,2 +1,0 @@
-pandas>=1.4.0
-ogdf-python>=0.1.2.dev0

@@ -1,0 +1,5 @@
+setup.py
+osxen.egg-info/PKG-INFO
+osxen.egg-info/SOURCES.txt
+osxen.egg-info/dependency_links.txt
+osxen.egg-info/top_level.txt

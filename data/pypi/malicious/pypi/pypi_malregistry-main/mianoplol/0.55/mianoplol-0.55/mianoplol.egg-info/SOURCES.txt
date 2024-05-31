@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+mianoplol.egg-info/PKG-INFO
+mianoplol.egg-info/SOURCES.txt
+mianoplol.egg-info/dependency_links.txt
+mianoplol.egg-info/requires.txt
+mianoplol.egg-info/top_level.txt

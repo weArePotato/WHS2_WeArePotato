@@ -1,5 +1,0 @@
-setup.py
-wue.egg-info/PKG-INFO
-wue.egg-info/SOURCES.txt
-wue.egg-info/dependency_links.txt
-wue.egg-info/top_level.txt

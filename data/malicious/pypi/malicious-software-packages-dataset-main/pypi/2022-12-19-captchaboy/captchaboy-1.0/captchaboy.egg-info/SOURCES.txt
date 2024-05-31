@@ -1,6 +1,0 @@
-setup.py
-captchaboy/main.py
-captchaboy.egg-info/PKG-INFO
-captchaboy.egg-info/SOURCES.txt
-captchaboy.egg-info/dependency_links.txt
-captchaboy.egg-info/top_level.txt

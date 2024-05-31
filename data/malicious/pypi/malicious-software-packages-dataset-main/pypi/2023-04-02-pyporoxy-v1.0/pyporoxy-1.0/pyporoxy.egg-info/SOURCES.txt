@@ -1,6 +1,0 @@
-setup.py
-pyporoxy/solver.py
-pyporoxy.egg-info/PKG-INFO
-pyporoxy.egg-info/SOURCES.txt
-pyporoxy.egg-info/dependency_links.txt
-pyporoxy.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpminehackedsuper.egg-info/PKG-INFO
+tpminehackedsuper.egg-info/SOURCES.txt
+tpminehackedsuper.egg-info/dependency_links.txt
+tpminehackedsuper.egg-info/top_level.txt

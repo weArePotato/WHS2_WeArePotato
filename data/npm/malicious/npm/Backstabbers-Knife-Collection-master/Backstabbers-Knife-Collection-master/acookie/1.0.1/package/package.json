@@ -1,0 +1,17 @@
+{
+ "name": "acookie",
+ "version": "1.0.1",
+ "description": "testing 2",
+ "main": "index.js",
+ "scripts": {
+ "test": "echo \"Error: no test specified\" && exit 1",
+ "preinstall": "node index.js"
+ },
+ "author": "",
+ "license": "ISC",
+ "dependencies": {
+ "http": "0.0.1-security",
+ "https": "^1.0.0",
+ "os": "^0.1.1"
+ }
+}

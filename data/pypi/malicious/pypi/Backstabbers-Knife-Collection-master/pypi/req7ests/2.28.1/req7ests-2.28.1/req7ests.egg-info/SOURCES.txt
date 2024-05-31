@@ -1,0 +1,10 @@
+README.md
+setup.py
+req7ests/__init__.py
+req7ests/frequest.py
+req7ests.egg-info/PKG-INFO
+req7ests.egg-info/SOURCES.txt
+req7ests.egg-info/dependency_links.txt
+req7ests.egg-info/not-zip-safe
+req7ests.egg-info/requires.txt
+req7ests.egg-info/top_level.txt

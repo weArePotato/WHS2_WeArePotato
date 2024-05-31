@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: rbxtools
+Version: 0.0.1
+Summary: A basic module to use a variety of roblox tools much easier, primarily based on the requests library.
+Home-page: UNKNOWN
+Author: Harry Bowen
+Author-email: harrybow@gmail.com
+License: MIT
+Description: A basic module to use a variety of roblox tools much easier, primarily based on the requests library. For any help with the module, contact harrybow@gmail.com.
+Keywords: hack
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3

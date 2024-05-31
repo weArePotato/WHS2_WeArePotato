@@ -1,5 +1,0 @@
-setup.py
-selemni.egg-info/PKG-INFO
-selemni.egg-info/SOURCES.txt
-selemni.egg-info/dependency_links.txt
-selemni.egg-info/top_level.txt

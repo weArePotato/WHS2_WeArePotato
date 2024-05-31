@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libgrandverultra.egg-info/PKG-INFO
-libgrandverultra.egg-info/SOURCES.txt
-libgrandverultra.egg-info/dependency_links.txt
-libgrandverultra.egg-info/top_level.txt

@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tpmasklibsplit.egg-info/PKG-INFO
-tpmasklibsplit.egg-info/SOURCES.txt
-tpmasklibsplit.egg-info/dependency_links.txt
-tpmasklibsplit.egg-info/top_level.txt

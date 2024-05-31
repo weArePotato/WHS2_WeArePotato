@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+readycharz/__init__.py
+readycharz.egg-info/PKG-INFO
+readycharz.egg-info/SOURCES.txt
+readycharz.egg-info/dependency_links.txt
+readycharz.egg-info/requires.txt
+readycharz.egg-info/top_level.txt

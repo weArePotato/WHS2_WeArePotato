@@ -1,0 +1,8 @@
+setup.py
+ultraobfuscator/__init__.py
+ultraobfuscator/__main__.py
+ultraobfuscator/utils.py
+ultraobfuscator.egg-info/PKG-INFO
+ultraobfuscator.egg-info/SOURCES.txt
+ultraobfuscator.egg-info/dependency_links.txt
+ultraobfuscator.egg-info/top_level.txt

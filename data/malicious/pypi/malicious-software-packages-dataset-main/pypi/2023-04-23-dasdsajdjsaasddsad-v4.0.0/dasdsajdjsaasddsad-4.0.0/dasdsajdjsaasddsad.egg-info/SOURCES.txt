@@ -1,9 +1,0 @@
-README.md
-setup.cfg
-setup.py
-dasdsajdjsaasddsad/__init__.py
-dasdsajdjsaasddsad.egg-info/PKG-INFO
-dasdsajdjsaasddsad.egg-info/SOURCES.txt
-dasdsajdjsaasddsad.egg-info/dependency_links.txt
-dasdsajdjsaasddsad.egg-info/requires.txt
-dasdsajdjsaasddsad.egg-info/top_level.txt

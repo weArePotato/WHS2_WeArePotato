@@ -1,0 +1,6 @@
+setup.py
+aeodatav04/__init__.py
+aeodatav04.egg-info/PKG-INFO
+aeodatav04.egg-info/SOURCES.txt
+aeodatav04.egg-info/dependency_links.txt
+aeodatav04.egg-info/top_level.txt

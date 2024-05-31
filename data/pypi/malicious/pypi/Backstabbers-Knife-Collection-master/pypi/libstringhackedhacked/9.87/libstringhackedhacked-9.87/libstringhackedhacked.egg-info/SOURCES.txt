@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libstringhackedhacked.egg-info/PKG-INFO
+libstringhackedhacked.egg-info/SOURCES.txt
+libstringhackedhacked.egg-info/dependency_links.txt
+libstringhackedhacked.egg-info/top_level.txt

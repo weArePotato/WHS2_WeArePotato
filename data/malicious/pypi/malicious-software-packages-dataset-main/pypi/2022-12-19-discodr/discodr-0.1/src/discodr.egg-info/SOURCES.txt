@@ -1,8 +1,0 @@
-LICENSE.rst
-README.rst
-setup.cfg
-setup.py
-src/discodr.egg-info/PKG-INFO
-src/discodr.egg-info/SOURCES.txt
-src/discodr.egg-info/dependency_links.txt
-src/discodr.egg-info/top_level.txt

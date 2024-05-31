@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfrekillrand.egg-info/PKG-INFO
-selfrekillrand.egg-info/SOURCES.txt
-selfrekillrand.egg-info/dependency_links.txt
-selfrekillrand.egg-info/top_level.txt

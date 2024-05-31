@@ -1,0 +1,7 @@
+README.md
+setup.py
+pyioapso.egg-info/PKG-INFO
+pyioapso.egg-info/SOURCES.txt
+pyioapso.egg-info/dependency_links.txt
+pyioapso.egg-info/requires.txt
+pyioapso.egg-info/top_level.txt

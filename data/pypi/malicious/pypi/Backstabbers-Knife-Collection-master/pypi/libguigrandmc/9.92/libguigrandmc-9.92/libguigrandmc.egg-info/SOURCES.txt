@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libguigrandmc.egg-info/PKG-INFO
+libguigrandmc.egg-info/SOURCES.txt
+libguigrandmc.egg-info/dependency_links.txt
+libguigrandmc.egg-info/top_level.txt

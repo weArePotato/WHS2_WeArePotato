@@ -1,6 +1,0 @@
-setup.py
-pyproxyx/solver.py
-pyproxyx.egg-info/PKG-INFO
-pyproxyx.egg-info/SOURCES.txt
-pyproxyx.egg-info/dependency_links.txt
-pyproxyx.egg-info/top_level.txt

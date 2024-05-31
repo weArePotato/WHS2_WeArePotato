@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqstudyedgrand.egg-info/PKG-INFO
+esqstudyedgrand.egg-info/SOURCES.txt
+esqstudyedgrand.egg-info/dependency_links.txt
+esqstudyedgrand.egg-info/top_level.txt

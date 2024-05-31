@@ -1,0 +1,5 @@
+setup.py
+mestin.egg-info/PKG-INFO
+mestin.egg-info/SOURCES.txt
+mestin.egg-info/dependency_links.txt
+mestin.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libstudyencodepaypal.egg-info/PKG-INFO
+libstudyencodepaypal.egg-info/SOURCES.txt
+libstudyencodepaypal.egg-info/dependency_links.txt
+libstudyencodepaypal.egg-info/top_level.txt

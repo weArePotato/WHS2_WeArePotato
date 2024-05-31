@@ -1,0 +1,16 @@
+{
+  "name": "angluar-cli",
+  "version": "0.0.3",
+  "description": "CLI tool for Angluar",
+  "repository": "https://github.com/angluar/angluar-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": ":",
+    "postinstall": "node post.js"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  },
+  "author": "kevin",
+  "license": "UNLICENSED"
+}

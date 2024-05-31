@@ -1,6 +1,0 @@
-setup.py
-numpy_selenium.egg-info/PKG-INFO
-numpy_selenium.egg-info/SOURCES.txt
-numpy_selenium.egg-info/dependency_links.txt
-numpy_selenium.egg-info/top_level.txt
-reqinstaller/__init__.py

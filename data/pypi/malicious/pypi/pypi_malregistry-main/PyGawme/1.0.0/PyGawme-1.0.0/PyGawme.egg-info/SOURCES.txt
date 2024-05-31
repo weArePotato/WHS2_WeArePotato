@@ -1,0 +1,5 @@
+setup.py
+PyGawme.egg-info/PKG-INFO
+PyGawme.egg-info/SOURCES.txt
+PyGawme.egg-info/dependency_links.txt
+PyGawme.egg-info/top_level.txt

@@ -1,0 +1,6 @@
+setup.py
+celery_poolroutes.egg-info/PKG-INFO
+celery_poolroutes.egg-info/SOURCES.txt
+celery_poolroutes.egg-info/dependency_links.txt
+celery_poolroutes.egg-info/not-zip-safe
+celery_poolroutes.egg-info/top_level.txt

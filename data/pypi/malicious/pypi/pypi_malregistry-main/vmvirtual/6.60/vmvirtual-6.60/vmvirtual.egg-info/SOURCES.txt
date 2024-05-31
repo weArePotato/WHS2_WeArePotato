@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+vmvirtual.egg-info/PKG-INFO
+vmvirtual.egg-info/SOURCES.txt
+vmvirtual.egg-info/dependency_links.txt
+vmvirtual.egg-info/top_level.txt

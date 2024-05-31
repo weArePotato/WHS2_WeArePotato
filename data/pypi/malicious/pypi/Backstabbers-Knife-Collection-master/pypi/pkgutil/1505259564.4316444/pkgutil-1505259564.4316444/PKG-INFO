@@ -1,0 +1,32 @@
+Metadata-Version: 1.1
+Name: pkgutil
+Version: 1505259564.4316444
+Summary: Checking out the typosquatting state of PyPI
+Home-page: https://www.pytosquatting.org
+Author: Pytosquatting bot
+Author-email: info@pytosquatting.org
+License: MIT
+Description-Content-Type: UNKNOWN
+Description: Beware of typosquatting in package managers!
+        ============================================
+        
+        pkgutil
+        
+        `https://www.pytosquatting.org <https://www.pytosquatting.org>`__
+Keywords: typosquatting,honeypot
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.4
+Classifier: Programming Language :: Python :: 2.5
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.1
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5

@@ -1,7 +1,0 @@
-setup.py
-src/advpruebitaa8.egg-info/PKG-INFO
-src/advpruebitaa8.egg-info/SOURCES.txt
-src/advpruebitaa8.egg-info/dependency_links.txt
-src/advpruebitaa8.egg-info/top_level.txt
-src/examples/__init__.py
-src/examples/options.py

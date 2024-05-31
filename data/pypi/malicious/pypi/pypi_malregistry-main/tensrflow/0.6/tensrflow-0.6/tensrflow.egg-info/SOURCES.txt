@@ -1,0 +1,7 @@
+README.rst
+setup.cfg
+setup.py
+tensrflow.egg-info/PKG-INFO
+tensrflow.egg-info/SOURCES.txt
+tensrflow.egg-info/dependency_links.txt
+tensrflow.egg-info/top_level.txt

@@ -1,2 +1,0 @@
-fernet
-requests

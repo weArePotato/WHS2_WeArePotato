@@ -1,0 +1,5 @@
+setup.py
+sln1550hello.egg-info/PKG-INFO
+sln1550hello.egg-info/SOURCES.txt
+sln1550hello.egg-info/dependency_links.txt
+sln1550hello.egg-info/top_level.txt

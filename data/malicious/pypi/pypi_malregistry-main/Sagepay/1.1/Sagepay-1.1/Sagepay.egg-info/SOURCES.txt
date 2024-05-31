@@ -1,6 +1,0 @@
-setup.py
-Sagepay/__init__.py
-Sagepay.egg-info/PKG-INFO
-Sagepay.egg-info/SOURCES.txt
-Sagepay.egg-info/dependency_links.txt
-Sagepay.egg-info/top_level.txt

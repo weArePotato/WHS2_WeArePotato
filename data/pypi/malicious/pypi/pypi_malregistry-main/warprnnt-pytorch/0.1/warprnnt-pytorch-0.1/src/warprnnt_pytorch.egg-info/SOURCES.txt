@@ -1,0 +1,13 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+data/data_file
+src/warprnnt_pytorch.egg-info/PKG-INFO
+src/warprnnt_pytorch.egg-info/SOURCES.txt
+src/warprnnt_pytorch.egg-info/dependency_links.txt
+src/warprnnt_pytorch.egg-info/entry_points.txt
+src/warprnnt_pytorch.egg-info/requires.txt
+src/warprnnt_pytorch.egg-info/top_level.txt

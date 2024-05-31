@@ -1,7 +1,0 @@
-LICENSE
-README.md
-setup.py
-booto3.egg-info/PKG-INFO
-booto3.egg-info/SOURCES.txt
-booto3.egg-info/dependency_links.txt
-booto3.egg-info/top_level.txt

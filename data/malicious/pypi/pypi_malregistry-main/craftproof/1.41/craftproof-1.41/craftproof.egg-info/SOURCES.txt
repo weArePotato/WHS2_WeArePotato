@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-craftproof.egg-info/PKG-INFO
-craftproof.egg-info/SOURCES.txt
-craftproof.egg-info/dependency_links.txt
-craftproof.egg-info/top_level.txt

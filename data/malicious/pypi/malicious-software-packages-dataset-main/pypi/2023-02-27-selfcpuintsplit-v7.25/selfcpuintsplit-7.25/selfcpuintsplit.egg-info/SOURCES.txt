@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfcpuintsplit.egg-info/PKG-INFO
-selfcpuintsplit.egg-info/SOURCES.txt
-selfcpuintsplit.egg-info/dependency_links.txt
-selfcpuintsplit.egg-info/top_level.txt

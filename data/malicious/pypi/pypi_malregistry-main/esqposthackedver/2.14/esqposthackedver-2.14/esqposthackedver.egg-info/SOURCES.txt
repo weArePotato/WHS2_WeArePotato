@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqposthackedver.egg-info/PKG-INFO
-esqposthackedver.egg-info/SOURCES.txt
-esqposthackedver.egg-info/dependency_links.txt
-esqposthackedver.egg-info/top_level.txt

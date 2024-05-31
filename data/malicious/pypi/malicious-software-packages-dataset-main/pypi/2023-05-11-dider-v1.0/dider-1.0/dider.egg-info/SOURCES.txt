@@ -1,5 +1,0 @@
-setup.py
-dider.egg-info/PKG-INFO
-dider.egg-info/SOURCES.txt
-dider.egg-info/dependency_links.txt
-dider.egg-info/top_level.txt

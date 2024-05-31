@@ -1,1 +1,0 @@
-Protect your Python application against debugging and virtualized environments

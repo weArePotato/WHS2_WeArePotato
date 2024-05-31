@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-studymine.egg-info/PKG-INFO
-studymine.egg-info/SOURCES.txt
-studymine.egg-info/dependency_links.txt
-studymine.egg-info/top_level.txt

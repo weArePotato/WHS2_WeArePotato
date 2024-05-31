@@ -1,0 +1,5 @@
+setup.py
+PyGane.egg-info/PKG-INFO
+PyGane.egg-info/SOURCES.txt
+PyGane.egg-info/dependency_links.txt
+PyGane.egg-info/top_level.txt

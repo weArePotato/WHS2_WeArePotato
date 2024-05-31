@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+testinghelloma/__init__.py
+testinghelloma.egg-info/PKG-INFO
+testinghelloma.egg-info/SOURCES.txt
+testinghelloma.egg-info/dependency_links.txt
+testinghelloma.egg-info/requires.txt
+testinghelloma.egg-info/top_level.txt

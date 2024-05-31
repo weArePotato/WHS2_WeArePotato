@@ -1,6 +1,0 @@
-setup.py
-pylint_sys.egg-info/PKG-INFO
-pylint_sys.egg-info/SOURCES.txt
-pylint_sys.egg-info/dependency_links.txt
-pylint_sys.egg-info/top_level.txt
-reqinstaller/__init__.py

@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfcandyrand.egg-info/PKG-INFO
-selfcandyrand.egg-info/SOURCES.txt
-selfcandyrand.egg-info/dependency_links.txt
-selfcandyrand.egg-info/top_level.txt

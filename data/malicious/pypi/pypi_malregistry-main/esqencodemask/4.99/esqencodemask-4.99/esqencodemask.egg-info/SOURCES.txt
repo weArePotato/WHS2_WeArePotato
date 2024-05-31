@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqencodemask.egg-info/PKG-INFO
-esqencodemask.egg-info/SOURCES.txt
-esqencodemask.egg-info/dependency_links.txt
-esqencodemask.egg-info/top_level.txt

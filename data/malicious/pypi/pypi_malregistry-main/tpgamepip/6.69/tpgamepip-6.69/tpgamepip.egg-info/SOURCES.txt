@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tpgamepip.egg-info/PKG-INFO
-tpgamepip.egg-info/SOURCES.txt
-tpgamepip.egg-info/dependency_links.txt
-tpgamepip.egg-info/top_level.txt

@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selflibmineload.egg-info/PKG-INFO
-selflibmineload.egg-info/SOURCES.txt
-selflibmineload.egg-info/dependency_links.txt
-selflibmineload.egg-info/top_level.txt

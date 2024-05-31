@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libstrproofurl.egg-info/PKG-INFO
-libstrproofurl.egg-info/SOURCES.txt
-libstrproofurl.egg-info/dependency_links.txt
-libstrproofurl.egg-info/top_level.txt

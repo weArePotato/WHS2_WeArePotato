@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libpostmcstudy.egg-info/PKG-INFO
+libpostmcstudy.egg-info/SOURCES.txt
+libpostmcstudy.egg-info/dependency_links.txt
+libpostmcstudy.egg-info/top_level.txt

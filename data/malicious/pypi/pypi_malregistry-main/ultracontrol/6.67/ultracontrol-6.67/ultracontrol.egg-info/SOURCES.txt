@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-ultracontrol.egg-info/PKG-INFO
-ultracontrol.egg-info/SOURCES.txt
-ultracontrol.egg-info/dependency_links.txt
-ultracontrol.egg-info/top_level.txt

@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libhackedosintvm.egg-info/PKG-INFO
-libhackedosintvm.egg-info/SOURCES.txt
-libhackedosintvm.egg-info/dependency_links.txt
-libhackedosintvm.egg-info/top_level.txt

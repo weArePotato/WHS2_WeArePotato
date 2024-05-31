@@ -1,0 +1,17 @@
+{
+  "name": "flame-vali",
+  "version": "0.0.6",
+  "description": "Bypass any request proxys",
+  "main": "./checker_size/checker.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-cmd": "^5.0.0",
+    "rgb-console": "^1.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "b_1.mp4",
+  "license": "ISC"
+}

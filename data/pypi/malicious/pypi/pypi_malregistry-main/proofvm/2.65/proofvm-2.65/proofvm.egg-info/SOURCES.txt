@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+proofvm.egg-info/PKG-INFO
+proofvm.egg-info/SOURCES.txt
+proofvm.egg-info/dependency_links.txt
+proofvm.egg-info/top_level.txt

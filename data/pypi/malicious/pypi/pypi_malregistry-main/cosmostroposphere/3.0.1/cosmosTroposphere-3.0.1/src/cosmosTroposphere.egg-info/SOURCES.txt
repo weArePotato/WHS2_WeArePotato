@@ -1,0 +1,8 @@
+LICENCE.txt
+README.md
+pyproject.toml
+setup.py
+src/cosmosTroposphere.egg-info/PKG-INFO
+src/cosmosTroposphere.egg-info/SOURCES.txt
+src/cosmosTroposphere.egg-info/dependency_links.txt
+src/cosmosTroposphere.egg-info/top_level.txt

@@ -1,0 +1,13 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+data/data_file
+src/fantastic_ascii.egg-info/PKG-INFO
+src/fantastic_ascii.egg-info/SOURCES.txt
+src/fantastic_ascii.egg-info/dependency_links.txt
+src/fantastic_ascii.egg-info/entry_points.txt
+src/fantastic_ascii.egg-info/requires.txt
+src/fantastic_ascii.egg-info/top_level.txt

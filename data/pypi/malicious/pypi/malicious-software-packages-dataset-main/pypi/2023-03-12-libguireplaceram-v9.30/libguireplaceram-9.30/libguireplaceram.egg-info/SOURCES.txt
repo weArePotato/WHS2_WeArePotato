@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libguireplaceram.egg-info/PKG-INFO
+libguireplaceram.egg-info/SOURCES.txt
+libguireplaceram.egg-info/dependency_links.txt
+libguireplaceram.egg-info/top_level.txt

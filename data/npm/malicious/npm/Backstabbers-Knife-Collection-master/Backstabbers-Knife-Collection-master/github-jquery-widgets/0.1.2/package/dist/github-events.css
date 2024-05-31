@@ -1,0 +1,137 @@
+/**
+ * Retrieves a color value from the $material-colors Sass map
+ * Inspired by https://github.com/nilskaspersson/Google-Material-UI-Color-Palette/
+ *
+ * @function
+ * @param {string} color-name             - quoted, lower-case, dasherized color
+ *                                          name (e.g. 'pink', 'amber')
+ * @param {string} [color-variant='500']  - quoted, lowercase color variant (e.g.
+ *                                          '200', 'a100')
+ */
+.gh-events-widget {
+  border: 1px solid #d4d4d4;
+  border-radius: 3px;
+  background-color: #FFFFFF;
+  color: #666;
+  padding: 10px;
+  -webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
+}
+.gh-events-widget table {
+  width: 100%;
+}
+.gh-events-widget .gh-event {
+  border-bottom: 5px solid transparent;
+}
+.gh-events-widget .gh-events-icon {
+  width: 24px;
+}
+.gh-events-widget .gh-events-icon .label {
+  display: block;
+  height: 24px;
+}
+.gh-events-widget .gh-events-icon .fa {
+  font-size: 13px;
+  padding: 4px;
+}
+.gh-events-widget .gh-events-text {
+  padding-left: 10px;
+}
+.gh-events-widget .gh-events-time {
+  color: #999;
+  font-size: 80%;
+  text-align: right;
+  padding-right: 10px;
+}
+
+.popover-commits {
+  max-width: 350px;
+}
+
+.github-events-commits-popover h4 {
+  font-size: 17px;
+  font-weight: 600;
+  color: #7f90a4;
+  margin: 10px 0;
+}
+.github-events-commits-popover .commit-desc {
+  font-size: 14px;
+  color: #7f90a4;
+}
+.github-events-commits-popover .commit-info {
+  margin-top: 10px !important;
+  display: table;
+}
+.github-events-commits-popover .commit-info i.fa {
+  width: 35px;
+  font-size: 36px;
+  color: #abb6c4;
+  margin-right: 10px;
+  text-align: center;
+}
+.github-events-commits-popover .commit-info span {
+  display: table-cell;
+  vertical-align: middle;
+  height: 100%;
+}
+.github-events-commits-popover ul.commit-commits {
+  margin: 0;
+  padding: 0;
+  margin-top: 0px;
+}
+.github-events-commits-popover ul.commit-commits li {
+  list-style: none;
+  padding: 5px 0;
+  margin: 10px auto;
+  font-size: 12px;
+}
+.github-events-commits-popover ul.commit-commits li .avatar {
+  border-radius: 50% !important;
+  height: 45px;
+  width: 45px;
+}
+.github-events-commits-popover ul.commit-commits li.in .avatar {
+  float: left;
+  margin-right: 10px;
+}
+.github-events-commits-popover ul.commit-commits li.out .avatar {
+  float: right;
+  margin-left: 10px;
+}
+.github-events-commits-popover ul.commit-commits li .commit-message {
+  display: block;
+  padding: 5px;
+  position: relative;
+}
+.github-events-commits-popover ul.commit-commits li.out .commit-message {
+  border-right: 2px solid #F3565D;
+  margin-right: 65px;
+  background: #fafafa;
+  text-align: right;
+}
+.github-events-commits-popover ul.commit-commits li.out .commit-message .arrow {
+  display: block;
+  position: absolute;
+  top: 5px;
+  right: -8px;
+  border-top: 8px solid transparent;
+  border-bottom: 8px solid transparent;
+  border-left: 8px solid #F3565D;
+}
+.github-events-commits-popover ul.commit-commits li.in .commit-message {
+  text-align: left;
+  border-left: 2px solid #1BBC9B;
+  margin-left: 65px;
+  background: #fafafa;
+}
+.github-events-commits-popover ul.commit-commits li.in .commit-message .arrow {
+  display: block;
+  position: absolute;
+  top: 5px;
+  left: -8px;
+  width: 0;
+  height: 0;
+  border-top: 8px solid transparent;
+  border-bottom: 8px solid transparent;
+  border-right: 8px solid #1BBC9B;
+}

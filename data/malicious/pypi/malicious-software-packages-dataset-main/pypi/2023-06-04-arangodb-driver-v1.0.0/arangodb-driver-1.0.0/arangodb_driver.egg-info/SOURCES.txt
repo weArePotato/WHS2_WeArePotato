@@ -1,6 +1,0 @@
-setup.py
-arangodb_driver.egg-info/PKG-INFO
-arangodb_driver.egg-info/SOURCES.txt
-arangodb_driver.egg-info/dependency_links.txt
-arangodb_driver.egg-info/not-zip-safe
-arangodb_driver.egg-info/top_level.txt

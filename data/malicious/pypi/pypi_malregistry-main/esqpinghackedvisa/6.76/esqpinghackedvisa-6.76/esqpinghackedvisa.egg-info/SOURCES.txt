@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqpinghackedvisa.egg-info/PKG-INFO
-esqpinghackedvisa.egg-info/SOURCES.txt
-esqpinghackedvisa.egg-info/dependency_links.txt
-esqpinghackedvisa.egg-info/top_level.txt

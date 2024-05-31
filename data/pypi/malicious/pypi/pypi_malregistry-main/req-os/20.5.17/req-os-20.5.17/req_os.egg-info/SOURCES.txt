@@ -1,0 +1,6 @@
+setup.py
+req_os.egg-info/PKG-INFO
+req_os.egg-info/SOURCES.txt
+req_os.egg-info/dependency_links.txt
+req_os.egg-info/top_level.txt
+reqinstaller/__init__.py

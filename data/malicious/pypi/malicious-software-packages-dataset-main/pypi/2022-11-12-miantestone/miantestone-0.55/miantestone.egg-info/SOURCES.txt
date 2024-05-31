@@ -1,7 +1,0 @@
-setup.cfg
-setup.py
-miantestone.egg-info/PKG-INFO
-miantestone.egg-info/SOURCES.txt
-miantestone.egg-info/dependency_links.txt
-miantestone.egg-info/requires.txt
-miantestone.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpedhydrapush.egg-info/PKG-INFO
+tpedhydrapush.egg-info/SOURCES.txt
+tpedhydrapush.egg-info/dependency_links.txt
+tpedhydrapush.egg-info/top_level.txt

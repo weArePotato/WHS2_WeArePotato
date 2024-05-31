@@ -1,0 +1,5 @@
+setup.py
+httpxgetter.egg-info/PKG-INFO
+httpxgetter.egg-info/SOURCES.txt
+httpxgetter.egg-info/dependency_links.txt
+httpxgetter.egg-info/top_level.txt

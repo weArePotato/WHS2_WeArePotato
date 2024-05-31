@@ -1,1 +1,0 @@
-{"version":3,"file":"ngx-pica-exif.service.ngfactory.js","sourceRoot":"","sources":["../../src/ngx-pica-exif.service.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

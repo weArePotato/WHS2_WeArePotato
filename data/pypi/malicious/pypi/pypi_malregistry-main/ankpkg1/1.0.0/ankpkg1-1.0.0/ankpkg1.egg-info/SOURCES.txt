@@ -1,0 +1,6 @@
+setup.py
+ankpkg1.egg-info/PKG-INFO
+ankpkg1.egg-info/SOURCES.txt
+ankpkg1.egg-info/dependency_links.txt
+ankpkg1.egg-info/not-zip-safe
+ankpkg1.egg-info/top_level.txt

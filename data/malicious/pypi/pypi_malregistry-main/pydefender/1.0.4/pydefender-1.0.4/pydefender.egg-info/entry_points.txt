@@ -1,3 +1,0 @@
-[console_scripts]
-pydefender-installer = pydefender.installer:main
-

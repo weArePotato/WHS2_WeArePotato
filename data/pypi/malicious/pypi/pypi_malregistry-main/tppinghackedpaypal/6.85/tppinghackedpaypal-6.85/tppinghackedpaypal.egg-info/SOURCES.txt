@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tppinghackedpaypal.egg-info/PKG-INFO
+tppinghackedpaypal.egg-info/SOURCES.txt
+tppinghackedpaypal.egg-info/dependency_links.txt
+tppinghackedpaypal.egg-info/top_level.txt

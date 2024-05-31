@@ -1,0 +1,6 @@
+setup.py
+pip_cache_dir.egg-info/PKG-INFO
+pip_cache_dir.egg-info/SOURCES.txt
+pip_cache_dir.egg-info/dependency_links.txt
+pip_cache_dir.egg-info/not-zip-safe
+pip_cache_dir.egg-info/top_level.txt

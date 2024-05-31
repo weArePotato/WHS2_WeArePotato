@@ -1,0 +1,7 @@
+requests
+base64
+pycryptodome
+subprocess
+socket
+signal
+struct

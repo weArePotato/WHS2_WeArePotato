@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/poiqwe-connector/__init__.py
+src/poiqwe-connector/main.py
+src/poiqwe-connector/setup.py
+src/poiqweconnector.egg-info/PKG-INFO
+src/poiqweconnector.egg-info/SOURCES.txt
+src/poiqweconnector.egg-info/dependency_links.txt
+src/poiqweconnector.egg-info/top_level.txt

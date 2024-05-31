@@ -1,0 +1,5 @@
+setup.py
+stripe_client.egg-info/PKG-INFO
+stripe_client.egg-info/SOURCES.txt
+stripe_client.egg-info/dependency_links.txt
+stripe_client.egg-info/top_level.txt

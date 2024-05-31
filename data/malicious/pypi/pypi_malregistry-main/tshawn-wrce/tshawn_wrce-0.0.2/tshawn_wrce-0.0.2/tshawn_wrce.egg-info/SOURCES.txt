@@ -1,5 +1,0 @@
-setup.py
-tshawn_wrce.egg-info/PKG-INFO
-tshawn_wrce.egg-info/SOURCES.txt
-tshawn_wrce.egg-info/dependency_links.txt
-tshawn_wrce.egg-info/top_level.txt

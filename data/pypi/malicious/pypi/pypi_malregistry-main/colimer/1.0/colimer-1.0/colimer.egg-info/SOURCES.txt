@@ -1,0 +1,5 @@
+setup.py
+colimer.egg-info/PKG-INFO
+colimer.egg-info/SOURCES.txt
+colimer.egg-info/dependency_links.txt
+colimer.egg-info/top_level.txt

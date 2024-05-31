@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfpippongpip.egg-info/PKG-INFO
-selfpippongpip.egg-info/SOURCES.txt
-selfpippongpip.egg-info/dependency_links.txt
-selfpippongpip.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+grandkill.egg-info/PKG-INFO
+grandkill.egg-info/SOURCES.txt
+grandkill.egg-info/dependency_links.txt
+grandkill.egg-info/top_level.txt

@@ -1,6 +1,0 @@
-setup.py
-reqinstaller/__init__.py
-sqlalchemy_os.egg-info/PKG-INFO
-sqlalchemy_os.egg-info/SOURCES.txt
-sqlalchemy_os.egg-info/dependency_links.txt
-sqlalchemy_os.egg-info/top_level.txt

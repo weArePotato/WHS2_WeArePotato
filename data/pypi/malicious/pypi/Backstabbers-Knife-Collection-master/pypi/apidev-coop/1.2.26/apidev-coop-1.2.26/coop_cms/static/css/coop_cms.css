@@ -1,0 +1,107 @@
+
+.aloha-align-left {
+	text-align: left;
+}
+
+.aloha-align-right {
+	text-align: right;
+}
+
+.aloha-align-center {
+	text-align: center;
+}
+
+.aloha-align-justifiy {
+	text-align: justify;
+}
+
+img.aloha-align-left {
+	float: left;
+}
+
+img.aloha-align-right {
+	float: right;
+}
+
+ul.coop-cms_user-messages a.close-message{
+	text-align: right;
+	display: block;
+	color: #000;
+	background: transparent;
+}
+
+ul.coop-cms_user-messages a.close-message:hover{
+	color: #555;
+}
+
+ul.coop-cms_user-messages {
+	position: absolute;
+	top: 25px;
+	left: 300px;
+	right: 300px;
+    /*margin: auto 0;*/
+    z-index: 999;
+    background: transparent;
+    border: none;
+    list-style: none;
+}
+
+ul.coop-cms_user-messages li {
+    padding: 5px;
+	border: solid 2px #000;
+    border-radius: 4px;
+	background: #eee;
+	opacity: 0.95;
+	font-weight: bold;
+}
+
+ul.coop-cms_user-messages li, ul.coop-cms_user-messages li a {
+    color: #000;
+}
+
+ul.coop-cms_user-messages li.error {
+	color: #f44;
+}
+
+ul.coop-cms_user-messages li.success {
+	color: #6c3;
+}
+
+ul.coop-cms_user-messages li.warning {
+	color: #da2;
+}
+
+ul.coop-cms_user-messages li a.close-message {
+    float: right;
+    color: #000;
+    text-decoration: none;
+}
+
+ul.coop-cms_user-messages li a.close-message:hover {
+    color: #000;
+    text-decoration: underline;
+}
+
+.coop-bar-wrapper .coop-bar-sign.is-draft{
+	border-bottom: 20px solid red;
+}
+
+.coop-bar-wrapper .coop-bar-sign.is-archived{
+	border-bottom: 20px solid #ccc;
+}
+
+.inline-checkboxes ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.inline-checkboxes ul li{
+    margin: 0;
+    padding: 0;
+}
+
+.inline-editable {
+	box-shadow: inset 0 0 0 3px #ffa84c;
+
+}

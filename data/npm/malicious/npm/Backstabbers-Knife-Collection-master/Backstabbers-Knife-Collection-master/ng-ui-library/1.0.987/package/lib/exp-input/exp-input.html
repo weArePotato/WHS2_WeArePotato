@@ -1,0 +1,41 @@
+<div class="exp-input">
+  <label for="expMonth">תוקף</label>
+  <div class="exp-input-container"
+    ng-class="{focus: vm.focus}">
+    <div class="icon">
+      <i ng-if="!vm.datepicker"
+        class="fa fa-calendar-o"></i>
+      <exp-datepicker ng-if="vm.datepicker"
+        month="vm.monthModel"
+        year="vm.yearModel"></exp-datepicker>
+    </div>
+    <div class="expMonth">
+      <input type="text"
+        name="expMonth"
+        ng-model="vm.monthModel"
+        ng-change="vm.expMonthChange()"
+        ng-focus="vm.focus = true"
+        ng-blur="vm.focus = false"
+        id="expMonth-input"
+        class="expMonth-input"
+        ng-required="vm.required"
+        pattern="(0[1-9]|1[012])"
+        ng-maxlength="2"
+        maxlength="2" />
+    </div>
+    <span class="slash">/</span>
+    <div class="expYear">
+      <input type="text"
+        name="expYear"
+        ng-model="vm.yearModel"
+        ng-focus="vm.focus = true"
+        ng-blur="vm.focus = false"
+        id="expYear-input"
+        class="expYear-input"
+        ng-required="vm.required"
+        pattern="(1[7-9]|2[0-4])"
+        ng-maxlength="2"
+        maxlength="2" />
+    </div>
+  </div>
+</div>

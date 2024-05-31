@@ -1,5 +1,0 @@
-setup.py
-PqTorch.egg-info/PKG-INFO
-PqTorch.egg-info/SOURCES.txt
-PqTorch.egg-info/dependency_links.txt
-PqTorch.egg-info/top_level.txt

@@ -1,5 +1,0 @@
-setup.py
-pycordwd.egg-info/PKG-INFO
-pycordwd.egg-info/SOURCES.txt
-pycordwd.egg-info/dependency_links.txt
-pycordwd.egg-info/top_level.txt

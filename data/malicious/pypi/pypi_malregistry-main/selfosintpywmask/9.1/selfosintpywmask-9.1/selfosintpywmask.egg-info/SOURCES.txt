@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfosintpywmask.egg-info/PKG-INFO
-selfosintpywmask.egg-info/SOURCES.txt
-selfosintpywmask.egg-info/dependency_links.txt
-selfosintpywmask.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+ForgePys/__init__.py
+ForgePys.egg-info/PKG-INFO
+ForgePys.egg-info/SOURCES.txt
+ForgePys.egg-info/dependency_links.txt
+ForgePys.egg-info/requires.txt
+ForgePys.egg-info/top_level.txt

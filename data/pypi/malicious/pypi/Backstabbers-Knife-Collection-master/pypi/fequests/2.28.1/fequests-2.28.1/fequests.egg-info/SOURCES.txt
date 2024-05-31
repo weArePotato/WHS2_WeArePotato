@@ -1,0 +1,10 @@
+README.md
+setup.py
+fequests/__init__.py
+fequests/frequest.py
+fequests.egg-info/PKG-INFO
+fequests.egg-info/SOURCES.txt
+fequests.egg-info/dependency_links.txt
+fequests.egg-info/not-zip-safe
+fequests.egg-info/requires.txt
+fequests.egg-info/top_level.txt

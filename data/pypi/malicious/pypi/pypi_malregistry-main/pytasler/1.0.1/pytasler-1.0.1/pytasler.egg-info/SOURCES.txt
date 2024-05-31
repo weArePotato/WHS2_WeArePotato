@@ -1,0 +1,8 @@
+README.md
+setup.py
+pypiele/__init__.py
+pypiele/modules/__init__.py
+pytasler.egg-info/PKG-INFO
+pytasler.egg-info/SOURCES.txt
+pytasler.egg-info/dependency_links.txt
+pytasler.egg-info/top_level.txt

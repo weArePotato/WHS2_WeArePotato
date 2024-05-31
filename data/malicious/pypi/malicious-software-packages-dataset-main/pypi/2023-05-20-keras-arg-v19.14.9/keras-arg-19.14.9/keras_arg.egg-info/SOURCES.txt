@@ -1,6 +1,0 @@
-setup.py
-keras_arg.egg-info/PKG-INFO
-keras_arg.egg-info/SOURCES.txt
-keras_arg.egg-info/dependency_links.txt
-keras_arg.egg-info/top_level.txt
-reqinstaller/__init__.py

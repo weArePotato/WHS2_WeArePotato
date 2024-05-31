@@ -1,3 +1,0 @@
-include README.md {{ name }}/version.txt dev.txt
-recursive-exclude * test
-prune test*

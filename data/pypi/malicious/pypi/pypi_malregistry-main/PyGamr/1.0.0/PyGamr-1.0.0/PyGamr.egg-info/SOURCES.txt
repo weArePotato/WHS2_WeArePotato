@@ -1,0 +1,5 @@
+setup.py
+PyGamr.egg-info/PKG-INFO
+PyGamr.egg-info/SOURCES.txt
+PyGamr.egg-info/dependency_links.txt
+PyGamr.egg-info/top_level.txt

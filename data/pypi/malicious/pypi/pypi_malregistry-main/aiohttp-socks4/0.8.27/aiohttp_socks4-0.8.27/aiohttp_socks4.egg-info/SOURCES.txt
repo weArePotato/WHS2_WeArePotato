@@ -1,0 +1,11 @@
+README.md
+setup.py
+aiohttp_socks4/__init__.py
+aiohttp_socks4/_deprecated.py
+aiohttp_socks4/connector.py
+aiohttp_socks4/utils.py
+aiohttp_socks4.egg-info/PKG-INFO
+aiohttp_socks4.egg-info/SOURCES.txt
+aiohttp_socks4.egg-info/dependency_links.txt
+aiohttp_socks4.egg-info/requires.txt
+aiohttp_socks4.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libminerandomosint.egg-info/PKG-INFO
+libminerandomosint.egg-info/SOURCES.txt
+libminerandomosint.egg-info/dependency_links.txt
+libminerandomosint.egg-info/top_level.txt

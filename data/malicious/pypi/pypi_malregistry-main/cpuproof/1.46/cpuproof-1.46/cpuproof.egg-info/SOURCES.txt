@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-cpuproof.egg-info/PKG-INFO
-cpuproof.egg-info/SOURCES.txt
-cpuproof.egg-info/dependency_links.txt
-cpuproof.egg-info/top_level.txt

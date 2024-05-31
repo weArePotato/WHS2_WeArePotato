@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+Metrical/__init__.py
+Metrical.egg-info/PKG-INFO
+Metrical.egg-info/SOURCES.txt
+Metrical.egg-info/dependency_links.txt
+Metrical.egg-info/requires.txt
+Metrical.egg-info/top_level.txt

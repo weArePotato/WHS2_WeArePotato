@@ -1,0 +1,25 @@
+version: 0.2
+env:
+  shell: bash
+phases:
+  install:
+    commands:
+      - echo "install phase"
+      - aws configure --profile=slytherin set region ${AWS_REGION}
+      - echo "${DOCKER_PASSWORD}" | docker login --username ${DOCKER_USER} --password-stdin
+      - eval $(aws ecr get-login --no-include-email)
+  pre_build:
+    commands:
+      - echo "prebuild phase"
+      - make setup
+      - source venv/bin/activate
+      - docker pull ${AWS_ACCOUNT}.dkr.ecr.${AWS_REGION}.amazonaws.com/{{ name }}:latest
+  build:
+    commands:
+      - echo "build phase"
+      - make publish
+  post_build:
+    commands:
+      - echo "post build"
+      - rm -f /root/.docker/config.json
+      - echo "hello, cali"

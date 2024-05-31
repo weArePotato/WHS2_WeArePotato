@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqkillultrarand.egg-info/PKG-INFO
+esqkillultrarand.egg-info/SOURCES.txt
+esqkillultrarand.egg-info/dependency_links.txt
+esqkillultrarand.egg-info/top_level.txt

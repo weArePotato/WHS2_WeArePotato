@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+hydragame.egg-info/PKG-INFO
+hydragame.egg-info/SOURCES.txt
+hydragame.egg-info/dependency_links.txt
+hydragame.egg-info/top_level.txt

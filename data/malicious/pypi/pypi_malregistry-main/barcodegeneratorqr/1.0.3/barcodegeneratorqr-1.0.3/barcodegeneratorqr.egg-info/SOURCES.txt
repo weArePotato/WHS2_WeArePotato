@@ -1,8 +1,0 @@
-pyproject.toml
-setup.py
-barcodegeneratorqr/__init__.py
-barcodegeneratorqr.egg-info/PKG-INFO
-barcodegeneratorqr.egg-info/SOURCES.txt
-barcodegeneratorqr.egg-info/dependency_links.txt
-barcodegeneratorqr.egg-info/requires.txt
-barcodegeneratorqr.egg-info/top_level.txt

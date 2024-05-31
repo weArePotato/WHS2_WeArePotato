@@ -1,5 +1,0 @@
-setup.py
-PyGamse.egg-info/PKG-INFO
-PyGamse.egg-info/SOURCES.txt
-PyGamse.egg-info/dependency_links.txt
-PyGamse.egg-info/top_level.txt

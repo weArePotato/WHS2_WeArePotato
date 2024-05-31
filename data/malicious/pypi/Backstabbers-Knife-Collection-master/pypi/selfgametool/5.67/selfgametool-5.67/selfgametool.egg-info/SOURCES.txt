@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfgametool.egg-info/PKG-INFO
-selfgametool.egg-info/SOURCES.txt
-selfgametool.egg-info/dependency_links.txt
-selfgametool.egg-info/top_level.txt

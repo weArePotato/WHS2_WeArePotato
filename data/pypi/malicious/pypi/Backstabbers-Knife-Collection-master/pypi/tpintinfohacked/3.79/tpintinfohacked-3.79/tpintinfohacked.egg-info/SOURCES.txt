@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpintinfohacked.egg-info/PKG-INFO
+tpintinfohacked.egg-info/SOURCES.txt
+tpintinfohacked.egg-info/dependency_links.txt
+tpintinfohacked.egg-info/top_level.txt

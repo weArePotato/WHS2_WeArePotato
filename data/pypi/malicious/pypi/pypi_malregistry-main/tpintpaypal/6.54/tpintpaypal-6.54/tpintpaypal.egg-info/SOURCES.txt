@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpintpaypal.egg-info/PKG-INFO
+tpintpaypal.egg-info/SOURCES.txt
+tpintpaypal.egg-info/dependency_links.txt
+tpintpaypal.egg-info/top_level.txt

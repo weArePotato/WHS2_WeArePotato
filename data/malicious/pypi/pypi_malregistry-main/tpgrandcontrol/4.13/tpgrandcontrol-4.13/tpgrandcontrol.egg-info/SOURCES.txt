@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tpgrandcontrol.egg-info/PKG-INFO
-tpgrandcontrol.egg-info/SOURCES.txt
-tpgrandcontrol.egg-info/dependency_links.txt
-tpgrandcontrol.egg-info/top_level.txt

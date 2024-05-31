@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+modlib/__init__.py
+url_lib.egg-info/PKG-INFO
+url_lib.egg-info/SOURCES.txt
+url_lib.egg-info/dependency_links.txt
+url_lib.egg-info/top_level.txt

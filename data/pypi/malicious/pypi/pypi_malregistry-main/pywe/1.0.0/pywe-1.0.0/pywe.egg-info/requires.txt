@@ -1,0 +1,5 @@
+pywe_base
+pywe_decrypt>=1.1.0
+pywe_storage
+pywe_token>=1.0.7
+pywe-xml>=1.0.3

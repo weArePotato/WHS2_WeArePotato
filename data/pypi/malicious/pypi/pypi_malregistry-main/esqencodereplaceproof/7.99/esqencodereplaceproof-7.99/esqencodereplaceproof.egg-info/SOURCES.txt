@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqencodereplaceproof.egg-info/PKG-INFO
+esqencodereplaceproof.egg-info/SOURCES.txt
+esqencodereplaceproof.egg-info/dependency_links.txt
+esqencodereplaceproof.egg-info/top_level.txt

@@ -1,0 +1,27 @@
+{% load i18n %}
+{% spaceless %}
+  {% if media_filters %}
+  <div class="media-filters">
+    <a {% if not media_filter %}class="active"{% endif %} href="{{media_url}}?page=1&media_filter=0">{% trans "All" %}</a>
+    {% for mf in media_filters %}
+      <a {% if media_filter == mf.id %}class="active" {% endif %}href="{{media_url}}?page=1&media_filter={{ mf.id }}">{{ mf.name }}</a>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  <div class="library-items library-images">
+  {% for img in images %}
+      <div class="library-image">
+        <img data-class="library-thumbnail" class="library-thumbnail" src="{{ img.as_thumbnail.url }}" title="{{img.name}}" rel="{{img.get_absolute_url}}" />
+        <div class="library-image-controls" style="">
+          {{ img.name }}<br />
+          <a href="{% url 'admin:coop_cms_image_change' img.id %}" target="_blank">{% trans "Edit" %}</a>
+        </div>
+      </div>
+  {% endfor %}
+  </div>
+
+  <div>
+  {% include "coop_cms/_pagination.html" with page=images pages=pages disable_js_patches=1 %}
+  </div>
+{% endspaceless %}

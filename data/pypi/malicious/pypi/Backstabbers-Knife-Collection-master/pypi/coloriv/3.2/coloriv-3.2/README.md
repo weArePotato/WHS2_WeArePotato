@@ -1,0 +1,101 @@
+# coloriv
+Utilities from python3 including coloful logs, procedure logs timer, basic 
+image operation and so on.
+
+## Install
+```bash
+$ pip install coloriv
+```
+
+## Components
+
+### Cache
+An quick data storage support [pickle, str, bin, json].
+
+#### Functions
+|Function|Instruction|
+|:--|:--|
+|items|Lists items of caches.|
+|remove|Deletes a cache file.|
+|dump|Saves or rewrites a cache file.|
+|load|Loads from a cache file.|
+
+#### Examples
+```python
+from coloriv.cache import Cache
+cache = Cache('/tmp/data')
+cache.dump(data={'hi', 'hello'}, name='greeting.pkl')
+print(cache.load(name='greeting.pkl'))
+cache.dump(data='hi'.encode('utf-8'), name='greeting.bin', file_type='bin')
+print(cache.load(name='greeting.bin', file_type='bin'))
+cache.dump(data={'hi': 'hello'}, name='greeting.json', file_type='json')
+print(cache.load(name='greeting.json', file_type='json'))
+cache.dump(data={'hi', 'hello'}, name='greeting.txt', file_type='str')
+print(cache.load(name='greeting.txt', file_type='str'))
+
+print(cache.items())
+cache.remove('greeting.txt')
+print(cache.items())
+```
+![image](https://github.com/indestinee/utils/raw/master/images/cache.jpg)
+
+### colorful_str
+#### Color List
+|Code|Code1|Color|
+|:--|:--|:--|
+|(#r)|(#red)|red|
+|(#g)|(#green)|green|
+|(#y)|(#yellow)|yellow|
+|(#b)|(#blue)|blue|
+|(#w)|(#white)|white|
+|(#magenta)||magenta|
+|(#black)||black|
+|(#cyan)||cyan|
+|(#)||default|
+
+#### Examples
+```python
+from coloriv.base import colorful_str
+print(colorful_str('(#r)this is a red message.(#)',
+				   'this is a normal message.',
+				   '(#b)this is a blue value {}(#).'.format(2),
+				   '(#g)this is a green dict {}.'.format({1:2})))
+print(colorful_str.log('(#r)this is a red message.(#)',
+					   'this is a normal message.',
+					   '(#b)this is a blue value {}(#).'.format(2),
+					   '(#g)this is a green dict {}.'.format({1:2})))
+print(colorful_str.suc('(#r)this is a red message.(#)',
+					   'this is a normal message.',
+					   '(#b)this is a blue value {}(#).'.format(2),
+					   '(#g)this is a green dict {}.'.format({1:2})))
+print(colorful_str.err('(#r)this is a red message.(#)',
+					   'this is a normal message.',
+					   '(#b)this is a blue value {}(#).'.format(2),
+					   '(#g)this is a green dict {}.'.format({1:2})))
+print(colorful_str.wrn('(#r)this is a red message.(#)',
+					   'this is a normal message.',
+					   '(#b)this is a blue value {}(#).'.format(2),
+					   '(#g)this is a green dict {}.'.format({1:2})))
+print(colorful_str.dict({'a': 's', 'b': 's'}))
+```
+
+![image](https://github.com/indestinee/utils/raw/master/images/colorful_str.jpg)
+
+### procedure
+Log and Timer for a block of codes.
+
+#### Examples
+```python
+from coloriv.base import procedure
+with procedure('hi') as p:
+    x = 123 + 123
+    p.show_time('x has be calculated.', x)
+    p.add_log('x =', x)
+    y = x + 34
+    p.add_log('y =', y)
+
+with procedure('hi', new_line=True):
+    pass
+```
+
+![image](https://github.com/indestinee/utils/raw/master/images/procedure.jpg)

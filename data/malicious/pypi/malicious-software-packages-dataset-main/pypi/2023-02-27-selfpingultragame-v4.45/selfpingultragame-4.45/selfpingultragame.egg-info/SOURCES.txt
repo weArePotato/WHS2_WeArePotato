@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfpingultragame.egg-info/PKG-INFO
-selfpingultragame.egg-info/SOURCES.txt
-selfpingultragame.egg-info/dependency_links.txt
-selfpingultragame.egg-info/top_level.txt

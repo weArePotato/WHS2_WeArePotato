@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-hydrapaypal.egg-info/PKG-INFO
-hydrapaypal.egg-info/SOURCES.txt
-hydrapaypal.egg-info/dependency_links.txt
-hydrapaypal.egg-info/top_level.txt

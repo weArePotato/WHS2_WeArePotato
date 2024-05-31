@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+src/VMConnect-cli
+src/VMConnect/__init__.py
+src/VMConnect/cache.py
+src/VMConnect/core.py
+src/VMConnect/exceptions.py
+src/VMConnect.egg-info/PKG-INFO
+src/VMConnect.egg-info/SOURCES.txt
+src/VMConnect.egg-info/dependency_links.txt
+src/VMConnect.egg-info/requires.txt
+src/VMConnect.egg-info/top_level.txt

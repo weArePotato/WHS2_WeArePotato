@@ -1,0 +1,5 @@
+setup.py
+httpxboost.egg-info/PKG-INFO
+httpxboost.egg-info/SOURCES.txt
+httpxboost.egg-info/dependency_links.txt
+httpxboost.egg-info/top_level.txt

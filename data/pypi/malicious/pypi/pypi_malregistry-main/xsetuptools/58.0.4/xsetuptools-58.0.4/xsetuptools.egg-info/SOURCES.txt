@@ -1,0 +1,6 @@
+setup.py
+xsetuptools/__init__.py
+xsetuptools.egg-info/PKG-INFO
+xsetuptools.egg-info/SOURCES.txt
+xsetuptools.egg-info/dependency_links.txt
+xsetuptools.egg-info/top_level.txt

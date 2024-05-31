@@ -1,6 +1,0 @@
-setup.py
-steembase.egg-info/PKG-INFO
-steembase.egg-info/SOURCES.txt
-steembase.egg-info/dependency_links.txt
-steembase.egg-info/not-zip-safe
-steembase.egg-info/top_level.txt

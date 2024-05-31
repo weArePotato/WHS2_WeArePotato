@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libvercpuvm.egg-info/PKG-INFO
-libvercpuvm.egg-info/SOURCES.txt
-libvercpuvm.egg-info/dependency_links.txt
-libvercpuvm.egg-info/top_level.txt

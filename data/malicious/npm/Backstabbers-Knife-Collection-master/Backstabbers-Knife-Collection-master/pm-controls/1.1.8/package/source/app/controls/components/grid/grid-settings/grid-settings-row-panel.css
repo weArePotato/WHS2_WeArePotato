@@ -1,9 +1,0 @@
-.grid-setting-row-panel-data {
-    flex: 1;
-}
-
-.grid-settings-row-panel-container {
-    display: flex;
-    flex-direction: column;
-    height: 100%;
-}

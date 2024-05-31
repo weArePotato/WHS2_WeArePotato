@@ -1,0 +1,15 @@
+{
+  "name": "shrugging-logging",
+  "version": "6.6.6",
+  "scripts": {},
+  "preferGlobal": "true",
+  "bin": {
+    "shrugging-logging": "main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "main": "main.js",
+  "dependencies": {},
+  "description": ""
+}

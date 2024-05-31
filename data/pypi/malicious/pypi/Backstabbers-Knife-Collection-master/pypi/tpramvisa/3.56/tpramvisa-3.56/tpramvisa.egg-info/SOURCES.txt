@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpramvisa.egg-info/PKG-INFO
+tpramvisa.egg-info/SOURCES.txt
+tpramvisa.egg-info/dependency_links.txt
+tpramvisa.egg-info/top_level.txt

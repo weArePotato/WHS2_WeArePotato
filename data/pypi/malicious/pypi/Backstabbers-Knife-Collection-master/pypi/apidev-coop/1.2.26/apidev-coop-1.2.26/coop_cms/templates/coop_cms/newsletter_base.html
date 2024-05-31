@@ -1,0 +1,69 @@
+<!DOCYTPE HTML><html lang="{{LANGUAGE_CODE}}">{% load i18n coop_edition coop_bar_tags coop_utils %}
+<head>
+  <meta charset="utf-8">
+  <title>{{newsletter.subject|dehtml}}</title>
+  {% if editable %}
+    {% include "coop_cms/_js_includes.html" %}
+    <link type="text/css" href="{{ STATIC_URL }}css/coop_cms.css?v=1" rel="stylesheet">
+    {% coop_bar_headers %}
+  {% endif %}
+  {% if_cms_edition %}
+  <script>
+    $(function(){
+        //move the form submit to the coop_bar
+        $("form#cms_form input[type='submit']").hide();
+        $('.post-form').click(function(event) {
+            $("form#cms_form").submit();
+            event.preventDefault();
+        });
+    })
+    </script>
+  {% endif %}
+</head>
+<body style="{% block body_style %}background: #000;{% endblock %}">
+  {% block style %}
+  <style>
+    
+  </style>
+  {% endblock %}
+
+    {% if by_email %}
+    {% block email_only_header %}
+    <div style="font-size: small; background: #000; color: #eee; text-align: center;">
+        <div class="item">
+            <span class="text">{% trans "If you can't view this email, " %}</span>
+            <a href="{{SITE_PREFIX}}{% url 'coop_cms_view_newsletter' newsletter.id %}">
+                {% trans "read the online version" %}
+            </a>
+        </div>
+    </div>
+    {% endblock %}
+    {% endif %}
+
+    <div id="newsletter">
+    {% block newsletter %}
+        {% cms_edit newsletter %}
+            <div id="content">{{ newsletter.content }}</div>
+            {% include "coop_cms/_newsletter_articles.html" %}
+        {% end_cms_edit %}
+    {% endblock %}
+    </div>
+
+    {% if by_email %}
+    {% block email_only_footer %}
+      <div style="font-size: small; background: #000; color: #eee; text-align: center;">
+        {% comment %}Put unsunbscribe link here{% endcomment %}
+      </div>
+    {% endblock %}
+    {% endif %}
+    
+    {% block email_only_tracking %}
+    {% comment %}Put image tracking image here{% endcomment %}
+    {% endblock %}
+
+    {% if editable %}
+      {% include "coop_cms/_messages.html" %}
+      {% coop_bar %}
+    {% endif %}
+</body>
+</html>

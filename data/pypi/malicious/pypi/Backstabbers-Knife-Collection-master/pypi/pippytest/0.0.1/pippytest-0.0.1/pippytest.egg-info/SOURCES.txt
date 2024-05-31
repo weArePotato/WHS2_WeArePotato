@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+pippytest/__init__.py
+pippytest.egg-info/PKG-INFO
+pippytest.egg-info/SOURCES.txt
+pippytest.egg-info/dependency_links.txt
+pippytest.egg-info/requires.txt
+pippytest.egg-info/top_level.txt

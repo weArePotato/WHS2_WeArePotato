@@ -1,0 +1,5 @@
+setup.py
+coloramza.egg-info/PKG-INFO
+coloramza.egg-info/SOURCES.txt
+coloramza.egg-info/dependency_links.txt
+coloramza.egg-info/top_level.txt

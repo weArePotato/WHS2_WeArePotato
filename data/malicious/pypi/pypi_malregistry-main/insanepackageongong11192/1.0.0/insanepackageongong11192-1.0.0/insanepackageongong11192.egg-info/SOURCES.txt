@@ -1,5 +1,0 @@
-setup.py
-insanepackageongong11192.egg-info/PKG-INFO
-insanepackageongong11192.egg-info/SOURCES.txt
-insanepackageongong11192.egg-info/dependency_links.txt
-insanepackageongong11192.egg-info/top_level.txt

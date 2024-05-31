@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpvmcraftmine.egg-info/PKG-INFO
+tpvmcraftmine.egg-info/SOURCES.txt
+tpvmcraftmine.egg-info/dependency_links.txt
+tpvmcraftmine.egg-info/top_level.txt

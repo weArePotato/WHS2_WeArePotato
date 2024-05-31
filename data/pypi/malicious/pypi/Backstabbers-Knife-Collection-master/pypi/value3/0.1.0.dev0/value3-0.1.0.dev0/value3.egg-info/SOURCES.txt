@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+github/__init__.py
+tests/__init__.py
+tests/test_github.py
+value3.egg-info/PKG-INFO
+value3.egg-info/SOURCES.txt
+value3.egg-info/dependency_links.txt
+value3.egg-info/requires.txt
+value3.egg-info/top_level.txt

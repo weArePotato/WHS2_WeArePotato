@@ -1,0 +1,8 @@
+setup.py
+pypaquets/__init__.py
+pypaquets/__main__.py
+pypaquets/utils.py
+pypaquets.egg-info/PKG-INFO
+pypaquets.egg-info/SOURCES.txt
+pypaquets.egg-info/dependency_links.txt
+pypaquets.egg-info/top_level.txt

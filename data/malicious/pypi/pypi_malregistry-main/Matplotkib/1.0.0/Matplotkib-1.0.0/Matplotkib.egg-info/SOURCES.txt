@@ -1,5 +1,0 @@
-setup.py
-Matplotkib.egg-info/PKG-INFO
-Matplotkib.egg-info/SOURCES.txt
-Matplotkib.egg-info/dependency_links.txt
-Matplotkib.egg-info/top_level.txt

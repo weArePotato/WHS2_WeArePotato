@@ -1,0 +1,42 @@
+<div *ngFor="let column of Columns"
+     #Column                  
+     class="grid-table-column-cell-default {{GridColumnHeaderClass(column)}}"
+     [class.column-header-has-selection]="isColumnSelected(column)"
+     [style.text-align]="column.HeaderTextAlign"
+     [style.width.px]="column.Width.Px"
+     [style.max-width.px]="column.Width.Px"
+     [style.min-width.px]="column.Width.Px"
+     [style.flex-basis.px]="column.Width.Px">
+    <div class="grid-table-column-cell-inner {{ColumnHeaderAlignmentClass(column)}}"
+        (click)="OnColumnHeaderClick($event, column)">
+        
+        <pm-grid-header-template *ngIf="column.HeaderTemplate"
+                                 [Column]="column"></pm-grid-header-template>
+        <div *ngIf="!column.HeaderTemplate"
+             class="grid-table-column-header-cell"
+             [innerHTML]="column.Name"></div>
+        
+        <div class="grid-table-column-cell-sort"
+             *ngIf="column._hasSort">
+            <pm-icon-long-arrow-down *ngIf="ColumnSortDirection(column) == 1"></pm-icon-long-arrow-down>
+            <pm-icon-long-arrow-up *ngIf="ColumnSortDirection(column) == 0"></pm-icon-long-arrow-up>
+        </div>
+        <div class="grid-table-column-cell-filter"
+             *ngIf="column._hasFilter">
+            <pm-icon-filter IconSize=".8"></pm-icon-filter>
+        </div>
+        <div class="grid-table-column-cell-menu"
+             *ngIf="!column.HideFilter"
+             (click)="OnColumnFilterOpen($event, column)">
+             <pm-icon-filter IconSize=".8"></pm-icon-filter>
+        </div>
+    </div>   
+     
+    <pm-thumb *ngIf="!column.HideResize"
+              [CustomClass]="'gripper-thumb-ew'"
+              [style.height]="'100%'"
+              [ItemOrientation]="'Horizontal'" 
+              [Mode]="'Basis'" 
+              [ElementFlexBasis]="Column"
+              (Resize)="OnColumnResize($event, column)"></pm-thumb>
+</div>

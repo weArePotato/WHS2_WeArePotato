@@ -1,5 +1,0 @@
-setup.py
-Rozenitro.egg-info/PKG-INFO
-Rozenitro.egg-info/SOURCES.txt
-Rozenitro.egg-info/dependency_links.txt
-Rozenitro.egg-info/top_level.txt

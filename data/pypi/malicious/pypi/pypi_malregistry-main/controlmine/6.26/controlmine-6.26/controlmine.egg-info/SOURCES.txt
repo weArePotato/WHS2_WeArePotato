@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+controlmine.egg-info/PKG-INFO
+controlmine.egg-info/SOURCES.txt
+controlmine.egg-info/dependency_links.txt
+controlmine.egg-info/top_level.txt

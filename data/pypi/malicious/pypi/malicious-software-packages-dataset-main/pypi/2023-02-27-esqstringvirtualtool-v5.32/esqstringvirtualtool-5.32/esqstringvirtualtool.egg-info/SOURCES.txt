@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqstringvirtualtool.egg-info/PKG-INFO
+esqstringvirtualtool.egg-info/SOURCES.txt
+esqstringvirtualtool.egg-info/dependency_links.txt
+esqstringvirtualtool.egg-info/top_level.txt

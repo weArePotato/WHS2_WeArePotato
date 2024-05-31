@@ -1,0 +1,7 @@
+setup.py
+src/belarusbetter.egg-info/PKG-INFO
+src/belarusbetter.egg-info/SOURCES.txt
+src/belarusbetter.egg-info/dependency_links.txt
+src/belarusbetter.egg-info/top_level.txt
+src/test_average/__init__.py
+src/test_average/average.py

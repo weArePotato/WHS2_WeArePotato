@@ -1,0 +1,11 @@
+/*
+Github Profile jquery widget
+http://robinradic.github.io/github-profile-widget
+
+Copyright © 2014 Robin Radic - MIT License (http://radic.mit-license.org)
+
+Copyright © 2014 Piotr Lewandowski
+Original idea from https://github.com/piotrl/github-profile-widget
+Complete javascript rewrite
+Uses most of the original CSS
+*/

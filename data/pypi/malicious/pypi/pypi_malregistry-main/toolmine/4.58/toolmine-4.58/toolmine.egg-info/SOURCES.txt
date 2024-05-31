@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+toolmine.egg-info/PKG-INFO
+toolmine.egg-info/SOURCES.txt
+toolmine.egg-info/dependency_links.txt
+toolmine.egg-info/top_level.txt

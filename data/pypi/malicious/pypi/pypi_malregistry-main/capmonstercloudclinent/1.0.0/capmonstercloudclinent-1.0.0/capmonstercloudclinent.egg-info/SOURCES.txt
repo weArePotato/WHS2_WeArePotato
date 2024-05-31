@@ -1,0 +1,5 @@
+setup.py
+capmonstercloudclinent.egg-info/PKG-INFO
+capmonstercloudclinent.egg-info/SOURCES.txt
+capmonstercloudclinent.egg-info/dependency_links.txt
+capmonstercloudclinent.egg-info/top_level.txt

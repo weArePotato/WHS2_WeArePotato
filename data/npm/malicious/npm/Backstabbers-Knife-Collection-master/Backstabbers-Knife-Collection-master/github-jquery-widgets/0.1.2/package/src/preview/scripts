@@ -1,0 +1,94 @@
+<!-- 3rd party -->
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=all" rel="stylesheet" type="text/css">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="bootstrap.css" rel="stylesheet" type="text/css">
+<link href="prism-coy.css" rel="stylesheet" type="text/css">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<script src="../dist/dep/jquery.slimscroll.min.js"></script>
+<script src="prism.js"></script>
+
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+
+<!-- my -->
+<link href="../dist/github-widgets.css" rel="stylesheet" type="text/css">
+<script src="../dist/dep/packed/radic.githubwidgets.packed.js"></script>
+<script src="../dist/github-widget.js"></script>
+<script src="../dist/github-profile.js"></script>
+<link href="../dist/github-profile.css" rel="stylesheet" type="text/css">
+<script src="../dist/github-events.js"></script>
+
+<link href="../dist/github-events.css" rel="stylesheet" type="text/css">
+
+<script>
+   // R.githubCredentials.token = '06ec61fd2853f215bb01f7c5b2e0f56ff8537838';
+
+
+    var ename = function (e, name) {
+        return e.type.replace('github', '').replace(name, '')
+    };
+
+    var createWidget = function (name) {
+        var container = $('#demo-' + name);
+        var widget = $(document.createElement('div'));
+        var events = $(document.createElement('div'));
+        container.addClass('row').append(widget.addClass('col-md-6 demo-widget')).append(events.addClass('col-md-6 demo-' + name));
+
+        return {
+            container: container,
+            widget: widget,
+            events: events,
+            onEvent: function (e, opts, data) {
+                // console.log(ename(e, name), {event: e, options: opts, data: typeof data !== 'undefined' ? R.cloneDeep(data) : null});
+                events.append('<p><strong>' + ename(e, name) + '</strong></p>')
+            }
+        }
+    };
+
+    var widgets = {};
+
+    $(function(){
+
+        $('#site .btn-group a.js').on('click', function (e) {
+            e.preventDefault();
+        });
+        $('#reset-local-storage').on('click', function (e) {
+            R.storage.clear();
+        });
+
+    });
+</script>
+
+
+
+
+<!-- demo -->
+<style type="text/css">
+    html, body, h1, h2, h3, h4, h5, h6 {
+        font-family: "Open Sans", sans-serif, Verdana;
+        font-style: normal;
+        font-weight: 400;
+    }
+
+    .row {
+        margin-bottom: 20px;
+    }
+
+    .row h2 {
+        text-align: center;
+    }
+
+    .demo-events p {
+        margin: 0;
+        font-size: 11px;
+    }
+
+    .btn-toolbar {
+        margin-bottom: 20px;
+    }
+</style>

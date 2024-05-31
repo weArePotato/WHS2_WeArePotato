@@ -1,5 +1,0 @@
-requests
-base64
-pycryptodome
-subprocess
-signal

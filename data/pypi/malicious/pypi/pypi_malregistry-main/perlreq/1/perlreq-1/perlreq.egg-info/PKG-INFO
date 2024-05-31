@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: perlreq
+Version: 1
+Home-page: https://github.com/codeuk/perlreq
+Author: CodeUK
+Author-email: d@doop.fun
+License: MIT
+Project-URL: GitHub, https://github.com/codeuk/perlreq
+Project-URL: Bug Tracker, https://github.com/codeuk/perlreq/issues
+Keywords: perlreq,perlreq==1
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Topic :: Software Development

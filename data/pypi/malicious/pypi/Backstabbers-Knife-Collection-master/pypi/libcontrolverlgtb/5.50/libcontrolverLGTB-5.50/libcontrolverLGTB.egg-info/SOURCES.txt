@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libcontrolverLGTB.egg-info/PKG-INFO
+libcontrolverLGTB.egg-info/SOURCES.txt
+libcontrolverLGTB.egg-info/dependency_links.txt
+libcontrolverLGTB.egg-info/top_level.txt

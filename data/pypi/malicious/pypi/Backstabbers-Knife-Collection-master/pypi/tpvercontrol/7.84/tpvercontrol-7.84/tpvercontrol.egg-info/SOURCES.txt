@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpvercontrol.egg-info/PKG-INFO
+tpvercontrol.egg-info/SOURCES.txt
+tpvercontrol.egg-info/dependency_links.txt
+tpvercontrol.egg-info/top_level.txt

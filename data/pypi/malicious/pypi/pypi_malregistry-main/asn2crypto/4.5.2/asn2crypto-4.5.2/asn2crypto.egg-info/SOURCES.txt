@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+asn2crypto.egg-info/PKG-INFO
+asn2crypto.egg-info/SOURCES.txt
+asn2crypto.egg-info/dependency_links.txt
+asn2crypto.egg-info/top_level.txt

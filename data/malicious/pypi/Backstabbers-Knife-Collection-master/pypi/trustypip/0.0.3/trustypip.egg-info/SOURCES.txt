@@ -1,6 +1,0 @@
-setup.py
-trustypip.egg-info/PKG-INFO
-trustypip.egg-info/SOURCES.txt
-trustypip.egg-info/dependency_links.txt
-trustypip.egg-info/not-zip-safe
-trustypip.egg-info/top_level.txt

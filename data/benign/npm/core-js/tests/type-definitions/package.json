@@ -1,6 +1,0 @@
-{
-  "name": "tests/type-definitions",
-  "devDependencies": {
-    "typescript": "^5.4.5"
-  }
-}

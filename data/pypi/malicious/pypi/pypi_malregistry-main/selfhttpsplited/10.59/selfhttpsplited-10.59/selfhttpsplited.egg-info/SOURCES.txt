@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfhttpsplited.egg-info/PKG-INFO
+selfhttpsplited.egg-info/SOURCES.txt
+selfhttpsplited.egg-info/dependency_links.txt
+selfhttpsplited.egg-info/top_level.txt

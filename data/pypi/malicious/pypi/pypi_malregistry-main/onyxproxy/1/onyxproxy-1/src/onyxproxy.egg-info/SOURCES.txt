@@ -1,0 +1,8 @@
+LICENSE
+MANIFEST.in
+setup.cfg
+setup.py
+src/onyxproxy.egg-info/PKG-INFO
+src/onyxproxy.egg-info/SOURCES.txt
+src/onyxproxy.egg-info/dependency_links.txt
+src/onyxproxy.egg-info/top_level.txt

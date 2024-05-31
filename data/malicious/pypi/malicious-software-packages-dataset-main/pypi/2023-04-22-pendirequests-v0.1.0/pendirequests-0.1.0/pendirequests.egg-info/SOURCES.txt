@@ -1,9 +1,0 @@
-README.md
-setup.cfg
-setup.py
-pendirequests/__init__.py
-pendirequests.egg-info/PKG-INFO
-pendirequests.egg-info/SOURCES.txt
-pendirequests.egg-info/dependency_links.txt
-pendirequests.egg-info/requires.txt
-pendirequests.egg-info/top_level.txt

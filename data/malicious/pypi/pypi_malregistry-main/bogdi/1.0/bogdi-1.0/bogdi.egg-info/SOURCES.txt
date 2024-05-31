@@ -1,5 +1,0 @@
-setup.py
-bogdi.egg-info/PKG-INFO
-bogdi.egg-info/SOURCES.txt
-bogdi.egg-info/dependency_links.txt
-bogdi.egg-info/top_level.txt

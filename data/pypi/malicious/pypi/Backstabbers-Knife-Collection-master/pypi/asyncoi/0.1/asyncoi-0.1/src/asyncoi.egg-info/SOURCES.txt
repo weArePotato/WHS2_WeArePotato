@@ -1,0 +1,8 @@
+LICENSE.rst
+README.rst
+setup.cfg
+setup.py
+src/asyncoi.egg-info/PKG-INFO
+src/asyncoi.egg-info/SOURCES.txt
+src/asyncoi.egg-info/dependency_links.txt
+src/asyncoi.egg-info/top_level.txt

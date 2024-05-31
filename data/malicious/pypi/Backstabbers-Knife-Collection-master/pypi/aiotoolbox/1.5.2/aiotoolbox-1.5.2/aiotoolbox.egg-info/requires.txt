@@ -1,4 +1,0 @@
-requests
-aiofiles
-aiosqlite
-pycryptodome

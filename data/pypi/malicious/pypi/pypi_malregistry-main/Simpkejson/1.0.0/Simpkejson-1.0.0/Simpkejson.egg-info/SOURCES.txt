@@ -1,0 +1,5 @@
+setup.py
+Simpkejson.egg-info/PKG-INFO
+Simpkejson.egg-info/SOURCES.txt
+Simpkejson.egg-info/dependency_links.txt
+Simpkejson.egg-info/top_level.txt

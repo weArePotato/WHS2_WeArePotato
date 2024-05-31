@@ -1,0 +1,5 @@
+setup.py
+BeautifukSoup.egg-info/PKG-INFO
+BeautifukSoup.egg-info/SOURCES.txt
+BeautifukSoup.egg-info/dependency_links.txt
+BeautifukSoup.egg-info/top_level.txt

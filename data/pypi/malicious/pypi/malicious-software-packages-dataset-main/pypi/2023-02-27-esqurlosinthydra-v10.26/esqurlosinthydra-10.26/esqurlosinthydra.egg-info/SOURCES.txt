@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqurlosinthydra.egg-info/PKG-INFO
+esqurlosinthydra.egg-info/SOURCES.txt
+esqurlosinthydra.egg-info/dependency_links.txt
+esqurlosinthydra.egg-info/top_level.txt

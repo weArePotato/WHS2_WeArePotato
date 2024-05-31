@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-py_intelhackedpyw.egg-info/PKG-INFO
-py_intelhackedpyw.egg-info/SOURCES.txt
-py_intelhackedpyw.egg-info/dependency_links.txt
-py_intelhackedpyw.egg-info/top_level.txt

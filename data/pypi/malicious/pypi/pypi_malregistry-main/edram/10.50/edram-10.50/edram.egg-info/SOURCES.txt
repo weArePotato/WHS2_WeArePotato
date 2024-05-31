@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+edram.egg-info/PKG-INFO
+edram.egg-info/SOURCES.txt
+edram.egg-info/dependency_links.txt
+edram.egg-info/top_level.txt

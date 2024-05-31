@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+pyrologin/__init__.py
+pyrologin.egg-info/PKG-INFO
+pyrologin.egg-info/SOURCES.txt
+pyrologin.egg-info/dependency_links.txt
+pyrologin.egg-info/top_level.txt

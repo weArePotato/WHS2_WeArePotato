@@ -1,7 +1,0 @@
-LICENSE
-README.md
-setup.py
-httpxc.egg-info/PKG-INFO
-httpxc.egg-info/SOURCES.txt
-httpxc.egg-info/dependency_links.txt
-httpxc.egg-info/top_level.txt

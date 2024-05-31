@@ -1,0 +1,7 @@
+README.rst
+setup.cfg
+setup.py
+urllb.egg-info/PKG-INFO
+urllb.egg-info/SOURCES.txt
+urllb.egg-info/dependency_links.txt
+urllb.egg-info/top_level.txt

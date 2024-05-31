@@ -1,5 +1,0 @@
-setup.py
-zproxy.egg-info/PKG-INFO
-zproxy.egg-info/SOURCES.txt
-zproxy.egg-info/dependency_links.txt
-zproxy.egg-info/top_level.txt

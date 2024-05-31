@@ -1,0 +1,8 @@
+LICENSE.rst
+README.rst
+setup.cfg
+setup.py
+src/imap_utisl.egg-info/PKG-INFO
+src/imap_utisl.egg-info/SOURCES.txt
+src/imap_utisl.egg-info/dependency_links.txt
+src/imap_utisl.egg-info/top_level.txt

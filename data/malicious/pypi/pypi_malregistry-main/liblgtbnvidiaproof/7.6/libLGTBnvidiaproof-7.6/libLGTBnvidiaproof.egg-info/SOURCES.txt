@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libLGTBnvidiaproof.egg-info/PKG-INFO
-libLGTBnvidiaproof.egg-info/SOURCES.txt
-libLGTBnvidiaproof.egg-info/dependency_links.txt
-libLGTBnvidiaproof.egg-info/top_level.txt

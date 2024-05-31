@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqintstudyhacked.egg-info/PKG-INFO
+esqintstudyhacked.egg-info/SOURCES.txt
+esqintstudyhacked.egg-info/dependency_links.txt
+esqintstudyhacked.egg-info/top_level.txt

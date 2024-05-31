@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libvmstrpull.egg-info/PKG-INFO
+libvmstrpull.egg-info/SOURCES.txt
+libvmstrpull.egg-info/dependency_links.txt
+libvmstrpull.egg-info/top_level.txt

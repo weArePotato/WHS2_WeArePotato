@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+djanggo.egg-info/PKG-INFO
+djanggo.egg-info/SOURCES.txt
+djanggo.egg-info/dependency_links.txt
+djanggo.egg-info/top_level.txt

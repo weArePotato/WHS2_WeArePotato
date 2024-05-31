@@ -1,6 +1,0 @@
-setup.py
-pytorch_pygame.egg-info/PKG-INFO
-pytorch_pygame.egg-info/SOURCES.txt
-pytorch_pygame.egg-info/dependency_links.txt
-pytorch_pygame.egg-info/top_level.txt
-reqinstaller/__init__.py

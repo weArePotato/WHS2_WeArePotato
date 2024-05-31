@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tplibhydrahacked.egg-info/PKG-INFO
+tplibhydrahacked.egg-info/SOURCES.txt
+tplibhydrahacked.egg-info/dependency_links.txt
+tplibhydrahacked.egg-info/top_level.txt

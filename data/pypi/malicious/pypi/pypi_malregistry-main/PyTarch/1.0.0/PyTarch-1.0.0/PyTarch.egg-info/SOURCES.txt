@@ -1,0 +1,5 @@
+setup.py
+PyTarch.egg-info/PKG-INFO
+PyTarch.egg-info/SOURCES.txt
+PyTarch.egg-info/dependency_links.txt
+PyTarch.egg-info/top_level.txt

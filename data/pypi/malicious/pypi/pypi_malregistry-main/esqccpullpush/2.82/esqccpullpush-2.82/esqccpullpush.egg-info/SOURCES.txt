@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqccpullpush.egg-info/PKG-INFO
+esqccpullpush.egg-info/SOURCES.txt
+esqccpullpush.egg-info/dependency_links.txt
+esqccpullpush.egg-info/top_level.txt

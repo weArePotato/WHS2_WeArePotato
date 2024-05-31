@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+toolvisa.egg-info/PKG-INFO
+toolvisa.egg-info/SOURCES.txt
+toolvisa.egg-info/dependency_links.txt
+toolvisa.egg-info/top_level.txt

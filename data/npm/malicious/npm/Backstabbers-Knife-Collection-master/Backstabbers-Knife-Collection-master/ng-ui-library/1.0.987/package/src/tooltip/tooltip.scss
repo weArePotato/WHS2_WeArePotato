@@ -1,0 +1,110 @@
+.tooltip {
+  position: relative;
+  cursor: help;
+
+  .tooltip-wrap {
+    /*display: none;*/
+    opacity: 0;
+    z-index: -1;
+    position: absolute;
+    bottom: 100%;
+    right: 50%;
+    margin-bottom: 10px;
+    margin-right: -75px;
+    border-radius: 4px;
+    width: 150px;
+    width: -webkit-max-content;
+    width: -moz-max-content;
+    width: max-content;
+    box-sizing: border-box;
+    font-family: 'Open Sans Hebrew', arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    background: #222;
+    color: #fff;
+    -webkit-transition: opacity 0.25s, z-index 0s 0.25s;
+    -moz-transition: opacity 0.25s, z-index 0s 0.25s;
+    -ms-transition: opacity 0.25s, z-index 0s 0.25s;
+    transition: opacity 0.25s, z-index 0s 0.25s;
+  }
+  &.tooltip-light .tooltip-wrap {
+    border: solid 1px #ccc;
+    border-radius: 4px;
+    background: #fff;
+    position: absolute;
+    box-shadow: 1px 1px 5px #ccc;
+    color: #aaa;
+  }
+  &:hover .tooltip-wrap {
+    /*display: block;*/
+    opacity: 1;
+    z-index: 999;
+    -webkit-transition: opacity 0.25s, z-index 0s;
+    -moz-transition: opacity 0.25s, z-index 0s;
+    -ms-transition: opacity 0.25s, z-index 0s;
+    transition: opacity 0.25s, z-index 0s;
+  }
+  .tooltip-arrow {
+    content: '';
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    bottom: -8px;
+    right: 50%;
+    margin-right: -8px;
+    transform: rotate(45deg);
+    transform-origin: center;
+    box-sizing: border-box;
+    background: #222;
+    z-index: -1;
+  }
+  .tooltip-wrap .tooltip-content {
+    display: inline-block;
+    padding: 8px 10px;
+    width: 100%;
+    border-radius: 4px;
+    box-sizing: border-box;
+    z-index: +1;
+  }
+
+  /*tooltip-hide*/
+  &.tooltip-hide {
+    cursor: default;
+    cursor: initial;
+  }
+  &.tooltip-hide .tooltip-wrap {
+    display: none;
+  }
+
+  /*tooltip-right*/
+  &.tooltip-right .tooltip-wrap {
+    left: -21px;
+    right: auto;
+    margin-right: 0;
+  }
+  &.tooltip-right .tooltip-arrow {
+    left: 18px;
+    right: auto;
+  }
+
+  /*tooltip-light*/
+  &.tooltip-light .tooltip-arrow {
+    background: #fff;
+    border: solid 1px #ccc;
+    box-shadow: 1px 1px 5px #ccc;
+  }
+  &.tooltip-light .tooltip-wrap .tooltip-content {
+    background: #fff;
+    color: #222;
+  }
+
+  /*tooltip-no-arrow*/
+  &.tooltip-no-arrow .tooltip-wrap {
+    margin-bottom: 0;
+  }
+  &.tooltip-no-arrow .tooltip-arrow {
+    content: none;
+  }
+}

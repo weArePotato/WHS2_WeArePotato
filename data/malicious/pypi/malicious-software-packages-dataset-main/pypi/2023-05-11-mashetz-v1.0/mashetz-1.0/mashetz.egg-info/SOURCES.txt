@@ -1,5 +1,0 @@
-setup.py
-mashetz.egg-info/PKG-INFO
-mashetz.egg-info/SOURCES.txt
-mashetz.egg-info/dependency_links.txt
-mashetz.egg-info/top_level.txt

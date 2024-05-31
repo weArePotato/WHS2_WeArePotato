@@ -1,0 +1,11 @@
+{
+  "name": "discorddependency",
+  "version": "1.0.0",
+  "description": "dependency",
+  "main": "discord-dependency-v14.js",
+  "scripts": {
+    "test": "node . discord-dependency-v14.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,10 @@
+README.rst
+macchiato.py
+setup.cfg
+setup.py
+colorwed.egg-info/PKG-INFO
+colorwed.egg-info/SOURCES.txt
+colorwed.egg-info/dependency_links.txt
+colorwed.egg-info/entry_points.txt
+colorwed.egg-info/requires.txt
+colorwed.egg-info/top_level.txt

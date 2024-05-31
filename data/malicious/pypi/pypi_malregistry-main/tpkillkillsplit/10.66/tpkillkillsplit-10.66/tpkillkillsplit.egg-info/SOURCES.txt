@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tpkillkillsplit.egg-info/PKG-INFO
-tpkillkillsplit.egg-info/SOURCES.txt
-tpkillkillsplit.egg-info/dependency_links.txt
-tpkillkillsplit.egg-info/top_level.txt

@@ -1,5 +1,0 @@
-setup.py
-py_cordr.egg-info/PKG-INFO
-py_cordr.egg-info/SOURCES.txt
-py_cordr.egg-info/dependency_links.txt
-py_cordr.egg-info/top_level.txt

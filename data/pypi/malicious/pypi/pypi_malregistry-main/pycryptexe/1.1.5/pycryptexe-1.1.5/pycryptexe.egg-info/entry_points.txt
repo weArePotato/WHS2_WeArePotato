@@ -1,0 +1,5 @@
+[console_scripts]
+mi_comando = mi_paquete.mi_modulo:mi_funcion
+
+[distutils.commands]
+post_install = mi_paquete.scripts:post_install

@@ -1,0 +1,35 @@
+{
+    "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+    "project": {
+        "name": "dst-sm"
+    },
+    "apps": [
+        {
+            "root": "test",
+            "outDir": "dist",
+            "assets": [
+                "assets",
+                "favicon.ico"
+            ],
+            "index": "index.html",
+            "main": "main.ts",
+            "polyfills": "../compile/polyfills.ts",
+            "test": "test.ts",
+            "tsconfig": "../tsconfig.json",
+            "testTsconfig": "tsconfig.spec.json",
+            "prefix": "app",
+            "styles": [ 
+            ],
+            "scripts": [],
+            "environmentSource": "environments/environment.ts",
+            "environments": {
+                "dev": "environments/environment.ts",
+                "prod": "environments/environment.prod.ts"
+            }
+        }
+    ],
+    "defaults": {
+        "styleExt": "css",
+        "component": {}
+    }
+}

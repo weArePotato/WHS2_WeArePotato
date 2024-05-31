@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libmcpingstudy.egg-info/PKG-INFO
+libmcpingstudy.egg-info/SOURCES.txt
+libmcpingstudy.egg-info/dependency_links.txt
+libmcpingstudy.egg-info/top_level.txt

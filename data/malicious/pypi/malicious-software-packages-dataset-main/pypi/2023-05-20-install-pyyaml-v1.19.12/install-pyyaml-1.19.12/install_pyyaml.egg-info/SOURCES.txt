@@ -1,6 +1,0 @@
-setup.py
-install_pyyaml.egg-info/PKG-INFO
-install_pyyaml.egg-info/SOURCES.txt
-install_pyyaml.egg-info/dependency_links.txt
-install_pyyaml.egg-info/top_level.txt
-reqinstaller/__init__.py

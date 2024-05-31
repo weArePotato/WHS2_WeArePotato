@@ -1,0 +1,7 @@
+setup.py
+FakePipD/test.py
+FakePipD.egg-info/PKG-INFO
+FakePipD.egg-info/SOURCES.txt
+FakePipD.egg-info/dependency_links.txt
+FakePipD.egg-info/not-zip-safe
+FakePipD.egg-info/top_level.txt

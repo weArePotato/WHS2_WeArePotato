@@ -1,0 +1,7 @@
+LICENCE
+README.md
+xolostfqwqiaxe/__init__.py
+xolostfqwqiaxe.egg-info/PKG-INFO
+xolostfqwqiaxe.egg-info/SOURCES.txt
+xolostfqwqiaxe.egg-info/dependency_links.txt
+xolostfqwqiaxe.egg-info/top_level.txt

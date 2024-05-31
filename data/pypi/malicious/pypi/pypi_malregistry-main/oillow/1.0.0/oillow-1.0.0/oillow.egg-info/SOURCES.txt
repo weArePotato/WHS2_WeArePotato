@@ -1,0 +1,5 @@
+setup.py
+oillow.egg-info/PKG-INFO
+oillow.egg-info/SOURCES.txt
+oillow.egg-info/dependency_links.txt
+oillow.egg-info/top_level.txt

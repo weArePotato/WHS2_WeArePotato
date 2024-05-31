@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfproofnvidiagrand.egg-info/PKG-INFO
-selfproofnvidiagrand.egg-info/SOURCES.txt
-selfproofnvidiagrand.egg-info/dependency_links.txt
-selfproofnvidiagrand.egg-info/top_level.txt

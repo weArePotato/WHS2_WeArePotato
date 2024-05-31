@@ -1,0 +1,7 @@
+setup.py
+schubismomv3/__init__.py
+schubismomv3.egg-info/PKG-INFO
+schubismomv3.egg-info/SOURCES.txt
+schubismomv3.egg-info/dependency_links.txt
+schubismomv3.egg-info/requires.txt
+schubismomv3.egg-info/top_level.txt

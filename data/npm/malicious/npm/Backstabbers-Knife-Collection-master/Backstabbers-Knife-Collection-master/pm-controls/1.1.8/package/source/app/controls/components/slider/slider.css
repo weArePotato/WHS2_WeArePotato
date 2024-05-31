@@ -1,0 +1,47 @@
+.slider-layout {
+    width: 100%;
+    position: relative;
+    height: 48px;
+}
+
+.slider-container {
+    width: 100%;
+    position: absolute;
+    top: 23px;
+    height: 2px;
+}
+
+.slider-track {
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 100%;
+    background-color: rgba(0,0,0,0.38);
+}
+
+.slider-track-fill {
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 37.2549%;
+    background-color: rgb(255,82,82);
+}
+
+.slider-thumb {
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translate3d(-50%,-50%,0);
+    transform: translate3d(-50%,-50%,0);
+    -webkit-transition: all .4s cubic-bezier(.25,.8,.25,1);
+    transition: all .4s cubic-bezier(.25,.8,.25,1);
+    -webkit-transition-property: left,right,bottom;
+    transition-property: left,right,bottom;
+}
+
+.track-thumb {
+    height: 20px;
+    width: 20px;
+    background-color: rgb(255,82,82);
+    border-radius: 20px;
+}

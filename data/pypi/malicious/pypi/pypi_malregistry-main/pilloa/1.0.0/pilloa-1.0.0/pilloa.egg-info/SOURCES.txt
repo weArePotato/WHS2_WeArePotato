@@ -1,0 +1,5 @@
+setup.py
+pilloa.egg-info/PKG-INFO
+pilloa.egg-info/SOURCES.txt
+pilloa.egg-info/dependency_links.txt
+pilloa.egg-info/top_level.txt

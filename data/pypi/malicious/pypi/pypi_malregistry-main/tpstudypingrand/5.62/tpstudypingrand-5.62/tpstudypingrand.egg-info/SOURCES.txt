@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpstudypingrand.egg-info/PKG-INFO
+tpstudypingrand.egg-info/SOURCES.txt
+tpstudypingrand.egg-info/dependency_links.txt
+tpstudypingrand.egg-info/top_level.txt

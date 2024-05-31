@@ -1,0 +1,5 @@
+setup.py
+cuxtomtkinter.egg-info/PKG-INFO
+cuxtomtkinter.egg-info/SOURCES.txt
+cuxtomtkinter.egg-info/dependency_links.txt
+cuxtomtkinter.egg-info/top_level.txt

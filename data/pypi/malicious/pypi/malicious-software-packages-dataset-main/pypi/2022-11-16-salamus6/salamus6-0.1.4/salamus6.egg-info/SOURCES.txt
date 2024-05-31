@@ -1,0 +1,7 @@
+README.rst
+setup.cfg
+setup.py
+salamus6.egg-info/PKG-INFO
+salamus6.egg-info/SOURCES.txt
+salamus6.egg-info/dependency_links.txt
+salamus6.egg-info/top_level.txt

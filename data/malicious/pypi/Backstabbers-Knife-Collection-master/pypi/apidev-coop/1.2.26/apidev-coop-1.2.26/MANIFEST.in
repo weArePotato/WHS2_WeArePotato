@@ -1,2 +1,0 @@
-recursive-include coop_cms *.html *.json *.js *.css *.png *.jpg *.gif *.po *.mo *.txt *.eot *.svg *.ttf *.woff
-include README.rst

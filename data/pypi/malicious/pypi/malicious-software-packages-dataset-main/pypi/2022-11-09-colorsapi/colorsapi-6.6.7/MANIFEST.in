@@ -1,0 +1,2 @@
+recursive-include apicolor/static *
+recursive-include apicolor/templates *

@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+ctf_q21_empire_tmp_1337_thc.egg-info/PKG-INFO
+ctf_q21_empire_tmp_1337_thc.egg-info/SOURCES.txt
+ctf_q21_empire_tmp_1337_thc.egg-info/dependency_links.txt
+ctf_q21_empire_tmp_1337_thc.egg-info/not-zip-safe
+ctf_q21_empire_tmp_1337_thc.egg-info/top_level.txt

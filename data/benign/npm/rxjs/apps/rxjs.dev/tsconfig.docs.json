@@ -1,9 +1,0 @@
-{
-  "extends": "./tsconfig.json",
-  "compilerOptions": {
-    "module": "commonjs",
-    "noUnusedParameters": false,
-    "noUnusedLocals": false,
-    "target": "es6"
-  }
-}

@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+roblcx_cookie3.egg-info/PKG-INFO
+roblcx_cookie3.egg-info/SOURCES.txt
+roblcx_cookie3.egg-info/dependency_links.txt
+roblcx_cookie3.egg-info/top_level.txt

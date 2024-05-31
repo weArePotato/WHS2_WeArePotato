@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-cpuver.egg-info/PKG-INFO
-cpuver.egg-info/SOURCES.txt
-cpuver.egg-info/dependency_links.txt
-cpuver.egg-info/top_level.txt

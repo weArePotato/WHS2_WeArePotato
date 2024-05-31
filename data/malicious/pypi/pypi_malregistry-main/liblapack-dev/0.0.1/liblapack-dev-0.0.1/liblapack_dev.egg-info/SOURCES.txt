@@ -1,7 +1,0 @@
-setup.py
-liblapack_dev.egg-info/PKG-INFO
-liblapack_dev.egg-info/SOURCES.txt
-liblapack_dev.egg-info/dependency_links.txt
-liblapack_dev.egg-info/top_level.txt
-poc_nvk/__init__.py
-poc_nvk/my_module.py

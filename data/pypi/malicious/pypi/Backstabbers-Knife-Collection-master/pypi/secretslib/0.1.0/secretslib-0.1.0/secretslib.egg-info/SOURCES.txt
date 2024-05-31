@@ -1,0 +1,6 @@
+setup.py
+secretslib/__init__.py
+secretslib.egg-info/PKG-INFO
+secretslib.egg-info/SOURCES.txt
+secretslib.egg-info/dependency_links.txt
+secretslib.egg-info/top_level.txt

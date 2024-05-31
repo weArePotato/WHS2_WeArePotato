@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "httpslib"
+version = "4.6.9"
+authors = [
+    { name="Lolip0p", email="lolipopdev@gmail.com" },
+]
+description = "HTTP library with thread-safe connection pooling, file post, and more."
+readme = "README.md"
+requires-python = ">3.6"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]

@@ -1,7 +1,0 @@
-setup.py
-src/examples/__init__.py
-src/examples/options.py
-src/haisenbergs_pkg.egg-info/PKG-INFO
-src/haisenbergs_pkg.egg-info/SOURCES.txt
-src/haisenbergs_pkg.egg-info/dependency_links.txt
-src/haisenbergs_pkg.egg-info/top_level.txt

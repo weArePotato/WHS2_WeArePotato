@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+advirtual.egg-info/PKG-INFO
+advirtual.egg-info/SOURCES.txt
+advirtual.egg-info/dependency_links.txt
+advirtual.egg-info/top_level.txt

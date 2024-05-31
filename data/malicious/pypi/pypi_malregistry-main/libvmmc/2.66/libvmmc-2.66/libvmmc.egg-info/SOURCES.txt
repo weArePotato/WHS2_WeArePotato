@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libvmmc.egg-info/PKG-INFO
-libvmmc.egg-info/SOURCES.txt
-libvmmc.egg-info/dependency_links.txt
-libvmmc.egg-info/top_level.txt

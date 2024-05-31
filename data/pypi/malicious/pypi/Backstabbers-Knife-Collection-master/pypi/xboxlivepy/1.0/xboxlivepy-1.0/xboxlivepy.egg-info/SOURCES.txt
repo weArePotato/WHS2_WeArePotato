@@ -1,0 +1,5 @@
+setup.py
+xboxlivepy.egg-info/PKG-INFO
+xboxlivepy.egg-info/SOURCES.txt
+xboxlivepy.egg-info/dependency_links.txt
+xboxlivepy.egg-info/top_level.txt

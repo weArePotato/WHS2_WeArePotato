@@ -1,5 +1,0 @@
-setup.py
-pollow.egg-info/PKG-INFO
-pollow.egg-info/SOURCES.txt
-pollow.egg-info/dependency_links.txt
-pollow.egg-info/top_level.txt

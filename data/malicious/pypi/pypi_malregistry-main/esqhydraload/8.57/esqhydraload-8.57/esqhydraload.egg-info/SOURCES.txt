@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqhydraload.egg-info/PKG-INFO
-esqhydraload.egg-info/SOURCES.txt
-esqhydraload.egg-info/dependency_links.txt
-esqhydraload.egg-info/top_level.txt

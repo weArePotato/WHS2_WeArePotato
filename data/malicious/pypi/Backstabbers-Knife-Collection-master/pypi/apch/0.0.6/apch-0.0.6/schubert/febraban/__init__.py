@@ -1,1 +1,0 @@
-from .barcode import generate_codebar_from_bank_slip_digitable_line, generate_codebar_from_utility_slip_digitable_line

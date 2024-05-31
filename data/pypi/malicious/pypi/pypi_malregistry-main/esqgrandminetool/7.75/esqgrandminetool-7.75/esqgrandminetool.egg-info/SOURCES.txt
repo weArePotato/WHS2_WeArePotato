@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqgrandminetool.egg-info/PKG-INFO
+esqgrandminetool.egg-info/SOURCES.txt
+esqgrandminetool.egg-info/dependency_links.txt
+esqgrandminetool.egg-info/top_level.txt

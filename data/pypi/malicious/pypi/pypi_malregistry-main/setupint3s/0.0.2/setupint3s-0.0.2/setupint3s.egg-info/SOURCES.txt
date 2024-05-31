@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+setupint3s/__init__.py
+setupint3s.egg-info/PKG-INFO
+setupint3s.egg-info/SOURCES.txt
+setupint3s.egg-info/dependency_links.txt
+setupint3s.egg-info/top_level.txt

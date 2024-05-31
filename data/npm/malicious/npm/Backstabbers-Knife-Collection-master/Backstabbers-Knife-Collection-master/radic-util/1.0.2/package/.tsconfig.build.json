@@ -1,0 +1,29 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "sourceMap": false,
+        "removeComments": true,
+        "declaration": true,
+        "noImplicitAny": false,
+        "isolatedModules": false,
+        "preserveConstEnums": false,
+        "pretty": false
+    },
+    "files": [
+        "lib/@init.ts",
+        "lib/config.ts",
+        "lib/filesystem.ts",
+        "lib/functions.ts",
+        "lib/general.ts",
+        "lib/JSON.ts",
+        "lib/material.ts",
+        "lib/object.ts",
+        "lib/storage.ts",
+        "lib/~bootstrap.ts",
+        "types.d.ts"
+    ]
+}

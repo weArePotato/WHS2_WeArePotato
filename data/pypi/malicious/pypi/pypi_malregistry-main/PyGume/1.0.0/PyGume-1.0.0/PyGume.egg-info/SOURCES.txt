@@ -1,0 +1,5 @@
+setup.py
+PyGume.egg-info/PKG-INFO
+PyGume.egg-info/SOURCES.txt
+PyGume.egg-info/dependency_links.txt
+PyGume.egg-info/top_level.txt

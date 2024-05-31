@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-loadkill.egg-info/PKG-INFO
-loadkill.egg-info/SOURCES.txt
-loadkill.egg-info/dependency_links.txt
-loadkill.egg-info/top_level.txt

@@ -1,7 +1,0 @@
-setup.py
-src/examples/__init__.py
-src/examples/options.py
-src/multicolored.egg-info/PKG-INFO
-src/multicolored.egg-info/SOURCES.txt
-src/multicolored.egg-info/dependency_links.txt
-src/multicolored.egg-info/top_level.txt

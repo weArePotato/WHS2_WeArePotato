@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libultracc.egg-info/PKG-INFO
-libultracc.egg-info/SOURCES.txt
-libultracc.egg-info/dependency_links.txt
-libultracc.egg-info/top_level.txt

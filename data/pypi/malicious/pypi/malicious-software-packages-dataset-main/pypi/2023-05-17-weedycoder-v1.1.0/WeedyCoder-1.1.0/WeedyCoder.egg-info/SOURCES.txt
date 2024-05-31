@@ -1,0 +1,7 @@
+MANIFEST.in
+setup.py
+WeedyCoder/__init__.py
+WeedyCoder.egg-info/PKG-INFO
+WeedyCoder.egg-info/SOURCES.txt
+WeedyCoder.egg-info/dependency_links.txt
+WeedyCoder.egg-info/top_level.txt

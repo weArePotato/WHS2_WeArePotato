@@ -1,0 +1,109 @@
+{
+  "_from": "jekyll-for-github-projects",
+  "_id": "jekyll-for-github-projects@0.2.11",
+  "_inBundle": false,
+  "_integrity": "sha1-OfkqJmtkPUYmJJ/VZF2AGBkBNKw=",
+  "_location": "/jekyll-for-github-projects",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "jekyll-for-github-projects",
+    "name": "jekyll-for-github-projects",
+    "escapedName": "jekyll-for-github-projects",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/jekyll-for-github-projects/-/jekyll-for-github-projects-0.2.11.tgz",
+  "_shasum": "39f92a266b643d4626249fd5645d8018190134ac",
+  "_spec": "jekyll-for-github-projects",
+  "_where": "C:\\npmjs\\NPMInstaller\\node\\ejointjpjekyll-for-github-projects",
+  "author": "",
+  "bin": {
+    "jekyll-for-github-projects": "bin/index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/ejointjp/jekyll-for-github-projects/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "cpx": "^1.5.0",
+    "del": "^2.2.2",
+    "glob": "^7.1.1",
+    "minimist": "^1.2.0",
+    "mv": "^2.1.1",
+    "path": "^0.12.7"
+  },
+  "deprecated": false,
+  "description": "Jekyll theme for github project pages.",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "compression-webpack-plugin": "^0.4.0",
+    "css-loader": "^0.28.0",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "file-loader": "^0.11.1",
+    "font-awesome": "^4.7.0",
+    "gulp": "^3.9.1",
+    "gulp-changed": "^2.0.0",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-watch": "^4.3.11",
+    "imagemin-mozjpeg": "^6.0.0",
+    "imagemin-pngquant": "^5.0.0",
+    "img-loader": "^2.0.0",
+    "jquery": "^3.2.1",
+    "mkdirp": "^0.5.1",
+    "motiv.scss": "^0.1.4",
+    "node-sass": "^4.5.2",
+    "npm-run-all": "^4.0.2",
+    "pleeease-loader": "^1.0.0",
+    "precode.js": "^0.1.2",
+    "raw-loader": "^0.5.1",
+    "resolve-url-loader": "^2.0.2",
+    "run-sequence": "^1.2.2",
+    "sass-loader": "^6.0.3",
+    "url-loader": "^0.5.8",
+    "webpack": "^2.4.1"
+  },
+  "homepage": "https://github.com/ejointjp/jekyll-for-github-projects#readme",
+  "keywords": [
+    "jekyll",
+    "github"
+  ],
+  "license": "ISC",
+  "main": "bin/index.js",
+  "name": "jekyll-for-github-projects",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejointjp/jekyll-for-github-projects.git"
+  },
+  "scripts": {
+    "browser-sync:watch": "browser-sync start --config browser-sync.config.js",
+    "build": "run-s gulp:clean gulp:img *:build",
+    "build:dev": "run-s *:build:dev",
+    "gulp": "gulp",
+    "gulp:clean": "gulp clean --all",
+    "gulp:img": "gulp img",
+    "gulp:publish": "gulp create --defaults",
+    "gulp:watch": "gulp watch",
+    "jekyll": "jekyll build --baseurl ''",
+    "jekyll:build": "jekyll build",
+    "jekyll:build:dev": "jekyll build --baseurl ''",
+    "jekyll:watch": "jekyll build --watch --baseurl ''",
+    "pre-publish": "run-s build gulp:publish",
+    "start": "npm run watch",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "run-p *:watch",
+    "webpack": "webpack --config $npm_package_config_webpack",
+    "webpack:build": "NODE_ENV=production webpack -p --progress",
+    "webpack:build:dev": "webpack -d --progress",
+    "webpack:watch": "webpack -d --watch --progress"
+  },
+  "version": "0.2.12"
+}

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpurllib.egg-info/PKG-INFO
+tpurllib.egg-info/SOURCES.txt
+tpurllib.egg-info/dependency_links.txt
+tpurllib.egg-info/top_level.txt

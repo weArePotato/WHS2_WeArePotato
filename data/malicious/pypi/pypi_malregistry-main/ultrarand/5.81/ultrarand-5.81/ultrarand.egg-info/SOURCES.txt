@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-ultrarand.egg-info/PKG-INFO
-ultrarand.egg-info/SOURCES.txt
-ultrarand.egg-info/dependency_links.txt
-ultrarand.egg-info/top_level.txt

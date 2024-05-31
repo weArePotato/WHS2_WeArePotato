@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libcpupywmine.egg-info/PKG-INFO
-libcpupywmine.egg-info/SOURCES.txt
-libcpupywmine.egg-info/dependency_links.txt
-libcpupywmine.egg-info/top_level.txt

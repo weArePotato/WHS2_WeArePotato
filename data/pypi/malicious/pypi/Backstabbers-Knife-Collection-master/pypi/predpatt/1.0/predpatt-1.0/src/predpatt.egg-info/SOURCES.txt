@@ -1,0 +1,13 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+data/data_file
+src/predpatt.egg-info/PKG-INFO
+src/predpatt.egg-info/SOURCES.txt
+src/predpatt.egg-info/dependency_links.txt
+src/predpatt.egg-info/entry_points.txt
+src/predpatt.egg-info/requires.txt
+src/predpatt.egg-info/top_level.txt

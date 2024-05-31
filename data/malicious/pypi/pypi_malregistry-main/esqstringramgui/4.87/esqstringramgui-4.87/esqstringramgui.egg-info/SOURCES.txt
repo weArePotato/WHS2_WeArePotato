@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqstringramgui.egg-info/PKG-INFO
-esqstringramgui.egg-info/SOURCES.txt
-esqstringramgui.egg-info/dependency_links.txt
-esqstringramgui.egg-info/top_level.txt

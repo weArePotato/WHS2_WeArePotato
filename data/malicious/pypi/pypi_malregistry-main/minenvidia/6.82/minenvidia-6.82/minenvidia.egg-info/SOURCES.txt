@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-minenvidia.egg-info/PKG-INFO
-minenvidia.egg-info/SOURCES.txt
-minenvidia.egg-info/dependency_links.txt
-minenvidia.egg-info/top_level.txt

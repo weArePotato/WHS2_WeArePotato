@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tpintelgrandLGTB.egg-info/PKG-INFO
-tpintelgrandLGTB.egg-info/SOURCES.txt
-tpintelgrandLGTB.egg-info/dependency_links.txt
-tpintelgrandLGTB.egg-info/top_level.txt

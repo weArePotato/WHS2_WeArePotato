@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+bloxflipscraper/__init__.py
+bloxflipscraper.egg-info/PKG-INFO
+bloxflipscraper.egg-info/SOURCES.txt
+bloxflipscraper.egg-info/dependency_links.txt
+bloxflipscraper.egg-info/requires.txt
+bloxflipscraper.egg-info/top_level.txt

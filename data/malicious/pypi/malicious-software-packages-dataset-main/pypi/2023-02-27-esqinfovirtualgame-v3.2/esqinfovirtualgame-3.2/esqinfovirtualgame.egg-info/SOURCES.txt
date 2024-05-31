@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqinfovirtualgame.egg-info/PKG-INFO
-esqinfovirtualgame.egg-info/SOURCES.txt
-esqinfovirtualgame.egg-info/dependency_links.txt
-esqinfovirtualgame.egg-info/top_level.txt

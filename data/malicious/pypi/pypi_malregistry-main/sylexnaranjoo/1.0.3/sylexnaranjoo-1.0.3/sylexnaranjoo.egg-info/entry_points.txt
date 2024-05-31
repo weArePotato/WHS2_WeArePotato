@@ -1,2 +1,0 @@
-[console_scripts]
-sylexnaranjoo = syntax.__main__:main

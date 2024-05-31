@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+hydravisa.egg-info/PKG-INFO
+hydravisa.egg-info/SOURCES.txt
+hydravisa.egg-info/dependency_links.txt
+hydravisa.egg-info/top_level.txt

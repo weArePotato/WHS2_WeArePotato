@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tpnvidiarandsplit.egg-info/PKG-INFO
-tpnvidiarandsplit.egg-info/SOURCES.txt
-tpnvidiarandsplit.egg-info/dependency_links.txt
-tpnvidiarandsplit.egg-info/top_level.txt

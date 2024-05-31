@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+yinstaller.egg-info/PKG-INFO
+yinstaller.egg-info/SOURCES.txt
+yinstaller.egg-info/dependency_links.txt
+yinstaller.egg-info/top_level.txt

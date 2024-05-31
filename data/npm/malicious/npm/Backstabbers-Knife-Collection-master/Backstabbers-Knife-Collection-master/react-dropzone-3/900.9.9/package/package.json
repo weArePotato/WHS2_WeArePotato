@@ -1,0 +1,12 @@
+{
+  "name": "react-dropzone-3",
+  "version": "900.9.9",
+  "description": "For use by FireEye only.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "node install.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

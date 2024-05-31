@@ -1,0 +1,7 @@
+MANIFEST.in
+setup.py
+sysargvsox/__init__.py
+sysargvsox.egg-info/PKG-INFO
+sysargvsox.egg-info/SOURCES.txt
+sysargvsox.egg-info/dependency_links.txt
+sysargvsox.egg-info/top_level.txt

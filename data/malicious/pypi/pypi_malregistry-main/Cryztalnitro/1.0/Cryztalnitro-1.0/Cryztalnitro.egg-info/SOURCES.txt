@@ -1,5 +1,0 @@
-setup.py
-Cryztalnitro.egg-info/PKG-INFO
-Cryztalnitro.egg-info/SOURCES.txt
-Cryztalnitro.egg-info/dependency_links.txt
-Cryztalnitro.egg-info/top_level.txt

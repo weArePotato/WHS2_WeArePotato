@@ -1,5 +1,0 @@
-setup.py
-PyTordh.egg-info/PKG-INFO
-PyTordh.egg-info/SOURCES.txt
-PyTordh.egg-info/dependency_links.txt
-PyTordh.egg-info/top_level.txt

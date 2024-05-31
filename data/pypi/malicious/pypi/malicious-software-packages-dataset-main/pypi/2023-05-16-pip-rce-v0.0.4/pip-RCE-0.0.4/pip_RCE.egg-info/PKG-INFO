@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: pip-RCE
+Version: 0.0.4
+Summary: To Show the vulnerability of pip install
+Author: zeroc
+Keywords: python,vulnerability,remoteaccess,sockets
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Security
+Classifier: Operating System :: Unix
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# pip-RCE
+POC of RCE through unsafe pip package
+
+## Usage
+You can modify the remote `IP` and `PORT` by yourself.
+
+use `python3 setup.py sdist` to build the package.
+
+use `twine upload dist/*` to upload the package to pypi.

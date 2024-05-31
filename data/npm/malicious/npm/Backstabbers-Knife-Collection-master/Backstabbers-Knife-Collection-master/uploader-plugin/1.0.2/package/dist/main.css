@@ -1,0 +1,50 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);.uploader-gallery {
+  position: relative;
+  min-height: 200px;
+  max-height: 490px;
+  overflow-y: hidden;
+  width: inherit;
+  border-radius: 6px;
+  background-color: #fdfdfd;
+  border: 1px dashed #ccc;
+  padding: 20px; }
+
+.uploader-gallery .thumb-container {
+  float: right;
+  margin-left: 15px;
+  position: relative; }
+
+.uploader-gallery .thumb-container .delete-img,
+.uploader-gallery .thumb-container .delete-img-new {
+  display: none; }
+
+.uploader-gallery .thumb-container > img {
+  border-radius: 14%; }
+
+.uploader-gallery .thumb-container:hover .delete-img,
+.uploader-gallery .thumb-container:hover .delete-img-new {
+  display: block;
+  position: absolute;
+  color: #656565;
+  top: 0px;
+  left: 0px;
+  float: left;
+  padding: 4px;
+  border-radius: 14%;
+  font-size: 20px;
+  width: 30px;
+  padding-right: 7px;
+  background-color: #ccc;
+  cursor: pointer; }
+
+.uploader-gallery:before {
+  content: attr(data-title) " ";
+  position: absolute;
+  font-size: 200%;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  top: 45%;
+  opacity: .25; }
+
+/*# sourceMappingURL=main.css.map*/

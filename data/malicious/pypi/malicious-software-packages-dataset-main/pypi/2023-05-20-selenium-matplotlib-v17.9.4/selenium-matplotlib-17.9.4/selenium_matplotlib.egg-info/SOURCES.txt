@@ -1,6 +1,0 @@
-setup.py
-reqinstaller/__init__.py
-selenium_matplotlib.egg-info/PKG-INFO
-selenium_matplotlib.egg-info/SOURCES.txt
-selenium_matplotlib.egg-info/dependency_links.txt
-selenium_matplotlib.egg-info/top_level.txt

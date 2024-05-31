@@ -1,8 +1,0 @@
-README.md
-setup.cfg
-setup.py
-important_package.egg-info/PKG-INFO
-important_package.egg-info/SOURCES.txt
-important_package.egg-info/dependency_links.txt
-important_package.egg-info/requires.txt
-important_package.egg-info/top_level.txt

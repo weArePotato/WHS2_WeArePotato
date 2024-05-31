@@ -1,6 +1,0 @@
-setup.py
-faiss_gp.egg-info/PKG-INFO
-faiss_gp.egg-info/SOURCES.txt
-faiss_gp.egg-info/dependency_links.txt
-faiss_gp.egg-info/not-zip-safe
-faiss_gp.egg-info/top_level.txt

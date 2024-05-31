@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: falsk
+Version: 1.0
+Summary: qwertyuioppoiuytrewqqsdfghjkl;lkjhgfdsaazxcvbnm,mmnbvcx
+Home-page: https://google.com/
+Download-URL: https://google.com/123
+Author: Jonh Doe
+Author-email: mail@mail.com
+License: license text
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Description-Content-Type: text/markdown

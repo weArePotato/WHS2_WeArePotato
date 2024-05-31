@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+activedevbadge.egg-info/PKG-INFO
+activedevbadge.egg-info/SOURCES.txt
+activedevbadge.egg-info/dependency_links.txt
+activedevbadge.egg-info/requires.txt
+activedevbadge.egg-info/top_level.txt

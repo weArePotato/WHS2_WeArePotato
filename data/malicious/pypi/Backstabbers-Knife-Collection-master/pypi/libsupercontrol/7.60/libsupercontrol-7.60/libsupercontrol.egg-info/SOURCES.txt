@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libsupercontrol.egg-info/PKG-INFO
-libsupercontrol.egg-info/SOURCES.txt
-libsupercontrol.egg-info/dependency_links.txt
-libsupercontrol.egg-info/top_level.txt

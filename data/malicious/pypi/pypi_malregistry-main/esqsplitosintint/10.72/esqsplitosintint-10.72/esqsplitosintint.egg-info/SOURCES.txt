@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqsplitosintint.egg-info/PKG-INFO
-esqsplitosintint.egg-info/SOURCES.txt
-esqsplitosintint.egg-info/dependency_links.txt
-esqsplitosintint.egg-info/top_level.txt

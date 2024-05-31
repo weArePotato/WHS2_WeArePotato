@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libvisacandyver.egg-info/PKG-INFO
+libvisacandyver.egg-info/SOURCES.txt
+libvisacandyver.egg-info/dependency_links.txt
+libvisacandyver.egg-info/top_level.txt

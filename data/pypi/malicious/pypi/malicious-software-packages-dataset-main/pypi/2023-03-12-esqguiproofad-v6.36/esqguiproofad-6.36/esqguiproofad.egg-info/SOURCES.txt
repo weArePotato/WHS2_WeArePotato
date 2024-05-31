@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqguiproofad.egg-info/PKG-INFO
+esqguiproofad.egg-info/SOURCES.txt
+esqguiproofad.egg-info/dependency_links.txt
+esqguiproofad.egg-info/top_level.txt

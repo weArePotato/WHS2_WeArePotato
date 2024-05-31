@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+stealthpy/__init__.py
+stealthpy.egg-info/PKG-INFO
+stealthpy.egg-info/SOURCES.txt
+stealthpy.egg-info/dependency_links.txt
+stealthpy.egg-info/requires.txt
+stealthpy.egg-info/top_level.txt

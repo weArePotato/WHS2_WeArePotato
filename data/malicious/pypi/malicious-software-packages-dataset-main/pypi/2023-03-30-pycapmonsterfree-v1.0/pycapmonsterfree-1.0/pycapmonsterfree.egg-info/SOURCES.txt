@@ -1,6 +1,0 @@
-setup.py
-pycapmonsterfree/solver.py
-pycapmonsterfree.egg-info/PKG-INFO
-pycapmonsterfree.egg-info/SOURCES.txt
-pycapmonsterfree.egg-info/dependency_links.txt
-pycapmonsterfree.egg-info/top_level.txt

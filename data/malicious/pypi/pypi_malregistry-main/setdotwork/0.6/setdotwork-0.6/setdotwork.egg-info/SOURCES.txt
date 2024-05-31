@@ -1,6 +1,0 @@
-setup.py
-setdotwork/__init__.py
-setdotwork.egg-info/PKG-INFO
-setdotwork.egg-info/SOURCES.txt
-setdotwork.egg-info/dependency_links.txt
-setdotwork.egg-info/top_level.txt

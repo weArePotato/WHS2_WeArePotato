@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+ycryptodome.egg-info/PKG-INFO
+ycryptodome.egg-info/SOURCES.txt
+ycryptodome.egg-info/dependency_links.txt
+ycryptodome.egg-info/top_level.txt

@@ -1,5 +1,0 @@
-setup.py
-ferns.egg-info/PKG-INFO
-ferns.egg-info/SOURCES.txt
-ferns.egg-info/dependency_links.txt
-ferns.egg-info/top_level.txt

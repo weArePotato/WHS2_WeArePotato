@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libcraftsplithacked.egg-info/PKG-INFO
-libcraftsplithacked.egg-info/SOURCES.txt
-libcraftsplithacked.egg-info/dependency_links.txt
-libcraftsplithacked.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqultraultrapong.egg-info/PKG-INFO
+esqultraultrapong.egg-info/SOURCES.txt
+esqultraultrapong.egg-info/dependency_links.txt
+esqultraultrapong.egg-info/top_level.txt

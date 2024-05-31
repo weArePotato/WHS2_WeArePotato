@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tphydraencode.egg-info/PKG-INFO
-tphydraencode.egg-info/SOURCES.txt
-tphydraencode.egg-info/dependency_links.txt
-tphydraencode.egg-info/top_level.txt

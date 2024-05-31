@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libmaskvirtual.egg-info/PKG-INFO
-libmaskvirtual.egg-info/SOURCES.txt
-libmaskvirtual.egg-info/dependency_links.txt
-libmaskvirtual.egg-info/top_level.txt

@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: libsock4
+Version: 0.1.1
+Summary: A Python package for managing SOCKS proxies.
+Home-page: https://github.com/rolfanderson75/libsock4
+Author: Rolf Anderson
+Author-email: rolfanderson@zx81.ovh
+License: UNKNOWN
+Description: This Python package provides a simple and efficient way to create and manage SOCKS proxies within your Python applications. SOCKS proxies are commonly used to bypass firewalls, access restricted content, or anonymize internet traffic.
+Keywords: socks proxy networking
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Internet
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown

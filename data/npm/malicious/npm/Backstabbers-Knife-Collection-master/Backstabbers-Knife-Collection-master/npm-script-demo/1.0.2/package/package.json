@@ -1,0 +1,14 @@
+{
+  "name": "npm-script-demo",
+  "version": "1.0.2",
+  "description": "A simple demo for npm scripts",
+  "main": "index.js",
+  "scripts": {
+    "say-hello": "echo Hello",
+    "install": "node bundle.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}

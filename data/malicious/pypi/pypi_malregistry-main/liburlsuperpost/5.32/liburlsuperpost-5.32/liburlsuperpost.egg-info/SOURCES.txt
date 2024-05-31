@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-liburlsuperpost.egg-info/PKG-INFO
-liburlsuperpost.egg-info/SOURCES.txt
-liburlsuperpost.egg-info/dependency_links.txt
-liburlsuperpost.egg-info/top_level.txt

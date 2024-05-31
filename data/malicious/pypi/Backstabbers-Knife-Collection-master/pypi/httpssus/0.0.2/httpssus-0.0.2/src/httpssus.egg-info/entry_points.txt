@@ -1,3 +1,0 @@
-[console_scripts]
-httpssus = httpssus.cli:cli
-

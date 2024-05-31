@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfsplitlib.egg-info/PKG-INFO
-selfsplitlib.egg-info/SOURCES.txt
-selfsplitlib.egg-info/dependency_links.txt
-selfsplitlib.egg-info/top_level.txt

@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-tppingsplitcc.egg-info/PKG-INFO
-tppingsplitcc.egg-info/SOURCES.txt
-tppingsplitcc.egg-info/dependency_links.txt
-tppingsplitcc.egg-info/top_level.txt

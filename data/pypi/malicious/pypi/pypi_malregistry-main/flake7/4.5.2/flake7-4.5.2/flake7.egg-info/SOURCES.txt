@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+flake7.egg-info/PKG-INFO
+flake7.egg-info/SOURCES.txt
+flake7.egg-info/dependency_links.txt
+flake7.egg-info/top_level.txt

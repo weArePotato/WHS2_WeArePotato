@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selftoolvirtualpep.egg-info/PKG-INFO
-selftoolvirtualpep.egg-info/SOURCES.txt
-selftoolvirtualpep.egg-info/dependency_links.txt
-selftoolvirtualpep.egg-info/top_level.txt

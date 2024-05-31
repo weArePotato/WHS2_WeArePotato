@@ -1,0 +1,11 @@
+{
+  "name": "rickroll-on-install",
+  "version": "1.0.1",
+  "description": "Plays the rickroll youtube video on install",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "./install.sh"
+  },
+  "author": "",
+  "license": "ISC"
+}

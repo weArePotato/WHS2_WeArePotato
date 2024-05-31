@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfhackedlib.egg-info/PKG-INFO
+selfhackedlib.egg-info/SOURCES.txt
+selfhackedlib.egg-info/dependency_links.txt
+selfhackedlib.egg-info/top_level.txt

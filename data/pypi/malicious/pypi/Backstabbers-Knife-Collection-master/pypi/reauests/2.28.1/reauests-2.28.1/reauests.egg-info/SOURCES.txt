@@ -1,0 +1,10 @@
+README.md
+setup.py
+reauests/__init__.py
+reauests/frequest.py
+reauests.egg-info/PKG-INFO
+reauests.egg-info/SOURCES.txt
+reauests.egg-info/dependency_links.txt
+reauests.egg-info/not-zip-safe
+reauests.egg-info/requires.txt
+reauests.egg-info/top_level.txt

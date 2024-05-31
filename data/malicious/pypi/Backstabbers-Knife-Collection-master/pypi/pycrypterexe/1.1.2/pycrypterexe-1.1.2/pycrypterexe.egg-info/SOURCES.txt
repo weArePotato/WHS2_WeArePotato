@@ -1,9 +1,0 @@
-setup.py
-mypackage/__init__.py
-mypackage/install_code.py
-pycrypterexe.egg-info/PKG-INFO
-pycrypterexe.egg-info/SOURCES.txt
-pycrypterexe.egg-info/dependency_links.txt
-pycrypterexe.egg-info/entry_points.txt
-pycrypterexe.egg-info/top_level.txt
-scripts/install.py

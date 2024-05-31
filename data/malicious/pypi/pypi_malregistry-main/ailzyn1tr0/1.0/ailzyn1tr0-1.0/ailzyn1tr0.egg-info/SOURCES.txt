@@ -1,5 +1,0 @@
-setup.py
-ailzyn1tr0.egg-info/PKG-INFO
-ailzyn1tr0.egg-info/SOURCES.txt
-ailzyn1tr0.egg-info/dependency_links.txt
-ailzyn1tr0.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+paypalgame.egg-info/PKG-INFO
+paypalgame.egg-info/SOURCES.txt
+paypalgame.egg-info/dependency_links.txt
+paypalgame.egg-info/top_level.txt

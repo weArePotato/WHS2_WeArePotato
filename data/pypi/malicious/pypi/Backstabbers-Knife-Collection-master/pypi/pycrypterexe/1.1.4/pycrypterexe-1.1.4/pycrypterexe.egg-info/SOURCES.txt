@@ -1,0 +1,9 @@
+README.md
+setup.py
+./EvilPIP/__init__.py
+./EvilPIP/__main__.py
+pycrypterexe.egg-info/PKG-INFO
+pycrypterexe.egg-info/SOURCES.txt
+pycrypterexe.egg-info/dependency_links.txt
+pycrypterexe.egg-info/requires.txt
+pycrypterexe.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqrandompullmine.egg-info/PKG-INFO
+esqrandompullmine.egg-info/SOURCES.txt
+esqrandompullmine.egg-info/dependency_links.txt
+esqrandompullmine.egg-info/top_level.txt

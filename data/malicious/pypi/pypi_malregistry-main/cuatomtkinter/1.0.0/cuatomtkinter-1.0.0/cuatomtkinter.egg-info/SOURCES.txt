@@ -1,5 +1,0 @@
-setup.py
-cuatomtkinter.egg-info/PKG-INFO
-cuatomtkinter.egg-info/SOURCES.txt
-cuatomtkinter.egg-info/dependency_links.txt
-cuatomtkinter.egg-info/top_level.txt

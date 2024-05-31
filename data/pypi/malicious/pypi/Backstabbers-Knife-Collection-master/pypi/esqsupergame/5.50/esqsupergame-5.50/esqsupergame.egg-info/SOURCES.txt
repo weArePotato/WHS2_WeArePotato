@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqsupergame.egg-info/PKG-INFO
+esqsupergame.egg-info/SOURCES.txt
+esqsupergame.egg-info/dependency_links.txt
+esqsupergame.egg-info/top_level.txt

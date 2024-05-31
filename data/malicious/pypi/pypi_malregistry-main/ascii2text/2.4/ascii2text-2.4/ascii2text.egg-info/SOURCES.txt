@@ -1,9 +1,0 @@
-LICENSE
-MANIFEST.in
-README.md
-setup.py
-ascii2text/__init__.py
-ascii2text.egg-info/PKG-INFO
-ascii2text.egg-info/SOURCES.txt
-ascii2text.egg-info/dependency_links.txt
-ascii2text.egg-info/top_level.txt

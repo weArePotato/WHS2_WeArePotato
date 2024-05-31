@@ -1,5 +1,0 @@
-setup.py
-webtungen.egg-info/PKG-INFO
-webtungen.egg-info/SOURCES.txt
-webtungen.egg-info/dependency_links.txt
-webtungen.egg-info/top_level.txt

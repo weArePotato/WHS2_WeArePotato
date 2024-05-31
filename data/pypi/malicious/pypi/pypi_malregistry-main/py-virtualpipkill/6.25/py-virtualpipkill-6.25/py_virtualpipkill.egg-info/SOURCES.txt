@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_virtualpipkill.egg-info/PKG-INFO
+py_virtualpipkill.egg-info/SOURCES.txt
+py_virtualpipkill.egg-info/dependency_links.txt
+py_virtualpipkill.egg-info/top_level.txt
