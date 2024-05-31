@@ -1,0 +1,169 @@
+robotparser.RobotFileParser.read,,asyncore.dispatcher.send,,urllib.urlopen,,webbrower.open
+asyncore.dispatcher.recv,,"socket.send(bytes[, flags])",,urllib.URLopener,,webbrower.open_new
+mimetypes.MimeTypes.read,,"socket.sendall(bytes[, flags])",,urllib.FancyURLopener,,webbrower.open_new_tab
+mimetypes.MimeTypes.readfp,,"socket.sendto(bytes, address)",,urllib2.urlopen,,wsgiref.simple_server.WSGIServer
+mimetypes.MimeTypes.read_windows_registry,,"socket.sendto(bytes, flags, address)",,urllib2.Request,,wsgiref.simple_server.make_server
+mimetypes.MimeTypes.read_mime_types,,"socket.sendmsg(buffers[, ancdata[, flags[, address]]])",,urllib2.OpenerDirector.open,,SocketServer.UDPServer
+urllib.urlretrieve,,"socket.sendmsg_afalg([msg, ]*, op[, iv[, assoclen[, flags]]])",,urllib2.FTPHandler.ftp_open,,SocketServer.TCPServer
+socket.getaddrinfo,,"socket.sendfile(file, offset=0, count=None)",,urllib2.HTTPHandler.http_open,,SocketServer.UnixStreamServer
+socket.gethostbyname,,ssl.SSLSocket.write(buf),,urllib2.FileHandler.file_open,,SocketServer.UnixDatagramServer
+socket.gethostname,,ssl.SSLSocket.send(),,urllib2.HTTPSHandler.https_open,,SocketServer.BaseServer
+"socket.recv(bufsize[, flags])",,ssl.SSLSocket.sendall(),,httplib.HTTPConnection,,BaseHTTPServer.HTTPServer
+"socket.recvfrom(bufsize[, flags])",,ssl.SSLSocket.sendfile(),,httplib.HTTPSConnection,,xmlrpclib.ServerProxy
+"socket.recvmsg(bufsize[, ancbufsize[, flags]])",,"os.sendfile(out, in, offset, count, [headers, ][trailers, ]flags=0)",,ftplib.FTP_TLS,,SimpleXMLRPCServer.SimpleXMLRPCServer
+"socket.recvmsg_into(buffers[, ancbufsize[, flags]])",,"os.write(fd, str)",,ftplib.FTP,,DocXMLRPCServer.DocXMLRPCServer
+"socket.recvfrom_into(buffer[, nbytes[, flags]])",,"os.writev(fd, buffers)",,poplib.POP3,,socketserver.UDPServer
+"socket.recv_into(buffer[, nbytes[, flags]])",,"os.pwrite(fd, str, offset)",,poplib.POP3_SSL,,socketserver.TCPServer
+"ssl.SSLSocket.read(len=1024, buffer=None)",,"os.pwritev(fd, buffers, offset, flags=0)",,imaplib.IMAP4,,socketserver.UnixStreamServer
+asyncio.StreamReader.read(n=-1),,plistlib.writePlist,,imaplib.IMAP4_SSL,,socketserver.UnixDatagramServer
+asyncio.StreamReader.readline(),,plistlib.writePlistToResource,,imaplib.IMAP4_stream,,socketserver.BaseServer
+asyncio.StreamReader.readexactly(n),,io.IOBase.writelines(lines),,nntplib.NNTP,,socketserver.ForkingTCPServer
+asyncio.StreamReader.readuntil(separator=b'\n'),,io.RawIOBase.write(b),,smtplib.SMTP,,socketserver.ForkingUDPServer
+asyncio.StreamWriter.write(data),,io.BufferedIOBase.write(b),,smtplib.LMTP,,socketserver.ThreadingTCPServer
+asyncio.StreamWriter.writelines(data),,io.TextIOBase.write(s),,smtplib.SMTP_SSL,,socketserver.ThreadingUDPServer
+input,,tempfile.mkstemp,,telnetlib.Telnet,,asyncio.start_server
+raw_input,,tempfile.mkdtemp,,socket.create_connection,,asyncio.start_unix_server
+"os.pread(fd, n, offset)",,tempfile.TemporaryFile,,socket.socket,,asyncore.dispatcher
+"os.preadv(fd, buffers, offset, flags=0)",,tempfile.NamedTemporaryFile,,socket.socketpair,,asyncore.dispatcher_with_send
+"os.read(fd, n)",,tempfile.SpooledTemporaryFile,,ssl.SSLSocket,,asynchat.async_chat
+fileinput.input,,,,asyncio.open_connection,,urllib.request.build_opener
+fileinput.FileInput,,,,asyncio.open_unix_connection,,http.server.HTTPServer
+filecmp.cmp,,,,http.client.HTTPConnection,,http.server.ThreadingHTTPServer
+filecmp.cmpfiles,,,,http.client.HTTPSConnection,,xmlrpc.client.ServerProxy
+filecmp.dircmp,,,,urllib.request.urlopen,,xmlrpc.server.SimpleXMLRPCServer
+linecache.getline,,,,urllib.request.URLopener,,xmlrpc.server.DocXMLRPCServer
+plistlib.readPlist,,,,urllib.request.FancyURLopener,,"os.rename(src, dst, *, src_dir_fd=None, dst_dir_fd=None)"
+plistlib.readPlistFromResource,,,,open,,"os.replace(src, dst, *, src_dir_fd=None, dst_dir_fd=None)"
+io.IOBase.readline(size=-1),,,,file,,os.remove
+io.IOBase.readlines(hint=-1),,,,os.fdopen,,os.removedirs
+mailbox.Mailbox,,,,os.open,,os.renames
+mailbox.Maildir,,,,os.openpty(),,os.rmdir
+mailbox.mbox,,,,shelve.DbfilenameShelf,,os.unlink
+mailbox.MH,,,,shelve.open,,shutil.copyfileobj
+mailbox.Babyl,,,,anydbm.open,,shutil.copyfile
+mailbox.MMDF,,,,dbm.open,,shutil.copy
+cookielib.FileCookieJar,,,,gdbm.open,,shutil.copy2
+cookielib.MozillaCookieJar,,,,dbhash.open,,shutil.copytree
+cookielib.LWPCookieJar,,,,bsddb.hashopen,,shutil.rmtree
+spwd.getspnam,,,,bsddb.btopen,,shutil.move
+spwd.getspall,,,,bsddb.rnopen,,shutil.make_archive
+pwd.getpwuid,,,,dumbdbm.open,,pathlib.Path.rename
+pwd.getpwnam,,,,sqlite3.connect,,pathlib.Path.rmdir
+pwd.getpwall,,,,gzip.open,,pathlib.Path.unlink
+_winreg.ConnectRegistry,,,,gzip.GzipFile,,os.abort()
+macostools.copy,,,,bz2.BZ2File,,"os.execl(path, arg0, arg1, ...)"
+macostools.copytree,,,,zipfile.ZipFile,,"os.execle(path, arg0, arg1, ..., env)"
+macostools.mkalias,,,,tarfile.open,,"os.execlp(file, arg0, arg1, ...)"
+findertools.copy,,,,tarfile.TarFile,,"os.execlpe(file, arg0, arg1, ..., env)"
+findertools.move,,,,tarfile.TarFileCompat,,"os.execv(path, args)"
+lzma.open,,,,io.open,,"os.execve(path, args, env)"
+lzma.LZMAFile,,,,io.FileIO,,"os.execvp(file, args)"
+pathlib.Path.replace,,,,aifc.open,,"os.execvpe(file, args, env)"
+http.cookiejar.FileCookieJar,,,,sunau.open,,os._exit(n)
+http.cookiejar.MozillaCookieJar,,,,sunau.openfp,,os.fork()
+http.cookiejar.LWPCookieJar,,,,wave.open,,os.forkpty()
+winreg.ConnectRegistry,,,,wave.openfp,,"os.kill(pid, sig)"
+base64.b64decode,,,,ossaudiodev.open,,"os.killpg(pgid, sig)"
+base64.standard_b64decode,,,,,,"os.spawnl(mode, path, ...)"
+base64.urlsafe_b64decode,,,,,,"os.spawnle(mode, path, ..., env)"
+base64.b32decode,,,,,,"os.spawnlp(mode, file, ...)"
+base64.b16decode,,,,,,"os.spawnlpe(mode, file, ..., env)"
+base64.decode,,,,,,"os.spawnv(mode, path, args)"
+base64.decodestring,,,,,,"os.spawnve(mode, path, args, env)"
+,,,,,,"os.spawnvp(mode, file, args)"
+,,,,,,"os.spawnvpe(mode, file, args, env)"
+,,,,,,"os.startfile(path[, operation])"
+,,,,,,os.system(command)
+,,,,,,os.register_at_fork
+,,,,,,os.popen(...)
+,,,,,,os.popen2(...)
+,,,,,,os.popen3(...)
+,,,,,,os.popen4(...)
+,,,,,,subprocess.run
+,,,,,,subprocess.call
+,,,,,,subprocess.check_call
+,,,,,,subprocess.check_output
+,,,,,,subprocess.Popen
+,,,,,,multiprocessing.Process
+,,,,,,multiprocessing.connection.Connection
+,,,,,,multiprocessing.connection.Connection.recv()
+,,,,,,multiprocessing.connection.Connection.recv_bytes([maxlength])
+,,,,,,"multiprocessing.connection.Connection.recv_bytes_into(buffer[, offset])"
+,,,,,,multiprocessing.connection.Connection.send(obj)
+,,,,,,"multiprocessing.connection.Connection.send_bytes(buffer[, offset[, size]])"
+,,,,,,multiprocessing.Manager
+,,,,,,multiprocessing.managers.BaseManager
+,,,,,,multiprocessing.managers.SyncManager
+,,,,,,multiprocessing.Pool
+,,,,,,multiprocessing.pool.Pool
+,,,,,,signal.alarm
+,,,,,,signal.pause
+,,,,,,signal.siginterrupt
+,,,,,,signal.signal
+,,,,,,popen2.popen2
+,,,,,,popen2.popen3
+,,,,,,popen2.popen4
+,,,,,,popen2.Popen3
+,,,,,,popen2.Popen4
+,,,,,,sys.exit
+,,,,,,commands.getstatusoutput
+,,,,,,commands.getoutput
+,,,,,,commands.getstatus
+,,,,,,pipes.Template
+,,,,,,pty.fork
+,,,,,,pty.openpty
+,,,,,,pty.spawn
+,,,,,,threading.Thread
+,,,,,,asyncio.create_subprocess_exec
+,,,,,,asyncio.create_subprocess_shell
+,,,,,,concurrent.futures.Executor
+,,,,,,concurrent.futures.ThreadPoolExecutor
+,,,,,,concurrent.futures.ProcessPoolExecutor
+,,,,,,concurrent.futures.Future
+,,,,,,subprocess.getstatusoutput
+,,,,,,subprocess.getoutput
+,,,,,,eval
+,,,,,,execfile
+,,,,,,__import__
+,,,,,,getattr
+,,,,,,delattr
+,,,,,,setattr
+,,,,,,compile
+,,,,,,exec
+,,,,,,ctypes.CDLL
+,,,,,,ctypes.OleDLL
+,,,,,,ctypes.WinDLL
+,,,,,,ctypes.PyDLL
+,,,,,,sys.exitfunc
+,,,,,,sys.settrace
+,,,,,,sys.setprofile
+,,,,,,code.interact
+,,,,,,code.compile_command
+,,,,,,code.InteractiveInterpreter
+,,,,,,code.InteractiveConsole
+,,,,,,codeop.compile_command
+,,,,,,codeop.Compile
+,,,,,,codeop.CommandCompiler
+,,,,,,imp.load_module
+,,,,,,imp.load_compiled
+,,,,,,imp.load_dynamic
+,,,,,,importlib.import_module
+,,,,,,zipimport.zipimporter
+,,,,,,pkgutil.ImpImporter
+,,,,,,pkgutil.ImpLoader
+,,,,,,pkgutil.find_loader
+,,,,,,pkgutil.get_importer
+,,,,,,pkgutil.get_loader
+,,,,,,modulefinder.AddPackagePath
+,,,,,,modulefinder.ReplacePackage
+,,,,,,runpy.run_module
+,,,,,,runpy.run_path
+,,,,,,parser.expr
+,,,,,,parser.suite
+,,,,,,py_compile.compile
+,,,,,,py_compile.main
+,,,,,,compileall.compile_dir
+,,,,,,compileall.compile_file
+,,,,,,compileall.compile_path
+,,,,,,dl.open
+,,,,,,atexit.register

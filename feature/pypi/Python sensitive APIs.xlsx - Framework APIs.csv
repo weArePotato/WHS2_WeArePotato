@@ -1,0 +1,114 @@
+robotparser.RobotFileParser.read,os.abort(),input,eval
+asyncore.dispatcher.recv,"os.execl(path, arg0, arg1, ...)",open,execfile
+asyncore.dispatcher.send,"os.execle(path, arg0, arg1, ..., env)",file,__import__
+mimetypes.MimeTypes.read,"os.execlp(file, arg0, arg1, ...)",raw_input,getattr
+mimetypes.MimeTypes.readfp,"os.execlpe(file, arg0, arg1, ..., env)","os.sendfile(out, in, offset, count, [headers, ][trailers, ]flags=0)",delattr
+mimetypes.MimeTypes.read_windows_registry,"os.execv(path, args)","os.write(fd, str)",setattr
+mimetypes.MimeTypes.read_mime_types,"os.execve(path, args, env)","os.writev(fd, buffers)",compile
+webbrower.open,"os.execvp(file, args)","os.pwrite(fd, str, offset)",exec
+webbrower.open_new,"os.execvpe(file, args, env)","os.pwritev(fd, buffers, offset, flags=0)",ctypes.CDLL
+webbrower.open_new_tab,os._exit(n),"os.rename(src, dst, *, src_dir_fd=None, dst_dir_fd=None)",ctypes.OleDLL
+wsgiref.simple_server.WSGIServer,os.fork(),"os.replace(src, dst, *, src_dir_fd=None, dst_dir_fd=None)",ctypes.WinDLL
+wsgiref.simple_server.make_server,os.forkpty(),"os.pread(fd, n, offset)",ctypes.PyDLL
+urllib.urlretrieve,"os.kill(pid, sig)","os.preadv(fd, buffers, offset, flags=0)",sys.exitfunc
+urllib.urlopen,"os.killpg(pgid, sig)","os.read(fd, n)",sys.settrace
+urllib.URLopener,"os.spawnl(mode, path, ...)",os.fdopen,sys.setprofile
+urllib.FancyURLopener,"os.spawnle(mode, path, ..., env)",os.open,code.interact
+urllib2.urlopen,"os.spawnlp(mode, file, ...)",os.openpty(),code.compile_command
+urllib2.Request,"os.spawnlpe(mode, file, ..., env)",os.remove,code.InteractiveInterpreter
+urllib2.OpenerDirector.open,"os.spawnv(mode, path, args)",os.removedirs,code.InteractiveConsole
+urllib2.FTPHandler.ftp_open,"os.spawnve(mode, path, args, env)",os.renames,codeop.compile_command
+urllib2.HTTPHandler.http_open,"os.spawnvp(mode, file, args)",os.rmdir,codeop.Compile
+urllib2.FileHandler.file_open,"os.spawnvpe(mode, file, args, env)",os.unlink,codeop.CommandCompiler
+urllib2.HTTPSHandler.https_open,"os.startfile(path[, operation])",fileinput.input,imp.load_module
+httplib.HTTPConnection,os.system(command),fileinput.FileInput,imp.load_compiled
+httplib.HTTPSConnection,os.register_at_fork,filecmp.cmp,imp.load_dynamic
+ftplib.FTP_TLS,os.popen(...),filecmp.cmpfiles,importlib.import_module
+ftplib.FTP,os.popen2(...),filecmp.dircmp,zipimport.zipimporter
+poplib.POP3,os.popen3(...),tempfile.TemporaryFile,pkgutil.ImpImporter
+poplib.POP3_SSL,os.popen4(...),tempfile.NamedTemporaryFile,pkgutil.ImpLoader
+imaplib.IMAP4,subprocess.run,tempfile.SpooledTemporaryFile,pkgutil.find_loader
+imaplib.IMAP4_SSL,subprocess.call,tempfile.mkstemp,pkgutil.get_importer
+imaplib.IMAP4_stream,subprocess.check_call,tempfile.mkdtemp,pkgutil.get_loader
+nntplib.NNTP,subprocess.check_output,linecache.getline,modulefinder.AddPackagePath
+smtplib.SMTP,subprocess.Popen,shutil.copyfileobj,modulefinder.ReplacePackage
+smtplib.LMTP,multiprocessing.Process,shutil.copyfile,runpy.run_module
+smtplib.SMTP_SSL,multiprocessing.connection.Connection,shutil.copy,runpy.run_path
+telnetlib.Telnet,multiprocessing.connection.Connection.recv(),shutil.copy2,parser.expr
+SocketServer.UDPServer,multiprocessing.connection.Connection.recv_bytes([maxlength]),shutil.copytree,parser.suite
+SocketServer.TCPServer,"multiprocessing.connection.Connection.recv_bytes_into(buffer[, offset])",shutil.rmtree,py_compile.compile
+SocketServer.UnixStreamServer,multiprocessing.connection.Connection.send(obj),shutil.move,py_compile.main
+SocketServer.UnixDatagramServer,"multiprocessing.connection.Connection.send_bytes(buffer[, offset[, size]])",shutil.make_archive,compileall.compile_dir
+SocketServer.BaseServer,multiprocessing.Manager,shelve.open,compileall.compile_file
+BaseHTTPServer.HTTPServer,multiprocessing.managers.BaseManager,shelve.DbfilenameShelf,compileall.compile_path
+xmlrpclib.ServerProxy,multiprocessing.managers.SyncManager,anydbm.open,dl.open
+SimpleXMLRPCServer.SimpleXMLRPCServer,multiprocessing.Pool,dbm.open,atexit.register
+DocXMLRPCServer.DocXMLRPCServer,multiprocessing.pool.Pool,gdbm.open,
+socket.create_connection,signal.alarm,dbhash.open,
+socket.getaddrinfo,signal.pause,bsddb.hashopen,
+socket.gethostbyname,signal.siginterrupt,bsddb.btopen,
+socket.gethostname,signal.signal,bsddb.rnopen,
+socket.socket,popen2.popen2,dumbdbm.open,
+socket.socketpair,popen2.popen3,sqlite3.connect,
+"socket.send(bytes[, flags])",popen2.popen4,gzip.open,
+"socket.sendall(bytes[, flags])",popen2.Popen3,gzip.GzipFile,
+"socket.sendto(bytes, address)",popen2.Popen4,bz2.BZ2File,
+"socket.sendto(bytes, flags, address)",sys.exit,zipfile.ZipFile,
+"socket.sendmsg(buffers[, ancdata[, flags[, address]]])",commands.getstatusoutput,tarfile.open,
+"socket.sendmsg_afalg([msg, ]*, op[, iv[, assoclen[, flags]]])",commands.getoutput,tarfile.TarFile,
+"socket.sendfile(file, offset=0, count=None)",commands.getstatus,tarfile.TarFileCompat,
+ssl.SSLSocket,pipes.Template,plistlib.readPlist,
+ssl.SSLSocket.write(buf),pty.fork,plistlib.writePlist,
+ssl.SSLSocket.send(),pty.openpty,plistlib.readPlistFromResource,
+ssl.SSLSocket.sendall(),pty.spawn,plistlib.writePlistToResource,
+ssl.SSLSocket.sendfile(),threading.Thread,io.open,
+"socket.recv(bufsize[, flags])",asyncio.create_subprocess_exec,io.FileIO,
+"socket.recvfrom(bufsize[, flags])",asyncio.create_subprocess_shell,io.IOBase.writelines(lines),
+"socket.recvmsg(bufsize[, ancbufsize[, flags]])",concurrent.futures.Executor,io.RawIOBase.write(b),
+"socket.recvmsg_into(buffers[, ancbufsize[, flags]])",concurrent.futures.ThreadPoolExecutor,io.BufferedIOBase.write(b),
+"socket.recvfrom_into(buffer[, nbytes[, flags]])",concurrent.futures.ProcessPoolExecutor,io.TextIOBase.write(s),
+"socket.recv_into(buffer[, nbytes[, flags]])",concurrent.futures.Future,io.IOBase.readline(size=-1),
+"ssl.SSLSocket.read(len=1024, buffer=None)",subprocess.getstatusoutput,io.IOBase.readlines(hint=-1),
+socketserver.UDPServer,subprocess.getoutput,mailbox.Mailbox,
+socketserver.TCPServer,,mailbox.Maildir,
+socketserver.UnixStreamServer,,mailbox.mbox,
+socketserver.UnixDatagramServer,,mailbox.MH,
+socketserver.BaseServer,,mailbox.Babyl,
+socketserver.ForkingTCPServer,,mailbox.MMDF,
+socketserver.ForkingUDPServer,,cookielib.FileCookieJar,
+socketserver.ThreadingTCPServer,,cookielib.MozillaCookieJar,
+socketserver.ThreadingUDPServer,,cookielib.LWPCookieJar,
+asyncio.open_connection,,aifc.open,
+asyncio.start_server,,sunau.open,
+asyncio.open_unix_connection,,sunau.openfp,
+asyncio.start_unix_server,,wave.open,
+asyncio.StreamReader.read(n=-1),,wave.openfp,
+asyncio.StreamReader.readline(),,ossaudiodev.open,
+asyncio.StreamReader.readexactly(n),,spwd.getspnam,
+asyncio.StreamReader.readuntil(separator=b'\n'),,spwd.getspall,
+asyncio.StreamWriter.write(data),,pwd.getpwuid,
+asyncio.StreamWriter.writelines(data),,pwd.getpwnam,
+http.client.HTTPConnection,,pwd.getpwall,
+http.client.HTTPSConnection,,_winreg.ConnectRegistry,
+asyncore.dispatcher,,macostools.copy,
+asyncore.dispatcher_with_send,,macostools.copytree,
+asynchat.async_chat,,macostools.mkalias,
+urllib.request.urlopen,,findertools.copy,
+urllib.request.URLopener,,findertools.move,
+urllib.request.FancyURLopener,,lzma.open,
+urllib.request.build_opener,,lzma.LZMAFile,
+http.server.HTTPServer,,pathlib.Path.rename,
+http.server.ThreadingHTTPServer,,pathlib.Path.replace,
+xmlrpc.client.ServerProxy,,pathlib.Path.rmdir,
+xmlrpc.server.SimpleXMLRPCServer,,pathlib.Path.unlink,
+xmlrpc.server.DocXMLRPCServer,,http.cookiejar.FileCookieJar,
+,,http.cookiejar.MozillaCookieJar,
+,,http.cookiejar.LWPCookieJar,
+,,winreg.ConnectRegistry,
+,,base64.b64decode,
+,,base64.standard_b64decode,
+,,base64.urlsafe_b64decode,
+,,base64.b32decode,
+,,base64.b16decode,
+,,base64.decode,
+,,base64.decodestring,

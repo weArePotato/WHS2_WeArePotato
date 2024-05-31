@@ -1,0 +1,80 @@
+input(string/char),,"shutil.copyfile(src, dst, *, follow_symlinks=True)"
+"fileinput.input(files=None, inplace=False, backup='', bufsize=0, mode='r', openhook=None)",,"shutil.copy(src, dst, *, follow_symlinks=True)"
+"csv.reader(csvfile, dialect='excel', **fmtparams)",,"shutil.copy2(src, dst, *, follow_symlinks=True)"
+"class csv.DictReader(f, fieldnames=None, restkey=None, restval=None, dialect='excel', *args, **kwds)",,"shutil.copytree(src, dst, symlinks=False, ignore=None, copy_function=copy2, ignore_dangling_symlinks=False)"
+Packer.pack_float(value),,"shutil.move(src, dst, copy_function=copy2)"
+Packer.pack_double(value),,"os.sendfile(out, in, offset, count, [headers, ][trailers, ]flags=0)"
+"Packer.pack_fstring(n, s)",,"socket.send(bytes[, flags])"
+"Packer.pack_fopaque(n, data)",,"socket.sendall(bytes[, flags])"
+Packer.pack_string(s),,"socket.sendto(bytes, address)"
+Packer.pack_bytes(bytes),,"socket.sendto(bytes, flags, address)"
+"Packer.pack_list(list, pack_item)",,"socket.sendmsg(buffers[, ancdata[, flags[, address]]])"
+"Packer.pack_farray(n, array, pack_item)",,"socket.sendmsg_afalg([msg, ]*, op[, iv[, assoclen[, flags]]])"
+"Packer.pack_array(list, pack_item)",,"socket.sendfile(file, offset=0, count=None)"
+io.IOBase.readline(size=-1),,SSLSocket.write(buf)
+io.IOBase.readlines(hint=-1),,ssl.SSLSocket(socket.socket).send()
+"socket.recv(bufsize[, flags])",,ssl.SSLSocket(socket.socket).sendall()
+"socket.recvfrom(bufsize[, flags])",,ssl.SSLSocket(socket.socket).sendfile()
+"socket.recvmsg(bufsize[, ancbufsize[, flags]])",,asyncio.StreamWriter.write_eof()
+"socket.recvmsg_into(buffers[, ancbufsize[, flags]])",,asyncio.StreamWriter.write(data)
+"socket.recvfrom_into(buffer[, nbytes[, flags]])",,asyncio.StreamWriter.writelines(data)
+"socket.recv_into(buffer[, nbytes[, flags]])",,"os.write(fd, str)"
+"SSLSocket.read(len=1024, buffer=None)",,"os.writev(fd, buffers)"
+asyncio.StreamReader.read(n=-1),,HTTPConnection.send(data)
+asyncio.StreamReader.readline(),,"FTP.storbinary(cmd, fp, blocksize=8192, callback=None, rest=None)"
+asyncio.StreamReader.readexactly(n),,"FTP.storlines(cmd, fp, callback=None)"
+asyncio.StreamReader.readuntil(separator=b'\n'),,IMAP4.send(data)
+"HTTPConnection.request(method, url, body=None, headers={}, *, encode_chunked=False)",,NNTP.post(data)
+"FTP.retrbinary(cmd, callback, blocksize=8192, rest=None)",,"SMTP.sendmail(from_addr, to_addrs, msg, mail_options=(), rcpt_options=())"
+"FTP.retrlines(cmd, callback=None)",,"SMTP.send_message(msg, from_addr=None, to_addrs=None, mail_options=(), rcpt_options=())"
+POP3.retr(which),,Telnet.write(buffer)
+"pickle.load(file, *, fix_imports=True, encoding=""ASCII"", errors=""strict"")",,xmlrpc.client.DateTime.encode(out)
+"pickle.loads(bytes_object, *, fix_imports=True, encoding=""ASCII"", errors=""strict"")",,xmlrpc.client.Binary.encode(out)
+marshal.load(file),,"ipaddress.IPv4Network(address, strict=True)"
+MySQLCursor.fetchone(),,"ipaddress.IPv6Network(address, strict=True)"
+MySQLCursor.fetchmany(size=cursor.arraysize),,io.IOBase.writelines(lines)
+MySQLCursor.fetchall(),,io.RawIOBase.write(b)
+"ZipFile.read(name, pwd=None)",,io.BufferedIOBase.write(b)
+multiprocessing.connection.Connection.recv(),,io.TextIOBase.write(s)
+multiprocessing.connection.Connection.recv_bytes([maxlength]),,"os.execl(path, arg0, arg1, ...)"
+"multiprocessing.connection.Connection.recv_bytes_into(buffer[, offset])",,"os.execle(path, arg0, arg1, ..., env)"
+"os.pread(fd, n, offset)",,"os.execlp(file, arg0, arg1, ...)"
+"os.preadv(fd, buffers, offset, flags=0)",,"os.execlpe(file, arg0, arg1, ..., env)"
+"os.read(fd, n)",,"os.execv(path, args)"
+,,"os.execve(path, args, env)"
+,,"os.execvp(file, args)"
+,,"os.execvpe(file, args, env)"
+,,"os.write(fd, str)"
+,,"os.writev(fd, buffers)"
+,,"pickle.dump(obj, file, protocol=None, *, fix_imports=True)"
+,,"marshal.dump(value, file[, version])"
+,,"sqlite3.Connection.execute(sql[, parameters])"
+,,"sqlite3.Connection.executemany(sql, seq_of_parameters)"
+,,sqlite3.Connection.executescript(sql_script)
+,,"ZipFile.write(filename, arcname=None, compress_type=None, compresslevel=None)"
+,,threading.Thread.run()
+,,multiprocessing.Process.run()
+,,multiprocessing.connection.Connection.send(obj)
+,,"multiprocessing.connection.Connection.send_bytes(buffer[, offset[, size]])"
+,,"runpy.run_path(file_path, init_globals=None, run_name=None)"
+,,"subprocess.run(args, *, stdin=None, input=None, stdout=None, stderr=None, capture_output=False, shell=False, cwd=None, timeout=None, check=False, encoding=None, errors=None, text=None, env=None)"
+,,"runpy.run_module(mod_name, init_globals=None, run_name=None, alter_sys=False)"
+,,"os.pwrite(fd, str, offset)"
+,,"os.pwritev(fd, buffers, offset, flags=0)"
+,,"os.rename(src, dst, *, src_dir_fd=None, dst_dir_fd=None)"
+,,"os.replace(src, dst, *, src_dir_fd=None, dst_dir_fd=None)"
+,,"os.spawnl(mode, path, ...)"
+,,"os.spawnle(mode, path, ..., env)"
+,,"os.spawnlp(mode, file, ...)"
+,,"os.spawnlpe(mode, file, ..., env)"
+,,"os.spawnv(mode, path, args)"
+,,"os.spawnve(mode, path, args, env)"
+,,"os.spawnvp(mode, file, args)"
+,,"os.spawnvpe(mode, file, args, env)"
+,,"os.startfile(path[, operation])"
+,,os.system(command)
+,,"os.register_at_fork(*, before=None, after_in_parent=None, after_in_child=None)"
+,,"eval(expression, globals=None, locals=None)"
+,,"exec(object[, globals[, locals]])"
+,,io.IOBase.writelines(lines)
+,,"compile(source, filename, mode, flags=0, dont_inherit=False, optimize=-1)¶"

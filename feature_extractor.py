@@ -24,7 +24,7 @@ def filter_content(input_list):
     return cleaned_list
 
 # Example usage:
-file_paths = [
+npm_file_paths = [
     './feature/npm/JavaScript Source Sink Analysis.xlsx - Malicious JavaScript APIs.csv',
     './feature/npm/JavaScript Source Sink Analysis.xlsx - Malicious NodeJS APIs.csv',
     './feature/npm/JavaScript Source Sink Analysis.xlsx - NodeJS Framework API.csv',
@@ -32,10 +32,25 @@ file_paths = [
     './feature/npm/JavaScript Source Sink Analysis.xlsx - System Calls.csv'
 ]
 
-feature_list = []
+pypi_file_paths = [
+    './feature/pypi/Python sensitive APIs.xlsx - Framework APIs.csv',
+    './feature/pypi/Python sensitive APIs.xlsx - Old Functional Categories.csv',
+    './feature/pypi/Python sensitive APIs.xlsx - Old Sources & Sinks.csv',
+    './feature/pypi/Python sensitive APIs.xlsx - Source Sink List.csv',
+]
 
-for file_path in file_paths:
-    contents = read_csv_to_flat_list(file_path)
-    cleaned_list = list(filter(isBlank, contents))
-    cleaned_list = filter_content(cleaned_list)
-    feature_list.append(cleaned_list)
+def get_feature_list(type) :  
+    feature_list = []
+
+    if type == "pypi":
+        file_paths = pypi_file_paths
+    elif type == "npm":
+        file = npm_file_paths
+    for file_path in file_paths:
+        contents = read_csv_to_flat_list(file_path)
+        cleaned_list = list(filter(isBlank, contents))
+        cleaned_list = filter_content(cleaned_list)
+        feature_list += cleaned_list
+    feature_list = list(set(feature_list))
+
+    return feature_list
