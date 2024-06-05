@@ -45,7 +45,7 @@ def get_feature_list(type) :
     if type == "pypi":
         file_paths = pypi_file_paths
     elif type == "npm":
-        file = npm_file_paths
+        file_paths = npm_file_paths
     for file_path in file_paths:
         contents = read_csv_to_flat_list(file_path)
         cleaned_list = list(filter(isBlank, contents))
