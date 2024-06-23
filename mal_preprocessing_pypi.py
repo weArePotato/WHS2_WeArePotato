@@ -49,11 +49,15 @@ def find_function_calls(node, function_names):
             if isinstance(n, ast.Import):
                 for alias in n.names:
                     module_name = alias.name
+                    if module_name != None and module_name in calls:
+                        calls[module_name] += 1
                     alias_name = alias.asname
                     if alias_name != None:
                         aliased_lib[alias_name] = module_name
             elif isinstance(n, ast.ImportFrom):
                 module_name = n.module
+                if module_name != None and module_name in calls:
+                    calls[module_name] += 1
                 for alias in n.names:
                     func_name = alias.name
                     alias_name = alias.asname
@@ -67,18 +71,27 @@ def find_function_calls(node, function_names):
                         simple_func[func_name] = module_name + "." + func_name
 
     def _find_calls(n):
+        # used with package name
         if isinstance(n, ast.Call) and isinstance(n.func, ast.Attribute):
             attr_name = get_attribute(n.func)
             if attr_name in aliased_lib:
                 attr_name = aliased_lib[attr_name]
-            func_name = attr_name + "." + n.func.attr
+            func_name = n.func.attr
+            func_name = attr_name + "." + func_name
             if func_name in calls:
                 calls[func_name] += 1
+        # used without package name
         if isinstance(n, ast.Call) and isinstance(n.func, ast.Name):
+            # check import *
             func_name = n.func.id
+            for lib in all_import_lib:
+                if lib + "." + func_name in calls:
+                    calls[lib + "." + func_name] += 1
+            # check from import 
             if func_name in simple_func:
                 func_name = simple_func[func_name]
-            if func_name in aliased_func:
+            # check from import as
+            elif func_name in aliased_func:
                 func_name = aliased_func[func_name]
             if func_name in calls:
                 calls[func_name] += 1
@@ -112,6 +125,7 @@ def parse_directory(directory_path):
                     cnt += 1
                 except Exception as e:
                     print(f"Failed to parse {file_path}: {e}")
+    print(cnt)
     return asts
 
 
