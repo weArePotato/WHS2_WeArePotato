@@ -158,10 +158,10 @@ def write_results_to_csv(results, function_names, output_file):
 
 
 # Example usage
-directory = "./data/pypi/malicious"
+directory = "./data/pypi/benign"
 functions_to_search = feature_extractor.get_feature_list("pypi")
 print(functions_to_search)
-output_csv = "./preprocessed_data/pypi/npm_ast_analysis_malicious.csv"
+output_csv = "./preprocessed_data/pypi/pypi_ast_analysis_benign.csv"
 
 search_results = search_functions_in_directory(directory, functions_to_search)
 write_results_to_csv(search_results, functions_to_search, output_csv)
