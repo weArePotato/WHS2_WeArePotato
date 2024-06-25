@@ -52,5 +52,6 @@ def get_feature_list(type) :
         cleaned_list = filter_content(cleaned_list)
         feature_list += cleaned_list
     feature_list = list(set(feature_list))
+    feature_list.sort()
 
     return feature_list

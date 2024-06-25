@@ -155,14 +155,17 @@ def write_results_to_csv(results, function_names, output_file):
             row = [file_path] + [features["entropy"]] +[features[func] for func in function_names]
             writer.writerow(row)
 
+# for usage in outer files
+def preprocess(dir, out):
+    functions_to_search = feature_extractor.get_feature_list("pypi")
+    print(functions_to_search)
+    search_results = search_functions_in_directory(dir, functions_to_search)
+    write_results_to_csv(search_results, functions_to_search, out)
+    print(f"Results written to {out}")
 
 
-# Example usage
-directory = "./data/pypi/benign"
-functions_to_search = feature_extractor.get_feature_list("pypi")
-print(functions_to_search)
-output_csv = "./preprocessed_data/pypi/pypi_ast_analysis_benign.csv"
-
-search_results = search_functions_in_directory(directory, functions_to_search)
-write_results_to_csv(search_results, functions_to_search, output_csv)
-print(f"Results written to {output_csv}")
+if __name__ == "__main__":
+    # benign
+    # preprocess("./data/pypi/benign", "./preprocessed_data/pypi/pypi_ast_analysis_benign.csv")
+    # malicious
+    preprocess("./data/pypi/malicious", "./preprocessed_data/pypi/pypi_ast_analysis_malicious.csv")
