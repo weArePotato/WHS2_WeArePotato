@@ -152,8 +152,8 @@ def parse_directory(directory_path, isMal):
     else:
         for root, dirs, files in os.walk(directory_path):
             for file in files:
-                if cnt > 23743:
-                    return asts
+                # if cnt > 23743:
+                #     return asts
                 if file.endswith('.py'):
                     file_path = os.path.join(root, file)
                     try:
