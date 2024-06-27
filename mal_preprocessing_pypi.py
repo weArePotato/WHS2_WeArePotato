@@ -113,33 +113,61 @@ def parse_python_file(file_path):
     return ast.parse(file_content)
   
 
-def parse_directory(directory_path):
+def parse_directory(directory_path, isMal):
     asts = {}
     cnt = 0
-    processed_dirs = set()  # To store processed directories
-
-    for root, dirs, files in os.walk(directory_path):
-        # Remove already processed directories from dirs
-        dirs[:] = [d for d in dirs if os.path.join(root, d) not in processed_dirs]
-
-        for file in files:
-            if file.endswith('.py'):
-                file_path = os.path.join(root, file)
-                try:
-                    asts[file_path] = parse_python_file(file_path)
-                    cnt += 1
-                except Exception as e:
-                    print(f"Failed to parse {file_path}: {e}")
-
-        # Add the current root to processed_dirs
-        processed_dirs.add(root)
+    
+    # for malicious
+    if isMal:
+        dir_list = []
+        # get directory names
+        for root, dirs, files in os.walk(directory_path):
+            for dir in dirs:
+                dir_list.append(root + "/" + dir)
+            break
+        
+        packages = []
+        paths = []
+        # get package name
+        for dir in dir_list:
+            for root, dirs, _ in os.walk(dir):
+                for package in dirs:
+                    if package not in packages:
+                        packages.append(package)
+                        paths.append(root + "/" + package)
+                break
+        
+        # make ast for all paths
+        for path in paths:
+            for root, dirs, files in os.walk(path):
+                for file in files:
+                    if file.endswith('.py'):
+                        file_path = os.path.join(root, file)
+                        try:
+                            asts[file_path] = parse_python_file(file_path)
+                            cnt += 1
+                        except Exception as e:
+                            print(f"Failed to parse {file_path}: {e}")
+    # for others
+    else:
+        for root, dirs, files in os.walk(directory_path):
+            for file in files:
+                if cnt > 23743:
+                    return asts
+                if file.endswith('.py'):
+                    file_path = os.path.join(root, file)
+                    try:
+                        asts[file_path] = parse_python_file(file_path)
+                        cnt += 1
+                    except Exception as e:
+                        print(f"Failed to parse {file_path}: {e}")
 
     print(cnt)
     return asts
 
 
-def search_functions_in_directory(directory, function_names):
-    asts = parse_directory(directory)
+def search_functions_in_directory(directory, function_names, isMal):
+    asts = parse_directory(directory, isMal)
     results = {}
 
     for file_path, tree in asts.items():
@@ -165,16 +193,16 @@ def write_results_to_csv(results, function_names, output_file):
             writer.writerow(row)
 
 # for usage in outer files
-def preprocess(dir, out):
+def preprocess(dir, out, isMal):
     functions_to_search = feature_extractor.get_feature_list("pypi")
     print(functions_to_search)
-    search_results = search_functions_in_directory(dir, functions_to_search)
+    search_results = search_functions_in_directory(dir, functions_to_search, isMal)
     write_results_to_csv(search_results, functions_to_search, out)
     print(f"Results written to {out}")
 
 
 if __name__ == "__main__":
     # benign
-    # preprocess("./data/pypi/benign", "./preprocessed_data/pypi/pypi_ast_analysis_benign.csv")
+    preprocess("./data/pypi/benign", "./preprocessed_data/pypi/pypi_ast_analysis_benign.csv", False)
     # malicious
-    preprocess("./data/pypi/malicious", "./preprocessed_data/pypi/pypi_ast_analysis_malicious.csv")
+    # preprocess("./data/pypi/malicious", "./preprocessed_data/pypi/pypi_ast_analysis_malicious.csv", True)

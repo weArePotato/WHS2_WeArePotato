@@ -92,7 +92,7 @@ def download_validation_files(num, dir):
 
 if __name__ == "__main__":
     package_num = 10000
-    download_dir = "./data/pypi/validation"  # Use a relative path
+    download_dir = "./data/pypi/validation"
     output_dir = "./preprocessed_data/pypi/pypi_ast_analysis_validation.csv"
     download_validation_files(package_num, download_dir)
     mal_preprocessing_pypi.preprocess(download_dir, output_dir)
