@@ -116,7 +116,12 @@ def parse_python_file(file_path):
 def parse_directory(directory_path):
     asts = {}
     cnt = 0
-    for root, _, files in os.walk(directory_path):
+    processed_dirs = set()  # To store processed directories
+
+    for root, dirs, files in os.walk(directory_path):
+        # Remove already processed directories from dirs
+        dirs[:] = [d for d in dirs if os.path.join(root, d) not in processed_dirs]
+
         for file in files:
             if file.endswith('.py'):
                 file_path = os.path.join(root, file)
@@ -125,6 +130,10 @@ def parse_directory(directory_path):
                     cnt += 1
                 except Exception as e:
                     print(f"Failed to parse {file_path}: {e}")
+
+        # Add the current root to processed_dirs
+        processed_dirs.add(root)
+
     print(cnt)
     return asts
 
