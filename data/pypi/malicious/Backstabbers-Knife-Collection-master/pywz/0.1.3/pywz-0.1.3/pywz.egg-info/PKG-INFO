@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: pywz
+Version: 0.1.3
+Summary: Python logging handler that sends messages to Loggly
+Home-page: https://github.com/kennedyj/pywz/
+Author: Josh Kennedy
+Author-email: kennedy.josh@gmail.com
+License: MIT
+Keywords: loggly logging handler https
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+
+UNKNOWN
+

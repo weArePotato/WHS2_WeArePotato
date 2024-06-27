@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+devicespoofer/__init__.py
+devicespoofer.egg-info/PKG-INFO
+devicespoofer.egg-info/SOURCES.txt
+devicespoofer.egg-info/dependency_links.txt
+devicespoofer.egg-info/top_level.txt

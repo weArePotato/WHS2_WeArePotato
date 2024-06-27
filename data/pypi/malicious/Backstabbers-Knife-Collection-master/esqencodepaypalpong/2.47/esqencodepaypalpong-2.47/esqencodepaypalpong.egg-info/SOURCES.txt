@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqencodepaypalpong.egg-info/PKG-INFO
+esqencodepaypalpong.egg-info/SOURCES.txt
+esqencodepaypalpong.egg-info/dependency_links.txt
+esqencodepaypalpong.egg-info/top_level.txt

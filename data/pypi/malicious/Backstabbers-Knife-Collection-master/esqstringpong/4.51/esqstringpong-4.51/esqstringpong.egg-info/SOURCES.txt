@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqstringpong.egg-info/PKG-INFO
+esqstringpong.egg-info/SOURCES.txt
+esqstringpong.egg-info/dependency_links.txt
+esqstringpong.egg-info/top_level.txt

@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+ymongo.egg-info/PKG-INFO
+ymongo.egg-info/SOURCES.txt
+ymongo.egg-info/dependency_links.txt
+ymongo.egg-info/top_level.txt

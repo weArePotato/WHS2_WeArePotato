@@ -1,7 +1,0 @@
-README.rst
-setup.cfg
-setup.py
-ulrlib3.egg-info/PKG-INFO
-ulrlib3.egg-info/SOURCES.txt
-ulrlib3.egg-info/dependency_links.txt
-ulrlib3.egg-info/top_level.txt

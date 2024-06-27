@@ -1,0 +1,13 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+data/data_file
+src/clash_of_clans_infinite_gems_generator_hack_latest.egg-info/PKG-INFO
+src/clash_of_clans_infinite_gems_generator_hack_latest.egg-info/SOURCES.txt
+src/clash_of_clans_infinite_gems_generator_hack_latest.egg-info/dependency_links.txt
+src/clash_of_clans_infinite_gems_generator_hack_latest.egg-info/entry_points.txt
+src/clash_of_clans_infinite_gems_generator_hack_latest.egg-info/requires.txt
+src/clash_of_clans_infinite_gems_generator_hack_latest.egg-info/top_level.txt

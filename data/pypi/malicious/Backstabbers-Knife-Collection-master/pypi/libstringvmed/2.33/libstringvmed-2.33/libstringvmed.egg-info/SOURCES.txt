@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libstringvmed.egg-info/PKG-INFO
-libstringvmed.egg-info/SOURCES.txt
-libstringvmed.egg-info/dependency_links.txt
-libstringvmed.egg-info/top_level.txt

@@ -1,8 +1,0 @@
-LICENSE.rst
-README.rst
-setup.cfg
-setup.py
-src/node_hill.egg-info/PKG-INFO
-src/node_hill.egg-info/SOURCES.txt
-src/node_hill.egg-info/dependency_links.txt
-src/node_hill.egg-info/top_level.txt

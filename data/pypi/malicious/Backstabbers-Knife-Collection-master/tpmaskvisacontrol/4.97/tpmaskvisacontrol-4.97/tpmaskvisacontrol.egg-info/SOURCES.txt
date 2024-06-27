@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tpmaskvisacontrol.egg-info/PKG-INFO
+tpmaskvisacontrol.egg-info/SOURCES.txt
+tpmaskvisacontrol.egg-info/dependency_links.txt
+tpmaskvisacontrol.egg-info/top_level.txt

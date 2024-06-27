@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+visavirtual.egg-info/PKG-INFO
+visavirtual.egg-info/SOURCES.txt
+visavirtual.egg-info/dependency_links.txt
+visavirtual.egg-info/top_level.txt

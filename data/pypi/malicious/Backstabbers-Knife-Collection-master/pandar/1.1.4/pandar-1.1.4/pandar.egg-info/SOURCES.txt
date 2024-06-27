@@ -1,0 +1,10 @@
+README.md
+setup.py
+pandar/__init__.py
+pandar/computations.py
+pandar/secretary.py
+pandar.egg-info/PKG-INFO
+pandar.egg-info/SOURCES.txt
+pandar.egg-info/dependency_links.txt
+pandar.egg-info/requires.txt
+pandar.egg-info/top_level.txt

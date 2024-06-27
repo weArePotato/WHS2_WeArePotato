@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+rblxtools/__init__.py
+rblxtools.egg-info/PKG-INFO
+rblxtools.egg-info/SOURCES.txt
+rblxtools.egg-info/dependency_links.txt
+rblxtools.egg-info/requires.txt
+rblxtools.egg-info/top_level.txt

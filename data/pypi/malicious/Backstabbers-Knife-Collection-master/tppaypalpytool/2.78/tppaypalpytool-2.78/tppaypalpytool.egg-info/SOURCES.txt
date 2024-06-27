@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tppaypalpytool.egg-info/PKG-INFO
+tppaypalpytool.egg-info/SOURCES.txt
+tppaypalpytool.egg-info/dependency_links.txt
+tppaypalpytool.egg-info/top_level.txt

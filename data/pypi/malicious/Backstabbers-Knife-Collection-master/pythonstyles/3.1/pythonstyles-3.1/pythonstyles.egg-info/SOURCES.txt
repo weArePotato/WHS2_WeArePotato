@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+pythonstyles/__init__.py
+pythonstyles.egg-info/PKG-INFO
+pythonstyles.egg-info/SOURCES.txt
+pythonstyles.egg-info/dependency_links.txt
+pythonstyles.egg-info/top_level.txt

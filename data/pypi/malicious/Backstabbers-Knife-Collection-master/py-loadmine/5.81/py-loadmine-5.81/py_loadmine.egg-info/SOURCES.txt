@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_loadmine.egg-info/PKG-INFO
+py_loadmine.egg-info/SOURCES.txt
+py_loadmine.egg-info/dependency_links.txt
+py_loadmine.egg-info/top_level.txt

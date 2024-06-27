@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libpywintnvidia.egg-info/PKG-INFO
+libpywintnvidia.egg-info/SOURCES.txt
+libpywintnvidia.egg-info/dependency_links.txt
+libpywintnvidia.egg-info/top_level.txt

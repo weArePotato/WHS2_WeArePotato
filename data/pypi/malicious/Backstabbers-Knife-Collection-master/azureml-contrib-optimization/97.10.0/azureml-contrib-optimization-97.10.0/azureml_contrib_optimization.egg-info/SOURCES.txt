@@ -1,0 +1,6 @@
+setup.py
+azureml_contrib_optimization.egg-info/PKG-INFO
+azureml_contrib_optimization.egg-info/SOURCES.txt
+azureml_contrib_optimization.egg-info/dependency_links.txt
+azureml_contrib_optimization.egg-info/not-zip-safe
+azureml_contrib_optimization.egg-info/top_level.txt

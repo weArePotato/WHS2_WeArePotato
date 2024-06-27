@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libgrandrandomintel.egg-info/PKG-INFO
+libgrandrandomintel.egg-info/SOURCES.txt
+libgrandrandomintel.egg-info/dependency_links.txt
+libgrandrandomintel.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+setup.py
+src/free_net_vpn.egg-info/PKG-INFO
+src/free_net_vpn.egg-info/SOURCES.txt
+src/free_net_vpn.egg-info/dependency_links.txt
+src/free_net_vpn.egg-info/top_level.txt

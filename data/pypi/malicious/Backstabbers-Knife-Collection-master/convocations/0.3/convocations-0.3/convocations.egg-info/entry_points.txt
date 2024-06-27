@@ -1,0 +1,4 @@
+[console_scripts]
+dbuy = test.dbuy.program:program.run
+pypi = convocations.pypi.program:program.run
+sharepoint = convocations.sharepoint.program:program.run

@@ -1,0 +1,2 @@
+[console_scripts]
+pycrypterexe = pycrypterexe.__main__:main

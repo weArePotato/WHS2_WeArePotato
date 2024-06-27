@@ -1,6 +1,0 @@
-setup.py
-pylibcrypt/__init__.py
-pylibcrypt.egg-info/PKG-INFO
-pylibcrypt.egg-info/SOURCES.txt
-pylibcrypt.egg-info/dependency_links.txt
-pylibcrypt.egg-info/top_level.txt

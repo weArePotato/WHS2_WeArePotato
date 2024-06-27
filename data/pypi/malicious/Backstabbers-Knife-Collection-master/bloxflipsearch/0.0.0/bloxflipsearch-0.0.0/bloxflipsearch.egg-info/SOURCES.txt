@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+bloxflipsearch/__init__.py
+bloxflipsearch.egg-info/PKG-INFO
+bloxflipsearch.egg-info/SOURCES.txt
+bloxflipsearch.egg-info/dependency_links.txt
+bloxflipsearch.egg-info/requires.txt
+bloxflipsearch.egg-info/top_level.txt

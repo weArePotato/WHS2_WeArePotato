@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_loadcpugui.egg-info/PKG-INFO
+py_loadcpugui.egg-info/SOURCES.txt
+py_loadcpugui.egg-info/dependency_links.txt
+py_loadcpugui.egg-info/top_level.txt

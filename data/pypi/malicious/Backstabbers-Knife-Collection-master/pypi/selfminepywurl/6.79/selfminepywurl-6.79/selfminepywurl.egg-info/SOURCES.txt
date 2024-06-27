@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfminepywurl.egg-info/PKG-INFO
-selfminepywurl.egg-info/SOURCES.txt
-selfminepywurl.egg-info/dependency_links.txt
-selfminepywurl.egg-info/top_level.txt

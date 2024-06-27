@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-selfsupervisa.egg-info/PKG-INFO
-selfsupervisa.egg-info/SOURCES.txt
-selfsupervisa.egg-info/dependency_links.txt
-selfsupervisa.egg-info/top_level.txt

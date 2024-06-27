@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqhttpreplace.egg-info/PKG-INFO
+esqhttpreplace.egg-info/SOURCES.txt
+esqhttpreplace.egg-info/dependency_links.txt
+esqhttpreplace.egg-info/top_level.txt

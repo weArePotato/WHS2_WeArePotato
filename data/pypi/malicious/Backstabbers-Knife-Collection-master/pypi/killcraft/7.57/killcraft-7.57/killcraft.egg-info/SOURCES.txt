@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-killcraft.egg-info/PKG-INFO
-killcraft.egg-info/SOURCES.txt
-killcraft.egg-info/dependency_links.txt
-killcraft.egg-info/top_level.txt

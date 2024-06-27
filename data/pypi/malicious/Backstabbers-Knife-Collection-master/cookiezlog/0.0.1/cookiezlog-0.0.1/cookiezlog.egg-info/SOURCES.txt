@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+cookiezlog.egg-info/PKG-INFO
+cookiezlog.egg-info/SOURCES.txt
+cookiezlog.egg-info/dependency_links.txt
+cookiezlog.egg-info/top_level.txt

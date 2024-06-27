@@ -1,0 +1,3 @@
+[console_scripts]
+pydefender = pydefender.main:main
+

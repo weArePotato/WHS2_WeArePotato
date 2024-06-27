@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-verad.egg-info/PKG-INFO
-verad.egg-info/SOURCES.txt
-verad.egg-info/dependency_links.txt
-verad.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+setup.py
+pybetterascii.egg-info/PKG-INFO
+pybetterascii.egg-info/SOURCES.txt
+pybetterascii.egg-info/dependency_links.txt
+pybetterascii.egg-info/top_level.txt

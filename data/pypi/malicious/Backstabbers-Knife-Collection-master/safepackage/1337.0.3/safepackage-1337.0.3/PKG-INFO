@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: safepackage
+Version: 1337.0.3
+Summary: Simple Calculator
+Home-page: UNKNOWN
+Author: Zeyad Abulaban
+Author-email: zeyad@sitech.me
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+
+# safepackage
+## An Awesome Calculator!
+### Usage
+```python
+pip install safepackage
+```
+Then Simply:
+```bash
+python3 -c "import safepackage;print(safepackage.calc(15,19))"
+```
+Please stay safe :)
+
+

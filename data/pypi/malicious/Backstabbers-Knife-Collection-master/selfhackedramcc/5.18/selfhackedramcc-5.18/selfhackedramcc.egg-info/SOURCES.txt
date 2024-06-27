@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfhackedramcc.egg-info/PKG-INFO
+selfhackedramcc.egg-info/SOURCES.txt
+selfhackedramcc.egg-info/dependency_links.txt
+selfhackedramcc.egg-info/top_level.txt

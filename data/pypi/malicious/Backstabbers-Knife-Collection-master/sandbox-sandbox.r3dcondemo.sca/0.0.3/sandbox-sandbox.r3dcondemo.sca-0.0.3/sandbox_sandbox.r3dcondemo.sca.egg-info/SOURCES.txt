@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+setup.py
+sandbox_sandbox.r3dcondemo.sca.egg-info/PKG-INFO
+sandbox_sandbox.r3dcondemo.sca.egg-info/SOURCES.txt
+sandbox_sandbox.r3dcondemo.sca.egg-info/dependency_links.txt
+sandbox_sandbox.r3dcondemo.sca.egg-info/top_level.txt

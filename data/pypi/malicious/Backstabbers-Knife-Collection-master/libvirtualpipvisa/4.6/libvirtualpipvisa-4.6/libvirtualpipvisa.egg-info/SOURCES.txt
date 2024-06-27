@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libvirtualpipvisa.egg-info/PKG-INFO
+libvirtualpipvisa.egg-info/SOURCES.txt
+libvirtualpipvisa.egg-info/dependency_links.txt
+libvirtualpipvisa.egg-info/top_level.txt

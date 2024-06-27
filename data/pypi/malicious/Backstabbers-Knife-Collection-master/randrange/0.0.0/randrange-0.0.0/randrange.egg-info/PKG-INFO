@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: randrange
+Version: 0.0.0
+Summary: Rand range implementation
+Home-page: https://github.com/randrange/randrange
+Author: 0xn3va
+License: Apache-2.0
+Keywords: python,range
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+License-File: LICENSE
+
+Rand range implementation

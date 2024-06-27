@@ -1,0 +1,6 @@
+setup.py
+xgoogle_cloud_core/__init__.py
+xgoogle_cloud_core.egg-info/PKG-INFO
+xgoogle_cloud_core.egg-info/SOURCES.txt
+xgoogle_cloud_core.egg-info/dependency_links.txt
+xgoogle_cloud_core.egg-info/top_level.txt

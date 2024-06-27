@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/trexcolors/__init__.py
+src/trexcolors/colors.py
+src/trexcolors.egg-info/PKG-INFO
+src/trexcolors.egg-info/SOURCES.txt
+src/trexcolors.egg-info/dependency_links.txt
+src/trexcolors.egg-info/top_level.txt

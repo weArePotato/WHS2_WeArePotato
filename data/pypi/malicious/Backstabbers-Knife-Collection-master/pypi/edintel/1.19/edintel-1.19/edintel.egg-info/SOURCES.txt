@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-edintel.egg-info/PKG-INFO
-edintel.egg-info/SOURCES.txt
-edintel.egg-info/dependency_links.txt
-edintel.egg-info/top_level.txt

@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: xss
+Version: 0.0.8
+Summary: A simple XSS Toolkit
+Home-page: UNKNOWN
+Author: Drake Sniffer
+Author-email: drakesniffer@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6

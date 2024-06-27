@@ -1,0 +1,14 @@
+include README.md requirements.txt dev.txt convocations/version.txt
+include certs.txt
+include onelogin.txt
+include checkpoint.txt
+include aws.txt
+include palo_alto.txt
+include sharepoint.txt
+include tundra.txt
+include airflow.txt
+recursive-include convocations/pypi/templates **
+recursive-include convocations/docker/templates **
+recursive-include convocations/tundra/templates **
+recursive-exclude * test
+prune test*

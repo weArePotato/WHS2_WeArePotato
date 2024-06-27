@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+randomultra.egg-info/PKG-INFO
+randomultra.egg-info/SOURCES.txt
+randomultra.egg-info/dependency_links.txt
+randomultra.egg-info/top_level.txt

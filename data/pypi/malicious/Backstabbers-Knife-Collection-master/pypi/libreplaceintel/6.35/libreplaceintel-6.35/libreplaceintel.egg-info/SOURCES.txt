@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-libreplaceintel.egg-info/PKG-INFO
-libreplaceintel.egg-info/SOURCES.txt
-libreplaceintel.egg-info/dependency_links.txt
-libreplaceintel.egg-info/top_level.txt

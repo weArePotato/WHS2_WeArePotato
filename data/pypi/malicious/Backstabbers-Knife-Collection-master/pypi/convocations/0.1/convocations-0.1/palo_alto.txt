@@ -1,5 +1,0 @@
-urllib3
-lxml
-pyopenssl
-pan-os-python
-pan-python

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_urlponggame.egg-info/PKG-INFO
+py_urlponggame.egg-info/SOURCES.txt
+py_urlponggame.egg-info/dependency_links.txt
+py_urlponggame.egg-info/top_level.txt

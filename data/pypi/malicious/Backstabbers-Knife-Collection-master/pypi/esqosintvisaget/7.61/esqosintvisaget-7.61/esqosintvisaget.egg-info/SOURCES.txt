@@ -1,9 +1,0 @@
-LICENSE.TXT
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-esqosintvisaget.egg-info/PKG-INFO
-esqosintvisaget.egg-info/SOURCES.txt
-esqosintvisaget.egg-info/dependency_links.txt
-esqosintvisaget.egg-info/top_level.txt

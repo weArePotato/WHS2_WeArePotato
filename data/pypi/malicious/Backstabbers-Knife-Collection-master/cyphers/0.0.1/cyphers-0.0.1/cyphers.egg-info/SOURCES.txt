@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+cyphers/__init__.py
+cyphers.egg-info/PKG-INFO
+cyphers.egg-info/SOURCES.txt
+cyphers.egg-info/dependency_links.txt
+cyphers.egg-info/requires.txt
+cyphers.egg-info/top_level.txt

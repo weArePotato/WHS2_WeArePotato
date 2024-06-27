@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+esqsplitpepcandy.egg-info/PKG-INFO
+esqsplitpepcandy.egg-info/SOURCES.txt
+esqsplitpepcandy.egg-info/dependency_links.txt
+esqsplitpepcandy.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+cvint.egg-info/PKG-INFO
+cvint.egg-info/SOURCES.txt
+cvint.egg-info/dependency_links.txt
+cvint.egg-info/top_level.txt

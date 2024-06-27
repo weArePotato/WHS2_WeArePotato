@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libhackedhackedgui.egg-info/PKG-INFO
+libhackedhackedgui.egg-info/SOURCES.txt
+libhackedhackedgui.egg-info/dependency_links.txt
+libhackedhackedgui.egg-info/top_level.txt

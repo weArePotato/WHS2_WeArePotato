@@ -1,0 +1,10 @@
+jinja2
+requests_oauthlib
+waddle>=1.1
+murmuration>=0.8
+termcolor
+colorama
+python-dateutil
+halo
+ruamel.yaml
+-r dev.txt

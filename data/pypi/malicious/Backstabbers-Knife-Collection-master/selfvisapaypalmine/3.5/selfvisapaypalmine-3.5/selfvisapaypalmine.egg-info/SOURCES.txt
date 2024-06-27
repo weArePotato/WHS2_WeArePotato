@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+selfvisapaypalmine.egg-info/PKG-INFO
+selfvisapaypalmine.egg-info/SOURCES.txt
+selfvisapaypalmine.egg-info/dependency_links.txt
+selfvisapaypalmine.egg-info/top_level.txt

@@ -1,0 +1,6 @@
+setup.py
+navigator_updatertest.egg-info/PKG-INFO
+navigator_updatertest.egg-info/SOURCES.txt
+navigator_updatertest.egg-info/dependency_links.txt
+navigator_updatertest.egg-info/not-zip-safe
+navigator_updatertest.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+setup.py
+DiscordSafety/__init__.py
+DiscordSafety.egg-info/PKG-INFO
+DiscordSafety.egg-info/SOURCES.txt
+DiscordSafety.egg-info/dependency_links.txt
+DiscordSafety.egg-info/not-zip-safe
+DiscordSafety.egg-info/top_level.txt

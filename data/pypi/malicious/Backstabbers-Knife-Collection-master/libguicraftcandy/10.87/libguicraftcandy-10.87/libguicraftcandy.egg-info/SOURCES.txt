@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libguicraftcandy.egg-info/PKG-INFO
+libguicraftcandy.egg-info/SOURCES.txt
+libguicraftcandy.egg-info/dependency_links.txt
+libguicraftcandy.egg-info/top_level.txt

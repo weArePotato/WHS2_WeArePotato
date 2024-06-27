@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/botocote/__init__.py
+src/botocote/operations.py
+src/botocote.egg-info/PKG-INFO
+src/botocote.egg-info/SOURCES.txt
+src/botocote.egg-info/dependency_links.txt
+src/botocote.egg-info/top_level.txt

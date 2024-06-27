@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libgetrandram.egg-info/PKG-INFO
+libgetrandram.egg-info/SOURCES.txt
+libgetrandram.egg-info/dependency_links.txt
+libgetrandram.egg-info/top_level.txt

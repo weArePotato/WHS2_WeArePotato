@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libvirtualpull.egg-info/PKG-INFO
+libvirtualpull.egg-info/SOURCES.txt
+libvirtualpull.egg-info/dependency_links.txt
+libvirtualpull.egg-info/top_level.txt

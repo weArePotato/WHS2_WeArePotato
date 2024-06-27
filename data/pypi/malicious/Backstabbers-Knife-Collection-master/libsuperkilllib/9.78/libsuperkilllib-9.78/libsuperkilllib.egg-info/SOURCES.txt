@@ -1,0 +1,9 @@
+LICENSE.TXT
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+libsuperkilllib.egg-info/PKG-INFO
+libsuperkilllib.egg-info/SOURCES.txt
+libsuperkilllib.egg-info/dependency_links.txt
+libsuperkilllib.egg-info/top_level.txt

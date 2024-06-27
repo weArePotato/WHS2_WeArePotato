@@ -1,6 +1,0 @@
-setup.py
-pycryptography/__init__.py
-pycryptography.egg-info/PKG-INFO
-pycryptography.egg-info/SOURCES.txt
-pycryptography.egg-info/dependency_links.txt
-pycryptography.egg-info/top_level.txt

@@ -1,6 +1,0 @@
-setup.py
-sitechdemo100.egg-info/PKG-INFO
-sitechdemo100.egg-info/SOURCES.txt
-sitechdemo100.egg-info/dependency_links.txt
-sitechdemo100.egg-info/not-zip-safe
-sitechdemo100.egg-info/top_level.txt

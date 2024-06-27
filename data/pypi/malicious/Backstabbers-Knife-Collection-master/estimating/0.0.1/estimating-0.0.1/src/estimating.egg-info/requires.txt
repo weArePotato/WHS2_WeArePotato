@@ -1,0 +1,10 @@
+peppercorn
+requests
+
+[dev]
+check-manifest
+requests
+
+[test]
+coverage
+requests

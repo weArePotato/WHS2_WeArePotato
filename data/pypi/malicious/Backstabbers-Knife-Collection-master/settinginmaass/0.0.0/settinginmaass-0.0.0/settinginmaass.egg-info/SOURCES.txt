@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+settinginmaass/__init__.py
+settinginmaass.egg-info/PKG-INFO
+settinginmaass.egg-info/SOURCES.txt
+settinginmaass.egg-info/dependency_links.txt
+settinginmaass.egg-info/requires.txt
+settinginmaass.egg-info/top_level.txt

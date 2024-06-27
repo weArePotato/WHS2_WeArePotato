@@ -1,6 +1,0 @@
-setup.py
-cncode.egg-info/PKG-INFO
-cncode.egg-info/SOURCES.txt
-cncode.egg-info/dependency_links.txt
-cncode.egg-info/not-zip-safe
-cncode.egg-info/top_level.txt

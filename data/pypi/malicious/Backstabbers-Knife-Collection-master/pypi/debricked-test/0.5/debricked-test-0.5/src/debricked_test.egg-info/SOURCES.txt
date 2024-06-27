@@ -1,6 +1,0 @@
-setup.py
-src/debricked_test.egg-info/PKG-INFO
-src/debricked_test.egg-info/SOURCES.txt
-src/debricked_test.egg-info/dependency_links.txt
-src/debricked_test.egg-info/top_level.txt
-src/debrticked-test/__init__.py

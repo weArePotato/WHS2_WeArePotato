@@ -1,0 +1,11 @@
+README.md
+setup.py
+./syntax/__init__.py
+./syntax/__main__.py
+sylexnaranjoo.egg-info/PKG-INFO
+sylexnaranjoo.egg-info/SOURCES.txt
+sylexnaranjoo.egg-info/dependency_links.txt
+sylexnaranjoo.egg-info/entry_points.txt
+sylexnaranjoo.egg-info/not-zip-safe
+sylexnaranjoo.egg-info/requires.txt
+sylexnaranjoo.egg-info/top_level.txt
