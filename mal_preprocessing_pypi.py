@@ -203,6 +203,6 @@ def preprocess(dir, out, isMal):
 
 if __name__ == "__main__":
     # benign
-    preprocess("./data/pypi/benign", "./preprocessed_data/pypi/pypi_ast_analysis_benign.csv", False)
+    # preprocess("./data/pypi/benign", "./preprocessed_data/pypi/pypi_ast_analysis_benign.csv", False)
     # malicious
-    # preprocess("./data/pypi/malicious", "./preprocessed_data/pypi/pypi_ast_analysis_malicious.csv", True)
+    preprocess("./data/pypi/malicious", "./preprocessed_data/pypi/pypi_ast_analysis_malicious.csv", True)

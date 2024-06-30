@@ -70,6 +70,7 @@ base64.b32decode,,,,,,"os.spawnlp(mode, file, ...)"
 base64.b16decode,,,,,,"os.spawnlpe(mode, file, ..., env)"
 base64.decode,,,,,,"os.spawnv(mode, path, args)"
 base64.decodestring,,,,,,"os.spawnve(mode, path, args, env)"
+win32com
 ,,,,,,"os.spawnvp(mode, file, args)"
 ,,,,,,"os.spawnvpe(mode, file, args, env)"
 ,,,,,,"os.startfile(path[, operation])"

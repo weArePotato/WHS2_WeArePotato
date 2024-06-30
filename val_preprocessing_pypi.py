@@ -91,9 +91,9 @@ def download_validation_files(num, dir):
         # extract_code_from_package(package_dir)
 
 if __name__ == "__main__":
-    package_num = 10000
+    package_num = 20000
     download_dir = "./data/pypi/validation"
     output_dir = "./preprocessed_data/pypi/pypi_ast_analysis_validation.csv"
     download_validation_files(package_num, download_dir)
-    mal_preprocessing_pypi.preprocess(download_dir, output_dir)
+    mal_preprocessing_pypi.preprocess(download_dir, output_dir, False)
     shutil.rmtree(download_dir)
