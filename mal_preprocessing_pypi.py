@@ -48,16 +48,28 @@ def find_function_calls(node, function_names):
         for n in ast.walk(node):
             if isinstance(n, ast.Import):
                 for alias in n.names:
+                    # find module usage
                     module_name = alias.name
                     if module_name != None and module_name in calls:
                         calls[module_name] += 1
+                    module_name_list = alias.name.split(".")
+                    for name in module_name_list:
+                        if name in calls:
+                            calls[name] += 1
+                    # set alias
                     alias_name = alias.asname
                     if alias_name != None:
                         aliased_lib[alias_name] = module_name
             elif isinstance(n, ast.ImportFrom):
+                # find module usage
                 module_name = n.module
                 if module_name != None and module_name in calls:
                     calls[module_name] += 1
+                module_name_list = alias.name.split(".")
+                for name in module_name_list:
+                    if name in calls:
+                        calls[name] += 1
+                # set alias
                 for alias in n.names:
                     func_name = alias.name
                     alias_name = alias.asname
