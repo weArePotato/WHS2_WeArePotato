@@ -4,7 +4,7 @@ import csv
 import feature_extractor
 import math
 
-def calculate_normalized_entropy(text):
+"""def calculate_normalized_entropy(text):
     character_freq = {}
     total_characters = len(text)
     for char in text:
@@ -18,7 +18,7 @@ def calculate_normalized_entropy(text):
     if entropy == 0:
         return 0
     normalized_entropy = entropy / math.log(len(character_freq), 2)
-    return normalized_entropy
+    return normalized_entropy"""
 
 
 def get_attribute(node):
@@ -165,8 +165,10 @@ def parse_directory(directory_path, isMal):
     print(cnt)
     return asts
 
+def convert_path_to_url(file_path, url_map):
+    return url_map.get(file_path, "")
 
-def search_functions_in_directory(directory, function_names, isMal):
+def search_functions_in_directory(directory, function_names, isMal, url_map):
     asts = parse_directory(directory, isMal)
     results = {}
 
@@ -174,7 +176,9 @@ def search_functions_in_directory(directory, function_names, isMal):
         # print(file_path)
         f = open(file_path, 'r')
         feature_cnt = find_function_calls(tree, set(function_names))
-        feature_cnt["entropy"] = calculate_normalized_entropy(f.read())
+        # feature_cnt["entropy"] = calculate_normalized_entropy(f.read())
+        file_url = convert_path_to_url(file_path, url_map)
+        feature_cnt["url"] = file_url
         results[file_path] = feature_cnt
 
     return results
@@ -184,19 +188,21 @@ def write_results_to_csv(results, function_names, output_file):
     with open(output_file, mode='w', newline='') as file:
         writer = csv.writer(file)
         # Write the header
-        header = ['file name', 'entropy'] + function_names
+        # header = ['file name', 'entropy'] + function_names
+        header = ['file name', 'url'] + function_names
         writer.writerow(header)
         
         # Write the data rows
         for file_path, features in results.items():
-            row = [file_path] + [features["entropy"]] +[features[func] for func in function_names]
+            # row = [file_path] + [features["entropy"]] +[features[func] for func in function_names]
+            row = [file_path, features.get("url", "")] + [features[func] for func in function_names]
             writer.writerow(row)
 
 # for usage in outer files
-def preprocess(dir, out, isMal):
+def preprocess(dir, out, isMal, url_map):
     functions_to_search = feature_extractor.get_feature_list("pypi")
     print(functions_to_search)
-    search_results = search_functions_in_directory(dir, functions_to_search, isMal)
+    search_results = search_functions_in_directory(dir, functions_to_search, isMal, url_map)
     write_results_to_csv(search_results, functions_to_search, out)
     print(f"Results written to {out}")
 
