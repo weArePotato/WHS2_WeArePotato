@@ -189,8 +189,9 @@ def search_functions_in_directory(directory, function_names, isMal, url_map):
         f = open(file_path, 'r')
         feature_cnt = find_function_calls(tree, set(function_names))
         # feature_cnt["entropy"] = calculate_normalized_entropy(f.read())
-        file_url = convert_path_to_url(file_path, url_map)
-        feature_cnt["url"] = file_url
+        if url_map != None:
+            file_url = convert_path_to_url(file_path, url_map)
+            feature_cnt["url"] = file_url
         results[file_path] = feature_cnt
 
     return results
@@ -211,7 +212,7 @@ def write_results_to_csv(results, function_names, output_file):
             writer.writerow(row)
 
 # for usage in outer files
-def preprocess(dir, out, isMal, url_map):
+def preprocess(dir, out, isMal, url_map = None):
     functions_to_search = feature_extractor.get_feature_list("pypi")
     print(functions_to_search)
     search_results = search_functions_in_directory(dir, functions_to_search, isMal, url_map)
