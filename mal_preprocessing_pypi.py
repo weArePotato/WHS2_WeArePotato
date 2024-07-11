@@ -4,7 +4,7 @@ import csv
 import feature_extractor
 import math
 
-"""def calculate_normalized_entropy(text):
+def calculate_normalized_entropy(text):
     character_freq = {}
     total_characters = len(text)
     for char in text:
@@ -18,8 +18,35 @@ import math
     if entropy == 0:
         return 0
     normalized_entropy = entropy / math.log(len(character_freq), 2)
-    return normalized_entropy"""
+    return normalized_entropy
 
+
+def calculate_cyclomatic_complexity(node):
+    complexity = 0
+    if isinstance(node, (ast.If, ast.For, ast.While, ast.And, ast.Or, ast.ExceptHandler)):
+        complexity += 1
+    for child in ast.iter_child_nodes(node):
+        complexity += calculate_cyclomatic_complexity(child)
+    return complexity
+
+def extract_metadata(tree):
+    metadata = {}
+    try:
+        function_count = 0
+        total_cc = 0
+        for node in ast.walk(tree):
+            if isinstance(node, ast.FunctionDef):
+                function_count += 1
+                complexity = calculate_cyclomatic_complexity(node)
+                total_cc += complexity
+            elif isinstance(node, ast.ClassDef):
+                metadata['class_count'] = metadata.get('class_count', 0) + 1
+
+        metadata['function_count'] = function_count
+        metadata['average_cc'] = total_cc / function_count if function_count > 0 else 0
+    except Exception as e:
+        print(f"Failed to parse metadata: {e}")
+    return metadata
 
 def get_attribute(node):
     if not isinstance(node, ast.Attribute) :
@@ -50,12 +77,14 @@ def find_function_calls(node, function_names):
                 for alias in n.names:
                     # find module usage
                     module_name = alias.name
-                    if module_name != None and module_name in calls:
-                        calls[module_name] += 1
-                    module_name_list = alias.name.split(".")
-                    for name in module_name_list:
-                        if name in calls:
-                            calls[name] += 1
+                    if module_name != None:
+                        module_name_list = module_name.split(".")
+                        for i in range(len(module_name_list)):
+                              name = module_name_list[0]
+                              for j in range(1, i + 1):
+                                  name += "." + module_name_list[j]
+                              if name in calls:
+                                  calls[name] += 1
                     # set alias
                     alias_name = alias.asname
                     if alias_name != None:
@@ -63,12 +92,14 @@ def find_function_calls(node, function_names):
             elif isinstance(n, ast.ImportFrom):
                 # find module usage
                 module_name = n.module
-                if module_name != None and module_name in calls:
-                    calls[module_name] += 1
-                module_name_list = alias.name.split(".")
-                for name in module_name_list:
-                    if name in calls:
-                        calls[name] += 1
+                if module_name != None:
+                    module_name_list = module_name.split(".")
+                    for i in range(len(module_name_list)):
+                          name = module_name_list[0]
+                          for j in range(1, i + 1):
+                              name += "." + module_name_list[i]
+                          if name in calls:
+                              calls[name] += 1
                 # set alias
                 for alias in n.names:
                     func_name = alias.name
@@ -188,27 +219,28 @@ def search_functions_in_directory(directory, function_names, isMal, url_map):
         # print(file_path)
         f = open(file_path, 'r')
         feature_cnt = find_function_calls(tree, set(function_names))
-        # feature_cnt["entropy"] = calculate_normalized_entropy(f.read())
+        feature_cnt["entropy"] = calculate_normalized_entropy(f.read())
         if url_map != None:
             file_url = convert_path_to_url(file_path, url_map)
             feature_cnt["url"] = file_url
         results[file_path] = feature_cnt
+    
+    feature_cnt.update(extract_metadata(asts))
 
     return results
 
 
-def write_results_to_csv(results, function_names, output_file):
+def write_results_to_csv(results, function_names, output_file, url_map):
     with open(output_file, mode='w', newline='') as file:
         writer = csv.writer(file)
         # Write the header
-        # header = ['file name', 'entropy'] + function_names
-        header = ['file name', 'url'] + function_names
+        header = ['file name', 'entropy', 'url', 'function_count', 'average_cc', 'class_count'] + function_names
         writer.writerow(header)
         
         # Write the data rows
         for file_path, features in results.items():
             # row = [file_path] + [features["entropy"]] +[features[func] for func in function_names]
-            row = [file_path, features.get("url", "")] + [features[func] for func in function_names]
+            row = [file_path, features["entropy"], features.get("url", ""), features.get('function_count', 0), features.get('average_cc', 0), features.get('class_count', 0)] + [features[func] for func in function_names]
             writer.writerow(row)
 
 # for usage in outer files
@@ -216,11 +248,13 @@ def preprocess(dir, out, isMal, url_map = None):
     functions_to_search = feature_extractor.get_feature_list("pypi")
     print(functions_to_search)
     search_results = search_functions_in_directory(dir, functions_to_search, isMal, url_map)
-    write_results_to_csv(search_results, functions_to_search, out)
+    write_results_to_csv(search_results, functions_to_search, out, url_map)
     print(f"Results written to {out}")
 
 
 if __name__ == "__main__":
+    # test
+    # preprocess("./temp", "./temp/test.csv", False)
     # benign
     # preprocess("./data/pypi/benign", "./preprocessed_data/pypi/pypi_ast_analysis_benign.csv", False)
     # malicious
